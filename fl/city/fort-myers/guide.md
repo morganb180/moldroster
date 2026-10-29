@@ -1,5 +1,5 @@
 ---
-title: "How to Hire a Licensed Mold Inspector or Remediator in Fort Myers, FL | Mold Roster"
+title: "How to Hire a Licensed Mold Pro in Fort Myers, FL"
 description: "Fort Myers, FL mold guide: 46 licensed assessors and 36 remediators nearby, how to verify a licence, questions to ask and typical costs."
 canonical: https://moldroster.com/fl/city/fort-myers/guide/
 ---
@@ -12,7 +12,9 @@ canonical: https://moldroster.com/fl/city/fort-myers/guide/
 
 [Get quotes](https://moldroster.com/get-quotes/?city=fort-myers&st=fl) [All Fort Myers listings](https://moldroster.com/fl/city/fort-myers/)
 
-## What mold work typically costs
+## How much does mold inspection and remediation cost?
+
+National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 (average about $689) and mold remediation at $1,223–$3,757 (average about $2,368). These are not local quotes.
 
 | Item | Typical range (national) |
 | --- | --- |
@@ -21,11 +23,15 @@ canonical: https://moldroster.com/fl/city/fort-myers/guide/
 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
-## Assessment first, then remediation
+## Do I need a mold assessment before remediation?
+
+For larger jobs, yes: a licensed assessor inspects, samples if needed and writes a protocol, a separate licensed remediator does the work, and the assessor confirms the result.
 
 For larger jobs, a licensed assessor inspects, samples if needed, and writes a protocol. A separate licensed remediator does the work, and the assessor confirms the result. Fixing the moisture source is the key step ([EPA: A Brief Guide to Mold, Moisture and Your Home](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home)).
 
-## Licensed pros based in Fort Myers
+## Which licensed mold pros are based in Fort Myers, FL?
+
+63 DBPR-licensed listings give an address in Fort Myers: 46 hold an assessment licence and 36 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -75,14 +81,18 @@ Licensed firm
 Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=FL0579)
 
-## How to verify a Fort Myers mold pro's licence
+## How do I verify a mold pro's licence in Fort Myers, FL?
+
+Look the name up in the DBPR records and check the licence is still current. Ask for the licence number in writing and make sure the licence type matches the job.
 
 1. Look the name up in the DBPR records ([Florida Department of Business and Professional Regulation](https://www2.myfloridalicense.com/mold-related-services/)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.
 3. Use separate, independent firms for testing and for remediation (required by Florida law).
 4. Ask for proof of insurance and a written scope before work starts.
 
-## Questions to ask before you sign
+## What should I ask a mold pro before I sign?
+
+Ask what clearance test will show the job is done, for the licence number and type, whether an independent assessor will write the protocol and check clearance, whether the moisture source will be fixed, and how the work area will be contained.
 
 * What is your state licence number, and is it an assessor or remediator licence?
 * Will an independent licensed assessor write the protocol and do the clearance check?
@@ -90,7 +100,9 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 * How will you contain the work area and protect the rest of the house?
 * What does the written scope include: demolition, HEPA cleaning, disposal, rebuild?
 
-## Florida mold licensing rules in brief
+## What are Florida's mold licensing rules?
+
+A DBPR licence is generally required to perform mold assessment or remediation for pay on areas over 10 square feet.
 
 * A DBPR licence is generally required to perform mold assessment or remediation for pay on areas over 10 square feet.
 * A licensed assessor generally may not remediate a property it assessed (conflict-of-interest rule in s. 468.8419).

@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Oneida County, NY: 16 Listings | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in Oneida County, NY"
 description: "16 NYS DOL-licensed mold assessors and remediators in Oneida County, New York, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/ny/county/oneida/
 ---
@@ -8,11 +8,15 @@ canonical: https://moldroster.com/ny/county/oneida/
 
 # Licensed mold assessors & remediators in Oneida County, NY
 
+**Quick answer:** 16 NYS DOL-licensed listings with an address of record in Oneida County (8 mold assessment, 11 mold remediation): 16 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+
 **16 NYS DOL-licensed listings** with an address of record in Oneida County (8 mold assessment, 11 mold remediation): 16 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=oneida&st=ny)
 
 City pages: [New Hartford](https://moldroster.com/ny/city/new-hartford/)
 
-## Licensed mold assessors (inspection & testing) (8)
+## Which licensed mold assessors are in Oneida County, NY? (8)
+
+8 listings are shown in this section with an address of record in Oneida County. Listings holding more than one licence type appear once, in the first matching section.
 
 Listings holding more than one licence type are shown once, in the first matching section.
 
@@ -123,7 +127,9 @@ Mold Assessment Contractor License (SH125) #25-6UY3D-SHMO (exp. 2027-01-31)
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0448)
 
-## Licensed mold remediators (8)
+## Which licensed mold remediators are in Oneida County, NY? (8)
+
+8 listings are shown in this section with an address of record in Oneida County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold remediation
 
@@ -228,13 +234,13 @@ Mold Remediation Contractor License (SH126) #26-6A1CD-SHMO (exp. 2028-07-31)
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY1473)
 
-## Neighboring counties
+## Which counties border Oneida County, NY?
 
 [Herkimer](https://moldroster.com/ny/county/herkimer/) (2) · Lewis (0) · [Madison](https://moldroster.com/ny/county/madison/) (1) · [Oswego](https://moldroster.com/ny/county/oswego/) (4) · [Otsego](https://moldroster.com/ny/county/otsego/) (1)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Oneida County: quick guide
+## How do I hire a licensed mold pro in Oneida County, NY?
 
 1. Look the name up in the NYS DOL records ([New York State Department of Labor](https://dol.ny.gov/mold-program)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.

@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Texas | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in Texas"
 description: "Find TDLR-licensed mold assessors and remediators in Texas: 2357 listings by county and city, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/tx/
 ---
@@ -18,7 +18,9 @@ canonical: https://moldroster.com/tx/
 
 Texas licenses mold assessment and remediation companies and the individual consultants and contractors who run projects. TDLR's public files give company addresses and phones, but only the name and county for individual licensees, so individuals are listed by county.
 
-## Texas mold licensing rules in brief
+## What are Texas' mold licensing rules?
+
+A TDLR licence is generally required to assess or remediate mold when the affected area is 25 contiguous square feet or more.
 
 * A TDLR licence is generally required to assess or remediate mold when the affected area is 25 contiguous square feet or more.
 * The same licensee may not do both the assessment and the remediation on the same project.
@@ -161,7 +163,7 @@ Summary of 16 Texas Administrative Code Chapter 78 (Texas Mold Assessment and Re
 
 [Licensed in TX but based elsewhere (165)](https://moldroster.com/tx/out-of-state/)
 
-## What mold work typically costs
+## How much does mold inspection and remediation cost?
 
 | Item | Typical range (national) |
 | --- | --- |

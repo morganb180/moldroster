@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Cortland County, NY: 2 Listings | Mold Roster"
+title: "Mold Inspection & Remediation in Cortland County, NY"
 description: "2 NYS DOL-licensed mold assessors and remediators in Cortland County, New York, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/ny/county/cortland/
 ---
@@ -8,9 +8,13 @@ canonical: https://moldroster.com/ny/county/cortland/
 
 # Licensed mold assessors & remediators in Cortland County, NY
 
+**Quick answer:** 2 NYS DOL-licensed listings with an address of record in Cortland County (2 mold assessment): 2 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+
 **2 NYS DOL-licensed listings** with an address of record in Cortland County (2 mold assessment): 2 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=cortland&st=ny)
 
-## Licensed mold assessors (inspection & testing) (2)
+## Which licensed mold assessors are in Cortland County, NY? (2)
+
+2 listings are shown in this section with an address of record in Cortland County. Listings holding more than one licence type appear once, in the first matching section.
 
 Listings holding more than one licence type are shown once, in the first matching section.
 
@@ -40,13 +44,13 @@ Mold Assessment Contractor License (SH125) #26-66HEE-SHMO (exp. 2028-05-31)
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY1123)
 
-## Neighboring counties
+## Which counties border Cortland County, NY?
 
 [Broome](https://moldroster.com/ny/county/broome/) (12) · Cayuga (0) · Chenango (0) · [Madison](https://moldroster.com/ny/county/madison/) (1) · [Onondaga](https://moldroster.com/ny/county/onondaga/) (35) · [Tioga](https://moldroster.com/ny/county/tioga/) (1) · [Tompkins](https://moldroster.com/ny/county/tompkins/) (3)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Cortland County: quick guide
+## How do I hire a licensed mold pro in Cortland County, NY?
 
 1. Look the name up in the NYS DOL records ([New York State Department of Labor](https://dol.ny.gov/mold-program)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.

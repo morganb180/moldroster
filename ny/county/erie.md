@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Erie County, NY: 42 Listings | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in Erie County, NY"
 description: "42 NYS DOL-licensed mold assessors and remediators in Erie County, New York, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/ny/county/erie/
 ---
@@ -8,11 +8,15 @@ canonical: https://moldroster.com/ny/county/erie/
 
 # Licensed mold assessors & remediators in Erie County, NY
 
+**Quick answer:** 42 NYS DOL-licensed listings with an address of record in Erie County (21 mold assessment, 25 mold remediation): 42 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+
 **42 NYS DOL-licensed listings** with an address of record in Erie County (21 mold assessment, 25 mold remediation): 42 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=erie&st=ny)
 
 City pages: [Buffalo](https://moldroster.com/ny/city/buffalo/) · [Lancaster](https://moldroster.com/ny/city/lancaster/) · [Orchard Park](https://moldroster.com/ny/city/orchard-park/)
 
-## Licensed mold assessors (inspection & testing) (21)
+## Which licensed mold assessors are in Erie County, NY? (21)
+
+21 listings are shown in this section with an address of record in Erie County. Listings holding more than one licence type appear once, in the first matching section.
 
 Listings holding more than one licence type are shown once, in the first matching section.
 
@@ -293,7 +297,9 @@ Mold Assessment Contractor License (SH125) #26-6ACXA-SHMO (exp. 2028-07-31)
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY1160)
 
-## Licensed mold remediators (21)
+## Which licensed mold remediators are in Erie County, NY? (21)
+
+21 listings are shown in this section with an address of record in Erie County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold remediation
 
@@ -568,13 +574,13 @@ Mold Remediation Contractor License (SH126) #26-6SD99-SHMO (exp. 2028-01-31)
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY1264)
 
-## Neighboring counties
+## Which counties border Erie County, NY?
 
 [Cattaraugus](https://moldroster.com/ny/county/cattaraugus/) (1) · [Chautauqua](https://moldroster.com/ny/county/chautauqua/) (4) · [Genesee](https://moldroster.com/ny/county/genesee/) (2) · [Niagara](https://moldroster.com/ny/county/niagara/) (7) · Wyoming (0)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Erie County: quick guide
+## How do I hire a licensed mold pro in Erie County, NY?
 
 1. Look the name up in the NYS DOL records ([New York State Department of Labor](https://dol.ny.gov/mold-program)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.

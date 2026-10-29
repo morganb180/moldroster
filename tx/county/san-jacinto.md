@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in San Jacinto County, TX: 1 Listing | Mold Roster"
+title: "Mold Inspection & Remediation in San Jacinto County, TX"
 description: "1 TDLR-licensed mold assessors and remediators in San Jacinto County, Texas, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/tx/county/san-jacinto/
 ---
@@ -8,9 +8,13 @@ canonical: https://moldroster.com/tx/county/san-jacinto/
 
 # Licensed mold assessors & remediators in San Jacinto County, TX
 
+**Quick answer:** 1 TDLR-licensed listings with an address of record in San Jacinto County (1 mold remediation): 0 firms and 1 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+
 **1 TDLR-licensed listings** with an address of record in San Jacinto County (1 mold remediation): 0 firms and 1 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=san-jacinto&st=tx)
 
-## Licensed mold remediators (1)
+## Which licensed mold remediators are in San Jacinto County, TX? (1)
+
+1 listing is shown in this section with an address of record in San Jacinto County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by TDLR Mold remediation
 
@@ -26,13 +30,13 @@ Mold Remediation Contractor #MRC2305 (exp. 2028-09-11)
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TXI1682)
 
-## Neighboring counties
+## Which counties border San Jacinto County, TX?
 
 [Liberty](https://moldroster.com/tx/county/liberty/) (3) · [Montgomery](https://moldroster.com/tx/county/montgomery/) (116) · [Polk](https://moldroster.com/tx/county/polk/) (2) · Trinity (0) · [Walker](https://moldroster.com/tx/county/walker/) (2)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in San Jacinto County: quick guide
+## How do I hire a licensed mold pro in San Jacinto County, TX?
 
 1. Look the name up in the TDLR records ([Texas Department of Licensing and Regulation](https://www.tdlr.texas.gov/mold/mold.htm)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.

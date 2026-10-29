@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Madison County, NY: 1 Listing | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in Madison County, NY"
 description: "1 NYS DOL-licensed mold assessors and remediators in Madison County, New York, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/ny/county/madison/
 ---
@@ -8,9 +8,13 @@ canonical: https://moldroster.com/ny/county/madison/
 
 # Licensed mold assessors & remediators in Madison County, NY
 
+**Quick answer:** 1 NYS DOL-licensed listings with an address of record in Madison County (1 mold remediation): 1 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+
 **1 NYS DOL-licensed listings** with an address of record in Madison County (1 mold remediation): 1 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=madison&st=ny)
 
-## Licensed mold remediators (1)
+## Which licensed mold remediators are in Madison County, NY? (1)
+
+1 listing is shown in this section with an address of record in Madison County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold remediation
 
@@ -25,13 +29,13 @@ Mold Remediation Contractor License (SH126) #26-6I5BI-SHMO (exp. 2028-01-31)
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0218)
 
-## Neighboring counties
+## Which counties border Madison County, NY?
 
 Chenango (0) · [Cortland](https://moldroster.com/ny/county/cortland/) (2) · [Oneida](https://moldroster.com/ny/county/oneida/) (16) · [Onondaga](https://moldroster.com/ny/county/onondaga/) (35) · [Oswego](https://moldroster.com/ny/county/oswego/) (4) · [Otsego](https://moldroster.com/ny/county/otsego/) (1)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Madison County: quick guide
+## How do I hire a licensed mold pro in Madison County, NY?
 
 1. Look the name up in the NYS DOL records ([New York State Department of Labor](https://dol.ny.gov/mold-program)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.

@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Queens County, NY: 154 Listings | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in Queens County, NY"
 description: "154 NYS DOL-licensed mold assessors and remediators in Queens County, New York, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/ny/county/queens/
 ---
@@ -8,11 +8,15 @@ canonical: https://moldroster.com/ny/county/queens/
 
 # Licensed mold assessors & remediators in Queens County, NY
 
+**Quick answer:** 154 NYS DOL-licensed listings with an address of record in Queens County (69 mold assessment, 109 mold remediation): 154 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+
 **154 NYS DOL-licensed listings** with an address of record in Queens County (69 mold assessment, 109 mold remediation): 154 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=queens&st=ny)
 
 City pages: [Astoria](https://moldroster.com/ny/city/astoria/) · [East Elmhurst](https://moldroster.com/ny/city/east-elmhurst/) · [Flushing](https://moldroster.com/ny/city/flushing/) · [Jamaica](https://moldroster.com/ny/city/jamaica/) · [Long Island City](https://moldroster.com/ny/city/long-island-city/) · [Maspeth](https://moldroster.com/ny/city/maspeth/) · [Ozone Park](https://moldroster.com/ny/city/ozone-park/) · [Queens](https://moldroster.com/ny/city/queens/) · [Richmond Hill](https://moldroster.com/ny/city/richmond-hill/) · [South Ozone Park](https://moldroster.com/ny/city/south-ozone-park/) · [Whitestone](https://moldroster.com/ny/city/whitestone/) · [Woodside](https://moldroster.com/ny/city/woodside/)
 
-## Licensed mold assessors (inspection & testing) (69)
+## Which licensed mold assessors are in Queens County, NY? (69)
+
+69 listings are shown in this section with an address of record in Queens County. Listings holding more than one licence type appear once, in the first matching section.
 
 Listings holding more than one licence type are shown once, in the first matching section.
 
@@ -939,7 +943,9 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 Show all 69 listings
 
-## Licensed mold remediators (85)
+## Which licensed mold remediators are in Queens County, NY? (85)
+
+85 listings are shown in this section with an address of record in Queens County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold remediation
 
@@ -2047,13 +2053,13 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 Show all 85 listings
 
-## Neighboring counties
+## Which counties border Queens County, NY?
 
 [Bronx](https://moldroster.com/ny/county/bronx/) (52) · [Kings](https://moldroster.com/ny/county/kings/) (125) · [Nassau](https://moldroster.com/ny/county/nassau/) (153) · [New York](https://moldroster.com/ny/county/new-york/) (65) · [Richmond](https://moldroster.com/ny/county/richmond/) (53)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Queens County: quick guide
+## How do I hire a licensed mold pro in Queens County, NY?
 
 1. Look the name up in the NYS DOL records ([New York State Department of Labor](https://dol.ny.gov/mold-program)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.

@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Wood County, TX: 1 Listing | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in Wood County, TX"
 description: "1 TDLR-licensed mold assessors and remediators in Wood County, Texas, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/tx/county/wood/
 ---
@@ -8,9 +8,13 @@ canonical: https://moldroster.com/tx/county/wood/
 
 # Licensed mold assessors & remediators in Wood County, TX
 
+**Quick answer:** 1 TDLR-licensed listings with an address of record in Wood County (1 mold remediation): 0 firms and 1 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+
 **1 TDLR-licensed listings** with an address of record in Wood County (1 mold remediation): 0 firms and 1 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=wood&st=tx)
 
-## Licensed mold remediators (1)
+## Which licensed mold remediators are in Wood County, TX? (1)
+
+1 listing is shown in this section with an address of record in Wood County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by TDLR Mold remediation
 
@@ -26,13 +30,13 @@ Mold Remediation Contractor #MRC1753 (exp. 2027-07-14)
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TXI1261)
 
-## Neighboring counties
+## Which counties border Wood County, TX?
 
 Camp (0) · Franklin (0) · Hopkins (0) · Rains (0) · [Smith](https://moldroster.com/tx/county/smith/) (16) · Upshur (0) · [Van Zandt](https://moldroster.com/tx/county/van-zandt/) (2)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Wood County: quick guide
+## How do I hire a licensed mold pro in Wood County, TX?
 
 1. Look the name up in the TDLR records ([Texas Department of Licensing and Regulation](https://www.tdlr.texas.gov/mold/mold.htm)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.

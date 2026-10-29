@@ -1,6 +1,6 @@
 ---
 title: "How We Make Money | Mold Roster"
-description: "How Mold Roster is funded today and later, and the rules for labeled paid placements."
+description: "How Mold Roster is funded today and in future, and our rules for clearly labelled paid placements next to the full free list of licensed mold pros."
 canonical: https://moldroster.com/how-we-make-money/
 ---
 

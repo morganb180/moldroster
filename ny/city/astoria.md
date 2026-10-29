@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Astoria, NY: 16 Listings | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in Astoria, NY"
 description: "16 NYS DOL-licensed mold assessors and remediators based in Astoria, New York, plus 138 more in Queens County. Licence numbers and expiry dates."
 canonical: https://moldroster.com/ny/city/astoria/
 ---
@@ -8,13 +8,17 @@ canonical: https://moldroster.com/ny/city/astoria/
 
 # Licensed mold assessors & remediators in Astoria, NY
 
+**Quick answer:** 16 NYS DOL-licensed listings give an address in Astoria (9 mold assessment, 8 mold remediation), and 138 more are elsewhere in Queens County. Licensed pros often travel, so ask whether they cover your address.
+
 16 NYS DOL-licensed listings give an address in Astoria (9 mold assessment, 8 mold remediation), and 138 more are elsewhere in Queens County. Licensed pros often travel, so ask whether they cover your address.
 
 [**Read the Astoria hiring guide →**](https://moldroster.com/ny/city/astoria/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Astoria](https://moldroster.com/get-quotes/?city=astoria&st=ny)
 
-## Based in Astoria
+## Which licensed mold assessors and remediators are based in Astoria, NY?
+
+Listed below: 9 licensed mold assessors (inspection and testing) and 7 licensed mold remediators with an address in Astoria. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (9)
 
@@ -231,11 +235,13 @@ Mold Remediation Contractor License (SH126) #26-6AGYR-SHMO (exp. 2028-03-31)
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY1516)
 
-## Elsewhere in Queens County (138)
+## Which other licensed mold pros are in Queens County, NY? (138)
+
+138 more NYS DOL-licensed listings are elsewhere in Queens County. Licensed pros often travel, so ask whether they cover your address.
 
 [See all 154 Queens County listings →](https://moldroster.com/ny/county/queens/)
 
-## More cities in Queens County
+## Which other Queens County cities have licensed mold pros?
 
 [Long Island City](https://moldroster.com/ny/city/long-island-city/) · [Jamaica](https://moldroster.com/ny/city/jamaica/) · [Whitestone](https://moldroster.com/ny/city/whitestone/) · [Flushing](https://moldroster.com/ny/city/flushing/) · [Maspeth](https://moldroster.com/ny/city/maspeth/) · [South Ozone Park](https://moldroster.com/ny/city/south-ozone-park/)
 

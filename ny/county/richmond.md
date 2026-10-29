@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Richmond County, NY: 53 Listings | Mold Roster"
+title: "Mold Inspection & Remediation in Richmond County, NY"
 description: "53 NYS DOL-licensed mold assessors and remediators in Richmond County, New York, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/ny/county/richmond/
 ---
@@ -8,11 +8,15 @@ canonical: https://moldroster.com/ny/county/richmond/
 
 # Licensed mold assessors & remediators in Richmond County, NY
 
+**Quick answer:** 53 NYS DOL-licensed listings with an address of record in Richmond County (23 mold assessment, 35 mold remediation): 53 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+
 **53 NYS DOL-licensed listings** with an address of record in Richmond County (23 mold assessment, 35 mold remediation): 53 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=richmond&st=ny)
 
 City pages: [Staten Island](https://moldroster.com/ny/city/staten-island/)
 
-## Licensed mold assessors (inspection & testing) (23)
+## Which licensed mold assessors are in Richmond County, NY? (23)
+
+23 listings are shown in this section with an address of record in Richmond County. Listings holding more than one licence type appear once, in the first matching section.
 
 Listings holding more than one licence type are shown once, in the first matching section.
 
@@ -320,7 +324,9 @@ Mold Assessment Contractor License (SH125) #26-6ST1P-SHMO (exp. 2028-03-31)
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0606)
 
-## Licensed mold remediators (30)
+## Which licensed mold remediators are in Richmond County, NY? (30)
+
+30 listings are shown in this section with an address of record in Richmond County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold remediation
 
@@ -712,13 +718,13 @@ Mold Remediation Contractor License (SH126) #25-64SK4-SHMO (exp. 2027-02-28)
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0806)
 
-## Neighboring counties
+## Which counties border Richmond County, NY?
 
 [Kings](https://moldroster.com/ny/county/kings/) (125) · [Queens](https://moldroster.com/ny/county/queens/) (154)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Richmond County: quick guide
+## How do I hire a licensed mold pro in Richmond County, NY?
 
 1. Look the name up in the NYS DOL records ([New York State Department of Labor](https://dol.ny.gov/mold-program)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.

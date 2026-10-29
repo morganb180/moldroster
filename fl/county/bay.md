@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Bay County, FL: 45 Listings | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in Bay County, FL"
 description: "45 DBPR-licensed mold assessors and remediators in Bay County, Florida, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/fl/county/bay/
 ---
@@ -8,11 +8,15 @@ canonical: https://moldroster.com/fl/county/bay/
 
 # Licensed mold assessors & remediators in Bay County, FL
 
+**Quick answer:** 45 DBPR-licensed listings with an address of record in Bay County (32 mold assessment, 35 mold remediation): 3 firms and 42 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+
 **45 DBPR-licensed listings** with an address of record in Bay County (32 mold assessment, 35 mold remediation): 3 firms and 42 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=bay&st=fl)
 
 City pages: [Lynn Haven](https://moldroster.com/fl/city/lynn-haven/) · [Panama City](https://moldroster.com/fl/city/panama-city/) · [Panama City Beach](https://moldroster.com/fl/city/panama-city-beach/)
 
-## Licensed mold assessors (inspection & testing) (32)
+## Which licensed mold assessors are in Bay County, FL? (32)
+
+32 listings are shown in this section with an address of record in Bay County. Listings holding more than one licence type appear once, in the first matching section.
 
 Listings holding more than one licence type are shown once, in the first matching section.
 
@@ -432,7 +436,9 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 Show all 32 listings
 
-## Licensed mold remediators (13)
+## Which licensed mold remediators are in Bay County, FL? (13)
+
+13 listings are shown in this section with an address of record in Bay County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold remediation
 
@@ -590,13 +596,13 @@ Mold Remediator #MRSR3423 (exp. 2028-07-31)
 Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=FL1987)
 
-## Neighboring counties
+## Which counties border Bay County, FL?
 
 Calhoun (0) · Gulf (0) · [Jackson](https://moldroster.com/fl/county/jackson/) (2) · [Walton](https://moldroster.com/fl/county/walton/) (24) · [Washington](https://moldroster.com/fl/county/washington/) (3)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Bay County: quick guide
+## How do I hire a licensed mold pro in Bay County, FL?
 
 1. Look the name up in the DBPR records ([Florida Department of Business and Professional Regulation](https://www2.myfloridalicense.com/mold-related-services/)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.

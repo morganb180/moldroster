@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Florida | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in Florida"
 description: "Find DBPR-licensed mold assessors and remediators in Florida: 4161 listings by county and city, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/fl/
 ---
@@ -18,7 +18,9 @@ canonical: https://moldroster.com/fl/
 
 Florida licenses individual mold assessors and mold remediators, not companies. We list each licensee at their address of record and group people who share a business name (DBA) or street address. DBPR's file has no phone numbers.
 
-## Florida mold licensing rules in brief
+## What are Florida's mold licensing rules?
+
+A DBPR licence is generally required to perform mold assessment or remediation for pay on areas over 10 square feet.
 
 * A DBPR licence is generally required to perform mold assessment or remediation for pay on areas over 10 square feet.
 * A licensed assessor generally may not remediate a property it assessed (conflict-of-interest rule in s. 468.8419).
@@ -116,7 +118,7 @@ Summary of Florida Statutes Chapter 468, Part XVI (Mold-Related Services). See t
 
 [Licensed in FL but based elsewhere (312)](https://moldroster.com/fl/out-of-state/)
 
-## What mold work typically costs
+## How much does mold inspection and remediation cost?
 
 | Item | Typical range (national) |
 | --- | --- |

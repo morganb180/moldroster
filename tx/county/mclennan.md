@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in McLennan County, TX: 26 Listings | Mold Roster"
+title: "Mold Inspection & Remediation in McLennan County, TX"
 description: "26 TDLR-licensed mold assessors and remediators in McLennan County, Texas, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/tx/county/mclennan/
 ---
@@ -8,11 +8,15 @@ canonical: https://moldroster.com/tx/county/mclennan/
 
 # Licensed mold assessors & remediators in McLennan County, TX
 
+**Quick answer:** 26 TDLR-licensed listings with an address of record in McLennan County (11 mold assessment, 15 mold remediation): 8 firms and 18 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+
 **26 TDLR-licensed listings** with an address of record in McLennan County (11 mold assessment, 15 mold remediation): 8 firms and 18 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=mclennan&st=tx)
 
 City pages: [Waco](https://moldroster.com/tx/city/waco/)
 
-## Licensed mold assessors (inspection & testing) (11)
+## Which licensed mold assessors are in McLennan County, TX? (11)
+
+11 listings are shown in this section with an address of record in McLennan County. Listings holding more than one licence type appear once, in the first matching section.
 
 Listings holding more than one licence type are shown once, in the first matching section.
 
@@ -168,7 +172,9 @@ Mold Assessment Consultant #MAC2234 (exp. 2028-01-29)
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TXI0855)
 
-## Licensed mold remediators (15)
+## Which licensed mold remediators are in McLennan County, TX? (15)
+
+15 listings are shown in this section with an address of record in McLennan County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by TDLR Mold remediation
 
@@ -374,13 +380,13 @@ Mold Remediation Contractor #MRC1951 (exp. 2027-09-10)
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TXI1386)
 
-## Neighboring counties
+## Which counties border McLennan County, TX?
 
 [Bell](https://moldroster.com/tx/county/bell/) (14) · Bosque (0) · [Coryell](https://moldroster.com/tx/county/coryell/) (1) · Falls (0) · [Hill](https://moldroster.com/tx/county/hill/) (1) · Limestone (0)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in McLennan County: quick guide
+## How do I hire a licensed mold pro in McLennan County, TX?
 
 1. Look the name up in the TDLR records ([Texas Department of Licensing and Regulation](https://www.tdlr.texas.gov/mold/mold.htm)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.

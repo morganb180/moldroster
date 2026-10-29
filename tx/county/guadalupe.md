@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Guadalupe County, TX: 15 Listings | Mold Roster"
+title: "Mold Inspection & Remediation in Guadalupe County, TX"
 description: "15 TDLR-licensed mold assessors and remediators in Guadalupe County, Texas, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/tx/county/guadalupe/
 ---
@@ -8,9 +8,13 @@ canonical: https://moldroster.com/tx/county/guadalupe/
 
 # Licensed mold assessors & remediators in Guadalupe County, TX
 
+**Quick answer:** 15 TDLR-licensed listings with an address of record in Guadalupe County (4 mold assessment, 12 mold remediation): 4 firms and 11 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+
 **15 TDLR-licensed listings** with an address of record in Guadalupe County (4 mold assessment, 12 mold remediation): 4 firms and 11 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=guadalupe&st=tx)
 
-## Licensed mold assessors (inspection & testing) (4)
+## Which licensed mold assessors are in Guadalupe County, TX? (4)
+
+4 listings are shown in this section with an address of record in Guadalupe County. Listings holding more than one licence type appear once, in the first matching section.
 
 Listings holding more than one licence type are shown once, in the first matching section.
 
@@ -70,7 +74,9 @@ Mold Assessment Consultant #MAC1817 (exp. 2027-12-15)
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TXI0500)
 
-## Licensed mold remediators (11)
+## Which licensed mold remediators are in Guadalupe County, TX? (11)
+
+11 listings are shown in this section with an address of record in Guadalupe County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by TDLR Mold remediation
 
@@ -223,13 +229,13 @@ Mold Remediation Contractor #MRC2032 (exp. 2028-08-28)
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TXI1436)
 
-## Neighboring counties
+## Which counties border Guadalupe County, TX?
 
 [Bexar](https://moldroster.com/tx/county/bexar/) (150) · [Caldwell](https://moldroster.com/tx/county/caldwell/) (9) · [Comal](https://moldroster.com/tx/county/comal/) (24) · Gonzales (0) · [Hays](https://moldroster.com/tx/county/hays/) (37) · [Wilson](https://moldroster.com/tx/county/wilson/) (3)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Guadalupe County: quick guide
+## How do I hire a licensed mold pro in Guadalupe County, TX?
 
 1. Look the name up in the TDLR records ([Texas Department of Licensing and Regulation](https://www.tdlr.texas.gov/mold/mold.htm)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.

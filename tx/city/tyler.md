@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Tyler, TX: 5 Listings | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in Tyler, TX"
 description: "5 TDLR-licensed mold assessors and remediators based in Tyler, Texas, plus 11 more in Smith County. Licence numbers and expiry dates."
 canonical: https://moldroster.com/tx/city/tyler/
 ---
@@ -8,13 +8,17 @@ canonical: https://moldroster.com/tx/city/tyler/
 
 # Licensed mold assessors & remediators in Tyler, TX
 
+**Quick answer:** 5 TDLR-licensed listings give an address in Tyler (1 mold assessment, 4 mold remediation), and 11 more are elsewhere in Smith County. Licensed pros often travel, so ask whether they cover your address.
+
 5 TDLR-licensed listings give an address in Tyler (1 mold assessment, 4 mold remediation), and 11 more are elsewhere in Smith County. Licensed pros often travel, so ask whether they cover your address.
 
 [**Read the Tyler hiring guide →**](https://moldroster.com/tx/city/tyler/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Tyler](https://moldroster.com/get-quotes/?city=tyler&st=tx)
 
-## Based in Tyler
+## Which licensed mold assessors and remediators are based in Tyler, TX?
+
+Listed below: 1 licensed mold assessor (inspection and testing) and 4 licensed mold remediators with an address in Tyler. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (1)
 
@@ -87,7 +91,9 @@ Mold Remediation Company #RCO1768 (exp. 2028-03-01)
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0594)
 
-## Elsewhere in Smith County (11)
+## Which other licensed mold pros are in Smith County, TX? (11)
+
+11 more TDLR-licensed listings are elsewhere in Smith County. Licensed pros often travel, so ask whether they cover your address.
 
 [See all 16 Smith County listings →](https://moldroster.com/tx/county/smith/)
 

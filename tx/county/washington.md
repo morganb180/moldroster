@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Washington County, TX: 2 Listings | Mold Roster"
+title: "Mold Inspection & Remediation in Washington County, TX"
 description: "2 TDLR-licensed mold assessors and remediators in Washington County, Texas, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/tx/county/washington/
 ---
@@ -8,9 +8,13 @@ canonical: https://moldroster.com/tx/county/washington/
 
 # Licensed mold assessors & remediators in Washington County, TX
 
+**Quick answer:** 2 TDLR-licensed listings with an address of record in Washington County (2 mold assessment): 0 firms and 2 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+
 **2 TDLR-licensed listings** with an address of record in Washington County (2 mold assessment): 0 firms and 2 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=washington&st=tx)
 
-## Licensed mold assessors (inspection & testing) (2)
+## Which licensed mold assessors are in Washington County, TX? (2)
+
+2 listings are shown in this section with an address of record in Washington County. Listings holding more than one licence type appear once, in the first matching section.
 
 Listings holding more than one licence type are shown once, in the first matching section.
 
@@ -42,13 +46,13 @@ Mold Assessment Consultant #MAC1819 (exp. 2027-12-05)
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TXI0502)
 
-## Neighboring counties
+## Which counties border Washington County, TX?
 
 [Austin](https://moldroster.com/tx/county/austin/) (1) · [Brazos](https://moldroster.com/tx/county/brazos/) (26) · [Burleson](https://moldroster.com/tx/county/burleson/) (1) · [Fayette](https://moldroster.com/tx/county/fayette/) (3) · [Grimes](https://moldroster.com/tx/county/grimes/) (2) · Lee (0) · [Waller](https://moldroster.com/tx/county/waller/) (16)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Washington County: quick guide
+## How do I hire a licensed mold pro in Washington County, TX?
 
 1. Look the name up in the TDLR records ([Texas Department of Licensing and Regulation](https://www.tdlr.texas.gov/mold/mold.htm)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.

@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Kings County, NY: 125 Listings | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in Kings County, NY"
 description: "125 NYS DOL-licensed mold assessors and remediators in Kings County, New York, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/ny/county/kings/
 ---
@@ -8,11 +8,15 @@ canonical: https://moldroster.com/ny/county/kings/
 
 # Licensed mold assessors & remediators in Kings County, NY
 
+**Quick answer:** 125 NYS DOL-licensed listings with an address of record in Kings County (71 mold assessment, 97 mold remediation): 125 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+
 **125 NYS DOL-licensed listings** with an address of record in Kings County (71 mold assessment, 97 mold remediation): 125 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=kings&st=ny)
 
 City pages: [Brooklyn](https://moldroster.com/ny/city/brooklyn/)
 
-## Licensed mold assessors (inspection & testing) (71)
+## Which licensed mold assessors are in Kings County, NY? (71)
+
+71 listings are shown in this section with an address of record in Kings County. Listings holding more than one licence type appear once, in the first matching section.
 
 Listings holding more than one licence type are shown once, in the first matching section.
 
@@ -984,7 +988,9 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 Show all 71 listings
 
-## Licensed mold remediators (54)
+## Which licensed mold remediators are in Kings County, NY? (54)
+
+54 listings are shown in this section with an address of record in Kings County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold remediation
 
@@ -1690,13 +1696,13 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 Show all 54 listings
 
-## Neighboring counties
+## Which counties border Kings County, NY?
 
 [New York](https://moldroster.com/ny/county/new-york/) (65) · [Queens](https://moldroster.com/ny/county/queens/) (154) · [Richmond](https://moldroster.com/ny/county/richmond/) (53)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Kings County: quick guide
+## How do I hire a licensed mold pro in Kings County, NY?
 
 1. Look the name up in the NYS DOL records ([New York State Department of Labor](https://dol.ny.gov/mold-program)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.

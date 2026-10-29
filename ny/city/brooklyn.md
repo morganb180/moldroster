@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Brooklyn, NY: 124 Listings | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in Brooklyn, NY"
 description: "124 NYS DOL-licensed mold assessors and remediators based in Brooklyn, New York, plus 2 more in Kings County. Licence numbers and expiry dates."
 canonical: https://moldroster.com/ny/city/brooklyn/
 ---
@@ -8,13 +8,17 @@ canonical: https://moldroster.com/ny/city/brooklyn/
 
 # Licensed mold assessors & remediators in Brooklyn, NY
 
+**Quick answer:** 124 NYS DOL-licensed listings give an address in Brooklyn (70 mold assessment, 96 mold remediation), and 2 more are elsewhere in Kings County. Licensed pros often travel, so ask whether they cover your address.
+
 124 NYS DOL-licensed listings give an address in Brooklyn (70 mold assessment, 96 mold remediation), and 2 more are elsewhere in Kings County. Licensed pros often travel, so ask whether they cover your address.
 
 [**Read the Brooklyn hiring guide →**](https://moldroster.com/ny/city/brooklyn/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Brooklyn](https://moldroster.com/get-quotes/?city=brooklyn&st=ny)
 
-## Based in Brooklyn
+## Which licensed mold assessors and remediators are based in Brooklyn, NY?
+
+Listed below: 70 licensed mold assessors (inspection and testing) and 54 licensed mold remediators with an address in Brooklyn. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (70)
 
@@ -1680,7 +1684,9 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 Show all 54 listings
 
-## Elsewhere in Kings County (2)
+## Which other licensed mold pros are in Kings County, NY? (2)
+
+2 more NYS DOL-licensed listings are elsewhere in Kings County. Licensed pros often travel, so ask whether they cover your address.
 
 [See all 126 Kings County listings →](https://moldroster.com/ny/county/kings/)
 

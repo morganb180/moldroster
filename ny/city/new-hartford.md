@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in New Hartford, NY: 4 Listings | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in New Hartford, NY"
 description: "4 NYS DOL-licensed mold assessors and remediators based in New Hartford, New York, plus 12 more in Oneida County. Licence numbers and expiry dates."
 canonical: https://moldroster.com/ny/city/new-hartford/
 ---
@@ -8,13 +8,17 @@ canonical: https://moldroster.com/ny/city/new-hartford/
 
 # Licensed mold assessors & remediators in New Hartford, NY
 
+**Quick answer:** 4 NYS DOL-licensed listings give an address in New Hartford (3 mold assessment, 3 mold remediation), and 12 more are elsewhere in Oneida County. Licensed pros often travel, so ask whether they cover your address.
+
 4 NYS DOL-licensed listings give an address in New Hartford (3 mold assessment, 3 mold remediation), and 12 more are elsewhere in Oneida County. Licensed pros often travel, so ask whether they cover your address.
 
 [**Read the New Hartford hiring guide →**](https://moldroster.com/ny/city/new-hartford/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in New Hartford](https://moldroster.com/get-quotes/?city=new-hartford&st=ny)
 
-## Based in New Hartford
+## Which licensed mold assessors and remediators are based in New Hartford, NY?
+
+Listed below: 3 licensed mold assessors (inspection and testing) and 1 licensed mold remediator with an address in New Hartford. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (3)
 
@@ -76,7 +80,9 @@ Mold Remediation Contractor License (SH126) #26-6ZELJ-SHMO (exp. 2028-03-31)
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0376)
 
-## Elsewhere in Oneida County (12)
+## Which other licensed mold pros are in Oneida County, NY? (12)
+
+12 more NYS DOL-licensed listings are elsewhere in Oneida County. Licensed pros often travel, so ask whether they cover your address.
 
 [See all 16 Oneida County listings →](https://moldroster.com/ny/county/oneida/)
 

@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Kaufman County, TX: 21 Listings | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in Kaufman County, TX"
 description: "21 TDLR-licensed mold assessors and remediators in Kaufman County, Texas, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/tx/county/kaufman/
 ---
@@ -8,9 +8,13 @@ canonical: https://moldroster.com/tx/county/kaufman/
 
 # Licensed mold assessors & remediators in Kaufman County, TX
 
+**Quick answer:** 21 TDLR-licensed listings with an address of record in Kaufman County (3 mold assessment, 18 mold remediation): 6 firms and 15 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+
 **21 TDLR-licensed listings** with an address of record in Kaufman County (3 mold assessment, 18 mold remediation): 6 firms and 15 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=kaufman&st=tx)
 
-## Licensed mold assessors (inspection & testing) (3)
+## Which licensed mold assessors are in Kaufman County, TX? (3)
+
+3 listings are shown in this section with an address of record in Kaufman County. Listings holding more than one licence type appear once, in the first matching section.
 
 Listings holding more than one licence type are shown once, in the first matching section.
 
@@ -56,7 +60,9 @@ Mold Assessment Consultant #MAC1673 (exp. 2028-01-15)
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TXI0418)
 
-## Licensed mold remediators (18)
+## Which licensed mold remediators are in Kaufman County, TX? (18)
+
+18 listings are shown in this section with an address of record in Kaufman County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by TDLR Mold remediation
 
@@ -304,13 +310,13 @@ Mold Remediation Contractor #MRC1466 (exp. 2027-02-22)
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TXI1113)
 
-## Neighboring counties
+## Which counties border Kaufman County, TX?
 
 [Dallas](https://moldroster.com/tx/county/dallas/) (186) · [Ellis](https://moldroster.com/tx/county/ellis/) (18) · [Henderson](https://moldroster.com/tx/county/henderson/) (1) · [Hunt](https://moldroster.com/tx/county/hunt/) (5) · [Rockwall](https://moldroster.com/tx/county/rockwall/) (26) · [Van Zandt](https://moldroster.com/tx/county/van-zandt/) (2)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Kaufman County: quick guide
+## How do I hire a licensed mold pro in Kaufman County, TX?
 
 1. Look the name up in the TDLR records ([Texas Department of Licensing and Regulation](https://www.tdlr.texas.gov/mold/mold.htm)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.

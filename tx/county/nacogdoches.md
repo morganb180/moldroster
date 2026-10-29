@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Nacogdoches County, TX: 3 Listings | Mold Roster"
+title: "Mold Inspection & Remediation in Nacogdoches County, TX"
 description: "3 TDLR-licensed mold assessors and remediators in Nacogdoches County, Texas, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/tx/county/nacogdoches/
 ---
@@ -8,9 +8,13 @@ canonical: https://moldroster.com/tx/county/nacogdoches/
 
 # Licensed mold assessors & remediators in Nacogdoches County, TX
 
+**Quick answer:** 3 TDLR-licensed listings with an address of record in Nacogdoches County (1 mold assessment, 2 mold remediation): 1 firms and 2 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+
 **3 TDLR-licensed listings** with an address of record in Nacogdoches County (1 mold assessment, 2 mold remediation): 1 firms and 2 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=nacogdoches&st=tx)
 
-## Licensed mold assessors (inspection & testing) (1)
+## Which licensed mold assessors are in Nacogdoches County, TX? (1)
+
+1 listing is shown in this section with an address of record in Nacogdoches County. Listings holding more than one licence type appear once, in the first matching section.
 
 Listings holding more than one licence type are shown once, in the first matching section.
 
@@ -28,7 +32,9 @@ Mold Assessment Consultant #MAC2052 (exp. 2028-06-02)
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TXI0678)
 
-## Licensed mold remediators (2)
+## Which licensed mold remediators are in Nacogdoches County, TX? (2)
+
+2 listings are shown in this section with an address of record in Nacogdoches County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by TDLR Mold remediation
 
@@ -57,13 +63,13 @@ Mold Remediation Contractor #MRC1443 (exp. 2027-04-28)
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TXI1100)
 
-## Neighboring counties
+## Which counties border Nacogdoches County, TX?
 
 Angelina (0) · Cherokee (0) · Rusk (0) · San Augustine (0) · Shelby (0)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Nacogdoches County: quick guide
+## How do I hire a licensed mold pro in Nacogdoches County, TX?
 
 1. Look the name up in the TDLR records ([Texas Department of Licensing and Regulation](https://www.tdlr.texas.gov/mold/mold.htm)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.

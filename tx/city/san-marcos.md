@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in San Marcos, TX: 5 Listings | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in San Marcos, TX"
 description: "5 TDLR-licensed mold assessors and remediators based in San Marcos, Texas, plus 32 more in Hays County. Licence numbers and expiry dates."
 canonical: https://moldroster.com/tx/city/san-marcos/
 ---
@@ -8,13 +8,17 @@ canonical: https://moldroster.com/tx/city/san-marcos/
 
 # Licensed mold assessors & remediators in San Marcos, TX
 
+**Quick answer:** 5 TDLR-licensed listings give an address in San Marcos (1 mold assessment, 4 mold remediation), and 32 more are elsewhere in Hays County. Licensed pros often travel, so ask whether they cover your address.
+
 5 TDLR-licensed listings give an address in San Marcos (1 mold assessment, 4 mold remediation), and 32 more are elsewhere in Hays County. Licensed pros often travel, so ask whether they cover your address.
 
 [**Read the San Marcos hiring guide →**](https://moldroster.com/tx/city/san-marcos/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in San Marcos](https://moldroster.com/get-quotes/?city=san-marcos&st=tx)
 
-## Based in San Marcos
+## Which licensed mold assessors and remediators are based in San Marcos, TX?
+
+Listed below: 1 licensed mold assessor (inspection and testing) and 4 licensed mold remediators with an address in San Marcos. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (1)
 
@@ -87,7 +91,9 @@ Mold Remediation Company #RCO1323 (exp. 2028-03-11)
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0312)
 
-## Elsewhere in Hays County (32)
+## Which other licensed mold pros are in Hays County, TX? (32)
+
+32 more TDLR-licensed listings are elsewhere in Hays County. Licensed pros often travel, so ask whether they cover your address.
 
 [See all 37 Hays County listings →](https://moldroster.com/tx/county/hays/)
 

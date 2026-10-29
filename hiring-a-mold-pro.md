@@ -6,7 +6,9 @@ canonical: https://moldroster.com/hiring-a-mold-pro/
 
 # How to hire a mold pro
 
-## Questions to ask
+## What should I ask a mold pro before hiring?
+
+Ask for the licence number and type, whether an independent assessor will write the protocol and check clearance, whether the moisture source will be fixed, how the area will be contained and what the written scope includes.
 
 * What is your state licence number, and is it an assessor or remediator licence?
 * Will an independent licensed assessor write the protocol and do the clearance check?
@@ -17,7 +19,9 @@ canonical: https://moldroster.com/hiring-a-mold-pro/
 * Will you work with my insurance adjuster, and do you need a signed assignment of benefits? (Read it carefully first.)
 * What clearance standard or test will show the job is done?
 
-## What mold work typically costs
+## How much does mold inspection and remediation cost?
+
+National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 (average about $689) and mold remediation at $1,223–$3,757 (average about $2,368). These are not local quotes.
 
 | Item | Typical range (national) |
 | --- | --- |
@@ -26,6 +30,8 @@ canonical: https://moldroster.com/hiring-a-mold-pro/
 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
-## Find a licensed pro
+## Where can I find a state-licensed mold pro?
+
+Choose Texas, Florida, New York or Washington, DC to browse licensed mold assessors and remediators built from official licence records.
 
 [Texas](https://moldroster.com/tx/) · [Florida](https://moldroster.com/fl/) · [New York](https://moldroster.com/ny/) · [Washington, DC](https://moldroster.com/dc/)

@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Comal County, TX: 24 Listings | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in Comal County, TX"
 description: "24 TDLR-licensed mold assessors and remediators in Comal County, Texas, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/tx/county/comal/
 ---
@@ -8,9 +8,13 @@ canonical: https://moldroster.com/tx/county/comal/
 
 # Licensed mold assessors & remediators in Comal County, TX
 
+**Quick answer:** 24 TDLR-licensed listings with an address of record in Comal County (11 mold assessment, 13 mold remediation): 4 firms and 20 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+
 **24 TDLR-licensed listings** with an address of record in Comal County (11 mold assessment, 13 mold remediation): 4 firms and 20 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=comal&st=tx)
 
-## Licensed mold assessors (inspection & testing) (11)
+## Which licensed mold assessors are in Comal County, TX? (11)
+
+11 listings are shown in this section with an address of record in Comal County. Listings holding more than one licence type appear once, in the first matching section.
 
 Listings holding more than one licence type are shown once, in the first matching section.
 
@@ -167,7 +171,9 @@ Mold Assessment Consultant #MAC2059 (exp. 2028-06-13)
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TXI0685)
 
-## Licensed mold remediators (13)
+## Which licensed mold remediators are in Comal County, TX? (13)
+
+13 listings are shown in this section with an address of record in Comal County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by TDLR Mold remediation
 
@@ -348,13 +354,13 @@ Mold Remediation Contractor #MRC1783 (exp. 2027-10-19)
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TXI1273)
 
-## Neighboring counties
+## Which counties border Comal County, TX?
 
 [Bexar](https://moldroster.com/tx/county/bexar/) (150) · Blanco (0) · [Guadalupe](https://moldroster.com/tx/county/guadalupe/) (15) · [Hays](https://moldroster.com/tx/county/hays/) (37) · [Kendall](https://moldroster.com/tx/county/kendall/) (10)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Comal County: quick guide
+## How do I hire a licensed mold pro in Comal County, TX?
 
 1. Look the name up in the TDLR records ([Texas Department of Licensing and Regulation](https://www.tdlr.texas.gov/mold/mold.htm)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.

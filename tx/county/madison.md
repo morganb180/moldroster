@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Madison County, TX: 2 Listings | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in Madison County, TX"
 description: "2 TDLR-licensed mold assessors and remediators in Madison County, Texas, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/tx/county/madison/
 ---
@@ -8,9 +8,13 @@ canonical: https://moldroster.com/tx/county/madison/
 
 # Licensed mold assessors & remediators in Madison County, TX
 
+**Quick answer:** 2 TDLR-licensed listings with an address of record in Madison County (1 mold assessment, 2 mold remediation): 1 firms and 1 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+
 **2 TDLR-licensed listings** with an address of record in Madison County (1 mold assessment, 2 mold remediation): 1 firms and 1 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=madison&st=tx)
 
-## Licensed mold assessors (inspection & testing) (1)
+## Which licensed mold assessors are in Madison County, TX? (1)
+
+1 listing is shown in this section with an address of record in Madison County. Listings holding more than one licence type appear once, in the first matching section.
 
 Listings holding more than one licence type are shown once, in the first matching section.
 
@@ -29,7 +33,9 @@ Mold Remediation Contractor #MRC2215 (exp. 2028-01-13)
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TXI0885)
 
-## Licensed mold remediators (1)
+## Which licensed mold remediators are in Madison County, TX? (1)
+
+1 listing is shown in this section with an address of record in Madison County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by TDLR Mold remediation
 
@@ -44,13 +50,13 @@ Mold Remediation Company #RCO1767 (exp. 2028-02-26)
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0593)
 
-## Neighboring counties
+## Which counties border Madison County, TX?
 
 [Brazos](https://moldroster.com/tx/county/brazos/) (26) · [Grimes](https://moldroster.com/tx/county/grimes/) (2) · Houston (0) · Leon (0) · [Robertson](https://moldroster.com/tx/county/robertson/) (3) · [Walker](https://moldroster.com/tx/county/walker/) (2)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Madison County: quick guide
+## How do I hire a licensed mold pro in Madison County, TX?
 
 1. Look the name up in the TDLR records ([Texas Department of Licensing and Regulation](https://www.tdlr.texas.gov/mold/mold.htm)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.

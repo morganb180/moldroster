@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Nassau County, FL: 12 Listings | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in Nassau County, FL"
 description: "12 DBPR-licensed mold assessors and remediators in Nassau County, Florida, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/fl/county/nassau/
 ---
@@ -8,11 +8,15 @@ canonical: https://moldroster.com/fl/county/nassau/
 
 # Licensed mold assessors & remediators in Nassau County, FL
 
+**Quick answer:** 12 DBPR-licensed listings with an address of record in Nassau County (8 mold assessment, 11 mold remediation): 1 firms and 11 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+
 **12 DBPR-licensed listings** with an address of record in Nassau County (8 mold assessment, 11 mold remediation): 1 firms and 11 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=nassau&st=fl)
 
 City pages: [Fernandina Beach](https://moldroster.com/fl/city/fernandina-beach/) · [Yulee](https://moldroster.com/fl/city/yulee/)
 
-## Licensed mold assessors (inspection & testing) (8)
+## Which licensed mold assessors are in Nassau County, FL? (8)
+
+8 listings are shown in this section with an address of record in Nassau County. Listings holding more than one licence type appear once, in the first matching section.
 
 Listings holding more than one licence type are shown once, in the first matching section.
 
@@ -121,7 +125,9 @@ Mold Assessor #MRSA5740 (exp. 2028-07-31)
 Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=FL0395)
 
-## Licensed mold remediators (4)
+## Which licensed mold remediators are in Nassau County, FL? (4)
+
+4 listings are shown in this section with an address of record in Nassau County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold remediation
 
@@ -171,13 +177,13 @@ Mold Remediator #MRSR4178 (exp. 2028-07-31)
 Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=FL2557)
 
-## Neighboring counties
+## Which counties border Nassau County, FL?
 
 [Baker](https://moldroster.com/fl/county/baker/) (4) · [Duval](https://moldroster.com/fl/county/duval/) (105)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Nassau County: quick guide
+## How do I hire a licensed mold pro in Nassau County, FL?
 
 1. Look the name up in the DBPR records ([Florida Department of Business and Professional Regulation](https://www2.myfloridalicense.com/mold-related-services/)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.

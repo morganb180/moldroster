@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in St. Lucie County, FL: 79 Listings | Mold Roster"
+title: "Mold Inspection & Remediation in St. Lucie County, FL"
 description: "79 DBPR-licensed mold assessors and remediators in St. Lucie County, Florida, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/fl/county/st-lucie/
 ---
@@ -8,11 +8,15 @@ canonical: https://moldroster.com/fl/county/st-lucie/
 
 # Licensed mold assessors & remediators in St. Lucie County, FL
 
+**Quick answer:** 79 DBPR-licensed listings with an address of record in St. Licensed pros often travel, so ask whether they cover your address.
+
 **79 DBPR-licensed listings** with an address of record in St. Lucie County (60 mold assessment, 60 mold remediation): 6 firms and 73 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=st-lucie&st=fl)
 
 City pages: [Fort Pierce](https://moldroster.com/fl/city/fort-pierce/) · [Port Saint Lucie](https://moldroster.com/fl/city/port-saint-lucie/) · [Port St Lucie](https://moldroster.com/fl/city/port-st-lucie/)
 
-## Licensed mold assessors (inspection & testing) (60)
+## Which licensed mold assessors are in St. Lucie County, FL? (60)
+
+60 listings are shown in this section with an address of record in St. Lucie County. Listings holding more than one licence type appear once, in the first matching section.
 
 Listings holding more than one licence type are shown once, in the first matching section.
 
@@ -794,7 +798,9 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 Show all 60 listings
 
-## Licensed mold remediators (19)
+## Which licensed mold remediators are in St. Lucie County, FL? (19)
+
+19 listings are shown in this section with an address of record in St. Lucie County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold remediation
 
@@ -1024,13 +1030,13 @@ Mold Remediator #MRSR3073 (exp. 2028-07-31)
 Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=FL1705)
 
-## Neighboring counties
+## Which counties border St. Lucie County, FL?
 
 [Indian River](https://moldroster.com/fl/county/indian-river/) (24) · [Martin](https://moldroster.com/fl/county/martin/) (38) · [Okeechobee](https://moldroster.com/fl/county/okeechobee/) (7)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in St. Lucie County: quick guide
+## How do I hire a licensed mold pro in St. Lucie County, FL?
 
 1. Look the name up in the DBPR records ([Florida Department of Business and Professional Regulation](https://www2.myfloridalicense.com/mold-related-services/)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.

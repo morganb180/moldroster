@@ -1,6 +1,6 @@
 ---
 title: "About Mold Roster | Mold Roster"
-description: "What Mold Roster is, who it is for, where listings come from and how it is funded."
+description: "What Mold Roster is, who operates it, where its state licence data comes from, how the directory is built and how we stay independent of listed pros."
 canonical: https://moldroster.com/about/
 ---
 
@@ -24,6 +24,10 @@ Mold Roster is for homeowners, tenants, landlords, buyers and insurance claimant
 * Listings are rebuilt from the official source files on each refresh; every listing shows its source and retrieval date.
 * Rules and cost guides link the statute, regulation, agency page or official fee schedule they rely on. Where we couldn't confirm something from an official source, we say so or leave it out.
 * Nothing here is legal advice. Requirements change, so confirm with the agency or town before you act.
+
+## Who operates Mold Roster
+
+Mold Roster (moldroster.com) is operated by Mold Roster. Contact us through the [contact page](https://moldroster.com/contact/).
 
 ## Independence
 

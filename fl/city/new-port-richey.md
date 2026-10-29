@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in New Port Richey, FL: 34 Listings | Mold Roster"
+title: "Mold Inspection & Remediation in New Port Richey, FL"
 description: "34 DBPR-licensed mold assessors and remediators based in New Port Richey, Florida, plus 93 more in Pasco County. Licence numbers and expiry dates."
 canonical: https://moldroster.com/fl/city/new-port-richey/
 ---
@@ -8,13 +8,17 @@ canonical: https://moldroster.com/fl/city/new-port-richey/
 
 # Licensed mold assessors & remediators in New Port Richey, FL
 
+**Quick answer:** 34 DBPR-licensed listings give an address in New Port Richey (19 mold assessment, 24 mold remediation), and 93 more are elsewhere in Pasco County. Licensed pros often travel, so ask whether they cover your address.
+
 34 DBPR-licensed listings give an address in New Port Richey (19 mold assessment, 24 mold remediation), and 93 more are elsewhere in Pasco County. Licensed pros often travel, so ask whether they cover your address.
 
 [**Read the New Port Richey hiring guide →**](https://moldroster.com/fl/city/new-port-richey/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in New Port Richey](https://moldroster.com/get-quotes/?city=new-port-richey&st=fl)
 
-## Based in New Port Richey
+## Which licensed mold assessors and remediators are based in New Port Richey, FL?
+
+Listed below: 19 licensed mold assessors (inspection and testing) and 15 licensed mold remediators with an address in New Port Richey. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (19)
 
@@ -446,11 +450,13 @@ Mold Remediator #MRSR5331 (exp. 2028-07-31)
 Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=FL3566)
 
-## Elsewhere in Pasco County (93)
+## Which other licensed mold pros are in Pasco County, FL? (93)
+
+93 more DBPR-licensed listings are elsewhere in Pasco County. Licensed pros often travel, so ask whether they cover your address.
 
 [See all 127 Pasco County listings →](https://moldroster.com/fl/county/pasco/)
 
-## More cities in Pasco County
+## Which other Pasco County cities have licensed mold pros?
 
 [Land O' Lakes](https://moldroster.com/fl/city/land-o-lakes/) · [Wesley Chapel](https://moldroster.com/fl/city/wesley-chapel/) · [Hudson](https://moldroster.com/fl/city/hudson/) · [Dade City](https://moldroster.com/fl/city/dade-city/) · [Holiday](https://moldroster.com/fl/city/holiday/) · [Port Richey](https://moldroster.com/fl/city/port-richey/)
 

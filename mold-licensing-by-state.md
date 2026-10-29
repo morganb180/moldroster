@@ -10,7 +10,7 @@ Only a handful of jurisdictions license mold professionals. These are the ones M
 
 ## Texas
 
-## Texas mold licensing rules in brief
+## What are Texas' mold licensing rules?
 
 * A TDLR licence is generally required to assess or remediate mold when the affected area is 25 contiguous square feet or more.
 * The same licensee may not do both the assessment and the remediation on the same project.
@@ -22,7 +22,7 @@ Summary of 16 Texas Administrative Code Chapter 78 (Texas Mold Assessment and Re
 
 ## Florida
 
-## Florida mold licensing rules in brief
+## What are Florida's mold licensing rules?
 
 * A DBPR licence is generally required to perform mold assessment or remediation for pay on areas over 10 square feet.
 * A licensed assessor generally may not remediate a property it assessed (conflict-of-interest rule in s. 468.8419).
@@ -34,7 +34,7 @@ Summary of Florida Statutes Chapter 468, Part XVI (Mold-Related Services). See t
 
 ## New York
 
-## New York mold licensing rules in brief
+## What are New York's mold licensing rules?
 
 * A NYS DOL licence is required for mold assessment or remediation of areas over 10 square feet (residential and commercial).
 * The assessor and the remediator on a project must be independent of each other.
@@ -46,7 +46,7 @@ Summary of New York Labor Law Article 32 and 12 NYCRR Part 60. See the agency: [
 
 ## Washington, DC
 
-## Washington, DC mold licensing rules in brief
+## What are Washington, DC's mold licensing rules?
 
 * If there is 10 square feet or more of indoor mold, assessment and remediation must be done or supervised by a DOEE-licensed professional (DOEE).
 * DOEE issues separate two-year licences for mold assessment and for mold remediation.
@@ -56,6 +56,8 @@ Summary of D.C. Code §§ 8-241.01-8-241.09 and 20 DCMR Chapter 32. See the agen
 
 [Browse Washington, DC listings →](https://moldroster.com/dc/)
 
-## Find a licensed pro
+## Where can I find a state-licensed mold pro?
+
+Choose Texas, Florida, New York or Washington, DC to browse licensed mold assessors and remediators built from official licence records.
 
 [Texas](https://moldroster.com/tx/) · [Florida](https://moldroster.com/fl/) · [New York](https://moldroster.com/ny/) · [Washington, DC](https://moldroster.com/dc/)

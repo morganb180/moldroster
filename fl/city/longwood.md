@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Longwood, FL: 18 Listings | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in Longwood, FL"
 description: "18 DBPR-licensed mold assessors and remediators based in Longwood, Florida, plus 65 more in Seminole County. Licence numbers and expiry dates."
 canonical: https://moldroster.com/fl/city/longwood/
 ---
@@ -8,13 +8,17 @@ canonical: https://moldroster.com/fl/city/longwood/
 
 # Licensed mold assessors & remediators in Longwood, FL
 
+**Quick answer:** 18 DBPR-licensed listings give an address in Longwood (10 mold assessment, 15 mold remediation), and 65 more are elsewhere in Seminole County. Licensed pros often travel, so ask whether they cover your address.
+
 18 DBPR-licensed listings give an address in Longwood (10 mold assessment, 15 mold remediation), and 65 more are elsewhere in Seminole County. Licensed pros often travel, so ask whether they cover your address.
 
 [**Read the Longwood hiring guide →**](https://moldroster.com/fl/city/longwood/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Longwood](https://moldroster.com/get-quotes/?city=longwood&st=fl)
 
-## Based in Longwood
+## Which licensed mold assessors and remediators are based in Longwood, FL?
+
+Listed below: 10 licensed mold assessors (inspection and testing) and 8 licensed mold remediators with an address in Longwood. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (10)
 
@@ -245,11 +249,13 @@ Mold Remediator #MRSR3847 (exp. 2028-07-31)
 Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=FL2322)
 
-## Elsewhere in Seminole County (65)
+## Which other licensed mold pros are in Seminole County, FL? (65)
+
+65 more DBPR-licensed listings are elsewhere in Seminole County. Licensed pros often travel, so ask whether they cover your address.
 
 [See all 83 Seminole County listings →](https://moldroster.com/fl/county/seminole/)
 
-## More cities in Seminole County
+## Which other Seminole County cities have licensed mold pros?
 
 [Oviedo](https://moldroster.com/fl/city/oviedo/) · [Altamonte Springs](https://moldroster.com/fl/city/altamonte-springs/) · [Sanford](https://moldroster.com/fl/city/sanford/) · [Lake Mary](https://moldroster.com/fl/city/lake-mary/) · [Winter Springs](https://moldroster.com/fl/city/winter-springs/) · [Casselberry](https://moldroster.com/fl/city/casselberry/)
 

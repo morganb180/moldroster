@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Union County, FL: 1 Listing | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in Union County, FL"
 description: "1 DBPR-licensed mold assessors and remediators in Union County, Florida, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/fl/county/union/
 ---
@@ -8,9 +8,13 @@ canonical: https://moldroster.com/fl/county/union/
 
 # Licensed mold assessors & remediators in Union County, FL
 
+**Quick answer:** 1 DBPR-licensed listings with an address of record in Union County (1 mold remediation): 0 firms and 1 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+
 **1 DBPR-licensed listings** with an address of record in Union County (1 mold remediation): 0 firms and 1 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=union&st=fl)
 
-## Licensed mold remediators (1)
+## Which licensed mold remediators are in Union County, FL? (1)
+
+1 listing is shown in this section with an address of record in Union County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold remediation
 
@@ -24,13 +28,13 @@ Mold Remediator #MRSR3234 (exp. 2028-07-31)
 Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=FL1837)
 
-## Neighboring counties
+## Which counties border Union County, FL?
 
 [Alachua](https://moldroster.com/fl/county/alachua/) (34) · [Baker](https://moldroster.com/fl/county/baker/) (4) · Bradford (0) · [Columbia](https://moldroster.com/fl/county/columbia/) (4)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Union County: quick guide
+## How do I hire a licensed mold pro in Union County, FL?
 
 1. Look the name up in the DBPR records ([Florida Department of Business and Professional Regulation](https://www2.myfloridalicense.com/mold-related-services/)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.

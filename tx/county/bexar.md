@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Bexar County, TX: 150 Listings | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in Bexar County, TX"
 description: "150 TDLR-licensed mold assessors and remediators in Bexar County, Texas, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/tx/county/bexar/
 ---
@@ -8,11 +8,15 @@ canonical: https://moldroster.com/tx/county/bexar/
 
 # Licensed mold assessors & remediators in Bexar County, TX
 
+**Quick answer:** 150 TDLR-licensed listings with an address of record in Bexar County (67 mold assessment, 86 mold remediation): 43 firms and 107 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+
 **150 TDLR-licensed listings** with an address of record in Bexar County (67 mold assessment, 86 mold remediation): 43 firms and 107 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=bexar&st=tx)
 
 City pages: [San Antonio](https://moldroster.com/tx/city/san-antonio/)
 
-## Licensed mold assessors (inspection & testing) (67)
+## Which licensed mold assessors are in Bexar County, TX? (67)
+
+67 listings are shown in this section with an address of record in Bexar County. Listings holding more than one licence type appear once, in the first matching section.
 
 Listings holding more than one licence type are shown once, in the first matching section.
 
@@ -946,7 +950,9 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Show all 67 listings
 
-## Licensed mold remediators (83)
+## Which licensed mold remediators are in Bexar County, TX? (83)
+
+83 listings are shown in this section with an address of record in Bexar County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by TDLR Mold remediation
 
@@ -2083,13 +2089,13 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Show all 83 listings
 
-## Neighboring counties
+## Which counties border Bexar County, TX?
 
 [Atascosa](https://moldroster.com/tx/county/atascosa/) (4) · [Bandera](https://moldroster.com/tx/county/bandera/) (3) · [Comal](https://moldroster.com/tx/county/comal/) (24) · [Guadalupe](https://moldroster.com/tx/county/guadalupe/) (15) · [Kendall](https://moldroster.com/tx/county/kendall/) (10) · [Medina](https://moldroster.com/tx/county/medina/) (3) · [Wilson](https://moldroster.com/tx/county/wilson/) (3)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Bexar County: quick guide
+## How do I hire a licensed mold pro in Bexar County, TX?
 
 1. Look the name up in the TDLR records ([Texas Department of Licensing and Regulation](https://www.tdlr.texas.gov/mold/mold.htm)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.

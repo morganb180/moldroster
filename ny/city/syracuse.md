@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Syracuse, NY: 15 Listings | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in Syracuse, NY"
 description: "15 NYS DOL-licensed mold assessors and remediators based in Syracuse, New York, plus 20 more in Onondaga County. Licence numbers and expiry dates."
 canonical: https://moldroster.com/ny/city/syracuse/
 ---
@@ -8,13 +8,17 @@ canonical: https://moldroster.com/ny/city/syracuse/
 
 # Licensed mold assessors & remediators in Syracuse, NY
 
+**Quick answer:** 15 NYS DOL-licensed listings give an address in Syracuse (6 mold assessment, 11 mold remediation), and 20 more are elsewhere in Onondaga County. Licensed pros often travel, so ask whether they cover your address.
+
 15 NYS DOL-licensed listings give an address in Syracuse (6 mold assessment, 11 mold remediation), and 20 more are elsewhere in Onondaga County. Licensed pros often travel, so ask whether they cover your address.
 
 [**Read the Syracuse hiring guide →**](https://moldroster.com/ny/city/syracuse/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Syracuse](https://moldroster.com/get-quotes/?city=syracuse&st=ny)
 
-## Based in Syracuse
+## Which licensed mold assessors and remediators are based in Syracuse, NY?
+
+Listed below: 6 licensed mold assessors (inspection and testing) and 9 licensed mold remediators with an address in Syracuse. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (6)
 
@@ -218,11 +222,13 @@ Mold Remediation Contractor License (SH126) #26-66HSF-SHMO (exp. 2028-05-31)
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY1467)
 
-## Elsewhere in Onondaga County (20)
+## Which other licensed mold pros are in Onondaga County, NY? (20)
+
+20 more NYS DOL-licensed listings are elsewhere in Onondaga County. Licensed pros often travel, so ask whether they cover your address.
 
 [See all 35 Onondaga County listings →](https://moldroster.com/ny/county/onondaga/)
 
-## More cities in Onondaga County
+## Which other Onondaga County cities have licensed mold pros?
 
 [Liverpool](https://moldroster.com/ny/city/liverpool/)
 

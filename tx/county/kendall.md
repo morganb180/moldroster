@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Kendall County, TX: 10 Listings | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in Kendall County, TX"
 description: "10 TDLR-licensed mold assessors and remediators in Kendall County, Texas, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/tx/county/kendall/
 ---
@@ -8,11 +8,15 @@ canonical: https://moldroster.com/tx/county/kendall/
 
 # Licensed mold assessors & remediators in Kendall County, TX
 
+**Quick answer:** 10 TDLR-licensed listings with an address of record in Kendall County (3 mold assessment, 7 mold remediation): 6 firms and 4 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+
 **10 TDLR-licensed listings** with an address of record in Kendall County (3 mold assessment, 7 mold remediation): 6 firms and 4 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=kendall&st=tx)
 
 City pages: [Boerne](https://moldroster.com/tx/city/boerne/)
 
-## Licensed mold assessors (inspection & testing) (3)
+## Which licensed mold assessors are in Kendall County, TX? (3)
+
+3 listings are shown in this section with an address of record in Kendall County. Listings holding more than one licence type appear once, in the first matching section.
 
 Listings holding more than one licence type are shown once, in the first matching section.
 
@@ -57,7 +61,9 @@ Mold Assessment Consultant #MAC0325 (exp. 2028-04-05)
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TXI0085)
 
-## Licensed mold remediators (7)
+## Which licensed mold remediators are in Kendall County, TX? (7)
+
+7 listings are shown in this section with an address of record in Kendall County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by TDLR Mold remediation
 
@@ -152,13 +158,13 @@ Mold Remediation Contractor #MRC1718 (exp. 2026-12-31)
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TXI1240)
 
-## Neighboring counties
+## Which counties border Kendall County, TX?
 
 [Bandera](https://moldroster.com/tx/county/bandera/) (3) · [Bexar](https://moldroster.com/tx/county/bexar/) (150) · Blanco (0) · [Comal](https://moldroster.com/tx/county/comal/) (24) · [Gillespie](https://moldroster.com/tx/county/gillespie/) (2) · [Kerr](https://moldroster.com/tx/county/kerr/) (2)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Kendall County: quick guide
+## How do I hire a licensed mold pro in Kendall County, TX?
 
 1. Look the name up in the TDLR records ([Texas Department of Licensing and Regulation](https://www.tdlr.texas.gov/mold/mold.htm)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.

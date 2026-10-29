@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in New York | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in New York"
 description: "Find NYS DOL-licensed mold assessors and remediators in New York: 1540 listings by county and city, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/ny/
 ---
@@ -18,7 +18,9 @@ canonical: https://moldroster.com/ny/
 
 New York licenses mold assessment and mold remediation contractors (businesses). Listings come from the Department of Labor's licence data on data.ny.gov.
 
-## New York mold licensing rules in brief
+## What are New York's mold licensing rules?
+
+A NYS DOL licence is required for mold assessment or remediation of areas over 10 square feet (residential and commercial).
 
 * A NYS DOL licence is required for mold assessment or remediation of areas over 10 square feet (residential and commercial).
 * The assessor and the remediator on a project must be independent of each other.
@@ -111,7 +113,7 @@ Summary of New York Labor Law Article 32 and 12 NYCRR Part 60. See the agency: [
 
 [Licensed in NY but based elsewhere (158)](https://moldroster.com/ny/out-of-state/)
 
-## What mold work typically costs
+## How much does mold inspection and remediation cost?
 
 | Item | Typical range (national) |
 | --- | --- |

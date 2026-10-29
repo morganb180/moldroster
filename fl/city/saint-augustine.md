@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Saint Augustine, FL: 15 Listings | Mold Roster"
+title: "Mold Inspection & Remediation in Saint Augustine, FL"
 description: "15 DBPR-licensed mold assessors and remediators based in Saint Augustine, Florida, plus 37 more in St. Johns County. Licence numbers and expiry dates."
 canonical: https://moldroster.com/fl/city/saint-augustine/
 ---
@@ -8,13 +8,17 @@ canonical: https://moldroster.com/fl/city/saint-augustine/
 
 # Licensed mold assessors & remediators in Saint Augustine, FL
 
+**Quick answer:** 15 DBPR-licensed listings give an address in Saint Augustine (13 mold assessment, 11 mold remediation), and 37 more are elsewhere in St. Johns County. Licensed pros often travel, so ask whether they cover your address.
+
 15 DBPR-licensed listings give an address in Saint Augustine (13 mold assessment, 11 mold remediation), and 37 more are elsewhere in St. Johns County. Licensed pros often travel, so ask whether they cover your address.
 
 [**Read the Saint Augustine hiring guide →**](https://moldroster.com/fl/city/saint-augustine/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Saint Augustine](https://moldroster.com/get-quotes/?city=saint-augustine&st=fl)
 
-## Based in Saint Augustine
+## Which licensed mold assessors and remediators are based in Saint Augustine, FL?
+
+Listed below: 13 licensed mold assessors (inspection and testing) and 2 licensed mold remediators with an address in Saint Augustine. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (13)
 
@@ -217,11 +221,13 @@ Mold Remediator #MRSR874 (exp. 2028-07-31)
 Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=FL0719)
 
-## Elsewhere in St. Johns County (37)
+## Which other licensed mold pros are in St. Johns County, FL? (37)
+
+37 more DBPR-licensed listings are elsewhere in St. Johns County. Licensed pros often travel, so ask whether they cover your address.
 
 [See all 52 St. Johns County listings →](https://moldroster.com/fl/county/st-johns/)
 
-## More cities in St. Johns County
+## Which other St. Johns County cities have licensed mold pros?
 
 [St Augustine](https://moldroster.com/fl/city/st-augustine/) · [St. Johns](https://moldroster.com/fl/city/st-johns/) · [Ponte Vedra](https://moldroster.com/fl/city/ponte-vedra/) · [Saint Johns](https://moldroster.com/fl/city/saint-johns/)
 

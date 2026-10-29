@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in New York, NY: 65 Listings | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in New York, NY"
 description: "65 NYS DOL-licensed mold assessors and remediators based in New York, New York, plus 2 more in New York County. Licence numbers and expiry dates."
 canonical: https://moldroster.com/ny/city/new-york/
 ---
@@ -8,13 +8,17 @@ canonical: https://moldroster.com/ny/city/new-york/
 
 # Licensed mold assessors & remediators in New York, NY
 
+**Quick answer:** 65 NYS DOL-licensed listings give an address in New York (42 mold assessment, 28 mold remediation), and 2 more are elsewhere in New York County. Licensed pros often travel, so ask whether they cover your address.
+
 65 NYS DOL-licensed listings give an address in New York (42 mold assessment, 28 mold remediation), and 2 more are elsewhere in New York County. Licensed pros often travel, so ask whether they cover your address.
 
 [**Read the New York hiring guide →**](https://moldroster.com/ny/city/new-york/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in New York](https://moldroster.com/get-quotes/?city=new-york&st=ny)
 
-## Based in New York
+## Which licensed mold assessors and remediators are based in New York, NY?
+
+Listed below: 42 licensed mold assessors (inspection and testing) and 23 licensed mold remediators with an address in New York. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (42)
 
@@ -873,7 +877,9 @@ Mold Remediation Contractor License (SH126) #25-6TQPP-SHMO (exp. 2027-08-31)
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY1476)
 
-## Elsewhere in New York County (2)
+## Which other licensed mold pros are in New York County, NY? (2)
+
+2 more NYS DOL-licensed listings are elsewhere in New York County. Licensed pros often travel, so ask whether they cover your address.
 
 [See all 67 New York County listings →](https://moldroster.com/ny/county/new-york/)
 

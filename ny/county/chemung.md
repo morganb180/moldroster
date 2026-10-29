@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Chemung County, NY: 4 Listings | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in Chemung County, NY"
 description: "4 NYS DOL-licensed mold assessors and remediators in Chemung County, New York, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/ny/county/chemung/
 ---
@@ -8,9 +8,13 @@ canonical: https://moldroster.com/ny/county/chemung/
 
 # Licensed mold assessors & remediators in Chemung County, NY
 
+**Quick answer:** 4 NYS DOL-licensed listings with an address of record in Chemung County (2 mold assessment, 2 mold remediation): 4 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+
 **4 NYS DOL-licensed listings** with an address of record in Chemung County (2 mold assessment, 2 mold remediation): 4 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=chemung&st=ny)
 
-## Licensed mold assessors (inspection & testing) (2)
+## Which licensed mold assessors are in Chemung County, NY? (2)
+
+2 listings are shown in this section with an address of record in Chemung County. Listings holding more than one licence type appear once, in the first matching section.
 
 Listings holding more than one licence type are shown once, in the first matching section.
 
@@ -40,7 +44,9 @@ Mold Assessment Contractor License (SH125) #25-6TQEJ-SHMO (exp. 2027-05-31)
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY1030)
 
-## Licensed mold remediators (2)
+## Which licensed mold remediators are in Chemung County, NY? (2)
+
+2 listings are shown in this section with an address of record in Chemung County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold remediation
 
@@ -68,13 +74,13 @@ Mold Remediation Contractor License (SH126) #24-64FFK-SHMO (exp. 2026-12-31)
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY1133)
 
-## Neighboring counties
+## Which counties border Chemung County, NY?
 
 Schuyler (0) · [Steuben](https://moldroster.com/ny/county/steuben/) (2) · [Tioga](https://moldroster.com/ny/county/tioga/) (1) · [Tompkins](https://moldroster.com/ny/county/tompkins/) (3)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Chemung County: quick guide
+## How do I hire a licensed mold pro in Chemung County, NY?
 
 1. Look the name up in the NYS DOL records ([New York State Department of Labor](https://dol.ny.gov/mold-program)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.

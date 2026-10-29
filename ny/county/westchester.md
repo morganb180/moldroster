@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Westchester County, NY: 102 Listings | Mold Roster"
+title: "Mold Inspection & Remediation in Westchester County, NY"
 description: "102 NYS DOL-licensed mold assessors and remediators in Westchester County, New York, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/ny/county/westchester/
 ---
@@ -8,11 +8,15 @@ canonical: https://moldroster.com/ny/county/westchester/
 
 # Licensed mold assessors & remediators in Westchester County, NY
 
+**Quick answer:** 102 NYS DOL-licensed listings with an address of record in Westchester County (51 mold assessment, 71 mold remediation): 102 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+
 **102 NYS DOL-licensed listings** with an address of record in Westchester County (51 mold assessment, 71 mold remediation): 102 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=westchester&st=ny)
 
 City pages: [Elmsford](https://moldroster.com/ny/city/elmsford/) · [Mount Vernon](https://moldroster.com/ny/city/mount-vernon/) · [New Rochelle](https://moldroster.com/ny/city/new-rochelle/) · [White Plains](https://moldroster.com/ny/city/white-plains/) · [Yonkers](https://moldroster.com/ny/city/yonkers/) · [Yorktown Heights](https://moldroster.com/ny/city/yorktown-heights/)
 
-## Licensed mold assessors (inspection & testing) (51)
+## Which licensed mold assessors are in Westchester County, NY? (51)
+
+51 listings are shown in this section with an address of record in Westchester County. Listings holding more than one licence type appear once, in the first matching section.
 
 Listings holding more than one licence type are shown once, in the first matching section.
 
@@ -700,7 +704,9 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 Show all 51 listings
 
-## Licensed mold remediators (51)
+## Which licensed mold remediators are in Westchester County, NY? (51)
+
+51 listings are shown in this section with an address of record in Westchester County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold remediation
 
@@ -1366,13 +1372,13 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 Show all 51 listings
 
-## Neighboring counties
+## Which counties border Westchester County, NY?
 
 [Bronx](https://moldroster.com/ny/county/bronx/) (52) · [Nassau](https://moldroster.com/ny/county/nassau/) (153) · [Putnam](https://moldroster.com/ny/county/putnam/) (14) · [Rockland](https://moldroster.com/ny/county/rockland/) (33)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Westchester County: quick guide
+## How do I hire a licensed mold pro in Westchester County, NY?
 
 1. Look the name up in the NYS DOL records ([New York State Department of Labor](https://dol.ny.gov/mold-program)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.

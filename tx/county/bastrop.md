@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Bastrop County, TX: 6 Listings | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in Bastrop County, TX"
 description: "6 TDLR-licensed mold assessors and remediators in Bastrop County, Texas, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/tx/county/bastrop/
 ---
@@ -8,9 +8,13 @@ canonical: https://moldroster.com/tx/county/bastrop/
 
 # Licensed mold assessors & remediators in Bastrop County, TX
 
+**Quick answer:** 6 TDLR-licensed listings with an address of record in Bastrop County (3 mold assessment, 3 mold remediation): 0 firms and 6 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+
 **6 TDLR-licensed listings** with an address of record in Bastrop County (3 mold assessment, 3 mold remediation): 0 firms and 6 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=bastrop&st=tx)
 
-## Licensed mold assessors (inspection & testing) (3)
+## Which licensed mold assessors are in Bastrop County, TX? (3)
+
+3 listings are shown in this section with an address of record in Bastrop County. Listings holding more than one licence type appear once, in the first matching section.
 
 Listings holding more than one licence type are shown once, in the first matching section.
 
@@ -56,7 +60,9 @@ Mold Assessment Consultant #MAC2258 (exp. 2028-04-29)
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TXI0879)
 
-## Licensed mold remediators (3)
+## Which licensed mold remediators are in Bastrop County, TX? (3)
+
+3 listings are shown in this section with an address of record in Bastrop County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by TDLR Mold remediation
 
@@ -100,13 +106,13 @@ Mold Remediation Contractor #MRC2062 (exp. 2028-10-09)
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TXI1459)
 
-## Neighboring counties
+## Which counties border Bastrop County, TX?
 
 [Caldwell](https://moldroster.com/tx/county/caldwell/) (9) · [Fayette](https://moldroster.com/tx/county/fayette/) (3) · Lee (0) · [Travis](https://moldroster.com/tx/county/travis/) (124) · [Williamson](https://moldroster.com/tx/county/williamson/) (83)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Bastrop County: quick guide
+## How do I hire a licensed mold pro in Bastrop County, TX?
 
 1. Look the name up in the TDLR records ([Texas Department of Licensing and Regulation](https://www.tdlr.texas.gov/mold/mold.htm)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.

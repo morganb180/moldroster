@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Orlando, FL: 136 Listings | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in Orlando, FL"
 description: "136 DBPR-licensed mold assessors and remediators based in Orlando, Florida, plus 59 more in Orange County. Licence numbers and expiry dates."
 canonical: https://moldroster.com/fl/city/orlando/
 ---
@@ -8,13 +8,17 @@ canonical: https://moldroster.com/fl/city/orlando/
 
 # Licensed mold assessors & remediators in Orlando, FL
 
+**Quick answer:** 136 DBPR-licensed listings give an address in Orlando (98 mold assessment, 90 mold remediation), and 59 more are elsewhere in Orange County. Licensed pros often travel, so ask whether they cover your address.
+
 136 DBPR-licensed listings give an address in Orlando (98 mold assessment, 90 mold remediation), and 59 more are elsewhere in Orange County. Licensed pros often travel, so ask whether they cover your address.
 
 [**Read the Orlando hiring guide →**](https://moldroster.com/fl/city/orlando/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Orlando](https://moldroster.com/get-quotes/?city=orlando&st=fl)
 
-## Based in Orlando
+## Which licensed mold assessors and remediators are based in Orlando, FL?
+
+Listed below: 98 licensed mold assessors (inspection and testing) and 38 licensed mold remediators with an address in Orlando. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (98)
 
@@ -1747,11 +1751,13 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 Show all 38 listings
 
-## Elsewhere in Orange County (59)
+## Which other licensed mold pros are in Orange County, FL? (59)
+
+59 more DBPR-licensed listings are elsewhere in Orange County. Licensed pros often travel, so ask whether they cover your address.
 
 [See all 195 Orange County listings →](https://moldroster.com/fl/county/orange/)
 
-## More cities in Orange County
+## Which other Orange County cities have licensed mold pros?
 
 [Winter Garden](https://moldroster.com/fl/city/winter-garden/) · [Winter Park](https://moldroster.com/fl/city/winter-park/) · [Apopka](https://moldroster.com/fl/city/apopka/) · [Windermere](https://moldroster.com/fl/city/windermere/) · [Maitland](https://moldroster.com/fl/city/maitland/) · [Ocoee](https://moldroster.com/fl/city/ocoee/)
 

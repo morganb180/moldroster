@@ -1,5 +1,5 @@
 ---
-title: "How to Hire a Licensed Mold Inspector or Remediator in Holbrook, NY | Mold Roster"
+title: "How to Hire a Licensed Mold Pro in Holbrook, NY"
 description: "Holbrook, NY mold guide: 2 licensed assessors and 3 remediators nearby, how to verify a licence, questions to ask and typical costs."
 canonical: https://moldroster.com/ny/city/holbrook/guide/
 ---
@@ -12,7 +12,9 @@ canonical: https://moldroster.com/ny/city/holbrook/guide/
 
 [Get quotes](https://moldroster.com/get-quotes/?city=holbrook&st=ny) [All Holbrook listings](https://moldroster.com/ny/city/holbrook/)
 
-## What mold work typically costs
+## How much does mold inspection and remediation cost?
+
+National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 (average about $689) and mold remediation at $1,223–$3,757 (average about $2,368). These are not local quotes.
 
 | Item | Typical range (national) |
 | --- | --- |
@@ -21,11 +23,15 @@ canonical: https://moldroster.com/ny/city/holbrook/guide/
 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
-## Assessment first, then remediation
+## Do I need a mold assessment before remediation?
+
+For larger jobs, yes: a licensed assessor inspects, samples if needed and writes a protocol, a separate licensed remediator does the work, and the assessor confirms the result.
 
 For larger jobs, a licensed assessor inspects, samples if needed, and writes a protocol. A separate licensed remediator does the work, and the assessor confirms the result. Fixing the moisture source is the key step ([EPA: A Brief Guide to Mold, Moisture and Your Home](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home)).
 
-## Licensed pros based in Holbrook
+## Which licensed mold pros are based in Holbrook, NY?
+
+5 NYS DOL-licensed listings give an address in Holbrook: 2 hold an assessment licence and 3 hold a remediation licence.
 
 ✔ Licensed by NYS DOL Mold assessment
 
@@ -92,14 +98,18 @@ Mold Remediation Contractor License (SH126) #25-6TKGU-SHMO (exp. 2027-02-28)
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0509)
 
-## How to verify a Holbrook mold pro's licence
+## How do I verify a mold pro's licence in Holbrook, NY?
+
+Look the name up in the NYS DOL records and check the licence is still current. Ask for the licence number in writing and make sure the licence type matches the job.
 
 1. Look the name up in the NYS DOL records ([New York State Department of Labor](https://dol.ny.gov/mold-program)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.
 3. Use separate, independent firms for testing and for remediation (required by New York law).
 4. Ask for proof of insurance and a written scope before work starts.
 
-## Questions to ask before you sign
+## What should I ask a mold pro before I sign?
+
+Ask what clearance test will show the job is done, for the licence number and type, whether an independent assessor will write the protocol and check clearance, whether the moisture source will be fixed, and how the work area will be contained.
 
 * How will you contain the work area and protect the rest of the house?
 * What does the written scope include: demolition, HEPA cleaning, disposal, rebuild?
@@ -108,7 +118,9 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 * What clearance standard or test will show the job is done?
 * What is your state licence number, and is it an assessor or remediator licence?
 
-## New York mold licensing rules in brief
+## What are New York's mold licensing rules?
+
+A NYS DOL licence is required for mold assessment or remediation of areas over 10 square feet (residential and commercial).
 
 * A NYS DOL licence is required for mold assessment or remediation of areas over 10 square feet (residential and commercial).
 * The assessor and the remediator on a project must be independent of each other.

@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in McKinney, TX: 5 Listings | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in McKinney, TX"
 description: "5 TDLR-licensed mold assessors and remediators based in McKinney, Texas, plus 102 more in Collin County. Licence numbers and expiry dates."
 canonical: https://moldroster.com/tx/city/mckinney/
 ---
@@ -8,13 +8,17 @@ canonical: https://moldroster.com/tx/city/mckinney/
 
 # Licensed mold assessors & remediators in McKinney, TX
 
+**Quick answer:** 5 TDLR-licensed listings give an address in McKinney (3 mold assessment, 2 mold remediation), and 102 more are elsewhere in Collin County. Licensed pros often travel, so ask whether they cover your address.
+
 5 TDLR-licensed listings give an address in McKinney (3 mold assessment, 2 mold remediation), and 102 more are elsewhere in Collin County. Licensed pros often travel, so ask whether they cover your address.
 
 [**Read the McKinney hiring guide →**](https://moldroster.com/tx/city/mckinney/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in McKinney](https://moldroster.com/get-quotes/?city=mckinney&st=tx)
 
-## Based in McKinney
+## Which licensed mold assessors and remediators are based in McKinney, TX?
+
+Listed below: 3 licensed mold assessors (inspection and testing) and 2 licensed mold remediators with an address in McKinney. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (3)
 
@@ -87,11 +91,13 @@ Mold Remediation Company #RCO1822 (exp. 2028-09-01)
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0648)
 
-## Elsewhere in Collin County (102)
+## Which other licensed mold pros are in Collin County, TX? (102)
+
+102 more TDLR-licensed listings are elsewhere in Collin County. Licensed pros often travel, so ask whether they cover your address.
 
 [See all 107 Collin County listings →](https://moldroster.com/tx/county/collin/)
 
-## More cities in Collin County
+## Which other Collin County cities have licensed mold pros?
 
 [Plano](https://moldroster.com/tx/city/plano/)
 

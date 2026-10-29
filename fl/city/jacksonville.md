@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Jacksonville, FL: 97 Listings | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in Jacksonville, FL"
 description: "97 DBPR-licensed mold assessors and remediators based in Jacksonville, Florida, plus 9 more in Duval County. Licence numbers and expiry dates."
 canonical: https://moldroster.com/fl/city/jacksonville/
 ---
@@ -8,13 +8,17 @@ canonical: https://moldroster.com/fl/city/jacksonville/
 
 # Licensed mold assessors & remediators in Jacksonville, FL
 
+**Quick answer:** 97 DBPR-licensed listings give an address in Jacksonville (72 mold assessment, 69 mold remediation), and 9 more are elsewhere in Duval County. Licensed pros often travel, so ask whether they cover your address.
+
 97 DBPR-licensed listings give an address in Jacksonville (72 mold assessment, 69 mold remediation), and 9 more are elsewhere in Duval County. Licensed pros often travel, so ask whether they cover your address.
 
 [**Read the Jacksonville hiring guide →**](https://moldroster.com/fl/city/jacksonville/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Jacksonville](https://moldroster.com/get-quotes/?city=jacksonville&st=fl)
 
-## Based in Jacksonville
+## Which licensed mold assessors and remediators are based in Jacksonville, FL?
+
+Listed below: 72 licensed mold assessors (inspection and testing) and 25 licensed mold remediators with an address in Jacksonville. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (72)
 
@@ -1241,11 +1245,13 @@ Mold Remediator #MRSR1642 (exp. 2028-07-31)
 Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=FL1034)
 
-## Elsewhere in Duval County (9)
+## Which other licensed mold pros are in Duval County, FL? (9)
+
+9 more DBPR-licensed listings are elsewhere in Duval County. Licensed pros often travel, so ask whether they cover your address.
 
 [See all 106 Duval County listings →](https://moldroster.com/fl/county/duval/)
 
-## More cities in Duval County
+## Which other Duval County cities have licensed mold pros?
 
 [Jacksonville Beach](https://moldroster.com/fl/city/jacksonville-beach/)
 

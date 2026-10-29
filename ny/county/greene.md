@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Greene County, NY: 1 Listing | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in Greene County, NY"
 description: "1 NYS DOL-licensed mold assessors and remediators in Greene County, New York, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/ny/county/greene/
 ---
@@ -8,9 +8,13 @@ canonical: https://moldroster.com/ny/county/greene/
 
 # Licensed mold assessors & remediators in Greene County, NY
 
+**Quick answer:** 1 NYS DOL-licensed listings with an address of record in Greene County (1 mold assessment): 1 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+
 **1 NYS DOL-licensed listings** with an address of record in Greene County (1 mold assessment): 1 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=greene&st=ny)
 
-## Licensed mold assessors (inspection & testing) (1)
+## Which licensed mold assessors are in Greene County, NY? (1)
+
+1 listing is shown in this section with an address of record in Greene County. Listings holding more than one licence type appear once, in the first matching section.
 
 Listings holding more than one licence type are shown once, in the first matching section.
 
@@ -27,13 +31,13 @@ Mold Assessment Contractor License (SH125) #26-6ZCUT-SHMO (exp. 2028-03-31)
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY1534)
 
-## Neighboring counties
+## Which counties border Greene County, NY?
 
 [Albany](https://moldroster.com/ny/county/albany/) (45) · [Columbia](https://moldroster.com/ny/county/columbia/) (6) · Delaware (0) · [Rensselaer](https://moldroster.com/ny/county/rensselaer/) (24) · [Schoharie](https://moldroster.com/ny/county/schoharie/) (2) · [Ulster](https://moldroster.com/ny/county/ulster/) (18)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Greene County: quick guide
+## How do I hire a licensed mold pro in Greene County, NY?
 
 1. Look the name up in the NYS DOL records ([New York State Department of Labor](https://dol.ny.gov/mold-program)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.

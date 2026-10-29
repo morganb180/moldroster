@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in St. Petersburg, FL: 48 Listings | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in St. Petersburg, FL"
 description: "48 DBPR-licensed mold assessors and remediators based in St. Petersburg, Florida, plus 135 more in Pinellas County. Licence numbers and expiry dates."
 canonical: https://moldroster.com/fl/city/st-petersburg/
 ---
@@ -8,13 +8,17 @@ canonical: https://moldroster.com/fl/city/st-petersburg/
 
 # Licensed mold assessors & remediators in St. Petersburg, FL
 
+**Quick answer:** 48 DBPR-licensed listings give an address in St. Petersburg (32 mold assessment, 34 mold remediation), and 135 more are elsewhere in Pinellas County. Licensed pros often travel, so ask whether they cover your address.
+
 48 DBPR-licensed listings give an address in St. Petersburg (32 mold assessment, 34 mold remediation), and 135 more are elsewhere in Pinellas County. Licensed pros often travel, so ask whether they cover your address.
 
 [**Read the St. Petersburg hiring guide →**](https://moldroster.com/fl/city/st-petersburg/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in St. Petersburg](https://moldroster.com/get-quotes/?city=st-petersburg&st=fl)
 
-## Based in St. Petersburg
+## Which licensed mold assessors and remediators are based in St. Petersburg, FL?
+
+Listed below: 32 licensed mold assessors (inspection and testing) and 16 licensed mold remediators with an address in St. Petersburg. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (32)
 
@@ -625,11 +629,13 @@ Mold Remediator #MRSR5730 (exp. 2028-07-31)
 Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=FL4019)
 
-## Elsewhere in Pinellas County (135)
+## Which other licensed mold pros are in Pinellas County, FL? (135)
+
+135 more DBPR-licensed listings are elsewhere in Pinellas County. Licensed pros often travel, so ask whether they cover your address.
 
 [See all 183 Pinellas County listings →](https://moldroster.com/fl/county/pinellas/)
 
-## More cities in Pinellas County
+## Which other Pinellas County cities have licensed mold pros?
 
 [Clearwater](https://moldroster.com/fl/city/clearwater/) · [Largo](https://moldroster.com/fl/city/largo/) · [Palm Harbor](https://moldroster.com/fl/city/palm-harbor/) · [Dunedin](https://moldroster.com/fl/city/dunedin/) · [Tarpon Springs](https://moldroster.com/fl/city/tarpon-springs/) · [Oldsmar](https://moldroster.com/fl/city/oldsmar/)
 

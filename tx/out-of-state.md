@@ -1,5 +1,5 @@
 ---
-title: "Out-of-State Mold Assessors & Remediators Licensed in Texas | Mold Roster"
+title: "Out-of-State Mold Pros Licensed in Texas"
 description: "165 TDLR-licensed mold assessors and remediators whose address of record is outside Texas or has no county."
 canonical: https://moldroster.com/tx/out-of-state/
 ---

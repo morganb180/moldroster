@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Grimes County, TX: 2 Listings | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in Grimes County, TX"
 description: "2 TDLR-licensed mold assessors and remediators in Grimes County, Texas, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/tx/county/grimes/
 ---
@@ -8,9 +8,13 @@ canonical: https://moldroster.com/tx/county/grimes/
 
 # Licensed mold assessors & remediators in Grimes County, TX
 
+**Quick answer:** 2 TDLR-licensed listings with an address of record in Grimes County (1 mold assessment, 1 mold remediation): 0 firms and 2 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+
 **2 TDLR-licensed listings** with an address of record in Grimes County (1 mold assessment, 1 mold remediation): 0 firms and 2 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=grimes&st=tx)
 
-## Licensed mold assessors (inspection & testing) (1)
+## Which licensed mold assessors are in Grimes County, TX? (1)
+
+1 listing is shown in this section with an address of record in Grimes County. Listings holding more than one licence type appear once, in the first matching section.
 
 Listings holding more than one licence type are shown once, in the first matching section.
 
@@ -28,7 +32,9 @@ Mold Assessment Consultant #MAC0486 (exp. 2028-03-12)
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TXI0124)
 
-## Licensed mold remediators (1)
+## Which licensed mold remediators are in Grimes County, TX? (1)
+
+1 listing is shown in this section with an address of record in Grimes County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by TDLR Mold remediation
 
@@ -44,13 +50,13 @@ Mold Remediation Contractor #MRC1396 (exp. 2026-12-16)
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TXI1085)
 
-## Neighboring counties
+## Which counties border Grimes County, TX?
 
 [Brazos](https://moldroster.com/tx/county/brazos/) (26) · [Madison](https://moldroster.com/tx/county/madison/) (2) · [Montgomery](https://moldroster.com/tx/county/montgomery/) (116) · [Walker](https://moldroster.com/tx/county/walker/) (2) · [Waller](https://moldroster.com/tx/county/waller/) (16) · [Washington](https://moldroster.com/tx/county/washington/) (2)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Grimes County: quick guide
+## How do I hire a licensed mold pro in Grimes County, TX?
 
 1. Look the name up in the TDLR records ([Texas Department of Licensing and Regulation](https://www.tdlr.texas.gov/mold/mold.htm)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.

@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Houston, TX: 87 Listings | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in Houston, TX"
 description: "87 TDLR-licensed mold assessors and remediators based in Houston, Texas, plus 358 more in Harris County. Licence numbers and expiry dates."
 canonical: https://moldroster.com/tx/city/houston/
 ---
@@ -8,13 +8,17 @@ canonical: https://moldroster.com/tx/city/houston/
 
 # Licensed mold assessors & remediators in Houston, TX
 
+**Quick answer:** 87 TDLR-licensed listings give an address in Houston (35 mold assessment, 54 mold remediation), and 358 more are elsewhere in Harris County. Licensed pros often travel, so ask whether they cover your address.
+
 87 TDLR-licensed listings give an address in Houston (35 mold assessment, 54 mold remediation), and 358 more are elsewhere in Harris County. Licensed pros often travel, so ask whether they cover your address.
 
 [**Read the Houston hiring guide →**](https://moldroster.com/tx/city/houston/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Houston](https://moldroster.com/get-quotes/?city=houston&st=tx)
 
-## Based in Houston
+## Which licensed mold assessors and remediators are based in Houston, TX?
+
+Listed below: 35 licensed mold assessors (inspection and testing) and 52 licensed mold remediators with an address in Houston. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (35)
 
@@ -1166,11 +1170,13 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Show all 52 listings
 
-## Elsewhere in Harris County (358)
+## Which other licensed mold pros are in Harris County, TX? (358)
+
+358 more TDLR-licensed listings are elsewhere in Harris County. Licensed pros often travel, so ask whether they cover your address.
 
 [See all 445 Harris County listings →](https://moldroster.com/tx/county/harris/)
 
-## More cities in Harris County
+## Which other Harris County cities have licensed mold pros?
 
 [Cypress](https://moldroster.com/tx/city/cypress/) · [Spring](https://moldroster.com/tx/city/spring/) · [Katy](https://moldroster.com/tx/city/katy/) · [Humble](https://moldroster.com/tx/city/humble/) · [Tomball](https://moldroster.com/tx/city/tomball/)
 

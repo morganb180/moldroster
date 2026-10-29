@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Orange City, FL: 4 Listings | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in Orange City, FL"
 description: "4 DBPR-licensed mold assessors and remediators based in Orange City, Florida, plus 62 more in Volusia County. Licence numbers and expiry dates."
 canonical: https://moldroster.com/fl/city/orange-city/
 ---
@@ -8,13 +8,17 @@ canonical: https://moldroster.com/fl/city/orange-city/
 
 # Licensed mold assessors & remediators in Orange City, FL
 
+**Quick answer:** 4 DBPR-licensed listings give an address in Orange City (2 mold assessment, 3 mold remediation), and 62 more are elsewhere in Volusia County. Licensed pros often travel, so ask whether they cover your address.
+
 4 DBPR-licensed listings give an address in Orange City (2 mold assessment, 3 mold remediation), and 62 more are elsewhere in Volusia County. Licensed pros often travel, so ask whether they cover your address.
 
 [**Read the Orange City hiring guide →**](https://moldroster.com/fl/city/orange-city/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Orange City](https://moldroster.com/get-quotes/?city=orange-city&st=fl)
 
-## Based in Orange City
+## Which licensed mold assessors and remediators are based in Orange City, FL?
+
+Listed below: 2 licensed mold assessors (inspection and testing) and 2 licensed mold remediators with an address in Orange City. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (2)
 
@@ -71,11 +75,13 @@ Mold Remediator #MRSR4754 (exp. 2028-07-31)
 Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=FL3005)
 
-## Elsewhere in Volusia County (62)
+## Which other licensed mold pros are in Volusia County, FL? (62)
+
+62 more DBPR-licensed listings are elsewhere in Volusia County. Licensed pros often travel, so ask whether they cover your address.
 
 [See all 66 Volusia County listings →](https://moldroster.com/fl/county/volusia/)
 
-## More cities in Volusia County
+## Which other Volusia County cities have licensed mold pros?
 
 [Debary](https://moldroster.com/fl/city/debary/) · [Ormond Beach](https://moldroster.com/fl/city/ormond-beach/) · [Deltona](https://moldroster.com/fl/city/deltona/) · [Port Orange](https://moldroster.com/fl/city/port-orange/) · [New Smyrna Beach](https://moldroster.com/fl/city/new-smyrna-beach/) · [Deland](https://moldroster.com/fl/city/deland/)
 

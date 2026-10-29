@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Poughkeepsie, NY: 11 Listings | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in Poughkeepsie, NY"
 description: "11 NYS DOL-licensed mold assessors and remediators based in Poughkeepsie, New York, plus 21 more in Dutchess County. Licence numbers and expiry dates."
 canonical: https://moldroster.com/ny/city/poughkeepsie/
 ---
@@ -8,13 +8,17 @@ canonical: https://moldroster.com/ny/city/poughkeepsie/
 
 # Licensed mold assessors & remediators in Poughkeepsie, NY
 
+**Quick answer:** 11 NYS DOL-licensed listings give an address in Poughkeepsie (7 mold assessment, 5 mold remediation), and 21 more are elsewhere in Dutchess County. Licensed pros often travel, so ask whether they cover your address.
+
 11 NYS DOL-licensed listings give an address in Poughkeepsie (7 mold assessment, 5 mold remediation), and 21 more are elsewhere in Dutchess County. Licensed pros often travel, so ask whether they cover your address.
 
 [**Read the Poughkeepsie hiring guide →**](https://moldroster.com/ny/city/poughkeepsie/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Poughkeepsie](https://moldroster.com/get-quotes/?city=poughkeepsie&st=ny)
 
-## Based in Poughkeepsie
+## Which licensed mold assessors and remediators are based in Poughkeepsie, NY?
+
+Listed below: 7 licensed mold assessors (inspection and testing) and 4 licensed mold remediators with an address in Poughkeepsie. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (7)
 
@@ -166,11 +170,13 @@ Mold Remediation Contractor License (SH126) #26-63VP9-SHMO (exp. 2028-10-31)
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0921)
 
-## Elsewhere in Dutchess County (21)
+## Which other licensed mold pros are in Dutchess County, NY? (21)
+
+21 more NYS DOL-licensed listings are elsewhere in Dutchess County. Licensed pros often travel, so ask whether they cover your address.
 
 [See all 32 Dutchess County listings →](https://moldroster.com/ny/county/dutchess/)
 
-## More cities in Dutchess County
+## Which other Dutchess County cities have licensed mold pros?
 
 [Pleasant Valley](https://moldroster.com/ny/city/pleasant-valley/)
 

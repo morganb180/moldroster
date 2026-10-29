@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Washington County, FL: 3 Listings | Mold Roster"
+title: "Mold Inspection & Remediation in Washington County, FL"
 description: "3 DBPR-licensed mold assessors and remediators in Washington County, Florida, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/fl/county/washington/
 ---
@@ -8,9 +8,13 @@ canonical: https://moldroster.com/fl/county/washington/
 
 # Licensed mold assessors & remediators in Washington County, FL
 
+**Quick answer:** 3 DBPR-licensed listings with an address of record in Washington County (2 mold assessment, 3 mold remediation): 0 firms and 3 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+
 **3 DBPR-licensed listings** with an address of record in Washington County (2 mold assessment, 3 mold remediation): 0 firms and 3 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=washington&st=fl)
 
-## Licensed mold assessors (inspection & testing) (2)
+## Which licensed mold assessors are in Washington County, FL? (2)
+
+2 listings are shown in this section with an address of record in Washington County. Listings holding more than one licence type appear once, in the first matching section.
 
 Listings holding more than one licence type are shown once, in the first matching section.
 
@@ -40,7 +44,9 @@ Mold Remediator #MRSR5026 (exp. 2028-07-31)
 Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=FL3280)
 
-## Licensed mold remediators (1)
+## Which licensed mold remediators are in Washington County, FL? (1)
+
+1 listing is shown in this section with an address of record in Washington County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold remediation
 
@@ -54,13 +60,13 @@ Mold Remediator #MRSR9 (exp. 2028-07-31)
 Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=FL0027)
 
-## Neighboring counties
+## Which counties border Washington County, FL?
 
 [Bay](https://moldroster.com/fl/county/bay/) (45) · [Holmes](https://moldroster.com/fl/county/holmes/) (1) · [Jackson](https://moldroster.com/fl/county/jackson/) (2) · [Walton](https://moldroster.com/fl/county/walton/) (24)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Washington County: quick guide
+## How do I hire a licensed mold pro in Washington County, FL?
 
 1. Look the name up in the DBPR records ([Florida Department of Business and Professional Regulation](https://www2.myfloridalicense.com/mold-related-services/)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.

@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Tompkins County, NY: 3 Listings | Mold Roster"
+title: "Mold Inspection & Remediation in Tompkins County, NY"
 description: "3 NYS DOL-licensed mold assessors and remediators in Tompkins County, New York, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/ny/county/tompkins/
 ---
@@ -8,9 +8,13 @@ canonical: https://moldroster.com/ny/county/tompkins/
 
 # Licensed mold assessors & remediators in Tompkins County, NY
 
+**Quick answer:** 3 NYS DOL-licensed listings with an address of record in Tompkins County (3 mold assessment): 3 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+
 **3 NYS DOL-licensed listings** with an address of record in Tompkins County (3 mold assessment): 3 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=tompkins&st=ny)
 
-## Licensed mold assessors (inspection & testing) (3)
+## Which licensed mold assessors are in Tompkins County, NY? (3)
+
+3 listings are shown in this section with an address of record in Tompkins County. Listings holding more than one licence type appear once, in the first matching section.
 
 Listings holding more than one licence type are shown once, in the first matching section.
 
@@ -53,13 +57,13 @@ Mold Assessment Contractor License (SH125) #26-67HDY-SHMO (exp. 2028-01-31)
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0526)
 
-## Neighboring counties
+## Which counties border Tompkins County, NY?
 
 Cayuga (0) · [Chemung](https://moldroster.com/ny/county/chemung/) (4) · [Cortland](https://moldroster.com/ny/county/cortland/) (2) · Schuyler (0) · Seneca (0) · [Tioga](https://moldroster.com/ny/county/tioga/) (1)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Tompkins County: quick guide
+## How do I hire a licensed mold pro in Tompkins County, NY?
 
 1. Look the name up in the NYS DOL records ([New York State Department of Labor](https://dol.ny.gov/mold-program)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.

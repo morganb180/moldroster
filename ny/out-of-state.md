@@ -1,5 +1,5 @@
 ---
-title: "Out-of-State Mold Assessors & Remediators Licensed in New York | Mold Roster"
+title: "Out-of-State Mold Pros Licensed in New York"
 description: "158 NYS DOL-licensed mold assessors and remediators whose address of record is outside New York or has no county."
 canonical: https://moldroster.com/ny/out-of-state/
 ---

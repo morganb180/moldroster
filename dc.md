@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Assessors & Remediators in Washington, DC | Mold Roster"
+title: "Licensed Mold Assessors & Remediators in Washington, DC"
 description: "145 DOEE-licensed mold assessors and remediators serving Washington, DC, with phone, email and licence type."
 canonical: https://moldroster.com/dc/
 ---
@@ -10,7 +10,9 @@ canonical: https://moldroster.com/dc/
 
 **145 DOEE-licensed listings** (79 mold assessment, 79 mold remediation). DC licenses individual mold assessors and remediators. DOEE's public list gives name, company, phone and email but no licence numbers or addresses.
 
-## Washington, DC mold licensing rules in brief
+## What are Washington, DC's mold licensing rules?
+
+If there is 10 square feet or more of indoor mold, assessment and remediation must be done or supervised by a DOEE-licensed professional (DOEE).
 
 * If there is 10 square feet or more of indoor mold, assessment and remediation must be done or supervised by a DOEE-licensed professional (DOEE).
 * DOEE issues separate two-year licences for mold assessment and for mold remediation.
@@ -2490,7 +2492,7 @@ VA
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=DC0025)
 
-## What mold work typically costs
+## How much does mold inspection and remediation cost?
 
 | Item | Typical range (national) |
 | --- | --- |

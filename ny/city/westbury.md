@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Westbury, NY: 7 Listings | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in Westbury, NY"
 description: "7 NYS DOL-licensed mold assessors and remediators based in Westbury, New York, plus 146 more in Nassau County. Licence numbers and expiry dates."
 canonical: https://moldroster.com/ny/city/westbury/
 ---
@@ -8,13 +8,17 @@ canonical: https://moldroster.com/ny/city/westbury/
 
 # Licensed mold assessors & remediators in Westbury, NY
 
+**Quick answer:** 7 NYS DOL-licensed listings give an address in Westbury (3 mold assessment, 5 mold remediation), and 146 more are elsewhere in Nassau County. Licensed pros often travel, so ask whether they cover your address.
+
 7 NYS DOL-licensed listings give an address in Westbury (3 mold assessment, 5 mold remediation), and 146 more are elsewhere in Nassau County. Licensed pros often travel, so ask whether they cover your address.
 
 [**Read the Westbury hiring guide →**](https://moldroster.com/ny/city/westbury/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Westbury](https://moldroster.com/get-quotes/?city=westbury&st=ny)
 
-## Based in Westbury
+## Which licensed mold assessors and remediators are based in Westbury, NY?
+
+Listed below: 3 licensed mold assessors (inspection and testing) and 4 licensed mold remediators with an address in Westbury. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (3)
 
@@ -114,11 +118,13 @@ Mold Remediation Contractor License (SH126) #26-6I9CK-SHMO (exp. 2028-02-29)
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY1353)
 
-## Elsewhere in Nassau County (146)
+## Which other licensed mold pros are in Nassau County, NY? (146)
+
+146 more NYS DOL-licensed listings are elsewhere in Nassau County. Licensed pros often travel, so ask whether they cover your address.
 
 [See all 153 Nassau County listings →](https://moldroster.com/ny/county/nassau/)
 
-## More cities in Nassau County
+## Which other Nassau County cities have licensed mold pros?
 
 [Valley Stream](https://moldroster.com/ny/city/valley-stream/) · [Farmingdale](https://moldroster.com/ny/city/farmingdale/) · [Plainview](https://moldroster.com/ny/city/plainview/) · [Levittown](https://moldroster.com/ny/city/levittown/) · [Hicksville](https://moldroster.com/ny/city/hicksville/) · [Massapequa](https://moldroster.com/ny/city/massapequa/)
 

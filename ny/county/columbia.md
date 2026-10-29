@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Columbia County, NY: 6 Listings | Mold Roster"
+title: "Mold Inspection & Remediation in Columbia County, NY"
 description: "6 NYS DOL-licensed mold assessors and remediators in Columbia County, New York, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/ny/county/columbia/
 ---
@@ -8,9 +8,13 @@ canonical: https://moldroster.com/ny/county/columbia/
 
 # Licensed mold assessors & remediators in Columbia County, NY
 
+**Quick answer:** 6 NYS DOL-licensed listings with an address of record in Columbia County (4 mold assessment, 3 mold remediation): 6 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+
 **6 NYS DOL-licensed listings** with an address of record in Columbia County (4 mold assessment, 3 mold remediation): 6 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=columbia&st=ny)
 
-## Licensed mold assessors (inspection & testing) (4)
+## Which licensed mold assessors are in Columbia County, NY? (4)
+
+4 listings are shown in this section with an address of record in Columbia County. Listings holding more than one licence type appear once, in the first matching section.
 
 Listings holding more than one licence type are shown once, in the first matching section.
 
@@ -67,7 +71,9 @@ Mold Assessment Contractor License (SH125) #25-6HN4G-SHMO (exp. 2027-07-31)
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0294)
 
-## Licensed mold remediators (2)
+## Which licensed mold remediators are in Columbia County, NY? (2)
+
+2 listings are shown in this section with an address of record in Columbia County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold remediation
 
@@ -95,13 +101,13 @@ Mold Remediation Contractor License (SH126) #25-6L761-SHMO (exp. 2027-11-30)
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0412)
 
-## Neighboring counties
+## Which counties border Columbia County, NY?
 
 [Albany](https://moldroster.com/ny/county/albany/) (45) · [Dutchess](https://moldroster.com/ny/county/dutchess/) (32) · [Greene](https://moldroster.com/ny/county/greene/) (1) · [Rensselaer](https://moldroster.com/ny/county/rensselaer/) (24) · [Ulster](https://moldroster.com/ny/county/ulster/) (18)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Columbia County: quick guide
+## How do I hire a licensed mold pro in Columbia County, NY?
 
 1. Look the name up in the NYS DOL records ([New York State Department of Labor](https://dol.ny.gov/mold-program)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.

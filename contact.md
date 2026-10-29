@@ -1,6 +1,6 @@
 ---
 title: "Contact | Mold Roster"
-description: "How to contact Mold Roster, or claim, correct or remove a listing."
+description: "Contact Mold Roster about a listing, a correction or a guide. We are an independent directory, not a mold contractor, assessor or licensing agency."
 canonical: https://moldroster.com/contact/
 ---
 

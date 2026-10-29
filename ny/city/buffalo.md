@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Buffalo, NY: 19 Listings | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in Buffalo, NY"
 description: "19 NYS DOL-licensed mold assessors and remediators based in Buffalo, New York, plus 23 more in Erie County. Licence numbers and expiry dates."
 canonical: https://moldroster.com/ny/city/buffalo/
 ---
@@ -8,13 +8,17 @@ canonical: https://moldroster.com/ny/city/buffalo/
 
 # Licensed mold assessors & remediators in Buffalo, NY
 
+**Quick answer:** 19 NYS DOL-licensed listings give an address in Buffalo (11 mold assessment, 10 mold remediation), and 23 more are elsewhere in Erie County. Licensed pros often travel, so ask whether they cover your address.
+
 19 NYS DOL-licensed listings give an address in Buffalo (11 mold assessment, 10 mold remediation), and 23 more are elsewhere in Erie County. Licensed pros often travel, so ask whether they cover your address.
 
 [**Read the Buffalo hiring guide →**](https://moldroster.com/ny/city/buffalo/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Buffalo](https://moldroster.com/get-quotes/?city=buffalo&st=ny)
 
-## Based in Buffalo
+## Which licensed mold assessors and remediators are based in Buffalo, NY?
+
+Listed below: 11 licensed mold assessors (inspection and testing) and 8 licensed mold remediators with an address in Buffalo. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (11)
 
@@ -271,11 +275,13 @@ Mold Remediation Contractor License (SH126) #25-65O63-SHMO (exp. 2027-04-30)
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY1531)
 
-## Elsewhere in Erie County (23)
+## Which other licensed mold pros are in Erie County, NY? (23)
+
+23 more NYS DOL-licensed listings are elsewhere in Erie County. Licensed pros often travel, so ask whether they cover your address.
 
 [See all 42 Erie County listings →](https://moldroster.com/ny/county/erie/)
 
-## More cities in Erie County
+## Which other Erie County cities have licensed mold pros?
 
 [Orchard Park](https://moldroster.com/ny/city/orchard-park/) · [Lancaster](https://moldroster.com/ny/city/lancaster/)
 

@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Livingston County, NY: 1 Listing | Mold Roster"
+title: "Mold Inspection & Remediation in Livingston County, NY"
 description: "1 NYS DOL-licensed mold assessors and remediators in Livingston County, New York, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/ny/county/livingston/
 ---
@@ -8,9 +8,13 @@ canonical: https://moldroster.com/ny/county/livingston/
 
 # Licensed mold assessors & remediators in Livingston County, NY
 
+**Quick answer:** 1 NYS DOL-licensed listings with an address of record in Livingston County (1 mold assessment, 1 mold remediation): 1 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+
 **1 NYS DOL-licensed listings** with an address of record in Livingston County (1 mold assessment, 1 mold remediation): 1 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=livingston&st=ny)
 
-## Licensed mold assessors (inspection & testing) (1)
+## Which licensed mold assessors are in Livingston County, NY? (1)
+
+1 listing is shown in this section with an address of record in Livingston County. Listings holding more than one licence type appear once, in the first matching section.
 
 Listings holding more than one licence type are shown once, in the first matching section.
 
@@ -28,13 +32,13 @@ Mold Remediation Contractor License (SH126) #26-6ZZFB-SHMO (exp. 2028-04-30)
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0520)
 
-## Neighboring counties
+## Which counties border Livingston County, NY?
 
 [Allegany](https://moldroster.com/ny/county/allegany/) (2) · [Genesee](https://moldroster.com/ny/county/genesee/) (2) · [Monroe](https://moldroster.com/ny/county/monroe/) (57) · [Ontario](https://moldroster.com/ny/county/ontario/) (6) · [Steuben](https://moldroster.com/ny/county/steuben/) (2) · Wyoming (0)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Livingston County: quick guide
+## How do I hire a licensed mold pro in Livingston County, NY?
 
 1. Look the name up in the NYS DOL records ([New York State Department of Labor](https://dol.ny.gov/mold-program)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.

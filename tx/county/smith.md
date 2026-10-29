@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Smith County, TX: 16 Listings | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in Smith County, TX"
 description: "16 TDLR-licensed mold assessors and remediators in Smith County, Texas, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/tx/county/smith/
 ---
@@ -8,11 +8,15 @@ canonical: https://moldroster.com/tx/county/smith/
 
 # Licensed mold assessors & remediators in Smith County, TX
 
+**Quick answer:** 16 TDLR-licensed listings with an address of record in Smith County (8 mold assessment, 8 mold remediation): 6 firms and 10 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+
 **16 TDLR-licensed listings** with an address of record in Smith County (8 mold assessment, 8 mold remediation): 6 firms and 10 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=smith&st=tx)
 
 City pages: [Tyler](https://moldroster.com/tx/city/tyler/)
 
-## Licensed mold assessors (inspection & testing) (8)
+## Which licensed mold assessors are in Smith County, TX? (8)
+
+8 listings are shown in this section with an address of record in Smith County. Listings holding more than one licence type appear once, in the first matching section.
 
 Listings holding more than one licence type are shown once, in the first matching section.
 
@@ -126,7 +130,9 @@ Mold Assessment Consultant #MAC2077 (exp. 2028-08-28)
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TXI0699)
 
-## Licensed mold remediators (8)
+## Which licensed mold remediators are in Smith County, TX? (8)
+
+8 listings are shown in this section with an address of record in Smith County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by TDLR Mold remediation
 
@@ -236,13 +242,13 @@ Mold Remediation Contractor #MRC2157 (exp. 2027-08-05)
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TXI1547)
 
-## Neighboring counties
+## Which counties border Smith County, TX?
 
 Cherokee (0) · [Gregg](https://moldroster.com/tx/county/gregg/) (7) · [Henderson](https://moldroster.com/tx/county/henderson/) (1) · Rusk (0) · Upshur (0) · [Van Zandt](https://moldroster.com/tx/county/van-zandt/) (2) · [Wood](https://moldroster.com/tx/county/wood/) (1)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Smith County: quick guide
+## How do I hire a licensed mold pro in Smith County, TX?
 
 1. Look the name up in the TDLR records ([Texas Department of Licensing and Regulation](https://www.tdlr.texas.gov/mold/mold.htm)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.

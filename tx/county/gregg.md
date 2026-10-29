@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Gregg County, TX: 7 Listings | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in Gregg County, TX"
 description: "7 TDLR-licensed mold assessors and remediators in Gregg County, Texas, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/tx/county/gregg/
 ---
@@ -8,9 +8,13 @@ canonical: https://moldroster.com/tx/county/gregg/
 
 # Licensed mold assessors & remediators in Gregg County, TX
 
+**Quick answer:** 7 TDLR-licensed listings with an address of record in Gregg County (4 mold assessment, 3 mold remediation): 1 firms and 6 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+
 **7 TDLR-licensed listings** with an address of record in Gregg County (4 mold assessment, 3 mold remediation): 1 firms and 6 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=gregg&st=tx)
 
-## Licensed mold assessors (inspection & testing) (4)
+## Which licensed mold assessors are in Gregg County, TX? (4)
+
+4 listings are shown in this section with an address of record in Gregg County. Listings holding more than one licence type appear once, in the first matching section.
 
 Listings holding more than one licence type are shown once, in the first matching section.
 
@@ -70,7 +74,9 @@ Mold Assessment Consultant #MAC2111 (exp. 2027-01-28)
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TXI0732)
 
-## Licensed mold remediators (3)
+## Which licensed mold remediators are in Gregg County, TX? (3)
+
+3 listings are shown in this section with an address of record in Gregg County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by TDLR Mold remediation
 
@@ -113,13 +119,13 @@ Mold Remediation Contractor #MRC1186 (exp. 2028-08-29)
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TXI1030)
 
-## Neighboring counties
+## Which counties border Gregg County, TX?
 
 [Harrison](https://moldroster.com/tx/county/harrison/) (3) · Rusk (0) · [Smith](https://moldroster.com/tx/county/smith/) (16) · Upshur (0)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Gregg County: quick guide
+## How do I hire a licensed mold pro in Gregg County, TX?
 
 1. Look the name up in the TDLR records ([Texas Department of Licensing and Regulation](https://www.tdlr.texas.gov/mold/mold.htm)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.

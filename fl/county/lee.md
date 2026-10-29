@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Lee County, FL: 189 Listings | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in Lee County, FL"
 description: "189 DBPR-licensed mold assessors and remediators in Lee County, Florida, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/fl/county/lee/
 ---
@@ -8,11 +8,15 @@ canonical: https://moldroster.com/fl/county/lee/
 
 # Licensed mold assessors & remediators in Lee County, FL
 
+**Quick answer:** 189 DBPR-licensed listings with an address of record in Lee County (135 mold assessment, 129 mold remediation): 7 firms and 182 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+
 **189 DBPR-licensed listings** with an address of record in Lee County (135 mold assessment, 129 mold remediation): 7 firms and 182 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=lee&st=fl)
 
 City pages: [Bonita Springs](https://moldroster.com/fl/city/bonita-springs/) · [Cape Coral](https://moldroster.com/fl/city/cape-coral/) · [Estero](https://moldroster.com/fl/city/estero/) · [Fort Myers](https://moldroster.com/fl/city/fort-myers/) · [Lehigh Acres](https://moldroster.com/fl/city/lehigh-acres/) · [North Fort Myers](https://moldroster.com/fl/city/north-fort-myers/)
 
-## Licensed mold assessors (inspection & testing) (135)
+## Which licensed mold assessors are in Lee County, FL? (135)
+
+135 listings are shown in this section with an address of record in Lee County. Listings holding more than one licence type appear once, in the first matching section.
 
 Listings holding more than one licence type are shown once, in the first matching section.
 
@@ -1734,7 +1738,9 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 Show all 135 listings
 
-## Licensed mold remediators (54)
+## Which licensed mold remediators are in Lee County, FL? (54)
+
+54 listings are shown in this section with an address of record in Lee County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold remediation
 
@@ -2386,13 +2392,13 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 Show all 54 listings
 
-## Neighboring counties
+## Which counties border Lee County, FL?
 
 [Charlotte](https://moldroster.com/fl/county/charlotte/) (42) · [Collier](https://moldroster.com/fl/county/collier/) (77) · Glades (0) · [Hendry](https://moldroster.com/fl/county/hendry/) (5)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Lee County: quick guide
+## How do I hire a licensed mold pro in Lee County, FL?
 
 1. Look the name up in the DBPR records ([Florida Department of Business and Professional Regulation](https://www2.myfloridalicense.com/mold-related-services/)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.

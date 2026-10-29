@@ -1,6 +1,6 @@
 ---
 title: "About Our Data | Mold Roster"
-description: "Sources, retrieval dates and cleanup method for Mold Roster listings."
+description: "Where Mold Roster data comes from: TDLR, Florida DBPR, NYS Department of Labor and DC DOEE licence records, how we match locations and retrieval dates."
 canonical: https://moldroster.com/about-our-data/
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in San Antonio, TX: 41 Listings | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in San Antonio, TX"
 description: "41 TDLR-licensed mold assessors and remediators based in San Antonio, Texas, plus 110 more in Bexar County. Licence numbers and expiry dates."
 canonical: https://moldroster.com/tx/city/san-antonio/
 ---
@@ -8,13 +8,17 @@ canonical: https://moldroster.com/tx/city/san-antonio/
 
 # Licensed mold assessors & remediators in San Antonio, TX
 
+**Quick answer:** 41 TDLR-licensed listings give an address in San Antonio (12 mold assessment, 29 mold remediation), and 110 more are elsewhere in Bexar County. Licensed pros often travel, so ask whether they cover your address.
+
 41 TDLR-licensed listings give an address in San Antonio (12 mold assessment, 29 mold remediation), and 110 more are elsewhere in Bexar County. Licensed pros often travel, so ask whether they cover your address.
 
 [**Read the San Antonio hiring guide →**](https://moldroster.com/tx/city/san-antonio/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in San Antonio](https://moldroster.com/get-quotes/?city=san-antonio&st=tx)
 
-## Based in San Antonio
+## Which licensed mold assessors and remediators are based in San Antonio, TX?
+
+Listed below: 12 licensed mold assessors (inspection and testing) and 29 licensed mold remediators with an address in San Antonio. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (12)
 
@@ -556,7 +560,9 @@ Mold Remediation Company #RCO1610 (exp. 2027-12-10)
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0456)
 
-## Elsewhere in Bexar County (110)
+## Which other licensed mold pros are in Bexar County, TX? (110)
+
+110 more TDLR-licensed listings are elsewhere in Bexar County. Licensed pros often travel, so ask whether they cover your address.
 
 [See all 151 Bexar County listings →](https://moldroster.com/tx/county/bexar/)
 

@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Lampasas County, TX: 2 Listings | Mold Roster"
+title: "Mold Inspection & Remediation in Lampasas County, TX"
 description: "2 TDLR-licensed mold assessors and remediators in Lampasas County, Texas, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/tx/county/lampasas/
 ---
@@ -8,9 +8,13 @@ canonical: https://moldroster.com/tx/county/lampasas/
 
 # Licensed mold assessors & remediators in Lampasas County, TX
 
+**Quick answer:** 2 TDLR-licensed listings with an address of record in Lampasas County (2 mold assessment, 2 mold remediation): 1 firms and 1 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+
 **2 TDLR-licensed listings** with an address of record in Lampasas County (2 mold assessment, 2 mold remediation): 1 firms and 1 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=lampasas&st=tx)
 
-## Licensed mold assessors (inspection & testing) (2)
+## Which licensed mold assessors are in Lampasas County, TX? (2)
+
+2 listings are shown in this section with an address of record in Lampasas County. Listings holding more than one licence type appear once, in the first matching section.
 
 Listings holding more than one licence type are shown once, in the first matching section.
 
@@ -43,13 +47,13 @@ Mold Remediation Contractor #MRC1139 (exp. 2027-07-29)
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TXI0116)
 
-## Neighboring counties
+## Which counties border Lampasas County, TX?
 
 [Bell](https://moldroster.com/tx/county/bell/) (14) · [Burnet](https://moldroster.com/tx/county/burnet/) (3) · [Coryell](https://moldroster.com/tx/county/coryell/) (1) · Hamilton (0) · Mills (0) · San Saba (0)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Lampasas County: quick guide
+## How do I hire a licensed mold pro in Lampasas County, TX?
 
 1. Look the name up in the TDLR records ([Texas Department of Licensing and Regulation](https://www.tdlr.texas.gov/mold/mold.htm)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.

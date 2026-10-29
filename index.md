@@ -1,10 +1,12 @@
 ---
-title: "Mold Roster: Find State-Licensed Mold Assessors & Remediators"
-description: "Search state-licensed mold assessment and remediation pros in Texas, Florida, New York and Washington DC by city, county or ZIP. Licence numbers, expiry dates and source links."
+title: "Mold Roster | State-Licensed Mold Assessors & Remediators"
+description: "Find state-licensed mold assessors and remediators in Texas, Florida, New York and Washington DC, built from official licence records, with guides on hiring."
 canonical: https://moldroster.com/
 ---
 
-# Find a state-licensed mold pro near you
+# Mold Roster: find a state-licensed mold assessor or remediator near you
+
+Mold Roster is a free directory of state-licensed mold assessors and remediators in Texas, Florida, New York and Washington DC, built from official licence records.
 
 8,203 listings from official licence records (5003 mold assessment, 5232 mold remediation), covering 2,545 firms and 6,254 licensed individuals. Every listing shows its licence numbers and links the source.
 

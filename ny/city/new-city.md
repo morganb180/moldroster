@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in New City, NY: 6 Listings | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in New City, NY"
 description: "6 NYS DOL-licensed mold assessors and remediators based in New City, New York, plus 27 more in Rockland County. Licence numbers and expiry dates."
 canonical: https://moldroster.com/ny/city/new-city/
 ---
@@ -8,13 +8,17 @@ canonical: https://moldroster.com/ny/city/new-city/
 
 # Licensed mold assessors & remediators in New City, NY
 
+**Quick answer:** 6 NYS DOL-licensed listings give an address in New City (5 mold assessment, 2 mold remediation), and 27 more are elsewhere in Rockland County. Licensed pros often travel, so ask whether they cover your address.
+
 6 NYS DOL-licensed listings give an address in New City (5 mold assessment, 2 mold remediation), and 27 more are elsewhere in Rockland County. Licensed pros often travel, so ask whether they cover your address.
 
 [**Read the New City hiring guide →**](https://moldroster.com/ny/city/new-city/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in New City](https://moldroster.com/get-quotes/?city=new-city&st=ny)
 
-## Based in New City
+## Which licensed mold assessors and remediators are based in New City, NY?
+
+Listed below: 5 licensed mold assessors (inspection and testing) and 1 licensed mold remediator with an address in New City. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (5)
 
@@ -101,11 +105,13 @@ Mold Remediation Contractor License (SH126) #26-67SU7-SHMO (exp. 2028-01-31)
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0642)
 
-## Elsewhere in Rockland County (27)
+## Which other licensed mold pros are in Rockland County, NY? (27)
+
+27 more NYS DOL-licensed listings are elsewhere in Rockland County. Licensed pros often travel, so ask whether they cover your address.
 
 [See all 33 Rockland County listings →](https://moldroster.com/ny/county/rockland/)
 
-## More cities in Rockland County
+## Which other Rockland County cities have licensed mold pros?
 
 [Airmont](https://moldroster.com/ny/city/airmont/) · [Suffern](https://moldroster.com/ny/city/suffern/)
 

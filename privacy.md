@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy | Mold Roster"
-description: "What Mold Roster collects (very little), how listing requests are handled, and your choices."
+description: "Mold Roster privacy policy: what we collect through the contact and listing forms, how business listings are handled, what we don't do and your choices."
 canonical: https://moldroster.com/privacy/
 ---
 

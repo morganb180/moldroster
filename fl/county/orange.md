@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Orange County, FL: 194 Listings | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in Orange County, FL"
 description: "194 DBPR-licensed mold assessors and remediators in Orange County, Florida, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/fl/county/orange/
 ---
@@ -8,11 +8,15 @@ canonical: https://moldroster.com/fl/county/orange/
 
 # Licensed mold assessors & remediators in Orange County, FL
 
+**Quick answer:** 194 DBPR-licensed listings with an address of record in Orange County (140 mold assessment, 133 mold remediation): 15 firms and 179 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+
 **194 DBPR-licensed listings** with an address of record in Orange County (140 mold assessment, 133 mold remediation): 15 firms and 179 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=orange&st=fl)
 
 City pages: [Apopka](https://moldroster.com/fl/city/apopka/) · [Maitland](https://moldroster.com/fl/city/maitland/) · [Ocoee](https://moldroster.com/fl/city/ocoee/) · [Orlando](https://moldroster.com/fl/city/orlando/) · [Windermere](https://moldroster.com/fl/city/windermere/) · [Winter Garden](https://moldroster.com/fl/city/winter-garden/) · [Winter Park](https://moldroster.com/fl/city/winter-park/)
 
-## Licensed mold assessors (inspection & testing) (140)
+## Which licensed mold assessors are in Orange County, FL? (140)
+
+140 listings are shown in this section with an address of record in Orange County. Listings holding more than one licence type appear once, in the first matching section.
 
 Listings holding more than one licence type are shown once, in the first matching section.
 
@@ -1820,7 +1824,9 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 Show all 140 listings
 
-## Licensed mold remediators (54)
+## Which licensed mold remediators are in Orange County, FL? (54)
+
+54 listings are shown in this section with an address of record in Orange County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold remediation
 
@@ -2475,13 +2481,13 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 Show all 54 listings
 
-## Neighboring counties
+## Which counties border Orange County, FL?
 
 [Brevard](https://moldroster.com/fl/county/brevard/) (93) · [Lake](https://moldroster.com/fl/county/lake/) (61) · [Osceola](https://moldroster.com/fl/county/osceola/) (61) · [Polk](https://moldroster.com/fl/county/polk/) (78) · [Seminole](https://moldroster.com/fl/county/seminole/) (83) · [Volusia](https://moldroster.com/fl/county/volusia/) (66)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Orange County: quick guide
+## How do I hire a licensed mold pro in Orange County, FL?
 
 1. Look the name up in the DBPR records ([Florida Department of Business and Professional Regulation](https://www2.myfloridalicense.com/mold-related-services/)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.

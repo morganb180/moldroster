@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Suffolk County, NY: 185 Listings | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in Suffolk County, NY"
 description: "185 NYS DOL-licensed mold assessors and remediators in Suffolk County, New York, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/ny/county/suffolk/
 ---
@@ -8,11 +8,15 @@ canonical: https://moldroster.com/ny/county/suffolk/
 
 # Licensed mold assessors & remediators in Suffolk County, NY
 
+**Quick answer:** 185 NYS DOL-licensed listings with an address of record in Suffolk County (84 mold assessment, 121 mold remediation): 185 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+
 **185 NYS DOL-licensed listings** with an address of record in Suffolk County (84 mold assessment, 121 mold remediation): 185 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=suffolk&st=ny)
 
 City pages: [Amityville](https://moldroster.com/ny/city/amityville/) · [Babylon](https://moldroster.com/ny/city/babylon/) · [Bohemia](https://moldroster.com/ny/city/bohemia/) · [Brentwood](https://moldroster.com/ny/city/brentwood/) · [Centereach](https://moldroster.com/ny/city/centereach/) · [Commack](https://moldroster.com/ny/city/commack/) · [Deer Park](https://moldroster.com/ny/city/deer-park/) · [East Northport](https://moldroster.com/ny/city/east-northport/) · [Holbrook](https://moldroster.com/ny/city/holbrook/) · [Islandia](https://moldroster.com/ny/city/islandia/) · [Lindenhurst](https://moldroster.com/ny/city/lindenhurst/) · [Medford](https://moldroster.com/ny/city/medford/) · [Melville](https://moldroster.com/ny/city/melville/) · [Nesconset](https://moldroster.com/ny/city/nesconset/) · [Patchogue](https://moldroster.com/ny/city/patchogue/) · [Ronkonkoma](https://moldroster.com/ny/city/ronkonkoma/) · [West Babylon](https://moldroster.com/ny/city/west-babylon/) · [Yaphank](https://moldroster.com/ny/city/yaphank/)
 
-## Licensed mold assessors (inspection & testing) (84)
+## Which licensed mold assessors are in Suffolk County, NY? (84)
+
+84 listings are shown in this section with an address of record in Suffolk County. Listings holding more than one licence type appear once, in the first matching section.
 
 Listings holding more than one licence type are shown once, in the first matching section.
 
@@ -1126,7 +1130,9 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 Show all 84 listings
 
-## Licensed mold remediators (101)
+## Which licensed mold remediators are in Suffolk County, NY? (101)
+
+101 listings are shown in this section with an address of record in Suffolk County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold remediation
 
@@ -2439,13 +2445,13 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 Show all 101 listings
 
-## Neighboring counties
+## Which counties border Suffolk County, NY?
 
 [Nassau](https://moldroster.com/ny/county/nassau/) (153)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Suffolk County: quick guide
+## How do I hire a licensed mold pro in Suffolk County, NY?
 
 1. Look the name up in the NYS DOL records ([New York State Department of Labor](https://dol.ny.gov/mold-program)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.

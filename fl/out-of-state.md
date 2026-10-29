@@ -1,5 +1,5 @@
 ---
-title: "Out-of-State Mold Assessors & Remediators Licensed in Florida | Mold Roster"
+title: "Out-of-State Mold Pros Licensed in Florida"
 description: "312 DBPR-licensed mold assessors and remediators whose address of record is outside Florida or has no county."
 canonical: https://moldroster.com/fl/out-of-state/
 ---

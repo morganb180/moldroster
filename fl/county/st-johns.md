@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in St. Johns County, FL: 52 Listings | Mold Roster"
+title: "Mold Inspection & Remediation in St. Johns County, FL"
 description: "52 DBPR-licensed mold assessors and remediators in St. Johns County, Florida, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/fl/county/st-johns/
 ---
@@ -8,11 +8,15 @@ canonical: https://moldroster.com/fl/county/st-johns/
 
 # Licensed mold assessors & remediators in St. Johns County, FL
 
+**Quick answer:** 52 DBPR-licensed listings with an address of record in St. Licensed pros often travel, so ask whether they cover your address.
+
 **52 DBPR-licensed listings** with an address of record in St. Johns County (42 mold assessment, 36 mold remediation): 3 firms and 49 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=st-johns&st=fl)
 
 City pages: [Ponte Vedra](https://moldroster.com/fl/city/ponte-vedra/) · [Saint Augustine](https://moldroster.com/fl/city/saint-augustine/) · [Saint Johns](https://moldroster.com/fl/city/saint-johns/) · [St Augustine](https://moldroster.com/fl/city/st-augustine/) · [St. Johns](https://moldroster.com/fl/city/st-johns/)
 
-## Licensed mold assessors (inspection & testing) (42)
+## Which licensed mold assessors are in St. Johns County, FL? (42)
+
+42 listings are shown in this section with an address of record in St. Johns County. Listings holding more than one licence type appear once, in the first matching section.
 
 Listings holding more than one licence type are shown once, in the first matching section.
 
@@ -556,7 +560,9 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 Show all 42 listings
 
-## Licensed mold remediators (10)
+## Which licensed mold remediators are in St. Johns County, FL? (10)
+
+10 listings are shown in this section with an address of record in St. Johns County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold remediation
 
@@ -678,13 +684,13 @@ Mold Remediator #MRSR811 (exp. 2028-07-31)
 Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=FL0317)
 
-## Neighboring counties
+## Which counties border St. Johns County, FL?
 
 [Clay](https://moldroster.com/fl/county/clay/) (26) · [Duval](https://moldroster.com/fl/county/duval/) (105) · [Flagler](https://moldroster.com/fl/county/flagler/) (15) · [Putnam](https://moldroster.com/fl/county/putnam/) (4)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in St. Johns County: quick guide
+## How do I hire a licensed mold pro in St. Johns County, FL?
 
 1. Look the name up in the DBPR records ([Florida Department of Business and Professional Regulation](https://www2.myfloridalicense.com/mold-related-services/)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.

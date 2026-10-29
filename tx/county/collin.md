@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Collin County, TX: 107 Listings | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in Collin County, TX"
 description: "107 TDLR-licensed mold assessors and remediators in Collin County, Texas, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/tx/county/collin/
 ---
@@ -8,11 +8,15 @@ canonical: https://moldroster.com/tx/county/collin/
 
 # Licensed mold assessors & remediators in Collin County, TX
 
+**Quick answer:** 107 TDLR-licensed listings with an address of record in Collin County (49 mold assessment, 59 mold remediation): 33 firms and 74 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+
 **107 TDLR-licensed listings** with an address of record in Collin County (49 mold assessment, 59 mold remediation): 33 firms and 74 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=collin&st=tx)
 
 City pages: [McKinney](https://moldroster.com/tx/city/mckinney/) · [Plano](https://moldroster.com/tx/city/plano/)
 
-## Licensed mold assessors (inspection & testing) (49)
+## Which licensed mold assessors are in Collin County, TX? (49)
+
+49 listings are shown in this section with an address of record in Collin County. Listings holding more than one licence type appear once, in the first matching section.
 
 Listings holding more than one licence type are shown once, in the first matching section.
 
@@ -695,7 +699,9 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Show all 49 listings
 
-## Licensed mold remediators (58)
+## Which licensed mold remediators are in Collin County, TX? (58)
+
+58 listings are shown in this section with an address of record in Collin County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by TDLR Mold remediation
 
@@ -1488,13 +1494,13 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Show all 58 listings
 
-## Neighboring counties
+## Which counties border Collin County, TX?
 
 [Dallas](https://moldroster.com/tx/county/dallas/) (186) · [Denton](https://moldroster.com/tx/county/denton/) (88) · [Fannin](https://moldroster.com/tx/county/fannin/) (1) · [Grayson](https://moldroster.com/tx/county/grayson/) (5) · [Hunt](https://moldroster.com/tx/county/hunt/) (5) · [Rockwall](https://moldroster.com/tx/county/rockwall/) (26)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Collin County: quick guide
+## How do I hire a licensed mold pro in Collin County, TX?
 
 1. Look the name up in the TDLR records ([Texas Department of Licensing and Regulation](https://www.tdlr.texas.gov/mold/mold.htm)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.

@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Nassau County, NY: 153 Listings | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in Nassau County, NY"
 description: "153 NYS DOL-licensed mold assessors and remediators in Nassau County, New York, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/ny/county/nassau/
 ---
@@ -8,11 +8,15 @@ canonical: https://moldroster.com/ny/county/nassau/
 
 # Licensed mold assessors & remediators in Nassau County, NY
 
+**Quick answer:** 153 NYS DOL-licensed listings with an address of record in Nassau County (74 mold assessment, 97 mold remediation): 153 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+
 **153 NYS DOL-licensed listings** with an address of record in Nassau County (74 mold assessment, 97 mold remediation): 153 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=nassau&st=ny)
 
 City pages: [Cedarhurst](https://moldroster.com/ny/city/cedarhurst/) · [East Meadow](https://moldroster.com/ny/city/east-meadow/) · [Elmont](https://moldroster.com/ny/city/elmont/) · [Farmingdale](https://moldroster.com/ny/city/farmingdale/) · [Glen Head](https://moldroster.com/ny/city/glen-head/) · [Hicksville](https://moldroster.com/ny/city/hicksville/) · [Levittown](https://moldroster.com/ny/city/levittown/) · [Massapequa](https://moldroster.com/ny/city/massapequa/) · [New Hyde Park](https://moldroster.com/ny/city/new-hyde-park/) · [Oceanside](https://moldroster.com/ny/city/oceanside/) · [Plainview](https://moldroster.com/ny/city/plainview/) · [Port Washington](https://moldroster.com/ny/city/port-washington/) · [Roslyn Heights](https://moldroster.com/ny/city/roslyn-heights/) · [Syosset](https://moldroster.com/ny/city/syosset/) · [Valley Stream](https://moldroster.com/ny/city/valley-stream/) · [Wantagh](https://moldroster.com/ny/city/wantagh/) · [Westbury](https://moldroster.com/ny/city/westbury/)
 
-## Licensed mold assessors (inspection & testing) (74)
+## Which licensed mold assessors are in Nassau County, NY? (74)
+
+74 listings are shown in this section with an address of record in Nassau County. Listings holding more than one licence type appear once, in the first matching section.
 
 Listings holding more than one licence type are shown once, in the first matching section.
 
@@ -996,7 +1000,9 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 Show all 74 listings
 
-## Licensed mold remediators (79)
+## Which licensed mold remediators are in Nassau County, NY? (79)
+
+79 listings are shown in this section with an address of record in Nassau County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold remediation
 
@@ -2026,13 +2032,13 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 Show all 79 listings
 
-## Neighboring counties
+## Which counties border Nassau County, NY?
 
 [Bronx](https://moldroster.com/ny/county/bronx/) (52) · [Queens](https://moldroster.com/ny/county/queens/) (154) · [Suffolk](https://moldroster.com/ny/county/suffolk/) (185) · [Westchester](https://moldroster.com/ny/county/westchester/) (102)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Nassau County: quick guide
+## How do I hire a licensed mold pro in Nassau County, NY?
 
 1. Look the name up in the NYS DOL records ([New York State Department of Labor](https://dol.ny.gov/mold-program)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.

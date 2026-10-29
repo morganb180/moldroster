@@ -1,5 +1,5 @@
 ---
-title: "Licensed Mold Inspection & Remediation in Travis County, TX: 124 Listings | Mold Roster"
+title: "Licensed Mold Inspection & Remediation in Travis County, TX"
 description: "124 TDLR-licensed mold assessors and remediators in Travis County, Texas, with licence numbers, expiry dates and source links."
 canonical: https://moldroster.com/tx/county/travis/
 ---
@@ -8,11 +8,15 @@ canonical: https://moldroster.com/tx/county/travis/
 
 # Licensed mold assessors & remediators in Travis County, TX
 
+**Quick answer:** 124 TDLR-licensed listings with an address of record in Travis County (64 mold assessment, 64 mold remediation): 36 firms and 88 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+
 **124 TDLR-licensed listings** with an address of record in Travis County (64 mold assessment, 64 mold remediation): 36 firms and 88 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=travis&st=tx)
 
 City pages: [Austin](https://moldroster.com/tx/city/austin/) · [Pflugerville](https://moldroster.com/tx/city/pflugerville/)
 
-## Licensed mold assessors (inspection & testing) (64)
+## Which licensed mold assessors are in Travis County, TX? (64)
+
+64 listings are shown in this section with an address of record in Travis County. Listings holding more than one licence type appear once, in the first matching section.
 
 Listings holding more than one licence type are shown once, in the first matching section.
 
@@ -906,7 +910,9 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Show all 64 listings
 
-## Licensed mold remediators (60)
+## Which licensed mold remediators are in Travis County, TX? (60)
+
+60 listings are shown in this section with an address of record in Travis County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by TDLR Mold remediation
 
@@ -1726,13 +1732,13 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Show all 60 listings
 
-## Neighboring counties
+## Which counties border Travis County, TX?
 
 [Bastrop](https://moldroster.com/tx/county/bastrop/) (6) · Blanco (0) · [Burnet](https://moldroster.com/tx/county/burnet/) (3) · [Caldwell](https://moldroster.com/tx/county/caldwell/) (9) · [Hays](https://moldroster.com/tx/county/hays/) (37) · [Williamson](https://moldroster.com/tx/county/williamson/) (83)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Travis County: quick guide
+## How do I hire a licensed mold pro in Travis County, TX?
 
 1. Look the name up in the TDLR records ([Texas Department of Licensing and Regulation](https://www.tdlr.texas.gov/mold/mold.htm)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.
