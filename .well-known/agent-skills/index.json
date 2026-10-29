@@ -1,0 +1,12 @@
+{
+  "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
+  "skills": [
+    {
+      "name": "mold-roster-find-firms",
+      "type": "skill-md",
+      "description": "Find state-licensed mold assessors and remediators in TX, FL, NY and DC on Mold Roster by city/town or county, with credentials and links to each listing.",
+      "url": "https://moldroster.com/.well-known/agent-skills/mold-roster-find-firms/SKILL.md",
+      "digest": "sha256:f357ee522b655f7f6a105736471964ba18adf26b3467492b8b3dc58b65f6bf23"
+    }
+  ]
+}

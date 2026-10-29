@@ -1,0 +1,4870 @@
+{
+  "$comment": "Agent-facing feeds for Mold Roster",
+  "site": "mold",
+  "name": "Mold Roster",
+  "url": "https://moldroster.com/",
+  "description": "Public listing data for state-licensed mold assessors and remediators in TX, FL, NY and DC.",
+  "generated": "2026-10-29",
+  "last_updated": "2026-10-12",
+  "data_source": {
+    "description": "Official licence/certification records as published on the site; each firm record has its own source URL and retrieval date.",
+    "sources": [
+      {
+        "url": "https://doee.dc.gov/page/list-licensed-mold-professionals",
+        "agency": "DC Department of Energy & Environment (DOEE)",
+        "retrieved": "2026-10-12",
+        "firms": 145
+      },
+      {
+        "url": "https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv",
+        "agency": "Florida Department of Business and Professional Regulation (DBPR)",
+        "retrieved": "2026-10-12",
+        "firms": 4161
+      },
+      {
+        "url": "https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy",
+        "agency": "New York State Department of Labor (NYS DOL)",
+        "retrieved": "2026-10-12",
+        "firms": 1540
+      },
+      {
+        "url": "https://www.tdlr.texas.gov/LicenseSearch/licfile.asp",
+        "agency": "Texas Department of Licensing and Regulation (TDLR)",
+        "retrieved": "2026-10-12",
+        "firms": 2357
+      }
+    ]
+  },
+  "attribution": "Listing data from Mold Roster (https://moldroster.com/), built from public licence records. Not an endorsement.",
+  "counts": {
+    "firms": 8203,
+    "counties": 211,
+    "cities": 319,
+    "states": 4
+  },
+  "services": [
+    {
+      "code": "assessment",
+      "label": "Mold assessment"
+    },
+    {
+      "code": "remediation",
+      "label": "Mold remediation"
+    }
+  ],
+  "fields_excluded": "Phone, email and street address are not included; see each firm_url.",
+  "endpoints": {
+    "firms": "https://moldroster.com/api/firms.json",
+    "county": "https://moldroster.com/api/county/{slug}.json",
+    "city": "https://moldroster.com/api/city/{slug}.json",
+    "state": "https://moldroster.com/api/state/{st}.json",
+    "search": "https://leads.radonroster.com/api/firms?site=mold",
+    "quote": null,
+    "mcp": "https://leads.radonroster.com/mcp?site=mold",
+    "openapi": "https://moldroster.com/openapi.json",
+    "api_catalog": "https://moldroster.com/.well-known/api-catalog"
+  },
+  "search_by_zip": false,
+  "quote_requests": false,
+  "states": [
+    {
+      "slug": "tx",
+      "count": 2357,
+      "page": "https://moldroster.com/tx/",
+      "feed": "https://moldroster.com/api/state/tx.json"
+    },
+    {
+      "slug": "fl",
+      "count": 4161,
+      "page": "https://moldroster.com/fl/",
+      "feed": "https://moldroster.com/api/state/fl.json"
+    },
+    {
+      "slug": "ny",
+      "count": 1540,
+      "page": "https://moldroster.com/ny/",
+      "feed": "https://moldroster.com/api/state/ny.json"
+    },
+    {
+      "slug": "dc",
+      "count": 145,
+      "page": "https://moldroster.com/dc/",
+      "feed": "https://moldroster.com/api/state/dc.json"
+    }
+  ],
+  "counties": [
+    {
+      "slug": "fl-alachua",
+      "name": "Licensed mold assessors & remediators in Alachua County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/alachua/",
+      "feed": "https://moldroster.com/api/county/fl-alachua.json",
+      "count": 34,
+      "local_count": 34
+    },
+    {
+      "slug": "fl-baker",
+      "name": "Licensed mold assessors & remediators in Baker County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/baker/",
+      "feed": "https://moldroster.com/api/county/fl-baker.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "fl-bay",
+      "name": "Licensed mold assessors & remediators in Bay County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/bay/",
+      "feed": "https://moldroster.com/api/county/fl-bay.json",
+      "count": 45,
+      "local_count": 45
+    },
+    {
+      "slug": "fl-brevard",
+      "name": "Licensed mold assessors & remediators in Brevard County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/brevard/",
+      "feed": "https://moldroster.com/api/county/fl-brevard.json",
+      "count": 93,
+      "local_count": 93
+    },
+    {
+      "slug": "fl-broward",
+      "name": "Licensed mold assessors & remediators in Broward County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/broward/",
+      "feed": "https://moldroster.com/api/county/fl-broward.json",
+      "count": 589,
+      "local_count": 589
+    },
+    {
+      "slug": "fl-charlotte",
+      "name": "Licensed mold assessors & remediators in Charlotte County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/charlotte/",
+      "feed": "https://moldroster.com/api/county/fl-charlotte.json",
+      "count": 42,
+      "local_count": 42
+    },
+    {
+      "slug": "fl-citrus",
+      "name": "Licensed mold assessors & remediators in Citrus County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/citrus/",
+      "feed": "https://moldroster.com/api/county/fl-citrus.json",
+      "count": 17,
+      "local_count": 17
+    },
+    {
+      "slug": "fl-clay",
+      "name": "Licensed mold assessors & remediators in Clay County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/clay/",
+      "feed": "https://moldroster.com/api/county/fl-clay.json",
+      "count": 26,
+      "local_count": 26
+    },
+    {
+      "slug": "fl-collier",
+      "name": "Licensed mold assessors & remediators in Collier County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/collier/",
+      "feed": "https://moldroster.com/api/county/fl-collier.json",
+      "count": 77,
+      "local_count": 77
+    },
+    {
+      "slug": "fl-columbia",
+      "name": "Licensed mold assessors & remediators in Columbia County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/columbia/",
+      "feed": "https://moldroster.com/api/county/fl-columbia.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "fl-desoto",
+      "name": "Licensed mold assessors & remediators in DeSoto County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/desoto/",
+      "feed": "https://moldroster.com/api/county/fl-desoto.json",
+      "count": 3,
+      "local_count": 3
+    },
+    {
+      "slug": "fl-duval",
+      "name": "Licensed mold assessors & remediators in Duval County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/duval/",
+      "feed": "https://moldroster.com/api/county/fl-duval.json",
+      "count": 105,
+      "local_count": 105
+    },
+    {
+      "slug": "fl-escambia",
+      "name": "Licensed mold assessors & remediators in Escambia County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/escambia/",
+      "feed": "https://moldroster.com/api/county/fl-escambia.json",
+      "count": 23,
+      "local_count": 23
+    },
+    {
+      "slug": "fl-flagler",
+      "name": "Licensed mold assessors & remediators in Flagler County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/flagler/",
+      "feed": "https://moldroster.com/api/county/fl-flagler.json",
+      "count": 15,
+      "local_count": 15
+    },
+    {
+      "slug": "fl-franklin",
+      "name": "Licensed mold assessors & remediators in Franklin County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/franklin/",
+      "feed": "https://moldroster.com/api/county/fl-franklin.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "fl-gadsden",
+      "name": "Licensed mold assessors & remediators in Gadsden County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/gadsden/",
+      "feed": "https://moldroster.com/api/county/fl-gadsden.json",
+      "count": 3,
+      "local_count": 3
+    },
+    {
+      "slug": "fl-gilchrist",
+      "name": "Licensed mold assessors & remediators in Gilchrist County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/gilchrist/",
+      "feed": "https://moldroster.com/api/county/fl-gilchrist.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "fl-hardee",
+      "name": "Licensed mold assessors & remediators in Hardee County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/hardee/",
+      "feed": "https://moldroster.com/api/county/fl-hardee.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "fl-hendry",
+      "name": "Licensed mold assessors & remediators in Hendry County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/hendry/",
+      "feed": "https://moldroster.com/api/county/fl-hendry.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "fl-hernando",
+      "name": "Licensed mold assessors & remediators in Hernando County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/hernando/",
+      "feed": "https://moldroster.com/api/county/fl-hernando.json",
+      "count": 28,
+      "local_count": 28
+    },
+    {
+      "slug": "fl-highlands",
+      "name": "Licensed mold assessors & remediators in Highlands County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/highlands/",
+      "feed": "https://moldroster.com/api/county/fl-highlands.json",
+      "count": 11,
+      "local_count": 11
+    },
+    {
+      "slug": "fl-hillsborough",
+      "name": "Licensed mold assessors & remediators in Hillsborough County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/hillsborough/",
+      "feed": "https://moldroster.com/api/county/fl-hillsborough.json",
+      "count": 235,
+      "local_count": 235
+    },
+    {
+      "slug": "fl-holmes",
+      "name": "Licensed mold assessors & remediators in Holmes County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/holmes/",
+      "feed": "https://moldroster.com/api/county/fl-holmes.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "fl-indian-river",
+      "name": "Licensed mold assessors & remediators in Indian River County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/indian-river/",
+      "feed": "https://moldroster.com/api/county/fl-indian-river.json",
+      "count": 24,
+      "local_count": 24
+    },
+    {
+      "slug": "fl-jackson",
+      "name": "Licensed mold assessors & remediators in Jackson County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/jackson/",
+      "feed": "https://moldroster.com/api/county/fl-jackson.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "fl-jefferson",
+      "name": "Licensed mold assessors & remediators in Jefferson County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/jefferson/",
+      "feed": "https://moldroster.com/api/county/fl-jefferson.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "fl-lake",
+      "name": "Licensed mold assessors & remediators in Lake County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/lake/",
+      "feed": "https://moldroster.com/api/county/fl-lake.json",
+      "count": 61,
+      "local_count": 61
+    },
+    {
+      "slug": "fl-lee",
+      "name": "Licensed mold assessors & remediators in Lee County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/lee/",
+      "feed": "https://moldroster.com/api/county/fl-lee.json",
+      "count": 189,
+      "local_count": 189
+    },
+    {
+      "slug": "fl-leon",
+      "name": "Licensed mold assessors & remediators in Leon County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/leon/",
+      "feed": "https://moldroster.com/api/county/fl-leon.json",
+      "count": 29,
+      "local_count": 29
+    },
+    {
+      "slug": "fl-levy",
+      "name": "Licensed mold assessors & remediators in Levy County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/levy/",
+      "feed": "https://moldroster.com/api/county/fl-levy.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "fl-manatee",
+      "name": "Licensed mold assessors & remediators in Manatee County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/manatee/",
+      "feed": "https://moldroster.com/api/county/fl-manatee.json",
+      "count": 67,
+      "local_count": 67
+    },
+    {
+      "slug": "fl-marion",
+      "name": "Licensed mold assessors & remediators in Marion County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/marion/",
+      "feed": "https://moldroster.com/api/county/fl-marion.json",
+      "count": 36,
+      "local_count": 36
+    },
+    {
+      "slug": "fl-martin",
+      "name": "Licensed mold assessors & remediators in Martin County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/martin/",
+      "feed": "https://moldroster.com/api/county/fl-martin.json",
+      "count": 38,
+      "local_count": 38
+    },
+    {
+      "slug": "fl-miami-dade",
+      "name": "Licensed mold assessors & remediators in Miami-Dade County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/miami-dade/",
+      "feed": "https://moldroster.com/api/county/fl-miami-dade.json",
+      "count": 546,
+      "local_count": 546
+    },
+    {
+      "slug": "fl-monroe",
+      "name": "Licensed mold assessors & remediators in Monroe County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/monroe/",
+      "feed": "https://moldroster.com/api/county/fl-monroe.json",
+      "count": 12,
+      "local_count": 12
+    },
+    {
+      "slug": "fl-nassau",
+      "name": "Licensed mold assessors & remediators in Nassau County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/nassau/",
+      "feed": "https://moldroster.com/api/county/fl-nassau.json",
+      "count": 12,
+      "local_count": 12
+    },
+    {
+      "slug": "fl-okaloosa",
+      "name": "Licensed mold assessors & remediators in Okaloosa County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/okaloosa/",
+      "feed": "https://moldroster.com/api/county/fl-okaloosa.json",
+      "count": 18,
+      "local_count": 18
+    },
+    {
+      "slug": "fl-okeechobee",
+      "name": "Licensed mold assessors & remediators in Okeechobee County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/okeechobee/",
+      "feed": "https://moldroster.com/api/county/fl-okeechobee.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "fl-orange",
+      "name": "Licensed mold assessors & remediators in Orange County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/orange/",
+      "feed": "https://moldroster.com/api/county/fl-orange.json",
+      "count": 194,
+      "local_count": 194
+    },
+    {
+      "slug": "fl-osceola",
+      "name": "Licensed mold assessors & remediators in Osceola County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/osceola/",
+      "feed": "https://moldroster.com/api/county/fl-osceola.json",
+      "count": 61,
+      "local_count": 61
+    },
+    {
+      "slug": "fl-palm-beach",
+      "name": "Licensed mold assessors & remediators in Palm Beach County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/palm-beach/",
+      "feed": "https://moldroster.com/api/county/fl-palm-beach.json",
+      "count": 370,
+      "local_count": 370
+    },
+    {
+      "slug": "fl-pasco",
+      "name": "Licensed mold assessors & remediators in Pasco County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/pasco/",
+      "feed": "https://moldroster.com/api/county/fl-pasco.json",
+      "count": 127,
+      "local_count": 127
+    },
+    {
+      "slug": "fl-pinellas",
+      "name": "Licensed mold assessors & remediators in Pinellas County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/pinellas/",
+      "feed": "https://moldroster.com/api/county/fl-pinellas.json",
+      "count": 183,
+      "local_count": 183
+    },
+    {
+      "slug": "fl-polk",
+      "name": "Licensed mold assessors & remediators in Polk County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/polk/",
+      "feed": "https://moldroster.com/api/county/fl-polk.json",
+      "count": 78,
+      "local_count": 78
+    },
+    {
+      "slug": "fl-putnam",
+      "name": "Licensed mold assessors & remediators in Putnam County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/putnam/",
+      "feed": "https://moldroster.com/api/county/fl-putnam.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "fl-santa-rosa",
+      "name": "Licensed mold assessors & remediators in Santa Rosa County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/santa-rosa/",
+      "feed": "https://moldroster.com/api/county/fl-santa-rosa.json",
+      "count": 25,
+      "local_count": 25
+    },
+    {
+      "slug": "fl-sarasota",
+      "name": "Licensed mold assessors & remediators in Sarasota County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/sarasota/",
+      "feed": "https://moldroster.com/api/county/fl-sarasota.json",
+      "count": 70,
+      "local_count": 70
+    },
+    {
+      "slug": "fl-seminole",
+      "name": "Licensed mold assessors & remediators in Seminole County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/seminole/",
+      "feed": "https://moldroster.com/api/county/fl-seminole.json",
+      "count": 83,
+      "local_count": 83
+    },
+    {
+      "slug": "fl-st-johns",
+      "name": "Licensed mold assessors & remediators in St. Johns County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/st-johns/",
+      "feed": "https://moldroster.com/api/county/fl-st-johns.json",
+      "count": 52,
+      "local_count": 52
+    },
+    {
+      "slug": "fl-st-lucie",
+      "name": "Licensed mold assessors & remediators in St. Lucie County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/st-lucie/",
+      "feed": "https://moldroster.com/api/county/fl-st-lucie.json",
+      "count": 79,
+      "local_count": 79
+    },
+    {
+      "slug": "fl-sumter",
+      "name": "Licensed mold assessors & remediators in Sumter County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/sumter/",
+      "feed": "https://moldroster.com/api/county/fl-sumter.json",
+      "count": 10,
+      "local_count": 10
+    },
+    {
+      "slug": "fl-suwannee",
+      "name": "Licensed mold assessors & remediators in Suwannee County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/suwannee/",
+      "feed": "https://moldroster.com/api/county/fl-suwannee.json",
+      "count": 3,
+      "local_count": 3
+    },
+    {
+      "slug": "fl-union",
+      "name": "Licensed mold assessors & remediators in Union County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/union/",
+      "feed": "https://moldroster.com/api/county/fl-union.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "fl-volusia",
+      "name": "Licensed mold assessors & remediators in Volusia County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/volusia/",
+      "feed": "https://moldroster.com/api/county/fl-volusia.json",
+      "count": 66,
+      "local_count": 66
+    },
+    {
+      "slug": "fl-wakulla",
+      "name": "Licensed mold assessors & remediators in Wakulla County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/wakulla/",
+      "feed": "https://moldroster.com/api/county/fl-wakulla.json",
+      "count": 3,
+      "local_count": 3
+    },
+    {
+      "slug": "fl-walton",
+      "name": "Licensed mold assessors & remediators in Walton County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/walton/",
+      "feed": "https://moldroster.com/api/county/fl-walton.json",
+      "count": 24,
+      "local_count": 24
+    },
+    {
+      "slug": "fl-washington",
+      "name": "Licensed mold assessors & remediators in Washington County, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/county/washington/",
+      "feed": "https://moldroster.com/api/county/fl-washington.json",
+      "count": 3,
+      "local_count": 3
+    },
+    {
+      "slug": "ny-albany",
+      "name": "Licensed mold assessors & remediators in Albany County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/albany/",
+      "feed": "https://moldroster.com/api/county/ny-albany.json",
+      "count": 45,
+      "local_count": 45
+    },
+    {
+      "slug": "ny-allegany",
+      "name": "Licensed mold assessors & remediators in Allegany County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/allegany/",
+      "feed": "https://moldroster.com/api/county/ny-allegany.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "ny-bronx",
+      "name": "Licensed mold assessors & remediators in Bronx County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/bronx/",
+      "feed": "https://moldroster.com/api/county/ny-bronx.json",
+      "count": 52,
+      "local_count": 52
+    },
+    {
+      "slug": "ny-broome",
+      "name": "Licensed mold assessors & remediators in Broome County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/broome/",
+      "feed": "https://moldroster.com/api/county/ny-broome.json",
+      "count": 12,
+      "local_count": 12
+    },
+    {
+      "slug": "ny-cattaraugus",
+      "name": "Licensed mold assessors & remediators in Cattaraugus County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/cattaraugus/",
+      "feed": "https://moldroster.com/api/county/ny-cattaraugus.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "ny-chautauqua",
+      "name": "Licensed mold assessors & remediators in Chautauqua County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/chautauqua/",
+      "feed": "https://moldroster.com/api/county/ny-chautauqua.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-chemung",
+      "name": "Licensed mold assessors & remediators in Chemung County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/chemung/",
+      "feed": "https://moldroster.com/api/county/ny-chemung.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-clinton",
+      "name": "Licensed mold assessors & remediators in Clinton County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/clinton/",
+      "feed": "https://moldroster.com/api/county/ny-clinton.json",
+      "count": 8,
+      "local_count": 8
+    },
+    {
+      "slug": "ny-columbia",
+      "name": "Licensed mold assessors & remediators in Columbia County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/columbia/",
+      "feed": "https://moldroster.com/api/county/ny-columbia.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "ny-cortland",
+      "name": "Licensed mold assessors & remediators in Cortland County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/cortland/",
+      "feed": "https://moldroster.com/api/county/ny-cortland.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "ny-dutchess",
+      "name": "Licensed mold assessors & remediators in Dutchess County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/dutchess/",
+      "feed": "https://moldroster.com/api/county/ny-dutchess.json",
+      "count": 32,
+      "local_count": 32
+    },
+    {
+      "slug": "ny-erie",
+      "name": "Licensed mold assessors & remediators in Erie County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/erie/",
+      "feed": "https://moldroster.com/api/county/ny-erie.json",
+      "count": 42,
+      "local_count": 42
+    },
+    {
+      "slug": "ny-essex",
+      "name": "Licensed mold assessors & remediators in Essex County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/essex/",
+      "feed": "https://moldroster.com/api/county/ny-essex.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "ny-fulton",
+      "name": "Licensed mold assessors & remediators in Fulton County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/fulton/",
+      "feed": "https://moldroster.com/api/county/ny-fulton.json",
+      "count": 3,
+      "local_count": 3
+    },
+    {
+      "slug": "ny-genesee",
+      "name": "Licensed mold assessors & remediators in Genesee County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/genesee/",
+      "feed": "https://moldroster.com/api/county/ny-genesee.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "ny-greene",
+      "name": "Licensed mold assessors & remediators in Greene County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/greene/",
+      "feed": "https://moldroster.com/api/county/ny-greene.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "ny-herkimer",
+      "name": "Licensed mold assessors & remediators in Herkimer County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/herkimer/",
+      "feed": "https://moldroster.com/api/county/ny-herkimer.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "ny-jefferson",
+      "name": "Licensed mold assessors & remediators in Jefferson County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/jefferson/",
+      "feed": "https://moldroster.com/api/county/ny-jefferson.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-kings",
+      "name": "Licensed mold assessors & remediators in Kings County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/kings/",
+      "feed": "https://moldroster.com/api/county/ny-kings.json",
+      "count": 125,
+      "local_count": 125
+    },
+    {
+      "slug": "ny-livingston",
+      "name": "Licensed mold assessors & remediators in Livingston County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/livingston/",
+      "feed": "https://moldroster.com/api/county/ny-livingston.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "ny-madison",
+      "name": "Licensed mold assessors & remediators in Madison County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/madison/",
+      "feed": "https://moldroster.com/api/county/ny-madison.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "ny-monroe",
+      "name": "Licensed mold assessors & remediators in Monroe County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/monroe/",
+      "feed": "https://moldroster.com/api/county/ny-monroe.json",
+      "count": 57,
+      "local_count": 57
+    },
+    {
+      "slug": "ny-montgomery",
+      "name": "Licensed mold assessors & remediators in Montgomery County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/montgomery/",
+      "feed": "https://moldroster.com/api/county/ny-montgomery.json",
+      "count": 3,
+      "local_count": 3
+    },
+    {
+      "slug": "ny-nassau",
+      "name": "Licensed mold assessors & remediators in Nassau County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/nassau/",
+      "feed": "https://moldroster.com/api/county/ny-nassau.json",
+      "count": 153,
+      "local_count": 153
+    },
+    {
+      "slug": "ny-new-york",
+      "name": "Licensed mold assessors & remediators in New York County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/new-york/",
+      "feed": "https://moldroster.com/api/county/ny-new-york.json",
+      "count": 65,
+      "local_count": 65
+    },
+    {
+      "slug": "ny-niagara",
+      "name": "Licensed mold assessors & remediators in Niagara County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/niagara/",
+      "feed": "https://moldroster.com/api/county/ny-niagara.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "ny-oneida",
+      "name": "Licensed mold assessors & remediators in Oneida County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/oneida/",
+      "feed": "https://moldroster.com/api/county/ny-oneida.json",
+      "count": 16,
+      "local_count": 16
+    },
+    {
+      "slug": "ny-onondaga",
+      "name": "Licensed mold assessors & remediators in Onondaga County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/onondaga/",
+      "feed": "https://moldroster.com/api/county/ny-onondaga.json",
+      "count": 35,
+      "local_count": 35
+    },
+    {
+      "slug": "ny-ontario",
+      "name": "Licensed mold assessors & remediators in Ontario County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/ontario/",
+      "feed": "https://moldroster.com/api/county/ny-ontario.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "ny-orange",
+      "name": "Licensed mold assessors & remediators in Orange County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/orange/",
+      "feed": "https://moldroster.com/api/county/ny-orange.json",
+      "count": 33,
+      "local_count": 33
+    },
+    {
+      "slug": "ny-orleans",
+      "name": "Licensed mold assessors & remediators in Orleans County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/orleans/",
+      "feed": "https://moldroster.com/api/county/ny-orleans.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "ny-oswego",
+      "name": "Licensed mold assessors & remediators in Oswego County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/oswego/",
+      "feed": "https://moldroster.com/api/county/ny-oswego.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-otsego",
+      "name": "Licensed mold assessors & remediators in Otsego County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/otsego/",
+      "feed": "https://moldroster.com/api/county/ny-otsego.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "ny-putnam",
+      "name": "Licensed mold assessors & remediators in Putnam County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/putnam/",
+      "feed": "https://moldroster.com/api/county/ny-putnam.json",
+      "count": 14,
+      "local_count": 14
+    },
+    {
+      "slug": "ny-queens",
+      "name": "Licensed mold assessors & remediators in Queens County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/queens/",
+      "feed": "https://moldroster.com/api/county/ny-queens.json",
+      "count": 154,
+      "local_count": 154
+    },
+    {
+      "slug": "ny-rensselaer",
+      "name": "Licensed mold assessors & remediators in Rensselaer County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/rensselaer/",
+      "feed": "https://moldroster.com/api/county/ny-rensselaer.json",
+      "count": 24,
+      "local_count": 24
+    },
+    {
+      "slug": "ny-richmond",
+      "name": "Licensed mold assessors & remediators in Richmond County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/richmond/",
+      "feed": "https://moldroster.com/api/county/ny-richmond.json",
+      "count": 53,
+      "local_count": 53
+    },
+    {
+      "slug": "ny-rockland",
+      "name": "Licensed mold assessors & remediators in Rockland County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/rockland/",
+      "feed": "https://moldroster.com/api/county/ny-rockland.json",
+      "count": 33,
+      "local_count": 33
+    },
+    {
+      "slug": "ny-saratoga",
+      "name": "Licensed mold assessors & remediators in Saratoga County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/saratoga/",
+      "feed": "https://moldroster.com/api/county/ny-saratoga.json",
+      "count": 25,
+      "local_count": 25
+    },
+    {
+      "slug": "ny-schenectady",
+      "name": "Licensed mold assessors & remediators in Schenectady County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/schenectady/",
+      "feed": "https://moldroster.com/api/county/ny-schenectady.json",
+      "count": 13,
+      "local_count": 13
+    },
+    {
+      "slug": "ny-schoharie",
+      "name": "Licensed mold assessors & remediators in Schoharie County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/schoharie/",
+      "feed": "https://moldroster.com/api/county/ny-schoharie.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "ny-st-lawrence",
+      "name": "Licensed mold assessors & remediators in St. Lawrence County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/st-lawrence/",
+      "feed": "https://moldroster.com/api/county/ny-st-lawrence.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-steuben",
+      "name": "Licensed mold assessors & remediators in Steuben County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/steuben/",
+      "feed": "https://moldroster.com/api/county/ny-steuben.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "ny-suffolk",
+      "name": "Licensed mold assessors & remediators in Suffolk County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/suffolk/",
+      "feed": "https://moldroster.com/api/county/ny-suffolk.json",
+      "count": 185,
+      "local_count": 185
+    },
+    {
+      "slug": "ny-sullivan",
+      "name": "Licensed mold assessors & remediators in Sullivan County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/sullivan/",
+      "feed": "https://moldroster.com/api/county/ny-sullivan.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "ny-tioga",
+      "name": "Licensed mold assessors & remediators in Tioga County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/tioga/",
+      "feed": "https://moldroster.com/api/county/ny-tioga.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "ny-tompkins",
+      "name": "Licensed mold assessors & remediators in Tompkins County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/tompkins/",
+      "feed": "https://moldroster.com/api/county/ny-tompkins.json",
+      "count": 3,
+      "local_count": 3
+    },
+    {
+      "slug": "ny-ulster",
+      "name": "Licensed mold assessors & remediators in Ulster County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/ulster/",
+      "feed": "https://moldroster.com/api/county/ny-ulster.json",
+      "count": 18,
+      "local_count": 18
+    },
+    {
+      "slug": "ny-warren",
+      "name": "Licensed mold assessors & remediators in Warren County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/warren/",
+      "feed": "https://moldroster.com/api/county/ny-warren.json",
+      "count": 9,
+      "local_count": 9
+    },
+    {
+      "slug": "ny-washington",
+      "name": "Licensed mold assessors & remediators in Washington County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/washington/",
+      "feed": "https://moldroster.com/api/county/ny-washington.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-wayne",
+      "name": "Licensed mold assessors & remediators in Wayne County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/wayne/",
+      "feed": "https://moldroster.com/api/county/ny-wayne.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "ny-westchester",
+      "name": "Licensed mold assessors & remediators in Westchester County, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/county/westchester/",
+      "feed": "https://moldroster.com/api/county/ny-westchester.json",
+      "count": 102,
+      "local_count": 102
+    },
+    {
+      "slug": "tx-aransas",
+      "name": "Licensed mold assessors & remediators in Aransas County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/aransas/",
+      "feed": "https://moldroster.com/api/county/tx-aransas.json",
+      "count": 3,
+      "local_count": 3
+    },
+    {
+      "slug": "tx-atascosa",
+      "name": "Licensed mold assessors & remediators in Atascosa County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/atascosa/",
+      "feed": "https://moldroster.com/api/county/tx-atascosa.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "tx-austin",
+      "name": "Licensed mold assessors & remediators in Austin County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/austin/",
+      "feed": "https://moldroster.com/api/county/tx-austin.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "tx-bandera",
+      "name": "Licensed mold assessors & remediators in Bandera County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/bandera/",
+      "feed": "https://moldroster.com/api/county/tx-bandera.json",
+      "count": 3,
+      "local_count": 3
+    },
+    {
+      "slug": "tx-bastrop",
+      "name": "Licensed mold assessors & remediators in Bastrop County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/bastrop/",
+      "feed": "https://moldroster.com/api/county/tx-bastrop.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "tx-bell",
+      "name": "Licensed mold assessors & remediators in Bell County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/bell/",
+      "feed": "https://moldroster.com/api/county/tx-bell.json",
+      "count": 14,
+      "local_count": 14
+    },
+    {
+      "slug": "tx-bexar",
+      "name": "Licensed mold assessors & remediators in Bexar County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/bexar/",
+      "feed": "https://moldroster.com/api/county/tx-bexar.json",
+      "count": 150,
+      "local_count": 150
+    },
+    {
+      "slug": "tx-bowie",
+      "name": "Licensed mold assessors & remediators in Bowie County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/bowie/",
+      "feed": "https://moldroster.com/api/county/tx-bowie.json",
+      "count": 3,
+      "local_count": 3
+    },
+    {
+      "slug": "tx-brazoria",
+      "name": "Licensed mold assessors & remediators in Brazoria County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/brazoria/",
+      "feed": "https://moldroster.com/api/county/tx-brazoria.json",
+      "count": 9,
+      "local_count": 9
+    },
+    {
+      "slug": "tx-brazos",
+      "name": "Licensed mold assessors & remediators in Brazos County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/brazos/",
+      "feed": "https://moldroster.com/api/county/tx-brazos.json",
+      "count": 26,
+      "local_count": 26
+    },
+    {
+      "slug": "tx-burleson",
+      "name": "Licensed mold assessors & remediators in Burleson County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/burleson/",
+      "feed": "https://moldroster.com/api/county/tx-burleson.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "tx-burnet",
+      "name": "Licensed mold assessors & remediators in Burnet County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/burnet/",
+      "feed": "https://moldroster.com/api/county/tx-burnet.json",
+      "count": 3,
+      "local_count": 3
+    },
+    {
+      "slug": "tx-caldwell",
+      "name": "Licensed mold assessors & remediators in Caldwell County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/caldwell/",
+      "feed": "https://moldroster.com/api/county/tx-caldwell.json",
+      "count": 9,
+      "local_count": 9
+    },
+    {
+      "slug": "tx-callahan",
+      "name": "Licensed mold assessors & remediators in Callahan County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/callahan/",
+      "feed": "https://moldroster.com/api/county/tx-callahan.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "tx-cameron",
+      "name": "Licensed mold assessors & remediators in Cameron County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/cameron/",
+      "feed": "https://moldroster.com/api/county/tx-cameron.json",
+      "count": 14,
+      "local_count": 14
+    },
+    {
+      "slug": "tx-chambers",
+      "name": "Licensed mold assessors & remediators in Chambers County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/chambers/",
+      "feed": "https://moldroster.com/api/county/tx-chambers.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "tx-clay",
+      "name": "Licensed mold assessors & remediators in Clay County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/clay/",
+      "feed": "https://moldroster.com/api/county/tx-clay.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "tx-collin",
+      "name": "Licensed mold assessors & remediators in Collin County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/collin/",
+      "feed": "https://moldroster.com/api/county/tx-collin.json",
+      "count": 107,
+      "local_count": 107
+    },
+    {
+      "slug": "tx-colorado",
+      "name": "Licensed mold assessors & remediators in Colorado County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/colorado/",
+      "feed": "https://moldroster.com/api/county/tx-colorado.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "tx-comal",
+      "name": "Licensed mold assessors & remediators in Comal County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/comal/",
+      "feed": "https://moldroster.com/api/county/tx-comal.json",
+      "count": 24,
+      "local_count": 24
+    },
+    {
+      "slug": "tx-cooke",
+      "name": "Licensed mold assessors & remediators in Cooke County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/cooke/",
+      "feed": "https://moldroster.com/api/county/tx-cooke.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "tx-coryell",
+      "name": "Licensed mold assessors & remediators in Coryell County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/coryell/",
+      "feed": "https://moldroster.com/api/county/tx-coryell.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "tx-dallas",
+      "name": "Licensed mold assessors & remediators in Dallas County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/dallas/",
+      "feed": "https://moldroster.com/api/county/tx-dallas.json",
+      "count": 186,
+      "local_count": 186
+    },
+    {
+      "slug": "tx-denton",
+      "name": "Licensed mold assessors & remediators in Denton County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/denton/",
+      "feed": "https://moldroster.com/api/county/tx-denton.json",
+      "count": 88,
+      "local_count": 88
+    },
+    {
+      "slug": "tx-ector",
+      "name": "Licensed mold assessors & remediators in Ector County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/ector/",
+      "feed": "https://moldroster.com/api/county/tx-ector.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "tx-el-paso",
+      "name": "Licensed mold assessors & remediators in El Paso County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/el-paso/",
+      "feed": "https://moldroster.com/api/county/tx-el-paso.json",
+      "count": 39,
+      "local_count": 39
+    },
+    {
+      "slug": "tx-ellis",
+      "name": "Licensed mold assessors & remediators in Ellis County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/ellis/",
+      "feed": "https://moldroster.com/api/county/tx-ellis.json",
+      "count": 18,
+      "local_count": 18
+    },
+    {
+      "slug": "tx-erath",
+      "name": "Licensed mold assessors & remediators in Erath County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/erath/",
+      "feed": "https://moldroster.com/api/county/tx-erath.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "tx-fannin",
+      "name": "Licensed mold assessors & remediators in Fannin County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/fannin/",
+      "feed": "https://moldroster.com/api/county/tx-fannin.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "tx-fayette",
+      "name": "Licensed mold assessors & remediators in Fayette County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/fayette/",
+      "feed": "https://moldroster.com/api/county/tx-fayette.json",
+      "count": 3,
+      "local_count": 3
+    },
+    {
+      "slug": "tx-fort-bend",
+      "name": "Licensed mold assessors & remediators in Fort Bend County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/fort-bend/",
+      "feed": "https://moldroster.com/api/county/tx-fort-bend.json",
+      "count": 69,
+      "local_count": 69
+    },
+    {
+      "slug": "tx-galveston",
+      "name": "Licensed mold assessors & remediators in Galveston County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/galveston/",
+      "feed": "https://moldroster.com/api/county/tx-galveston.json",
+      "count": 34,
+      "local_count": 34
+    },
+    {
+      "slug": "tx-gillespie",
+      "name": "Licensed mold assessors & remediators in Gillespie County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/gillespie/",
+      "feed": "https://moldroster.com/api/county/tx-gillespie.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "tx-grayson",
+      "name": "Licensed mold assessors & remediators in Grayson County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/grayson/",
+      "feed": "https://moldroster.com/api/county/tx-grayson.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "tx-gregg",
+      "name": "Licensed mold assessors & remediators in Gregg County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/gregg/",
+      "feed": "https://moldroster.com/api/county/tx-gregg.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "tx-grimes",
+      "name": "Licensed mold assessors & remediators in Grimes County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/grimes/",
+      "feed": "https://moldroster.com/api/county/tx-grimes.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "tx-guadalupe",
+      "name": "Licensed mold assessors & remediators in Guadalupe County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/guadalupe/",
+      "feed": "https://moldroster.com/api/county/tx-guadalupe.json",
+      "count": 15,
+      "local_count": 15
+    },
+    {
+      "slug": "tx-hardin",
+      "name": "Licensed mold assessors & remediators in Hardin County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/hardin/",
+      "feed": "https://moldroster.com/api/county/tx-hardin.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "tx-harris",
+      "name": "Licensed mold assessors & remediators in Harris County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/harris/",
+      "feed": "https://moldroster.com/api/county/tx-harris.json",
+      "count": 445,
+      "local_count": 445
+    },
+    {
+      "slug": "tx-harrison",
+      "name": "Licensed mold assessors & remediators in Harrison County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/harrison/",
+      "feed": "https://moldroster.com/api/county/tx-harrison.json",
+      "count": 3,
+      "local_count": 3
+    },
+    {
+      "slug": "tx-hays",
+      "name": "Licensed mold assessors & remediators in Hays County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/hays/",
+      "feed": "https://moldroster.com/api/county/tx-hays.json",
+      "count": 37,
+      "local_count": 37
+    },
+    {
+      "slug": "tx-henderson",
+      "name": "Licensed mold assessors & remediators in Henderson County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/henderson/",
+      "feed": "https://moldroster.com/api/county/tx-henderson.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "tx-hidalgo",
+      "name": "Licensed mold assessors & remediators in Hidalgo County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/hidalgo/",
+      "feed": "https://moldroster.com/api/county/tx-hidalgo.json",
+      "count": 12,
+      "local_count": 12
+    },
+    {
+      "slug": "tx-hill",
+      "name": "Licensed mold assessors & remediators in Hill County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/hill/",
+      "feed": "https://moldroster.com/api/county/tx-hill.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "tx-hood",
+      "name": "Licensed mold assessors & remediators in Hood County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/hood/",
+      "feed": "https://moldroster.com/api/county/tx-hood.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "tx-hudspeth",
+      "name": "Licensed mold assessors & remediators in Hudspeth County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/hudspeth/",
+      "feed": "https://moldroster.com/api/county/tx-hudspeth.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "tx-hunt",
+      "name": "Licensed mold assessors & remediators in Hunt County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/hunt/",
+      "feed": "https://moldroster.com/api/county/tx-hunt.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "tx-jefferson",
+      "name": "Licensed mold assessors & remediators in Jefferson County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/jefferson/",
+      "feed": "https://moldroster.com/api/county/tx-jefferson.json",
+      "count": 26,
+      "local_count": 26
+    },
+    {
+      "slug": "tx-jim-wells",
+      "name": "Licensed mold assessors & remediators in Jim Wells County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/jim-wells/",
+      "feed": "https://moldroster.com/api/county/tx-jim-wells.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "tx-johnson",
+      "name": "Licensed mold assessors & remediators in Johnson County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/johnson/",
+      "feed": "https://moldroster.com/api/county/tx-johnson.json",
+      "count": 10,
+      "local_count": 10
+    },
+    {
+      "slug": "tx-kaufman",
+      "name": "Licensed mold assessors & remediators in Kaufman County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/kaufman/",
+      "feed": "https://moldroster.com/api/county/tx-kaufman.json",
+      "count": 21,
+      "local_count": 21
+    },
+    {
+      "slug": "tx-kendall",
+      "name": "Licensed mold assessors & remediators in Kendall County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/kendall/",
+      "feed": "https://moldroster.com/api/county/tx-kendall.json",
+      "count": 10,
+      "local_count": 10
+    },
+    {
+      "slug": "tx-kerr",
+      "name": "Licensed mold assessors & remediators in Kerr County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/kerr/",
+      "feed": "https://moldroster.com/api/county/tx-kerr.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "tx-lamar",
+      "name": "Licensed mold assessors & remediators in Lamar County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/lamar/",
+      "feed": "https://moldroster.com/api/county/tx-lamar.json",
+      "count": 3,
+      "local_count": 3
+    },
+    {
+      "slug": "tx-lampasas",
+      "name": "Licensed mold assessors & remediators in Lampasas County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/lampasas/",
+      "feed": "https://moldroster.com/api/county/tx-lampasas.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "tx-lavaca",
+      "name": "Licensed mold assessors & remediators in Lavaca County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/lavaca/",
+      "feed": "https://moldroster.com/api/county/tx-lavaca.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "tx-liberty",
+      "name": "Licensed mold assessors & remediators in Liberty County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/liberty/",
+      "feed": "https://moldroster.com/api/county/tx-liberty.json",
+      "count": 3,
+      "local_count": 3
+    },
+    {
+      "slug": "tx-llano",
+      "name": "Licensed mold assessors & remediators in Llano County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/llano/",
+      "feed": "https://moldroster.com/api/county/tx-llano.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "tx-lubbock",
+      "name": "Licensed mold assessors & remediators in Lubbock County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/lubbock/",
+      "feed": "https://moldroster.com/api/county/tx-lubbock.json",
+      "count": 26,
+      "local_count": 26
+    },
+    {
+      "slug": "tx-madison",
+      "name": "Licensed mold assessors & remediators in Madison County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/madison/",
+      "feed": "https://moldroster.com/api/county/tx-madison.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "tx-matagorda",
+      "name": "Licensed mold assessors & remediators in Matagorda County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/matagorda/",
+      "feed": "https://moldroster.com/api/county/tx-matagorda.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "tx-maverick",
+      "name": "Licensed mold assessors & remediators in Maverick County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/maverick/",
+      "feed": "https://moldroster.com/api/county/tx-maverick.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "tx-mcculloch",
+      "name": "Licensed mold assessors & remediators in McCulloch County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/mcculloch/",
+      "feed": "https://moldroster.com/api/county/tx-mcculloch.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "tx-mclennan",
+      "name": "Licensed mold assessors & remediators in McLennan County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/mclennan/",
+      "feed": "https://moldroster.com/api/county/tx-mclennan.json",
+      "count": 26,
+      "local_count": 26
+    },
+    {
+      "slug": "tx-medina",
+      "name": "Licensed mold assessors & remediators in Medina County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/medina/",
+      "feed": "https://moldroster.com/api/county/tx-medina.json",
+      "count": 3,
+      "local_count": 3
+    },
+    {
+      "slug": "tx-midland",
+      "name": "Licensed mold assessors & remediators in Midland County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/midland/",
+      "feed": "https://moldroster.com/api/county/tx-midland.json",
+      "count": 3,
+      "local_count": 3
+    },
+    {
+      "slug": "tx-montague",
+      "name": "Licensed mold assessors & remediators in Montague County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/montague/",
+      "feed": "https://moldroster.com/api/county/tx-montague.json",
+      "count": 3,
+      "local_count": 3
+    },
+    {
+      "slug": "tx-montgomery",
+      "name": "Licensed mold assessors & remediators in Montgomery County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/montgomery/",
+      "feed": "https://moldroster.com/api/county/tx-montgomery.json",
+      "count": 116,
+      "local_count": 116
+    },
+    {
+      "slug": "tx-nacogdoches",
+      "name": "Licensed mold assessors & remediators in Nacogdoches County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/nacogdoches/",
+      "feed": "https://moldroster.com/api/county/tx-nacogdoches.json",
+      "count": 3,
+      "local_count": 3
+    },
+    {
+      "slug": "tx-navarro",
+      "name": "Licensed mold assessors & remediators in Navarro County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/navarro/",
+      "feed": "https://moldroster.com/api/county/tx-navarro.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "tx-newton",
+      "name": "Licensed mold assessors & remediators in Newton County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/newton/",
+      "feed": "https://moldroster.com/api/county/tx-newton.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "tx-nueces",
+      "name": "Licensed mold assessors & remediators in Nueces County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/nueces/",
+      "feed": "https://moldroster.com/api/county/tx-nueces.json",
+      "count": 17,
+      "local_count": 17
+    },
+    {
+      "slug": "tx-orange",
+      "name": "Licensed mold assessors & remediators in Orange County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/orange/",
+      "feed": "https://moldroster.com/api/county/tx-orange.json",
+      "count": 3,
+      "local_count": 3
+    },
+    {
+      "slug": "tx-palo-pinto",
+      "name": "Licensed mold assessors & remediators in Palo Pinto County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/palo-pinto/",
+      "feed": "https://moldroster.com/api/county/tx-palo-pinto.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "tx-parker",
+      "name": "Licensed mold assessors & remediators in Parker County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/parker/",
+      "feed": "https://moldroster.com/api/county/tx-parker.json",
+      "count": 10,
+      "local_count": 10
+    },
+    {
+      "slug": "tx-polk",
+      "name": "Licensed mold assessors & remediators in Polk County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/polk/",
+      "feed": "https://moldroster.com/api/county/tx-polk.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "tx-potter",
+      "name": "Licensed mold assessors & remediators in Potter County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/potter/",
+      "feed": "https://moldroster.com/api/county/tx-potter.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "tx-randall",
+      "name": "Licensed mold assessors & remediators in Randall County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/randall/",
+      "feed": "https://moldroster.com/api/county/tx-randall.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "tx-red-river",
+      "name": "Licensed mold assessors & remediators in Red River County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/red-river/",
+      "feed": "https://moldroster.com/api/county/tx-red-river.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "tx-robertson",
+      "name": "Licensed mold assessors & remediators in Robertson County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/robertson/",
+      "feed": "https://moldroster.com/api/county/tx-robertson.json",
+      "count": 3,
+      "local_count": 3
+    },
+    {
+      "slug": "tx-rockwall",
+      "name": "Licensed mold assessors & remediators in Rockwall County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/rockwall/",
+      "feed": "https://moldroster.com/api/county/tx-rockwall.json",
+      "count": 26,
+      "local_count": 26
+    },
+    {
+      "slug": "tx-san-jacinto",
+      "name": "Licensed mold assessors & remediators in San Jacinto County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/san-jacinto/",
+      "feed": "https://moldroster.com/api/county/tx-san-jacinto.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "tx-san-patricio",
+      "name": "Licensed mold assessors & remediators in San Patricio County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/san-patricio/",
+      "feed": "https://moldroster.com/api/county/tx-san-patricio.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "tx-smith",
+      "name": "Licensed mold assessors & remediators in Smith County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/smith/",
+      "feed": "https://moldroster.com/api/county/tx-smith.json",
+      "count": 16,
+      "local_count": 16
+    },
+    {
+      "slug": "tx-starr",
+      "name": "Licensed mold assessors & remediators in Starr County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/starr/",
+      "feed": "https://moldroster.com/api/county/tx-starr.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "tx-tarrant",
+      "name": "Licensed mold assessors & remediators in Tarrant County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/tarrant/",
+      "feed": "https://moldroster.com/api/county/tx-tarrant.json",
+      "count": 183,
+      "local_count": 183
+    },
+    {
+      "slug": "tx-taylor",
+      "name": "Licensed mold assessors & remediators in Taylor County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/taylor/",
+      "feed": "https://moldroster.com/api/county/tx-taylor.json",
+      "count": 18,
+      "local_count": 18
+    },
+    {
+      "slug": "tx-terry",
+      "name": "Licensed mold assessors & remediators in Terry County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/terry/",
+      "feed": "https://moldroster.com/api/county/tx-terry.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "tx-tom-green",
+      "name": "Licensed mold assessors & remediators in Tom Green County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/tom-green/",
+      "feed": "https://moldroster.com/api/county/tx-tom-green.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "tx-travis",
+      "name": "Licensed mold assessors & remediators in Travis County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/travis/",
+      "feed": "https://moldroster.com/api/county/tx-travis.json",
+      "count": 124,
+      "local_count": 124
+    },
+    {
+      "slug": "tx-uvalde",
+      "name": "Licensed mold assessors & remediators in Uvalde County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/uvalde/",
+      "feed": "https://moldroster.com/api/county/tx-uvalde.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "tx-van-zandt",
+      "name": "Licensed mold assessors & remediators in Van Zandt County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/van-zandt/",
+      "feed": "https://moldroster.com/api/county/tx-van-zandt.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "tx-victoria",
+      "name": "Licensed mold assessors & remediators in Victoria County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/victoria/",
+      "feed": "https://moldroster.com/api/county/tx-victoria.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "tx-walker",
+      "name": "Licensed mold assessors & remediators in Walker County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/walker/",
+      "feed": "https://moldroster.com/api/county/tx-walker.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "tx-waller",
+      "name": "Licensed mold assessors & remediators in Waller County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/waller/",
+      "feed": "https://moldroster.com/api/county/tx-waller.json",
+      "count": 16,
+      "local_count": 16
+    },
+    {
+      "slug": "tx-washington",
+      "name": "Licensed mold assessors & remediators in Washington County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/washington/",
+      "feed": "https://moldroster.com/api/county/tx-washington.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "tx-webb",
+      "name": "Licensed mold assessors & remediators in Webb County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/webb/",
+      "feed": "https://moldroster.com/api/county/tx-webb.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "tx-wichita",
+      "name": "Licensed mold assessors & remediators in Wichita County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/wichita/",
+      "feed": "https://moldroster.com/api/county/tx-wichita.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "tx-williamson",
+      "name": "Licensed mold assessors & remediators in Williamson County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/williamson/",
+      "feed": "https://moldroster.com/api/county/tx-williamson.json",
+      "count": 83,
+      "local_count": 83
+    },
+    {
+      "slug": "tx-wilson",
+      "name": "Licensed mold assessors & remediators in Wilson County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/wilson/",
+      "feed": "https://moldroster.com/api/county/tx-wilson.json",
+      "count": 3,
+      "local_count": 3
+    },
+    {
+      "slug": "tx-wise",
+      "name": "Licensed mold assessors & remediators in Wise County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/wise/",
+      "feed": "https://moldroster.com/api/county/tx-wise.json",
+      "count": 9,
+      "local_count": 9
+    },
+    {
+      "slug": "tx-wood",
+      "name": "Licensed mold assessors & remediators in Wood County, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/county/wood/",
+      "feed": "https://moldroster.com/api/county/tx-wood.json",
+      "count": 1,
+      "local_count": 1
+    }
+  ],
+  "cities": [
+    {
+      "slug": "fl-alachua",
+      "name": "Licensed mold assessors & remediators in Alachua, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/alachua/",
+      "feed": "https://moldroster.com/api/city/fl-alachua.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "fl-altamonte-springs",
+      "name": "Licensed mold assessors & remediators in Altamonte Springs, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/altamonte-springs/",
+      "feed": "https://moldroster.com/api/city/fl-altamonte-springs.json",
+      "count": 12,
+      "local_count": 12
+    },
+    {
+      "slug": "fl-apollo-beach",
+      "name": "Licensed mold assessors & remediators in Apollo Beach, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/apollo-beach/",
+      "feed": "https://moldroster.com/api/city/fl-apollo-beach.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "fl-apopka",
+      "name": "Licensed mold assessors & remediators in Apopka, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/apopka/",
+      "feed": "https://moldroster.com/api/city/fl-apopka.json",
+      "count": 11,
+      "local_count": 11
+    },
+    {
+      "slug": "fl-aventura",
+      "name": "Licensed mold assessors & remediators in Aventura, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/aventura/",
+      "feed": "https://moldroster.com/api/city/fl-aventura.json",
+      "count": 10,
+      "local_count": 10
+    },
+    {
+      "slug": "fl-boca-raton",
+      "name": "Licensed mold assessors & remediators in Boca Raton, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/boca-raton/",
+      "feed": "https://moldroster.com/api/city/fl-boca-raton.json",
+      "count": 91,
+      "local_count": 91
+    },
+    {
+      "slug": "fl-bonita-springs",
+      "name": "Licensed mold assessors & remediators in Bonita Springs, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/bonita-springs/",
+      "feed": "https://moldroster.com/api/city/fl-bonita-springs.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "fl-boynton-beach",
+      "name": "Licensed mold assessors & remediators in Boynton Beach, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/boynton-beach/",
+      "feed": "https://moldroster.com/api/city/fl-boynton-beach.json",
+      "count": 44,
+      "local_count": 44
+    },
+    {
+      "slug": "fl-bradenton",
+      "name": "Licensed mold assessors & remediators in Bradenton, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/bradenton/",
+      "feed": "https://moldroster.com/api/city/fl-bradenton.json",
+      "count": 35,
+      "local_count": 35
+    },
+    {
+      "slug": "fl-brandon",
+      "name": "Licensed mold assessors & remediators in Brandon, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/brandon/",
+      "feed": "https://moldroster.com/api/city/fl-brandon.json",
+      "count": 10,
+      "local_count": 10
+    },
+    {
+      "slug": "fl-brooksville",
+      "name": "Licensed mold assessors & remediators in Brooksville, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/brooksville/",
+      "feed": "https://moldroster.com/api/city/fl-brooksville.json",
+      "count": 9,
+      "local_count": 9
+    },
+    {
+      "slug": "fl-cape-coral",
+      "name": "Licensed mold assessors & remediators in Cape Coral, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/cape-coral/",
+      "feed": "https://moldroster.com/api/city/fl-cape-coral.json",
+      "count": 84,
+      "local_count": 84
+    },
+    {
+      "slug": "fl-casselberry",
+      "name": "Licensed mold assessors & remediators in Casselberry, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/casselberry/",
+      "feed": "https://moldroster.com/api/city/fl-casselberry.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "fl-clearwater",
+      "name": "Licensed mold assessors & remediators in Clearwater, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/clearwater/",
+      "feed": "https://moldroster.com/api/city/fl-clearwater.json",
+      "count": 37,
+      "local_count": 37
+    },
+    {
+      "slug": "fl-clermont",
+      "name": "Licensed mold assessors & remediators in Clermont, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/clermont/",
+      "feed": "https://moldroster.com/api/city/fl-clermont.json",
+      "count": 13,
+      "local_count": 13
+    },
+    {
+      "slug": "fl-cocoa",
+      "name": "Licensed mold assessors & remediators in Cocoa, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/cocoa/",
+      "feed": "https://moldroster.com/api/city/fl-cocoa.json",
+      "count": 13,
+      "local_count": 13
+    },
+    {
+      "slug": "fl-coconut-creek",
+      "name": "Licensed mold assessors & remediators in Coconut Creek, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/coconut-creek/",
+      "feed": "https://moldroster.com/api/city/fl-coconut-creek.json",
+      "count": 12,
+      "local_count": 12
+    },
+    {
+      "slug": "fl-cooper-city",
+      "name": "Licensed mold assessors & remediators in Cooper City, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/cooper-city/",
+      "feed": "https://moldroster.com/api/city/fl-cooper-city.json",
+      "count": 12,
+      "local_count": 12
+    },
+    {
+      "slug": "fl-coral-gables",
+      "name": "Licensed mold assessors & remediators in Coral Gables, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/coral-gables/",
+      "feed": "https://moldroster.com/api/city/fl-coral-gables.json",
+      "count": 10,
+      "local_count": 10
+    },
+    {
+      "slug": "fl-coral-springs",
+      "name": "Licensed mold assessors & remediators in Coral Springs, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/coral-springs/",
+      "feed": "https://moldroster.com/api/city/fl-coral-springs.json",
+      "count": 59,
+      "local_count": 59
+    },
+    {
+      "slug": "fl-crestview",
+      "name": "Licensed mold assessors & remediators in Crestview, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/crestview/",
+      "feed": "https://moldroster.com/api/city/fl-crestview.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "fl-crystal-river",
+      "name": "Licensed mold assessors & remediators in Crystal River, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/crystal-river/",
+      "feed": "https://moldroster.com/api/city/fl-crystal-river.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "fl-cutler-bay",
+      "name": "Licensed mold assessors & remediators in Cutler Bay, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/cutler-bay/",
+      "feed": "https://moldroster.com/api/city/fl-cutler-bay.json",
+      "count": 18,
+      "local_count": 18
+    },
+    {
+      "slug": "fl-dade-city",
+      "name": "Licensed mold assessors & remediators in Dade City, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/dade-city/",
+      "feed": "https://moldroster.com/api/city/fl-dade-city.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "fl-dania-beach",
+      "name": "Licensed mold assessors & remediators in Dania Beach, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/dania-beach/",
+      "feed": "https://moldroster.com/api/city/fl-dania-beach.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "fl-davenport",
+      "name": "Licensed mold assessors & remediators in Davenport, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/davenport/",
+      "feed": "https://moldroster.com/api/city/fl-davenport.json",
+      "count": 13,
+      "local_count": 13
+    },
+    {
+      "slug": "fl-davie",
+      "name": "Licensed mold assessors & remediators in Davie, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/davie/",
+      "feed": "https://moldroster.com/api/city/fl-davie.json",
+      "count": 46,
+      "local_count": 46
+    },
+    {
+      "slug": "fl-debary",
+      "name": "Licensed mold assessors & remediators in Debary, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/debary/",
+      "feed": "https://moldroster.com/api/city/fl-debary.json",
+      "count": 10,
+      "local_count": 10
+    },
+    {
+      "slug": "fl-deerfield-beach",
+      "name": "Licensed mold assessors & remediators in Deerfield Beach, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/deerfield-beach/",
+      "feed": "https://moldroster.com/api/city/fl-deerfield-beach.json",
+      "count": 23,
+      "local_count": 23
+    },
+    {
+      "slug": "fl-deland",
+      "name": "Licensed mold assessors & remediators in Deland, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/deland/",
+      "feed": "https://moldroster.com/api/city/fl-deland.json",
+      "count": 8,
+      "local_count": 8
+    },
+    {
+      "slug": "fl-delray-beach",
+      "name": "Licensed mold assessors & remediators in Delray Beach, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/delray-beach/",
+      "feed": "https://moldroster.com/api/city/fl-delray-beach.json",
+      "count": 27,
+      "local_count": 27
+    },
+    {
+      "slug": "fl-deltona",
+      "name": "Licensed mold assessors & remediators in Deltona, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/deltona/",
+      "feed": "https://moldroster.com/api/city/fl-deltona.json",
+      "count": 9,
+      "local_count": 9
+    },
+    {
+      "slug": "fl-destin",
+      "name": "Licensed mold assessors & remediators in Destin, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/destin/",
+      "feed": "https://moldroster.com/api/city/fl-destin.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "fl-doral",
+      "name": "Licensed mold assessors & remediators in Doral, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/doral/",
+      "feed": "https://moldroster.com/api/city/fl-doral.json",
+      "count": 28,
+      "local_count": 28
+    },
+    {
+      "slug": "fl-dunedin",
+      "name": "Licensed mold assessors & remediators in Dunedin, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/dunedin/",
+      "feed": "https://moldroster.com/api/city/fl-dunedin.json",
+      "count": 10,
+      "local_count": 10
+    },
+    {
+      "slug": "fl-estero",
+      "name": "Licensed mold assessors & remediators in Estero, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/estero/",
+      "feed": "https://moldroster.com/api/city/fl-estero.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "fl-eustis",
+      "name": "Licensed mold assessors & remediators in Eustis, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/eustis/",
+      "feed": "https://moldroster.com/api/city/fl-eustis.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "fl-fernandina-beach",
+      "name": "Licensed mold assessors & remediators in Fernandina Beach, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/fernandina-beach/",
+      "feed": "https://moldroster.com/api/city/fl-fernandina-beach.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "fl-fort-lauderdale",
+      "name": "Licensed mold assessors & remediators in Fort Lauderdale, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/fort-lauderdale/",
+      "feed": "https://moldroster.com/api/city/fl-fort-lauderdale.json",
+      "count": 60,
+      "local_count": 60
+    },
+    {
+      "slug": "fl-fort-myers",
+      "name": "Licensed mold assessors & remediators in Fort Myers, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/fort-myers/",
+      "feed": "https://moldroster.com/api/city/fl-fort-myers.json",
+      "count": 63,
+      "local_count": 63
+    },
+    {
+      "slug": "fl-fort-pierce",
+      "name": "Licensed mold assessors & remediators in Fort Pierce, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/fort-pierce/",
+      "feed": "https://moldroster.com/api/city/fl-fort-pierce.json",
+      "count": 12,
+      "local_count": 12
+    },
+    {
+      "slug": "fl-fort-walton-beach",
+      "name": "Licensed mold assessors & remediators in Fort Walton Beach, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/fort-walton-beach/",
+      "feed": "https://moldroster.com/api/city/fl-fort-walton-beach.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "fl-freeport",
+      "name": "Licensed mold assessors & remediators in Freeport, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/freeport/",
+      "feed": "https://moldroster.com/api/city/fl-freeport.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "fl-fruitland-park",
+      "name": "Licensed mold assessors & remediators in Fruitland Park, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/fruitland-park/",
+      "feed": "https://moldroster.com/api/city/fl-fruitland-park.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "fl-ft-lauderdale",
+      "name": "Licensed mold assessors & remediators in Ft. Lauderdale, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/ft-lauderdale/",
+      "feed": "https://moldroster.com/api/city/fl-ft-lauderdale.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "fl-gainesville",
+      "name": "Licensed mold assessors & remediators in Gainesville, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/gainesville/",
+      "feed": "https://moldroster.com/api/city/fl-gainesville.json",
+      "count": 19,
+      "local_count": 19
+    },
+    {
+      "slug": "fl-green-cove-springs",
+      "name": "Licensed mold assessors & remediators in Green Cove Springs, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/green-cove-springs/",
+      "feed": "https://moldroster.com/api/city/fl-green-cove-springs.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "fl-groveland",
+      "name": "Licensed mold assessors & remediators in Groveland, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/groveland/",
+      "feed": "https://moldroster.com/api/city/fl-groveland.json",
+      "count": 8,
+      "local_count": 8
+    },
+    {
+      "slug": "fl-gulf-breeze",
+      "name": "Licensed mold assessors & remediators in Gulf Breeze, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/gulf-breeze/",
+      "feed": "https://moldroster.com/api/city/fl-gulf-breeze.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "fl-haines-city",
+      "name": "Licensed mold assessors & remediators in Haines City, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/haines-city/",
+      "feed": "https://moldroster.com/api/city/fl-haines-city.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "fl-hialeah",
+      "name": "Licensed mold assessors & remediators in Hialeah, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/hialeah/",
+      "feed": "https://moldroster.com/api/city/fl-hialeah.json",
+      "count": 40,
+      "local_count": 40
+    },
+    {
+      "slug": "fl-high-springs",
+      "name": "Licensed mold assessors & remediators in High Springs, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/high-springs/",
+      "feed": "https://moldroster.com/api/city/fl-high-springs.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "fl-holiday",
+      "name": "Licensed mold assessors & remediators in Holiday, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/holiday/",
+      "feed": "https://moldroster.com/api/city/fl-holiday.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "fl-hollywood",
+      "name": "Licensed mold assessors & remediators in Hollywood, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/hollywood/",
+      "feed": "https://moldroster.com/api/city/fl-hollywood.json",
+      "count": 58,
+      "local_count": 58
+    },
+    {
+      "slug": "fl-homestead",
+      "name": "Licensed mold assessors & remediators in Homestead, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/homestead/",
+      "feed": "https://moldroster.com/api/city/fl-homestead.json",
+      "count": 22,
+      "local_count": 22
+    },
+    {
+      "slug": "fl-hudson",
+      "name": "Licensed mold assessors & remediators in Hudson, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/hudson/",
+      "feed": "https://moldroster.com/api/city/fl-hudson.json",
+      "count": 12,
+      "local_count": 12
+    },
+    {
+      "slug": "fl-indian-harbour-beach",
+      "name": "Licensed mold assessors & remediators in Indian Harbour Beach, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/indian-harbour-beach/",
+      "feed": "https://moldroster.com/api/city/fl-indian-harbour-beach.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "fl-jacksonville",
+      "name": "Licensed mold assessors & remediators in Jacksonville, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/jacksonville/",
+      "feed": "https://moldroster.com/api/city/fl-jacksonville.json",
+      "count": 97,
+      "local_count": 97
+    },
+    {
+      "slug": "fl-jacksonville-beach",
+      "name": "Licensed mold assessors & remediators in Jacksonville Beach, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/jacksonville-beach/",
+      "feed": "https://moldroster.com/api/city/fl-jacksonville-beach.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "fl-jensen-beach",
+      "name": "Licensed mold assessors & remediators in Jensen Beach, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/jensen-beach/",
+      "feed": "https://moldroster.com/api/city/fl-jensen-beach.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "fl-jupiter",
+      "name": "Licensed mold assessors & remediators in Jupiter, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/jupiter/",
+      "feed": "https://moldroster.com/api/city/fl-jupiter.json",
+      "count": 30,
+      "local_count": 30
+    },
+    {
+      "slug": "fl-kissimmee",
+      "name": "Licensed mold assessors & remediators in Kissimmee, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/kissimmee/",
+      "feed": "https://moldroster.com/api/city/fl-kissimmee.json",
+      "count": 42,
+      "local_count": 42
+    },
+    {
+      "slug": "fl-lake-mary",
+      "name": "Licensed mold assessors & remediators in Lake Mary, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/lake-mary/",
+      "feed": "https://moldroster.com/api/city/fl-lake-mary.json",
+      "count": 10,
+      "local_count": 10
+    },
+    {
+      "slug": "fl-lake-wales",
+      "name": "Licensed mold assessors & remediators in Lake Wales, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/lake-wales/",
+      "feed": "https://moldroster.com/api/city/fl-lake-wales.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "fl-lake-worth",
+      "name": "Licensed mold assessors & remediators in Lake Worth, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/lake-worth/",
+      "feed": "https://moldroster.com/api/city/fl-lake-worth.json",
+      "count": 37,
+      "local_count": 37
+    },
+    {
+      "slug": "fl-lakeland",
+      "name": "Licensed mold assessors & remediators in Lakeland, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/lakeland/",
+      "feed": "https://moldroster.com/api/city/fl-lakeland.json",
+      "count": 24,
+      "local_count": 24
+    },
+    {
+      "slug": "fl-land-o-lakes",
+      "name": "Licensed mold assessors & remediators in Land O' Lakes, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/land-o-lakes/",
+      "feed": "https://moldroster.com/api/city/fl-land-o-lakes.json",
+      "count": 19,
+      "local_count": 19
+    },
+    {
+      "slug": "fl-largo",
+      "name": "Licensed mold assessors & remediators in Largo, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/largo/",
+      "feed": "https://moldroster.com/api/city/fl-largo.json",
+      "count": 19,
+      "local_count": 19
+    },
+    {
+      "slug": "fl-lauderhill",
+      "name": "Licensed mold assessors & remediators in Lauderhill, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/lauderhill/",
+      "feed": "https://moldroster.com/api/city/fl-lauderhill.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "fl-leesburg",
+      "name": "Licensed mold assessors & remediators in Leesburg, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/leesburg/",
+      "feed": "https://moldroster.com/api/city/fl-leesburg.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "fl-lehigh-acres",
+      "name": "Licensed mold assessors & remediators in Lehigh Acres, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/lehigh-acres/",
+      "feed": "https://moldroster.com/api/city/fl-lehigh-acres.json",
+      "count": 17,
+      "local_count": 17
+    },
+    {
+      "slug": "fl-lighthouse-point",
+      "name": "Licensed mold assessors & remediators in Lighthouse Point, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/lighthouse-point/",
+      "feed": "https://moldroster.com/api/city/fl-lighthouse-point.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "fl-lithia",
+      "name": "Licensed mold assessors & remediators in Lithia, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/lithia/",
+      "feed": "https://moldroster.com/api/city/fl-lithia.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "fl-longwood",
+      "name": "Licensed mold assessors & remediators in Longwood, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/longwood/",
+      "feed": "https://moldroster.com/api/city/fl-longwood.json",
+      "count": 18,
+      "local_count": 18
+    },
+    {
+      "slug": "fl-loxahatchee",
+      "name": "Licensed mold assessors & remediators in Loxahatchee, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/loxahatchee/",
+      "feed": "https://moldroster.com/api/city/fl-loxahatchee.json",
+      "count": 12,
+      "local_count": 12
+    },
+    {
+      "slug": "fl-lutz",
+      "name": "Licensed mold assessors & remediators in Lutz, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/lutz/",
+      "feed": "https://moldroster.com/api/city/fl-lutz.json",
+      "count": 16,
+      "local_count": 16
+    },
+    {
+      "slug": "fl-lynn-haven",
+      "name": "Licensed mold assessors & remediators in Lynn Haven, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/lynn-haven/",
+      "feed": "https://moldroster.com/api/city/fl-lynn-haven.json",
+      "count": 9,
+      "local_count": 9
+    },
+    {
+      "slug": "fl-maitland",
+      "name": "Licensed mold assessors & remediators in Maitland, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/maitland/",
+      "feed": "https://moldroster.com/api/city/fl-maitland.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "fl-margate",
+      "name": "Licensed mold assessors & remediators in Margate, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/margate/",
+      "feed": "https://moldroster.com/api/city/fl-margate.json",
+      "count": 20,
+      "local_count": 20
+    },
+    {
+      "slug": "fl-melbourne",
+      "name": "Licensed mold assessors & remediators in Melbourne, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/melbourne/",
+      "feed": "https://moldroster.com/api/city/fl-melbourne.json",
+      "count": 22,
+      "local_count": 22
+    },
+    {
+      "slug": "fl-merritt-island",
+      "name": "Licensed mold assessors & remediators in Merritt Island, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/merritt-island/",
+      "feed": "https://moldroster.com/api/city/fl-merritt-island.json",
+      "count": 8,
+      "local_count": 8
+    },
+    {
+      "slug": "fl-miami",
+      "name": "Licensed mold assessors & remediators in Miami, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/miami/",
+      "feed": "https://moldroster.com/api/city/fl-miami.json",
+      "count": 336,
+      "local_count": 336
+    },
+    {
+      "slug": "fl-miami-beach",
+      "name": "Licensed mold assessors & remediators in Miami Beach, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/miami-beach/",
+      "feed": "https://moldroster.com/api/city/fl-miami-beach.json",
+      "count": 14,
+      "local_count": 14
+    },
+    {
+      "slug": "fl-miami-gardens",
+      "name": "Licensed mold assessors & remediators in Miami Gardens, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/miami-gardens/",
+      "feed": "https://moldroster.com/api/city/fl-miami-gardens.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "fl-miami-lakes",
+      "name": "Licensed mold assessors & remediators in Miami Lakes, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/miami-lakes/",
+      "feed": "https://moldroster.com/api/city/fl-miami-lakes.json",
+      "count": 18,
+      "local_count": 18
+    },
+    {
+      "slug": "fl-middleburg",
+      "name": "Licensed mold assessors & remediators in Middleburg, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/middleburg/",
+      "feed": "https://moldroster.com/api/city/fl-middleburg.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "fl-milton",
+      "name": "Licensed mold assessors & remediators in Milton, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/milton/",
+      "feed": "https://moldroster.com/api/city/fl-milton.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "fl-miramar",
+      "name": "Licensed mold assessors & remediators in Miramar, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/miramar/",
+      "feed": "https://moldroster.com/api/city/fl-miramar.json",
+      "count": 34,
+      "local_count": 34
+    },
+    {
+      "slug": "fl-miramar-beach",
+      "name": "Licensed mold assessors & remediators in Miramar Beach, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/miramar-beach/",
+      "feed": "https://moldroster.com/api/city/fl-miramar-beach.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "fl-mount-dora",
+      "name": "Licensed mold assessors & remediators in Mount Dora, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/mount-dora/",
+      "feed": "https://moldroster.com/api/city/fl-mount-dora.json",
+      "count": 8,
+      "local_count": 8
+    },
+    {
+      "slug": "fl-naples",
+      "name": "Licensed mold assessors & remediators in Naples, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/naples/",
+      "feed": "https://moldroster.com/api/city/fl-naples.json",
+      "count": 71,
+      "local_count": 71
+    },
+    {
+      "slug": "fl-navarre",
+      "name": "Licensed mold assessors & remediators in Navarre, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/navarre/",
+      "feed": "https://moldroster.com/api/city/fl-navarre.json",
+      "count": 9,
+      "local_count": 9
+    },
+    {
+      "slug": "fl-new-port-richey",
+      "name": "Licensed mold assessors & remediators in New Port Richey, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/new-port-richey/",
+      "feed": "https://moldroster.com/api/city/fl-new-port-richey.json",
+      "count": 34,
+      "local_count": 34
+    },
+    {
+      "slug": "fl-new-smyrna-beach",
+      "name": "Licensed mold assessors & remediators in New Smyrna Beach, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/new-smyrna-beach/",
+      "feed": "https://moldroster.com/api/city/fl-new-smyrna-beach.json",
+      "count": 8,
+      "local_count": 8
+    },
+    {
+      "slug": "fl-newberry",
+      "name": "Licensed mold assessors & remediators in Newberry, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/newberry/",
+      "feed": "https://moldroster.com/api/city/fl-newberry.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "fl-nokomis",
+      "name": "Licensed mold assessors & remediators in Nokomis, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/nokomis/",
+      "feed": "https://moldroster.com/api/city/fl-nokomis.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "fl-north-fort-myers",
+      "name": "Licensed mold assessors & remediators in North Fort Myers, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/north-fort-myers/",
+      "feed": "https://moldroster.com/api/city/fl-north-fort-myers.json",
+      "count": 10,
+      "local_count": 10
+    },
+    {
+      "slug": "fl-north-lauderdale",
+      "name": "Licensed mold assessors & remediators in North Lauderdale, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/north-lauderdale/",
+      "feed": "https://moldroster.com/api/city/fl-north-lauderdale.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "fl-north-miami",
+      "name": "Licensed mold assessors & remediators in North Miami, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/north-miami/",
+      "feed": "https://moldroster.com/api/city/fl-north-miami.json",
+      "count": 8,
+      "local_count": 8
+    },
+    {
+      "slug": "fl-north-miami-beach",
+      "name": "Licensed mold assessors & remediators in North Miami Beach, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/north-miami-beach/",
+      "feed": "https://moldroster.com/api/city/fl-north-miami-beach.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "fl-north-palm-beach",
+      "name": "Licensed mold assessors & remediators in North Palm Beach, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/north-palm-beach/",
+      "feed": "https://moldroster.com/api/city/fl-north-palm-beach.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "fl-north-port",
+      "name": "Licensed mold assessors & remediators in North Port, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/north-port/",
+      "feed": "https://moldroster.com/api/city/fl-north-port.json",
+      "count": 16,
+      "local_count": 16
+    },
+    {
+      "slug": "fl-oakland-park",
+      "name": "Licensed mold assessors & remediators in Oakland Park, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/oakland-park/",
+      "feed": "https://moldroster.com/api/city/fl-oakland-park.json",
+      "count": 10,
+      "local_count": 10
+    },
+    {
+      "slug": "fl-ocala",
+      "name": "Licensed mold assessors & remediators in Ocala, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/ocala/",
+      "feed": "https://moldroster.com/api/city/fl-ocala.json",
+      "count": 27,
+      "local_count": 27
+    },
+    {
+      "slug": "fl-ocoee",
+      "name": "Licensed mold assessors & remediators in Ocoee, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/ocoee/",
+      "feed": "https://moldroster.com/api/city/fl-ocoee.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "fl-odessa",
+      "name": "Licensed mold assessors & remediators in Odessa, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/odessa/",
+      "feed": "https://moldroster.com/api/city/fl-odessa.json",
+      "count": 9,
+      "local_count": 9
+    },
+    {
+      "slug": "fl-okeechobee",
+      "name": "Licensed mold assessors & remediators in Okeechobee, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/okeechobee/",
+      "feed": "https://moldroster.com/api/city/fl-okeechobee.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "fl-oldsmar",
+      "name": "Licensed mold assessors & remediators in Oldsmar, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/oldsmar/",
+      "feed": "https://moldroster.com/api/city/fl-oldsmar.json",
+      "count": 9,
+      "local_count": 9
+    },
+    {
+      "slug": "fl-orange-city",
+      "name": "Licensed mold assessors & remediators in Orange City, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/orange-city/",
+      "feed": "https://moldroster.com/api/city/fl-orange-city.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "fl-orange-park",
+      "name": "Licensed mold assessors & remediators in Orange Park, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/orange-park/",
+      "feed": "https://moldroster.com/api/city/fl-orange-park.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "fl-orlando",
+      "name": "Licensed mold assessors & remediators in Orlando, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/orlando/",
+      "feed": "https://moldroster.com/api/city/fl-orlando.json",
+      "count": 136,
+      "local_count": 136
+    },
+    {
+      "slug": "fl-ormond-beach",
+      "name": "Licensed mold assessors & remediators in Ormond Beach, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/ormond-beach/",
+      "feed": "https://moldroster.com/api/city/fl-ormond-beach.json",
+      "count": 10,
+      "local_count": 10
+    },
+    {
+      "slug": "fl-oviedo",
+      "name": "Licensed mold assessors & remediators in Oviedo, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/oviedo/",
+      "feed": "https://moldroster.com/api/city/fl-oviedo.json",
+      "count": 14,
+      "local_count": 14
+    },
+    {
+      "slug": "fl-palm-bay",
+      "name": "Licensed mold assessors & remediators in Palm Bay, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/palm-bay/",
+      "feed": "https://moldroster.com/api/city/fl-palm-bay.json",
+      "count": 12,
+      "local_count": 12
+    },
+    {
+      "slug": "fl-palm-beach-gardens",
+      "name": "Licensed mold assessors & remediators in Palm Beach Gardens, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/palm-beach-gardens/",
+      "feed": "https://moldroster.com/api/city/fl-palm-beach-gardens.json",
+      "count": 20,
+      "local_count": 20
+    },
+    {
+      "slug": "fl-palm-city",
+      "name": "Licensed mold assessors & remediators in Palm City, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/palm-city/",
+      "feed": "https://moldroster.com/api/city/fl-palm-city.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "fl-palm-coast",
+      "name": "Licensed mold assessors & remediators in Palm Coast, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/palm-coast/",
+      "feed": "https://moldroster.com/api/city/fl-palm-coast.json",
+      "count": 14,
+      "local_count": 14
+    },
+    {
+      "slug": "fl-palm-harbor",
+      "name": "Licensed mold assessors & remediators in Palm Harbor, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/palm-harbor/",
+      "feed": "https://moldroster.com/api/city/fl-palm-harbor.json",
+      "count": 13,
+      "local_count": 13
+    },
+    {
+      "slug": "fl-palm-springs",
+      "name": "Licensed mold assessors & remediators in Palm Springs, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/palm-springs/",
+      "feed": "https://moldroster.com/api/city/fl-palm-springs.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "fl-palmetto",
+      "name": "Licensed mold assessors & remediators in Palmetto, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/palmetto/",
+      "feed": "https://moldroster.com/api/city/fl-palmetto.json",
+      "count": 8,
+      "local_count": 8
+    },
+    {
+      "slug": "fl-palmetto-bay",
+      "name": "Licensed mold assessors & remediators in Palmetto Bay, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/palmetto-bay/",
+      "feed": "https://moldroster.com/api/city/fl-palmetto-bay.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "fl-panama-city",
+      "name": "Licensed mold assessors & remediators in Panama City, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/panama-city/",
+      "feed": "https://moldroster.com/api/city/fl-panama-city.json",
+      "count": 22,
+      "local_count": 22
+    },
+    {
+      "slug": "fl-panama-city-beach",
+      "name": "Licensed mold assessors & remediators in Panama City Beach, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/panama-city-beach/",
+      "feed": "https://moldroster.com/api/city/fl-panama-city-beach.json",
+      "count": 8,
+      "local_count": 8
+    },
+    {
+      "slug": "fl-parkland",
+      "name": "Licensed mold assessors & remediators in Parkland, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/parkland/",
+      "feed": "https://moldroster.com/api/city/fl-parkland.json",
+      "count": 17,
+      "local_count": 17
+    },
+    {
+      "slug": "fl-parrish",
+      "name": "Licensed mold assessors & remediators in Parrish, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/parrish/",
+      "feed": "https://moldroster.com/api/city/fl-parrish.json",
+      "count": 8,
+      "local_count": 8
+    },
+    {
+      "slug": "fl-pembroke-pines",
+      "name": "Licensed mold assessors & remediators in Pembroke Pines, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/pembroke-pines/",
+      "feed": "https://moldroster.com/api/city/fl-pembroke-pines.json",
+      "count": 41,
+      "local_count": 41
+    },
+    {
+      "slug": "fl-pensacola",
+      "name": "Licensed mold assessors & remediators in Pensacola, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/pensacola/",
+      "feed": "https://moldroster.com/api/city/fl-pensacola.json",
+      "count": 20,
+      "local_count": 20
+    },
+    {
+      "slug": "fl-pinecrest",
+      "name": "Licensed mold assessors & remediators in Pinecrest, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/pinecrest/",
+      "feed": "https://moldroster.com/api/city/fl-pinecrest.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "fl-pinellas-park",
+      "name": "Licensed mold assessors & remediators in Pinellas Park, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/pinellas-park/",
+      "feed": "https://moldroster.com/api/city/fl-pinellas-park.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "fl-plant-city",
+      "name": "Licensed mold assessors & remediators in Plant City, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/plant-city/",
+      "feed": "https://moldroster.com/api/city/fl-plant-city.json",
+      "count": 9,
+      "local_count": 9
+    },
+    {
+      "slug": "fl-plantation",
+      "name": "Licensed mold assessors & remediators in Plantation, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/plantation/",
+      "feed": "https://moldroster.com/api/city/fl-plantation.json",
+      "count": 26,
+      "local_count": 26
+    },
+    {
+      "slug": "fl-pompano",
+      "name": "Licensed mold assessors & remediators in Pompano, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/pompano/",
+      "feed": "https://moldroster.com/api/city/fl-pompano.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "fl-pompano-beach",
+      "name": "Licensed mold assessors & remediators in Pompano Beach, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/pompano-beach/",
+      "feed": "https://moldroster.com/api/city/fl-pompano-beach.json",
+      "count": 41,
+      "local_count": 41
+    },
+    {
+      "slug": "fl-ponte-vedra",
+      "name": "Licensed mold assessors & remediators in Ponte Vedra, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/ponte-vedra/",
+      "feed": "https://moldroster.com/api/city/fl-ponte-vedra.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "fl-port-charlotte",
+      "name": "Licensed mold assessors & remediators in Port Charlotte, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/port-charlotte/",
+      "feed": "https://moldroster.com/api/city/fl-port-charlotte.json",
+      "count": 19,
+      "local_count": 19
+    },
+    {
+      "slug": "fl-port-orange",
+      "name": "Licensed mold assessors & remediators in Port Orange, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/port-orange/",
+      "feed": "https://moldroster.com/api/city/fl-port-orange.json",
+      "count": 8,
+      "local_count": 8
+    },
+    {
+      "slug": "fl-port-richey",
+      "name": "Licensed mold assessors & remediators in Port Richey, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/port-richey/",
+      "feed": "https://moldroster.com/api/city/fl-port-richey.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "fl-port-saint-lucie",
+      "name": "Licensed mold assessors & remediators in Port Saint Lucie, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/port-saint-lucie/",
+      "feed": "https://moldroster.com/api/city/fl-port-saint-lucie.json",
+      "count": 23,
+      "local_count": 23
+    },
+    {
+      "slug": "fl-port-st-lucie",
+      "name": "Licensed mold assessors & remediators in Port St Lucie, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/port-st-lucie/",
+      "feed": "https://moldroster.com/api/city/fl-port-st-lucie.json",
+      "count": 40,
+      "local_count": 40
+    },
+    {
+      "slug": "fl-punta-gorda",
+      "name": "Licensed mold assessors & remediators in Punta Gorda, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/punta-gorda/",
+      "feed": "https://moldroster.com/api/city/fl-punta-gorda.json",
+      "count": 18,
+      "local_count": 18
+    },
+    {
+      "slug": "fl-riverview",
+      "name": "Licensed mold assessors & remediators in Riverview, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/riverview/",
+      "feed": "https://moldroster.com/api/city/fl-riverview.json",
+      "count": 23,
+      "local_count": 23
+    },
+    {
+      "slug": "fl-riviera-beach",
+      "name": "Licensed mold assessors & remediators in Riviera Beach, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/riviera-beach/",
+      "feed": "https://moldroster.com/api/city/fl-riviera-beach.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "fl-rockledge",
+      "name": "Licensed mold assessors & remediators in Rockledge, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/rockledge/",
+      "feed": "https://moldroster.com/api/city/fl-rockledge.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "fl-rotonda-west",
+      "name": "Licensed mold assessors & remediators in Rotonda West, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/rotonda-west/",
+      "feed": "https://moldroster.com/api/city/fl-rotonda-west.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "fl-royal-palm-beach",
+      "name": "Licensed mold assessors & remediators in Royal Palm Beach, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/royal-palm-beach/",
+      "feed": "https://moldroster.com/api/city/fl-royal-palm-beach.json",
+      "count": 10,
+      "local_count": 10
+    },
+    {
+      "slug": "fl-ruskin",
+      "name": "Licensed mold assessors & remediators in Ruskin, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/ruskin/",
+      "feed": "https://moldroster.com/api/city/fl-ruskin.json",
+      "count": 9,
+      "local_count": 9
+    },
+    {
+      "slug": "fl-saint-augustine",
+      "name": "Licensed mold assessors & remediators in Saint Augustine, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/saint-augustine/",
+      "feed": "https://moldroster.com/api/city/fl-saint-augustine.json",
+      "count": 15,
+      "local_count": 15
+    },
+    {
+      "slug": "fl-saint-cloud",
+      "name": "Licensed mold assessors & remediators in Saint Cloud, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/saint-cloud/",
+      "feed": "https://moldroster.com/api/city/fl-saint-cloud.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "fl-saint-johns",
+      "name": "Licensed mold assessors & remediators in Saint Johns, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/saint-johns/",
+      "feed": "https://moldroster.com/api/city/fl-saint-johns.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "fl-saint-petersburg",
+      "name": "Licensed mold assessors & remediators in Saint Petersburg, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/saint-petersburg/",
+      "feed": "https://moldroster.com/api/city/fl-saint-petersburg.json",
+      "count": 8,
+      "local_count": 8
+    },
+    {
+      "slug": "fl-san-antonio",
+      "name": "Licensed mold assessors & remediators in San Antonio, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/san-antonio/",
+      "feed": "https://moldroster.com/api/city/fl-san-antonio.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "fl-sanford",
+      "name": "Licensed mold assessors & remediators in Sanford, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/sanford/",
+      "feed": "https://moldroster.com/api/city/fl-sanford.json",
+      "count": 11,
+      "local_count": 11
+    },
+    {
+      "slug": "fl-santa-rosa-beach",
+      "name": "Licensed mold assessors & remediators in Santa Rosa Beach, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/santa-rosa-beach/",
+      "feed": "https://moldroster.com/api/city/fl-santa-rosa-beach.json",
+      "count": 10,
+      "local_count": 10
+    },
+    {
+      "slug": "fl-sarasota",
+      "name": "Licensed mold assessors & remediators in Sarasota, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/sarasota/",
+      "feed": "https://moldroster.com/api/city/fl-sarasota.json",
+      "count": 42,
+      "local_count": 42
+    },
+    {
+      "slug": "fl-satellite-beach",
+      "name": "Licensed mold assessors & remediators in Satellite Beach, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/satellite-beach/",
+      "feed": "https://moldroster.com/api/city/fl-satellite-beach.json",
+      "count": 8,
+      "local_count": 8
+    },
+    {
+      "slug": "fl-sebastian",
+      "name": "Licensed mold assessors & remediators in Sebastian, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/sebastian/",
+      "feed": "https://moldroster.com/api/city/fl-sebastian.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "fl-sebring",
+      "name": "Licensed mold assessors & remediators in Sebring, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/sebring/",
+      "feed": "https://moldroster.com/api/city/fl-sebring.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "fl-seffner",
+      "name": "Licensed mold assessors & remediators in Seffner, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/seffner/",
+      "feed": "https://moldroster.com/api/city/fl-seffner.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "fl-seminole",
+      "name": "Licensed mold assessors & remediators in Seminole, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/seminole/",
+      "feed": "https://moldroster.com/api/city/fl-seminole.json",
+      "count": 8,
+      "local_count": 8
+    },
+    {
+      "slug": "fl-sorrento",
+      "name": "Licensed mold assessors & remediators in Sorrento, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/sorrento/",
+      "feed": "https://moldroster.com/api/city/fl-sorrento.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "fl-southwest-ranches",
+      "name": "Licensed mold assessors & remediators in Southwest Ranches, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/southwest-ranches/",
+      "feed": "https://moldroster.com/api/city/fl-southwest-ranches.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "fl-spring-hill",
+      "name": "Licensed mold assessors & remediators in Spring Hill, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/spring-hill/",
+      "feed": "https://moldroster.com/api/city/fl-spring-hill.json",
+      "count": 18,
+      "local_count": 18
+    },
+    {
+      "slug": "fl-st-augustine",
+      "name": "Licensed mold assessors & remediators in St Augustine, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/st-augustine/",
+      "feed": "https://moldroster.com/api/city/fl-st-augustine.json",
+      "count": 11,
+      "local_count": 11
+    },
+    {
+      "slug": "fl-st-cloud",
+      "name": "Licensed mold assessors & remediators in St Cloud, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/st-cloud/",
+      "feed": "https://moldroster.com/api/city/fl-st-cloud.json",
+      "count": 8,
+      "local_count": 8
+    },
+    {
+      "slug": "fl-st-johns",
+      "name": "Licensed mold assessors & remediators in St. Johns, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/st-johns/",
+      "feed": "https://moldroster.com/api/city/fl-st-johns.json",
+      "count": 9,
+      "local_count": 9
+    },
+    {
+      "slug": "fl-st-petersburg",
+      "name": "Licensed mold assessors & remediators in St. Petersburg, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/st-petersburg/",
+      "feed": "https://moldroster.com/api/city/fl-st-petersburg.json",
+      "count": 48,
+      "local_count": 48
+    },
+    {
+      "slug": "fl-stuart",
+      "name": "Licensed mold assessors & remediators in Stuart, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/stuart/",
+      "feed": "https://moldroster.com/api/city/fl-stuart.json",
+      "count": 23,
+      "local_count": 23
+    },
+    {
+      "slug": "fl-sunrise",
+      "name": "Licensed mold assessors & remediators in Sunrise, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/sunrise/",
+      "feed": "https://moldroster.com/api/city/fl-sunrise.json",
+      "count": 31,
+      "local_count": 31
+    },
+    {
+      "slug": "fl-tallahassee",
+      "name": "Licensed mold assessors & remediators in Tallahassee, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/tallahassee/",
+      "feed": "https://moldroster.com/api/city/fl-tallahassee.json",
+      "count": 29,
+      "local_count": 29
+    },
+    {
+      "slug": "fl-tamarac",
+      "name": "Licensed mold assessors & remediators in Tamarac, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/tamarac/",
+      "feed": "https://moldroster.com/api/city/fl-tamarac.json",
+      "count": 26,
+      "local_count": 26
+    },
+    {
+      "slug": "fl-tampa",
+      "name": "Licensed mold assessors & remediators in Tampa, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/tampa/",
+      "feed": "https://moldroster.com/api/city/fl-tampa.json",
+      "count": 127,
+      "local_count": 127
+    },
+    {
+      "slug": "fl-tarpon-springs",
+      "name": "Licensed mold assessors & remediators in Tarpon Springs, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/tarpon-springs/",
+      "feed": "https://moldroster.com/api/city/fl-tarpon-springs.json",
+      "count": 9,
+      "local_count": 9
+    },
+    {
+      "slug": "fl-tavares",
+      "name": "Licensed mold assessors & remediators in Tavares, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/tavares/",
+      "feed": "https://moldroster.com/api/city/fl-tavares.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "fl-tavernier",
+      "name": "Licensed mold assessors & remediators in Tavernier, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/tavernier/",
+      "feed": "https://moldroster.com/api/city/fl-tavernier.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "fl-temple-terrace",
+      "name": "Licensed mold assessors & remediators in Temple Terrace, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/temple-terrace/",
+      "feed": "https://moldroster.com/api/city/fl-temple-terrace.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "fl-tequesta",
+      "name": "Licensed mold assessors & remediators in Tequesta, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/tequesta/",
+      "feed": "https://moldroster.com/api/city/fl-tequesta.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "fl-the-villages",
+      "name": "Licensed mold assessors & remediators in The Villages, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/the-villages/",
+      "feed": "https://moldroster.com/api/city/fl-the-villages.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "fl-titusville",
+      "name": "Licensed mold assessors & remediators in Titusville, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/titusville/",
+      "feed": "https://moldroster.com/api/city/fl-titusville.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "fl-valrico",
+      "name": "Licensed mold assessors & remediators in Valrico, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/valrico/",
+      "feed": "https://moldroster.com/api/city/fl-valrico.json",
+      "count": 17,
+      "local_count": 17
+    },
+    {
+      "slug": "fl-venice",
+      "name": "Licensed mold assessors & remediators in Venice, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/venice/",
+      "feed": "https://moldroster.com/api/city/fl-venice.json",
+      "count": 9,
+      "local_count": 9
+    },
+    {
+      "slug": "fl-vero-beach",
+      "name": "Licensed mold assessors & remediators in Vero Beach, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/vero-beach/",
+      "feed": "https://moldroster.com/api/city/fl-vero-beach.json",
+      "count": 17,
+      "local_count": 17
+    },
+    {
+      "slug": "fl-wellington",
+      "name": "Licensed mold assessors & remediators in Wellington, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/wellington/",
+      "feed": "https://moldroster.com/api/city/fl-wellington.json",
+      "count": 20,
+      "local_count": 20
+    },
+    {
+      "slug": "fl-wesley-chapel",
+      "name": "Licensed mold assessors & remediators in Wesley Chapel, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/wesley-chapel/",
+      "feed": "https://moldroster.com/api/city/fl-wesley-chapel.json",
+      "count": 12,
+      "local_count": 12
+    },
+    {
+      "slug": "fl-west-palm-beach",
+      "name": "Licensed mold assessors & remediators in West Palm Beach, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/west-palm-beach/",
+      "feed": "https://moldroster.com/api/city/fl-west-palm-beach.json",
+      "count": 43,
+      "local_count": 43
+    },
+    {
+      "slug": "fl-weston",
+      "name": "Licensed mold assessors & remediators in Weston, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/weston/",
+      "feed": "https://moldroster.com/api/city/fl-weston.json",
+      "count": 24,
+      "local_count": 24
+    },
+    {
+      "slug": "fl-windermere",
+      "name": "Licensed mold assessors & remediators in Windermere, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/windermere/",
+      "feed": "https://moldroster.com/api/city/fl-windermere.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "fl-winter-garden",
+      "name": "Licensed mold assessors & remediators in Winter Garden, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/winter-garden/",
+      "feed": "https://moldroster.com/api/city/fl-winter-garden.json",
+      "count": 16,
+      "local_count": 16
+    },
+    {
+      "slug": "fl-winter-haven",
+      "name": "Licensed mold assessors & remediators in Winter Haven, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/winter-haven/",
+      "feed": "https://moldroster.com/api/city/fl-winter-haven.json",
+      "count": 12,
+      "local_count": 12
+    },
+    {
+      "slug": "fl-winter-park",
+      "name": "Licensed mold assessors & remediators in Winter Park, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/winter-park/",
+      "feed": "https://moldroster.com/api/city/fl-winter-park.json",
+      "count": 11,
+      "local_count": 11
+    },
+    {
+      "slug": "fl-winter-springs",
+      "name": "Licensed mold assessors & remediators in Winter Springs, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/winter-springs/",
+      "feed": "https://moldroster.com/api/city/fl-winter-springs.json",
+      "count": 9,
+      "local_count": 9
+    },
+    {
+      "slug": "fl-yulee",
+      "name": "Licensed mold assessors & remediators in Yulee, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/yulee/",
+      "feed": "https://moldroster.com/api/city/fl-yulee.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "fl-zephyrhills",
+      "name": "Licensed mold assessors & remediators in Zephyrhills, FL",
+      "state": "FL",
+      "page": "https://moldroster.com/fl/city/zephyrhills/",
+      "feed": "https://moldroster.com/api/city/fl-zephyrhills.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "ny-airmont",
+      "name": "Licensed mold assessors & remediators in Airmont, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/airmont/",
+      "feed": "https://moldroster.com/api/city/ny-airmont.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "ny-albany",
+      "name": "Licensed mold assessors & remediators in Albany, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/albany/",
+      "feed": "https://moldroster.com/api/city/ny-albany.json",
+      "count": 25,
+      "local_count": 25
+    },
+    {
+      "slug": "ny-amityville",
+      "name": "Licensed mold assessors & remediators in Amityville, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/amityville/",
+      "feed": "https://moldroster.com/api/city/ny-amityville.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-astoria",
+      "name": "Licensed mold assessors & remediators in Astoria, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/astoria/",
+      "feed": "https://moldroster.com/api/city/ny-astoria.json",
+      "count": 16,
+      "local_count": 16
+    },
+    {
+      "slug": "ny-babylon",
+      "name": "Licensed mold assessors & remediators in Babylon, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/babylon/",
+      "feed": "https://moldroster.com/api/city/ny-babylon.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "ny-binghamton",
+      "name": "Licensed mold assessors & remediators in Binghamton, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/binghamton/",
+      "feed": "https://moldroster.com/api/city/ny-binghamton.json",
+      "count": 9,
+      "local_count": 9
+    },
+    {
+      "slug": "ny-bohemia",
+      "name": "Licensed mold assessors & remediators in Bohemia, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/bohemia/",
+      "feed": "https://moldroster.com/api/city/ny-bohemia.json",
+      "count": 14,
+      "local_count": 14
+    },
+    {
+      "slug": "ny-brentwood",
+      "name": "Licensed mold assessors & remediators in Brentwood, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/brentwood/",
+      "feed": "https://moldroster.com/api/city/ny-brentwood.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "ny-bronx",
+      "name": "Licensed mold assessors & remediators in Bronx, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/bronx/",
+      "feed": "https://moldroster.com/api/city/ny-bronx.json",
+      "count": 51,
+      "local_count": 51
+    },
+    {
+      "slug": "ny-brooklyn",
+      "name": "Licensed mold assessors & remediators in Brooklyn, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/brooklyn/",
+      "feed": "https://moldroster.com/api/city/ny-brooklyn.json",
+      "count": 124,
+      "local_count": 124
+    },
+    {
+      "slug": "ny-buffalo",
+      "name": "Licensed mold assessors & remediators in Buffalo, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/buffalo/",
+      "feed": "https://moldroster.com/api/city/ny-buffalo.json",
+      "count": 19,
+      "local_count": 19
+    },
+    {
+      "slug": "ny-cedarhurst",
+      "name": "Licensed mold assessors & remediators in Cedarhurst, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/cedarhurst/",
+      "feed": "https://moldroster.com/api/city/ny-cedarhurst.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-centereach",
+      "name": "Licensed mold assessors & remediators in Centereach, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/centereach/",
+      "feed": "https://moldroster.com/api/city/ny-centereach.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "ny-clifton-park",
+      "name": "Licensed mold assessors & remediators in Clifton Park, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/clifton-park/",
+      "feed": "https://moldroster.com/api/city/ny-clifton-park.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-commack",
+      "name": "Licensed mold assessors & remediators in Commack, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/commack/",
+      "feed": "https://moldroster.com/api/city/ny-commack.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-deer-park",
+      "name": "Licensed mold assessors & remediators in Deer Park, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/deer-park/",
+      "feed": "https://moldroster.com/api/city/ny-deer-park.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-east-elmhurst",
+      "name": "Licensed mold assessors & remediators in East Elmhurst, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/east-elmhurst/",
+      "feed": "https://moldroster.com/api/city/ny-east-elmhurst.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "ny-east-meadow",
+      "name": "Licensed mold assessors & remediators in East Meadow, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/east-meadow/",
+      "feed": "https://moldroster.com/api/city/ny-east-meadow.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "ny-east-northport",
+      "name": "Licensed mold assessors & remediators in East Northport, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/east-northport/",
+      "feed": "https://moldroster.com/api/city/ny-east-northport.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-elmont",
+      "name": "Licensed mold assessors & remediators in Elmont, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/elmont/",
+      "feed": "https://moldroster.com/api/city/ny-elmont.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "ny-elmsford",
+      "name": "Licensed mold assessors & remediators in Elmsford, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/elmsford/",
+      "feed": "https://moldroster.com/api/city/ny-elmsford.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "ny-farmingdale",
+      "name": "Licensed mold assessors & remediators in Farmingdale, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/farmingdale/",
+      "feed": "https://moldroster.com/api/city/ny-farmingdale.json",
+      "count": 8,
+      "local_count": 8
+    },
+    {
+      "slug": "ny-flushing",
+      "name": "Licensed mold assessors & remediators in Flushing, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/flushing/",
+      "feed": "https://moldroster.com/api/city/ny-flushing.json",
+      "count": 8,
+      "local_count": 8
+    },
+    {
+      "slug": "ny-glen-head",
+      "name": "Licensed mold assessors & remediators in Glen Head, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/glen-head/",
+      "feed": "https://moldroster.com/api/city/ny-glen-head.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-hicksville",
+      "name": "Licensed mold assessors & remediators in Hicksville, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/hicksville/",
+      "feed": "https://moldroster.com/api/city/ny-hicksville.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "ny-highland",
+      "name": "Licensed mold assessors & remediators in Highland, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/highland/",
+      "feed": "https://moldroster.com/api/city/ny-highland.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-holbrook",
+      "name": "Licensed mold assessors & remediators in Holbrook, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/holbrook/",
+      "feed": "https://moldroster.com/api/city/ny-holbrook.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "ny-islandia",
+      "name": "Licensed mold assessors & remediators in Islandia, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/islandia/",
+      "feed": "https://moldroster.com/api/city/ny-islandia.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-jamaica",
+      "name": "Licensed mold assessors & remediators in Jamaica, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/jamaica/",
+      "feed": "https://moldroster.com/api/city/ny-jamaica.json",
+      "count": 8,
+      "local_count": 8
+    },
+    {
+      "slug": "ny-kingston",
+      "name": "Licensed mold assessors & remediators in Kingston, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/kingston/",
+      "feed": "https://moldroster.com/api/city/ny-kingston.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "ny-lancaster",
+      "name": "Licensed mold assessors & remediators in Lancaster, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/lancaster/",
+      "feed": "https://moldroster.com/api/city/ny-lancaster.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-latham",
+      "name": "Licensed mold assessors & remediators in Latham, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/latham/",
+      "feed": "https://moldroster.com/api/city/ny-latham.json",
+      "count": 8,
+      "local_count": 8
+    },
+    {
+      "slug": "ny-levittown",
+      "name": "Licensed mold assessors & remediators in Levittown, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/levittown/",
+      "feed": "https://moldroster.com/api/city/ny-levittown.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "ny-lindenhurst",
+      "name": "Licensed mold assessors & remediators in Lindenhurst, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/lindenhurst/",
+      "feed": "https://moldroster.com/api/city/ny-lindenhurst.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "ny-liverpool",
+      "name": "Licensed mold assessors & remediators in Liverpool, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/liverpool/",
+      "feed": "https://moldroster.com/api/city/ny-liverpool.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-long-island-city",
+      "name": "Licensed mold assessors & remediators in Long Island City, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/long-island-city/",
+      "feed": "https://moldroster.com/api/city/ny-long-island-city.json",
+      "count": 19,
+      "local_count": 19
+    },
+    {
+      "slug": "ny-mahopac",
+      "name": "Licensed mold assessors & remediators in Mahopac, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/mahopac/",
+      "feed": "https://moldroster.com/api/city/ny-mahopac.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "ny-maspeth",
+      "name": "Licensed mold assessors & remediators in Maspeth, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/maspeth/",
+      "feed": "https://moldroster.com/api/city/ny-maspeth.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "ny-massapequa",
+      "name": "Licensed mold assessors & remediators in Massapequa, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/massapequa/",
+      "feed": "https://moldroster.com/api/city/ny-massapequa.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "ny-mechanicville",
+      "name": "Licensed mold assessors & remediators in Mechanicville, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/mechanicville/",
+      "feed": "https://moldroster.com/api/city/ny-mechanicville.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-medford",
+      "name": "Licensed mold assessors & remediators in Medford, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/medford/",
+      "feed": "https://moldroster.com/api/city/ny-medford.json",
+      "count": 9,
+      "local_count": 9
+    },
+    {
+      "slug": "ny-melville",
+      "name": "Licensed mold assessors & remediators in Melville, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/melville/",
+      "feed": "https://moldroster.com/api/city/ny-melville.json",
+      "count": 8,
+      "local_count": 8
+    },
+    {
+      "slug": "ny-middletown",
+      "name": "Licensed mold assessors & remediators in Middletown, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/middletown/",
+      "feed": "https://moldroster.com/api/city/ny-middletown.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-monroe",
+      "name": "Licensed mold assessors & remediators in Monroe, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/monroe/",
+      "feed": "https://moldroster.com/api/city/ny-monroe.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-mount-vernon",
+      "name": "Licensed mold assessors & remediators in Mount Vernon, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/mount-vernon/",
+      "feed": "https://moldroster.com/api/city/ny-mount-vernon.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-nesconset",
+      "name": "Licensed mold assessors & remediators in Nesconset, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/nesconset/",
+      "feed": "https://moldroster.com/api/city/ny-nesconset.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-new-city",
+      "name": "Licensed mold assessors & remediators in New City, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/new-city/",
+      "feed": "https://moldroster.com/api/city/ny-new-city.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "ny-new-hartford",
+      "name": "Licensed mold assessors & remediators in New Hartford, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/new-hartford/",
+      "feed": "https://moldroster.com/api/city/ny-new-hartford.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-new-hyde-park",
+      "name": "Licensed mold assessors & remediators in New Hyde Park, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/new-hyde-park/",
+      "feed": "https://moldroster.com/api/city/ny-new-hyde-park.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "ny-new-rochelle",
+      "name": "Licensed mold assessors & remediators in New Rochelle, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/new-rochelle/",
+      "feed": "https://moldroster.com/api/city/ny-new-rochelle.json",
+      "count": 8,
+      "local_count": 8
+    },
+    {
+      "slug": "ny-new-york",
+      "name": "Licensed mold assessors & remediators in New York, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/new-york/",
+      "feed": "https://moldroster.com/api/city/ny-new-york.json",
+      "count": 65,
+      "local_count": 65
+    },
+    {
+      "slug": "ny-newburgh",
+      "name": "Licensed mold assessors & remediators in Newburgh, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/newburgh/",
+      "feed": "https://moldroster.com/api/city/ny-newburgh.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "ny-niagara-falls",
+      "name": "Licensed mold assessors & remediators in Niagara Falls, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/niagara-falls/",
+      "feed": "https://moldroster.com/api/city/ny-niagara-falls.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-oceanside",
+      "name": "Licensed mold assessors & remediators in Oceanside, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/oceanside/",
+      "feed": "https://moldroster.com/api/city/ny-oceanside.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-orchard-park",
+      "name": "Licensed mold assessors & remediators in Orchard Park, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/orchard-park/",
+      "feed": "https://moldroster.com/api/city/ny-orchard-park.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "ny-ozone-park",
+      "name": "Licensed mold assessors & remediators in Ozone Park, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/ozone-park/",
+      "feed": "https://moldroster.com/api/city/ny-ozone-park.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-patchogue",
+      "name": "Licensed mold assessors & remediators in Patchogue, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/patchogue/",
+      "feed": "https://moldroster.com/api/city/ny-patchogue.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "ny-plainview",
+      "name": "Licensed mold assessors & remediators in Plainview, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/plainview/",
+      "feed": "https://moldroster.com/api/city/ny-plainview.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "ny-plattsburgh",
+      "name": "Licensed mold assessors & remediators in Plattsburgh, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/plattsburgh/",
+      "feed": "https://moldroster.com/api/city/ny-plattsburgh.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-pleasant-valley",
+      "name": "Licensed mold assessors & remediators in Pleasant Valley, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/pleasant-valley/",
+      "feed": "https://moldroster.com/api/city/ny-pleasant-valley.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "ny-port-washington",
+      "name": "Licensed mold assessors & remediators in Port Washington, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/port-washington/",
+      "feed": "https://moldroster.com/api/city/ny-port-washington.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "ny-poughkeepsie",
+      "name": "Licensed mold assessors & remediators in Poughkeepsie, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/poughkeepsie/",
+      "feed": "https://moldroster.com/api/city/ny-poughkeepsie.json",
+      "count": 11,
+      "local_count": 11
+    },
+    {
+      "slug": "ny-queens",
+      "name": "Licensed mold assessors & remediators in Queens, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/queens/",
+      "feed": "https://moldroster.com/api/city/ny-queens.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "ny-queensbury",
+      "name": "Licensed mold assessors & remediators in Queensbury, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/queensbury/",
+      "feed": "https://moldroster.com/api/city/ny-queensbury.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "ny-richmond-hill",
+      "name": "Licensed mold assessors & remediators in Richmond Hill, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/richmond-hill/",
+      "feed": "https://moldroster.com/api/city/ny-richmond-hill.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "ny-rochester",
+      "name": "Licensed mold assessors & remediators in Rochester, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/rochester/",
+      "feed": "https://moldroster.com/api/city/ny-rochester.json",
+      "count": 37,
+      "local_count": 37
+    },
+    {
+      "slug": "ny-ronkonkoma",
+      "name": "Licensed mold assessors & remediators in Ronkonkoma, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/ronkonkoma/",
+      "feed": "https://moldroster.com/api/city/ny-ronkonkoma.json",
+      "count": 17,
+      "local_count": 17
+    },
+    {
+      "slug": "ny-roslyn-heights",
+      "name": "Licensed mold assessors & remediators in Roslyn Heights, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/roslyn-heights/",
+      "feed": "https://moldroster.com/api/city/ny-roslyn-heights.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-saugerties",
+      "name": "Licensed mold assessors & remediators in Saugerties, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/saugerties/",
+      "feed": "https://moldroster.com/api/city/ny-saugerties.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-schenectady",
+      "name": "Licensed mold assessors & remediators in Schenectady, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/schenectady/",
+      "feed": "https://moldroster.com/api/city/ny-schenectady.json",
+      "count": 11,
+      "local_count": 11
+    },
+    {
+      "slug": "ny-south-ozone-park",
+      "name": "Licensed mold assessors & remediators in South Ozone Park, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/south-ozone-park/",
+      "feed": "https://moldroster.com/api/city/ny-south-ozone-park.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "ny-staten-island",
+      "name": "Licensed mold assessors & remediators in Staten Island, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/staten-island/",
+      "feed": "https://moldroster.com/api/city/ny-staten-island.json",
+      "count": 53,
+      "local_count": 53
+    },
+    {
+      "slug": "ny-suffern",
+      "name": "Licensed mold assessors & remediators in Suffern, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/suffern/",
+      "feed": "https://moldroster.com/api/city/ny-suffern.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-syosset",
+      "name": "Licensed mold assessors & remediators in Syosset, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/syosset/",
+      "feed": "https://moldroster.com/api/city/ny-syosset.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-syracuse",
+      "name": "Licensed mold assessors & remediators in Syracuse, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/syracuse/",
+      "feed": "https://moldroster.com/api/city/ny-syracuse.json",
+      "count": 15,
+      "local_count": 15
+    },
+    {
+      "slug": "ny-troy",
+      "name": "Licensed mold assessors & remediators in Troy, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/troy/",
+      "feed": "https://moldroster.com/api/city/ny-troy.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "ny-valley-stream",
+      "name": "Licensed mold assessors & remediators in Valley Stream, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/valley-stream/",
+      "feed": "https://moldroster.com/api/city/ny-valley-stream.json",
+      "count": 10,
+      "local_count": 10
+    },
+    {
+      "slug": "ny-wantagh",
+      "name": "Licensed mold assessors & remediators in Wantagh, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/wantagh/",
+      "feed": "https://moldroster.com/api/city/ny-wantagh.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "ny-west-babylon",
+      "name": "Licensed mold assessors & remediators in West Babylon, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/west-babylon/",
+      "feed": "https://moldroster.com/api/city/ny-west-babylon.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "ny-westbury",
+      "name": "Licensed mold assessors & remediators in Westbury, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/westbury/",
+      "feed": "https://moldroster.com/api/city/ny-westbury.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "ny-white-plains",
+      "name": "Licensed mold assessors & remediators in White Plains, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/white-plains/",
+      "feed": "https://moldroster.com/api/city/ny-white-plains.json",
+      "count": 10,
+      "local_count": 10
+    },
+    {
+      "slug": "ny-whitestone",
+      "name": "Licensed mold assessors & remediators in Whitestone, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/whitestone/",
+      "feed": "https://moldroster.com/api/city/ny-whitestone.json",
+      "count": 8,
+      "local_count": 8
+    },
+    {
+      "slug": "ny-woodside",
+      "name": "Licensed mold assessors & remediators in Woodside, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/woodside/",
+      "feed": "https://moldroster.com/api/city/ny-woodside.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-wynantskill",
+      "name": "Licensed mold assessors & remediators in Wynantskill, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/wynantskill/",
+      "feed": "https://moldroster.com/api/city/ny-wynantskill.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-yaphank",
+      "name": "Licensed mold assessors & remediators in Yaphank, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/yaphank/",
+      "feed": "https://moldroster.com/api/city/ny-yaphank.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-yonkers",
+      "name": "Licensed mold assessors & remediators in Yonkers, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/yonkers/",
+      "feed": "https://moldroster.com/api/city/ny-yonkers.json",
+      "count": 23,
+      "local_count": 23
+    },
+    {
+      "slug": "ny-yorktown-heights",
+      "name": "Licensed mold assessors & remediators in Yorktown Heights, NY",
+      "state": "NY",
+      "page": "https://moldroster.com/ny/city/yorktown-heights/",
+      "feed": "https://moldroster.com/api/city/ny-yorktown-heights.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "tx-abilene",
+      "name": "Licensed mold assessors & remediators in Abilene, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/city/abilene/",
+      "feed": "https://moldroster.com/api/city/tx-abilene.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "tx-argyle",
+      "name": "Licensed mold assessors & remediators in Argyle, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/city/argyle/",
+      "feed": "https://moldroster.com/api/city/tx-argyle.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "tx-arlington",
+      "name": "Licensed mold assessors & remediators in Arlington, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/city/arlington/",
+      "feed": "https://moldroster.com/api/city/tx-arlington.json",
+      "count": 10,
+      "local_count": 10
+    },
+    {
+      "slug": "tx-austin",
+      "name": "Licensed mold assessors & remediators in Austin, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/city/austin/",
+      "feed": "https://moldroster.com/api/city/tx-austin.json",
+      "count": 31,
+      "local_count": 31
+    },
+    {
+      "slug": "tx-boerne",
+      "name": "Licensed mold assessors & remediators in Boerne, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/city/boerne/",
+      "feed": "https://moldroster.com/api/city/tx-boerne.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "tx-carrollton",
+      "name": "Licensed mold assessors & remediators in Carrollton, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/city/carrollton/",
+      "feed": "https://moldroster.com/api/city/tx-carrollton.json",
+      "count": 10,
+      "local_count": 10
+    },
+    {
+      "slug": "tx-cedar-park",
+      "name": "Licensed mold assessors & remediators in Cedar Park, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/city/cedar-park/",
+      "feed": "https://moldroster.com/api/city/tx-cedar-park.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "tx-college-station",
+      "name": "Licensed mold assessors & remediators in College Station, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/city/college-station/",
+      "feed": "https://moldroster.com/api/city/tx-college-station.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "tx-conroe",
+      "name": "Licensed mold assessors & remediators in Conroe, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/city/conroe/",
+      "feed": "https://moldroster.com/api/city/tx-conroe.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "tx-cypress",
+      "name": "Licensed mold assessors & remediators in Cypress, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/city/cypress/",
+      "feed": "https://moldroster.com/api/city/tx-cypress.json",
+      "count": 10,
+      "local_count": 10
+    },
+    {
+      "slug": "tx-dallas",
+      "name": "Licensed mold assessors & remediators in Dallas, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/city/dallas/",
+      "feed": "https://moldroster.com/api/city/tx-dallas.json",
+      "count": 25,
+      "local_count": 25
+    },
+    {
+      "slug": "tx-el-paso",
+      "name": "Licensed mold assessors & remediators in El Paso, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/city/el-paso/",
+      "feed": "https://moldroster.com/api/city/tx-el-paso.json",
+      "count": 10,
+      "local_count": 10
+    },
+    {
+      "slug": "tx-fort-worth",
+      "name": "Licensed mold assessors & remediators in Fort Worth, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/city/fort-worth/",
+      "feed": "https://moldroster.com/api/city/tx-fort-worth.json",
+      "count": 15,
+      "local_count": 15
+    },
+    {
+      "slug": "tx-garland",
+      "name": "Licensed mold assessors & remediators in Garland, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/city/garland/",
+      "feed": "https://moldroster.com/api/city/tx-garland.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "tx-georgetown",
+      "name": "Licensed mold assessors & remediators in Georgetown, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/city/georgetown/",
+      "feed": "https://moldroster.com/api/city/tx-georgetown.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "tx-haltom-city",
+      "name": "Licensed mold assessors & remediators in Haltom City, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/city/haltom-city/",
+      "feed": "https://moldroster.com/api/city/tx-haltom-city.json",
+      "count": 9,
+      "local_count": 9
+    },
+    {
+      "slug": "tx-harlingen",
+      "name": "Licensed mold assessors & remediators in Harlingen, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/city/harlingen/",
+      "feed": "https://moldroster.com/api/city/tx-harlingen.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "tx-houston",
+      "name": "Licensed mold assessors & remediators in Houston, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/city/houston/",
+      "feed": "https://moldroster.com/api/city/tx-houston.json",
+      "count": 87,
+      "local_count": 87
+    },
+    {
+      "slug": "tx-humble",
+      "name": "Licensed mold assessors & remediators in Humble, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/city/humble/",
+      "feed": "https://moldroster.com/api/city/tx-humble.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "tx-hutto",
+      "name": "Licensed mold assessors & remediators in Hutto, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/city/hutto/",
+      "feed": "https://moldroster.com/api/city/tx-hutto.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "tx-katy",
+      "name": "Licensed mold assessors & remediators in Katy, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/city/katy/",
+      "feed": "https://moldroster.com/api/city/tx-katy.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "tx-league-city",
+      "name": "Licensed mold assessors & remediators in League City, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/city/league-city/",
+      "feed": "https://moldroster.com/api/city/tx-league-city.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "tx-leander",
+      "name": "Licensed mold assessors & remediators in Leander, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/city/leander/",
+      "feed": "https://moldroster.com/api/city/tx-leander.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "tx-lewisville",
+      "name": "Licensed mold assessors & remediators in Lewisville, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/city/lewisville/",
+      "feed": "https://moldroster.com/api/city/tx-lewisville.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "tx-lubbock",
+      "name": "Licensed mold assessors & remediators in Lubbock, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/city/lubbock/",
+      "feed": "https://moldroster.com/api/city/tx-lubbock.json",
+      "count": 8,
+      "local_count": 8
+    },
+    {
+      "slug": "tx-magnolia",
+      "name": "Licensed mold assessors & remediators in Magnolia, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/city/magnolia/",
+      "feed": "https://moldroster.com/api/city/tx-magnolia.json",
+      "count": 8,
+      "local_count": 8
+    },
+    {
+      "slug": "tx-mansfield",
+      "name": "Licensed mold assessors & remediators in Mansfield, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/city/mansfield/",
+      "feed": "https://moldroster.com/api/city/tx-mansfield.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "tx-mckinney",
+      "name": "Licensed mold assessors & remediators in McKinney, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/city/mckinney/",
+      "feed": "https://moldroster.com/api/city/tx-mckinney.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "tx-north-richland-hills",
+      "name": "Licensed mold assessors & remediators in North Richland Hills, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/city/north-richland-hills/",
+      "feed": "https://moldroster.com/api/city/tx-north-richland-hills.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "tx-pflugerville",
+      "name": "Licensed mold assessors & remediators in Pflugerville, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/city/pflugerville/",
+      "feed": "https://moldroster.com/api/city/tx-pflugerville.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "tx-plano",
+      "name": "Licensed mold assessors & remediators in Plano, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/city/plano/",
+      "feed": "https://moldroster.com/api/city/tx-plano.json",
+      "count": 16,
+      "local_count": 16
+    },
+    {
+      "slug": "tx-richardson",
+      "name": "Licensed mold assessors & remediators in Richardson, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/city/richardson/",
+      "feed": "https://moldroster.com/api/city/tx-richardson.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "tx-rockwall",
+      "name": "Licensed mold assessors & remediators in Rockwall, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/city/rockwall/",
+      "feed": "https://moldroster.com/api/city/tx-rockwall.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "tx-royse-city",
+      "name": "Licensed mold assessors & remediators in Royse City, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/city/royse-city/",
+      "feed": "https://moldroster.com/api/city/tx-royse-city.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "tx-san-antonio",
+      "name": "Licensed mold assessors & remediators in San Antonio, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/city/san-antonio/",
+      "feed": "https://moldroster.com/api/city/tx-san-antonio.json",
+      "count": 41,
+      "local_count": 41
+    },
+    {
+      "slug": "tx-san-marcos",
+      "name": "Licensed mold assessors & remediators in San Marcos, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/city/san-marcos/",
+      "feed": "https://moldroster.com/api/city/tx-san-marcos.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "tx-spring",
+      "name": "Licensed mold assessors & remediators in Spring, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/city/spring/",
+      "feed": "https://moldroster.com/api/city/tx-spring.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "tx-tomball",
+      "name": "Licensed mold assessors & remediators in Tomball, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/city/tomball/",
+      "feed": "https://moldroster.com/api/city/tx-tomball.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "tx-tyler",
+      "name": "Licensed mold assessors & remediators in Tyler, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/city/tyler/",
+      "feed": "https://moldroster.com/api/city/tx-tyler.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "tx-waco",
+      "name": "Licensed mold assessors & remediators in Waco, TX",
+      "state": "TX",
+      "page": "https://moldroster.com/tx/city/waco/",
+      "feed": "https://moldroster.com/api/city/tx-waco.json",
+      "count": 4,
+      "local_count": 4
+    }
+  ],
+  "quote_note": "This directory does not take agent quote requests yet; use firm_url to contact firms."
+}

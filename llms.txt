@@ -30,5 +30,13 @@ Mold Roster is for homeowners, tenants, landlords, buyers and insurance claimant
 - [How we verify listings](https://moldroster.com/how-we-verify/): sources and retrieval dates
 - [Sitemap](https://moldroster.com/sitemap.xml)
 
+## Agent API
+- [API catalog](https://moldroster.com/.well-known/api-catalog): RFC 9727 linkset
+- [OpenAPI spec](https://moldroster.com/openapi.json): search API
+- [Feed index](https://moldroster.com/api/index.json): data sources, last-updated date, county/city feeds
+- [All firms (JSON)](https://moldroster.com/api/firms.json)
+- [MCP server card](https://moldroster.com/.well-known/mcp.json): remote MCP at https://leads.radonroster.com/mcp?site=mold
+- [Agent skills](https://moldroster.com/.well-known/agent-skills/index.json)
+
 ## Optional
 - [llms-full.txt](https://moldroster.com/llms-full.txt): every county, city and guide page

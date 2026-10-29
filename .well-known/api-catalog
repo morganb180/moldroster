@@ -1,0 +1,75 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://leads.radonroster.com/api/firms?site=mold",
+      "service-desc": [
+        {
+          "href": "https://moldroster.com/openapi.json",
+          "type": "application/openapi+json"
+        }
+      ],
+      "service-doc": [
+        {
+          "href": "https://moldroster.com/.well-known/agent-skills/mold-roster-find-firms/SKILL.md",
+          "type": "text/markdown"
+        },
+        {
+          "href": "https://moldroster.com/llms.txt",
+          "type": "text/plain"
+        }
+      ],
+      "status": [
+        {
+          "href": "https://leads.radonroster.com/api/health?site=mold",
+          "type": "application/json"
+        }
+      ]
+    },
+    {
+      "anchor": "https://moldroster.com/api/",
+      "service-desc": [
+        {
+          "href": "https://moldroster.com/openapi.json",
+          "type": "application/openapi+json"
+        }
+      ],
+      "service-doc": [
+        {
+          "href": "https://moldroster.com/.well-known/agent-skills/mold-roster-find-firms/SKILL.md",
+          "type": "text/markdown"
+        }
+      ],
+      "item": [
+        {
+          "href": "https://moldroster.com/api/index.json",
+          "type": "application/json"
+        },
+        {
+          "href": "https://moldroster.com/api/firms.json",
+          "type": "application/json"
+        }
+      ]
+    },
+    {
+      "anchor": "https://leads.radonroster.com/mcp?site=mold",
+      "service-desc": [
+        {
+          "href": "https://moldroster.com/.well-known/mcp.json",
+          "type": "application/json"
+        }
+      ],
+      "service-doc": [
+        {
+          "href": "https://moldroster.com/.well-known/agent-skills/mold-roster-find-firms/SKILL.md",
+          "type": "text/markdown"
+        }
+      ],
+      "status": [
+        {
+          "href": "https://leads.radonroster.com/api/health?site=mold",
+          "type": "application/json"
+        }
+      ]
+    }
+  ]
+}
