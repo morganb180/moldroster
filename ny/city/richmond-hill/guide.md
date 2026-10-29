@@ -1,0 +1,118 @@
+---
+title: "How to Hire a Licensed Mold Inspector or Remediator in Richmond Hill, NY | Mold Roster"
+description: "Richmond Hill, NY mold guide: 1 licensed assessors and 6 remediators nearby, how to verify a licence, questions to ask and typical costs."
+canonical: https://moldroster.com/ny/city/richmond-hill/guide/
+---
+
+[Home](https://moldroster.com/) › [New York](https://moldroster.com/ny/) › [Richmond Hill](https://moldroster.com/ny/city/richmond-hill/) › Guide
+
+# How to hire a licensed mold pro in Richmond Hill, NY
+
+6 NYS DOL-licensed listings give an address in Richmond Hill: **1** hold an assessment licence and **6** hold a remediation licence. Another 148 are elsewhere in Queens County.
+
+[Get quotes](https://moldroster.com/get-quotes/?city=richmond-hill&st=ny) [All Richmond Hill listings](https://moldroster.com/ny/city/richmond-hill/)
+
+## Questions to ask before you sign
+
+* Do you carry liability insurance that covers mold work?
+* Will you work with my insurance adjuster, and do you need a signed assignment of benefits? (Read it carefully first.)
+* What clearance standard or test will show the job is done?
+* What is your state licence number, and is it an assessor or remediator licence?
+* Will an independent licensed assessor write the protocol and do the clearance check?
+
+## New York mold licensing rules in brief
+
+* A NYS DOL licence is required for mold assessment or remediation of areas over 10 square feet (residential and commercial).
+* The assessor and the remediator on a project must be independent of each other.
+* The assessor writes the remediation plan and later issues the post-remediation assessment.
+
+Summary of New York Labor Law Article 32 and 12 NYCRR Part 60. See the agency: [New York State Department of Labor](https://dol.ny.gov/mold-program). Plain-language summary, not legal advice; confirm details with the agency.
+
+## Licensed pros based in Richmond Hill
+
+✔ Licensed by NYS DOL Mold assessmentMold remediation
+
+### Painting Guy Inc
+
+Licensed firm
+
+85-55 115th St, Apt Super, Richmond Hill, NY  
+☎ [(646) 773-4707](tel:6467734707)
+
+Mold Assessment Contractor License (SH125) #25-6HXKT-SHMO (exp. 2027-08-31)  
+Mold Remediation Contractor License (SH126) #25-618GD-SHMO (exp. 2027-08-31)  
+Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
+[Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY1020)
+
+✔ Licensed by NYS DOL Mold remediation
+
+### Amit Construction Corp
+
+Licensed firm
+
+89-35 120th St, Richmond Hill, NY  
+☎ [(646) 932-5961](tel:6469325961)
+
+Mold Remediation Contractor License (SH126) #26-6Z198-SHMO (exp. 2028-02-29)  
+Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
+[Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0020)
+
+✔ Licensed by NYS DOL Mold remediation
+
+### Bannie Builders Inc.
+
+Licensed firm
+
+9442 121st St #2 Floor, Richmond Hill, NY  
+☎ [(929) 434-2140](tel:9294342140)
+
+Mold Remediation Contractor License (SH126) #25-61VCZ-SHMO (exp. 2027-10-31)  
+Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
+[Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0193)
+
+✔ Licensed by NYS DOL Mold remediation
+
+### GKM Industries Inc.
+
+Licensed firm
+
+8722 124th St Floor 1, Richmond Hill, NY  
+☎ [(929) 600-1428](tel:9296001428)
+
+Mold Remediation Contractor License (SH126) #26-61VC4-SHMO (exp. 2028-08-31)  
+Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
+[Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0598)
+
+## What mold work typically costs
+
+| Item | Typical range (national) |
+| --- | --- |
+| Mold inspection / assessment | $303-$1,075, average about $689 ([HomeAdvisor mold inspection cost guide](https://www.homeadvisor.com/cost/environmental-safety/test-or-remove-mold-and-toxic-material/)) |
+| Mold remediation | $1,223-$3,757, average about $2,368 ([HomeAdvisor mold remediation cost guide](https://www.homeadvisor.com/cost/environmental-safety/remove-mold-and-toxic-materials/)) |
+
+National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
+
+## Assessment first, then remediation
+
+For larger jobs, a licensed assessor inspects, samples if needed, and writes a protocol. A separate licensed remediator does the work, and the assessor confirms the result. Fixing the moisture source is the key step ([EPA: A Brief Guide to Mold, Moisture and Your Home](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home)).
+
+## How to verify a Richmond Hill mold pro's licence
+
+1. Look the name up in the NYS DOL records ([New York State Department of Labor](https://dol.ny.gov/mold-program)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
+2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.
+3. Use separate, independent firms for testing and for remediation (required by New York law).
+4. Ask for proof of insurance and a written scope before work starts.
+
+## Frequently asked questions
+
+**How do I find a licensed mold inspector in Richmond Hill?**
+
+Start with the 1 listings in Richmond Hill that hold a NYS DOL assessment licence, then confirm the licence with the agency.
+
+**How much does mold remediation cost in Richmond Hill?**
+
+We don't have local price data. A national guide reports $1,223-$3,757 for remediation (average about $2,368). Get written quotes.
+
+**Can one company both test and remediate?**
+
+The assessor and the remediator on a project must be independent of each other.

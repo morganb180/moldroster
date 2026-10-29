@@ -1,0 +1,130 @@
+---
+title: "How to Hire a Licensed Mold Inspector or Remediator in Coral Springs, FL | Mold Roster"
+description: "Coral Springs, FL mold guide: 41 licensed assessors and 47 remediators nearby, how to verify a licence, questions to ask and typical costs."
+canonical: https://moldroster.com/fl/city/coral-springs/guide/
+---
+
+[Home](https://moldroster.com/) › [Florida](https://moldroster.com/fl/) › [Coral Springs](https://moldroster.com/fl/city/coral-springs/) › Guide
+
+# How to hire a licensed mold pro in Coral Springs, FL
+
+59 DBPR-licensed listings give an address in Coral Springs: **41** hold an assessment licence and **47** hold a remediation licence. Another 531 are elsewhere in Broward County.
+
+[Get quotes](https://moldroster.com/get-quotes/?city=coral-springs&st=fl) [All Coral Springs listings](https://moldroster.com/fl/city/coral-springs/)
+
+## Florida mold licensing rules in brief
+
+* A DBPR licence is generally required to perform mold assessment or remediation for pay on areas over 10 square feet.
+* A licensed assessor generally may not remediate a property it assessed (conflict-of-interest rule in s. 468.8419).
+* Florida licenses people, not companies, so check the individual who will do the work.
+
+Summary of Florida Statutes Chapter 468, Part XVI (Mold-Related Services). See the agency: [Florida Department of Business and Professional Regulation](https://www2.myfloridalicense.com/mold-related-services/). Plain-language summary, not legal advice; confirm details with the agency.
+
+## What mold work typically costs
+
+| Item | Typical range (national) |
+| --- | --- |
+| Mold inspection / assessment | $303-$1,075, average about $689 ([HomeAdvisor mold inspection cost guide](https://www.homeadvisor.com/cost/environmental-safety/test-or-remove-mold-and-toxic-material/)) |
+| Mold remediation | $1,223-$3,757, average about $2,368 ([HomeAdvisor mold remediation cost guide](https://www.homeadvisor.com/cost/environmental-safety/remove-mold-and-toxic-materials/)) |
+
+National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
+
+## Licensed pros based in Coral Springs
+
+✔ Licensed by FL DBPR Mold assessment
+
+### Darren Baldeo and colleagues
+
+Licensed firm
+
+11023 NW 54th Ct, Coral Springs, FL
+
+3 licensed individuals
+
+* Darren Baldeo (Mold Assessor #MRSA3664 (exp. 2028-07-31))
+* Tyra T Baldeo (Mold Assessor #MRSA3886 (exp. 2028-07-31))
+* Sharon Baldeo (Mold Assessor #MRSA4270 (exp. 2028-07-31))
+
+Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv), retrieved 2026-10-12  
+[Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=FL2291)
+
+✔ Licensed by FL DBPR Mold assessmentMold remediation
+
+### Lora, Jacqueline
+
+Licensed firm
+
+393 Lakeview Dr, Coral Springs, FL
+
+1 licensed individual
+
+* Jacqueline Hernandez Chaverra (Mold Assessor #MRSA3540 (exp. 2028-07-31); Mold Remediator #MRSR3707 (exp. 2028-07-31))
+
+Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv), retrieved 2026-10-12  
+[Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=FL2207)
+
+✔ Licensed by FL DBPR Mold assessmentMold remediation
+
+### Markel Keon Cox and colleagues
+
+Licensed firm
+
+9224 NW 37th Pl, Coral Springs, FL
+
+2 licensed individuals
+
+* Markel Keon Cox (Mold Assessor #MRSA4233 (exp. 2028-07-31); Mold Remediator #MRSR4322 (exp. 2028-07-31))
+* Roan Chang (Mold Remediator #MRSR5772 (exp. 2028-07-31))
+
+Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv), retrieved 2026-10-12  
+[Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=FL2558)
+
+✔ Licensed by FL DBPR Mold remediation
+
+### Keith T Sorensen and colleagues
+
+Licensed firm
+
+11950 Wiles Rd, Coral Springs, FL
+
+2 licensed individuals
+
+* Keith T Sorensen (Mold Remediator #MRSR53 (exp. 2028-07-31))
+* Luis A Rivera (Mold Remediator #MRSR54 (exp. 2028-07-31))
+
+Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv), retrieved 2026-10-12  
+[Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=FL0071)
+
+## Assessment first, then remediation
+
+For larger jobs, a licensed assessor inspects, samples if needed, and writes a protocol. A separate licensed remediator does the work, and the assessor confirms the result. Fixing the moisture source is the key step ([EPA: A Brief Guide to Mold, Moisture and Your Home](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home)).
+
+## How to verify a Coral Springs mold pro's licence
+
+1. Look the name up in the DBPR records ([Florida Department of Business and Professional Regulation](https://www2.myfloridalicense.com/mold-related-services/)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
+2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.
+3. Use separate, independent firms for testing and for remediation (required by Florida law).
+4. Ask for proof of insurance and a written scope before work starts.
+
+## Questions to ask before you sign
+
+* Do you carry liability insurance that covers mold work?
+* Will you work with my insurance adjuster, and do you need a signed assignment of benefits? (Read it carefully first.)
+* What clearance standard or test will show the job is done?
+* What is your state licence number, and is it an assessor or remediator licence?
+* Will an independent licensed assessor write the protocol and do the clearance check?
+* Will you find and fix the moisture source, or only remove visible growth?
+
+## Frequently asked questions
+
+**How do I find a licensed mold inspector in Coral Springs?**
+
+Start with the 41 listings in Coral Springs that hold a DBPR assessment licence, then confirm the licence with the agency.
+
+**How much does mold remediation cost in Coral Springs?**
+
+We don't have local price data. A national guide reports $1,223-$3,757 for remediation (average about $2,368). Get written quotes.
+
+**Can one company both test and remediate?**
+
+A licensed assessor generally may not remediate a property it assessed (conflict-of-interest rule in s. 468.8419).

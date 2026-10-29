@@ -1,0 +1,133 @@
+---
+title: "How to Hire a Licensed Mold Inspector or Remediator in St. Petersburg, FL | Mold Roster"
+description: "St. Petersburg, FL mold guide: 32 licensed assessors and 34 remediators nearby, how to verify a licence, questions to ask and typical costs."
+canonical: https://moldroster.com/fl/city/st-petersburg/guide/
+---
+
+[Home](https://moldroster.com/) › [Florida](https://moldroster.com/fl/) › [St. Petersburg](https://moldroster.com/fl/city/st-petersburg/) › Guide
+
+# How to hire a licensed mold pro in St. Petersburg, FL
+
+48 DBPR-licensed listings give an address in St. Petersburg: **32** hold an assessment licence and **34** hold a remediation licence. Another 135 are elsewhere in Pinellas County.
+
+[Get quotes](https://moldroster.com/get-quotes/?city=st-petersburg&st=fl) [All St. Petersburg listings](https://moldroster.com/fl/city/st-petersburg/)
+
+## Florida mold licensing rules in brief
+
+* A DBPR licence is generally required to perform mold assessment or remediation for pay on areas over 10 square feet.
+* A licensed assessor generally may not remediate a property it assessed (conflict-of-interest rule in s. 468.8419).
+* Florida licenses people, not companies, so check the individual who will do the work.
+
+Summary of Florida Statutes Chapter 468, Part XVI (Mold-Related Services). See the agency: [Florida Department of Business and Professional Regulation](https://www2.myfloridalicense.com/mold-related-services/). Plain-language summary, not legal advice; confirm details with the agency.
+
+## What mold work typically costs
+
+| Item | Typical range (national) |
+| --- | --- |
+| Mold inspection / assessment | $303-$1,075, average about $689 ([HomeAdvisor mold inspection cost guide](https://www.homeadvisor.com/cost/environmental-safety/test-or-remove-mold-and-toxic-material/)) |
+| Mold remediation | $1,223-$3,757, average about $2,368 ([HomeAdvisor mold remediation cost guide](https://www.homeadvisor.com/cost/environmental-safety/remove-mold-and-toxic-materials/)) |
+
+National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
+
+## Licensed pros based in St. Petersburg
+
+✔ Licensed by FL DBPR Mold assessment
+
+### James E Greenfield and colleagues
+
+Licensed firm
+
+432 3rd St North, St. Petersburg, FL
+
+2 licensed individuals
+
+* James E Greenfield (Mold Assessor #MRSA2240 (exp. 2028-07-31))
+* Jessica Renee Holden (Mold Assessor #MRSA4011 (exp. 2028-07-31))
+
+Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv), retrieved 2026-10-12  
+[Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=FL1200)
+
+✔ Licensed by FL DBPR Mold assessmentMold remediation
+
+### Mychal Lamont Kearse and colleagues
+
+Licensed firm
+
+7901 4th St N Suite 300, St. Petersburg, FL
+
+2 licensed individuals
+
+* Mychal Lamont Kearse (Mold Remediator #MRSR4619 (exp. 2028-07-31); Mold Assessor #MRSA5716 (exp. 2028-07-31))
+* Jason Bruzik (Mold Assessor #MRSA5721 (exp. 2028-07-31))
+
+Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv), retrieved 2026-10-12  
+[Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=FL2931)
+
+✔ Licensed by FL DBPR Mold assessment
+
+### Abby Bullock
+
+Licensed individual
+
+11601 4th St N Apt 5002, St. Petersburg, FL
+
+Mold Assessor #MRSA5346 (exp. 2028-07-31)  
+Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv), retrieved 2026-10-12  
+[Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=FL3606)
+
+✔ Licensed by FL DBPR Mold remediation
+
+### Aaron Conaway
+
+Licensed individual
+
+9265 Treasure Ln NE 9265, Treasure Ln NE, St. Petersburg, FL
+
+Mold Remediator #MRSR4781 (exp. 2028-07-31)  
+Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv), retrieved 2026-10-12  
+[Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=FL3082)
+
+✔ Licensed by FL DBPR Mold remediation
+
+### Arthur Gerald Knox
+
+Licensed individual
+
+PO Box 11476, St. Petersburg, FL
+
+Mold Remediator #MRSR2271 (exp. 2028-07-31)  
+Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv), retrieved 2026-10-12  
+[Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=FL0338)
+
+## Assessment first, then remediation
+
+For larger jobs, a licensed assessor inspects, samples if needed, and writes a protocol. A separate licensed remediator does the work, and the assessor confirms the result. Fixing the moisture source is the key step ([EPA: A Brief Guide to Mold, Moisture and Your Home](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home)).
+
+## How to verify a St. Petersburg mold pro's licence
+
+1. Look the name up in the DBPR records ([Florida Department of Business and Professional Regulation](https://www2.myfloridalicense.com/mold-related-services/)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
+2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.
+3. Use separate, independent firms for testing and for remediation (required by Florida law).
+4. Ask for proof of insurance and a written scope before work starts.
+
+## Questions to ask before you sign
+
+* What is your state licence number, and is it an assessor or remediator licence?
+* Will an independent licensed assessor write the protocol and do the clearance check?
+* Will you find and fix the moisture source, or only remove visible growth?
+* How will you contain the work area and protect the rest of the house?
+* What does the written scope include: demolition, HEPA cleaning, disposal, rebuild?
+
+## Frequently asked questions
+
+**How do I find a licensed mold inspector in St. Petersburg?**
+
+Start with the 32 listings in St. Petersburg that hold a DBPR assessment licence, then confirm the licence with the agency.
+
+**How much does mold remediation cost in St. Petersburg?**
+
+We don't have local price data. A national guide reports $1,223-$3,757 for remediation (average about $2,368). Get written quotes.
+
+**Can one company both test and remediate?**
+
+A licensed assessor generally may not remediate a property it assessed (conflict-of-interest rule in s. 468.8419).

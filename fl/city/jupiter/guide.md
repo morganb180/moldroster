@@ -1,0 +1,112 @@
+---
+title: "How to Hire a Licensed Mold Inspector or Remediator in Jupiter, FL | Mold Roster"
+description: "Jupiter, FL mold guide: 22 licensed assessors and 23 remediators nearby, how to verify a licence, questions to ask and typical costs."
+canonical: https://moldroster.com/fl/city/jupiter/guide/
+---
+
+[Home](https://moldroster.com/) › [Florida](https://moldroster.com/fl/) › [Jupiter](https://moldroster.com/fl/city/jupiter/) › Guide
+
+# How to hire a licensed mold pro in Jupiter, FL
+
+30 DBPR-licensed listings give an address in Jupiter: **22** hold an assessment licence and **23** hold a remediation licence. Another 340 are elsewhere in Palm Beach County.
+
+[Get quotes](https://moldroster.com/get-quotes/?city=jupiter&st=fl) [All Jupiter listings](https://moldroster.com/fl/city/jupiter/)
+
+## Questions to ask before you sign
+
+* How will you contain the work area and protect the rest of the house?
+* What does the written scope include: demolition, HEPA cleaning, disposal, rebuild?
+* Do you carry liability insurance that covers mold work?
+* Will you work with my insurance adjuster, and do you need a signed assignment of benefits? (Read it carefully first.)
+* What clearance standard or test will show the job is done?
+* What is your state licence number, and is it an assessor or remediator licence?
+* Will an independent licensed assessor write the protocol and do the clearance check?
+
+## Florida mold licensing rules in brief
+
+* A DBPR licence is generally required to perform mold assessment or remediation for pay on areas over 10 square feet.
+* A licensed assessor generally may not remediate a property it assessed (conflict-of-interest rule in s. 468.8419).
+* Florida licenses people, not companies, so check the individual who will do the work.
+
+Summary of Florida Statutes Chapter 468, Part XVI (Mold-Related Services). See the agency: [Florida Department of Business and Professional Regulation](https://www2.myfloridalicense.com/mold-related-services/). Plain-language summary, not legal advice; confirm details with the agency.
+
+## Licensed pros based in Jupiter
+
+✔ Licensed by FL DBPR Mold assessmentMold remediation
+
+### Mark Edward Fales and colleagues
+
+Licensed firm
+
+4300 S US Hwy 1 Suite 203-128, Jupiter, FL
+
+2 licensed individuals
+
+* Mark Edward Fales (Mold Remediator #MRSR3400 (exp. 2028-07-31); Mold Assessor #MRSA3922 (exp. 2028-07-31))
+* Noeli Gisela Fales (Mold Assessor #MRSA5801 (exp. 2028-07-31); Mold Remediator #MRSR5778 (exp. 2028-07-31))
+
+Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv), retrieved 2026-10-12  
+[Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=FL1769)
+
+✔ Licensed by FL DBPR Mold assessmentMold remediation
+
+### Michael Anthony Rendon and colleagues
+
+Licensed firm
+
+111 Knoll Way, Jupiter, FL
+
+2 licensed individuals
+
+* Michael Anthony Rendon (Mold Assessor #MRSA2529 (exp. 2028-07-31); Mold Remediator #MRSR2716 (exp. 2028-07-31))
+* Robyn Rendon (Mold Assessor #MRSA5353 (exp. 2028-07-31); Mold Remediator #MRSR5374 (exp. 2028-07-31))
+
+Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv), retrieved 2026-10-12  
+[Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=FL1438)
+
+✔ Licensed by FL DBPR Mold assessmentMold remediation
+
+### Alexander W Harbur
+
+Licensed individual
+
+19780 Princewood Dr, Jupiter, FL
+
+Mold Assessor #MRSA362 (exp. 2028-07-31)  
+Mold Remediator #MRSR363 (exp. 2028-07-31)  
+Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv), retrieved 2026-10-12  
+[Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=FL0288)
+
+## What mold work typically costs
+
+| Item | Typical range (national) |
+| --- | --- |
+| Mold inspection / assessment | $303-$1,075, average about $689 ([HomeAdvisor mold inspection cost guide](https://www.homeadvisor.com/cost/environmental-safety/test-or-remove-mold-and-toxic-material/)) |
+| Mold remediation | $1,223-$3,757, average about $2,368 ([HomeAdvisor mold remediation cost guide](https://www.homeadvisor.com/cost/environmental-safety/remove-mold-and-toxic-materials/)) |
+
+National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
+
+## Assessment first, then remediation
+
+For larger jobs, a licensed assessor inspects, samples if needed, and writes a protocol. A separate licensed remediator does the work, and the assessor confirms the result. Fixing the moisture source is the key step ([EPA: A Brief Guide to Mold, Moisture and Your Home](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home)).
+
+## How to verify a Jupiter mold pro's licence
+
+1. Look the name up in the DBPR records ([Florida Department of Business and Professional Regulation](https://www2.myfloridalicense.com/mold-related-services/)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
+2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.
+3. Use separate, independent firms for testing and for remediation (required by Florida law).
+4. Ask for proof of insurance and a written scope before work starts.
+
+## Frequently asked questions
+
+**How do I find a licensed mold inspector in Jupiter?**
+
+Start with the 22 listings in Jupiter that hold a DBPR assessment licence, then confirm the licence with the agency.
+
+**How much does mold remediation cost in Jupiter?**
+
+We don't have local price data. A national guide reports $1,223-$3,757 for remediation (average about $2,368). Get written quotes.
+
+**Can one company both test and remediate?**
+
+A licensed assessor generally may not remediate a property it assessed (conflict-of-interest rule in s. 468.8419).

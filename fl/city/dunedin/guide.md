@@ -1,0 +1,127 @@
+---
+title: "How to Hire a Licensed Mold Inspector or Remediator in Dunedin, FL | Mold Roster"
+description: "Dunedin, FL mold guide: 8 licensed assessors and 5 remediators nearby, how to verify a licence, questions to ask and typical costs."
+canonical: https://moldroster.com/fl/city/dunedin/guide/
+---
+
+[Home](https://moldroster.com/) › [Florida](https://moldroster.com/fl/) › [Dunedin](https://moldroster.com/fl/city/dunedin/) › Guide
+
+# How to hire a licensed mold pro in Dunedin, FL
+
+10 DBPR-licensed listings give an address in Dunedin: **8** hold an assessment licence and **5** hold a remediation licence. Another 173 are elsewhere in Pinellas County.
+
+[Get quotes](https://moldroster.com/get-quotes/?city=dunedin&st=fl) [All Dunedin listings](https://moldroster.com/fl/city/dunedin/)
+
+## Assessment first, then remediation
+
+For larger jobs, a licensed assessor inspects, samples if needed, and writes a protocol. A separate licensed remediator does the work, and the assessor confirms the result. Fixing the moisture source is the key step ([EPA: A Brief Guide to Mold, Moisture and Your Home](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home)).
+
+## How to verify a Dunedin mold pro's licence
+
+1. Look the name up in the DBPR records ([Florida Department of Business and Professional Regulation](https://www2.myfloridalicense.com/mold-related-services/)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
+2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.
+3. Use separate, independent firms for testing and for remediation (required by Florida law).
+4. Ask for proof of insurance and a written scope before work starts.
+
+## Licensed pros based in Dunedin
+
+✔ Licensed by FL DBPR Mold assessment
+
+### Agnes N Ballinger
+
+Licensed individual
+
+2700 Bayshore Blvd #3312, Dunedin, FL
+
+Mold Assessor #MRSA4979 (exp. 2028-07-31)  
+Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv), retrieved 2026-10-12  
+[Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=FL3279)
+
+✔ Licensed by FL DBPR Mold assessmentMold remediation
+
+### Andreas Carl Asp
+
+Licensed individual
+
+1893 Briarwood St, Dunedin, FL
+
+Mold Remediator #MRSR1892 (exp. 2028-07-31)  
+Mold Assessor #MRSA4737 (exp. 2028-07-31)  
+Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv), retrieved 2026-10-12  
+[Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=FL0724)
+
+✔ Licensed by FL DBPR Mold assessment
+
+### Christopher L Miller Sr
+
+Licensed individual
+
+505 Scotland St, Dunedin, FL
+
+Mold Assessor #MRSA943 (exp. 2028-07-31)  
+Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv), retrieved 2026-10-12  
+[Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=FL0355)
+
+✔ Licensed by FL DBPR Mold remediation
+
+### Christopher George Cantonis
+
+Licensed individual
+
+1507 Fairway Dr, Dunedin, FL
+
+Mold Remediator #MRSR2027 (exp. 2028-07-31)  
+Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv), retrieved 2026-10-12  
+[Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=FL1023)
+
+✔ Licensed by FL DBPR Mold remediation
+
+### Dennis William James
+
+Licensed individual
+
+2801 Alt 19, Dunedin, FL
+
+Mold Remediator #MRSR764 (exp. 2028-07-31)  
+Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv), retrieved 2026-10-12  
+[Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=FL0746)
+
+## Questions to ask before you sign
+
+* Will you work with my insurance adjuster, and do you need a signed assignment of benefits? (Read it carefully first.)
+* What clearance standard or test will show the job is done?
+* What is your state licence number, and is it an assessor or remediator licence?
+* Will an independent licensed assessor write the protocol and do the clearance check?
+* Will you find and fix the moisture source, or only remove visible growth?
+* How will you contain the work area and protect the rest of the house?
+
+## Florida mold licensing rules in brief
+
+* A DBPR licence is generally required to perform mold assessment or remediation for pay on areas over 10 square feet.
+* A licensed assessor generally may not remediate a property it assessed (conflict-of-interest rule in s. 468.8419).
+* Florida licenses people, not companies, so check the individual who will do the work.
+
+Summary of Florida Statutes Chapter 468, Part XVI (Mold-Related Services). See the agency: [Florida Department of Business and Professional Regulation](https://www2.myfloridalicense.com/mold-related-services/). Plain-language summary, not legal advice; confirm details with the agency.
+
+## What mold work typically costs
+
+| Item | Typical range (national) |
+| --- | --- |
+| Mold inspection / assessment | $303-$1,075, average about $689 ([HomeAdvisor mold inspection cost guide](https://www.homeadvisor.com/cost/environmental-safety/test-or-remove-mold-and-toxic-material/)) |
+| Mold remediation | $1,223-$3,757, average about $2,368 ([HomeAdvisor mold remediation cost guide](https://www.homeadvisor.com/cost/environmental-safety/remove-mold-and-toxic-materials/)) |
+
+National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
+
+## Frequently asked questions
+
+**How do I find a licensed mold inspector in Dunedin?**
+
+Start with the 8 listings in Dunedin that hold a DBPR assessment licence, then confirm the licence with the agency.
+
+**How much does mold remediation cost in Dunedin?**
+
+We don't have local price data. A national guide reports $1,223-$3,757 for remediation (average about $2,368). Get written quotes.
+
+**Can one company both test and remediate?**
+
+A licensed assessor generally may not remediate a property it assessed (conflict-of-interest rule in s. 468.8419).

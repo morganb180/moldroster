@@ -1,0 +1,34 @@
+# Mold Roster
+
+> Mold Roster is a free directory of state-licensed mold assessors and remediators in Texas, Florida, New York and Washington DC, built from official licence records.
+
+Mold Roster is for homeowners, tenants, landlords, buyers and insurance claimants who need a licensed mold assessor (inspection/testing) or remediator (removal). Listings come from TDLR (TX), DBPR (FL), NYS DOL (NY) and DOEE (DC) records retrieved 2026-10-12. A listing is not an endorsement. Every page has a Markdown version: replace the trailing slash with `.md` (home: https://moldroster.com/index.md).
+
+## States
+- [Texas](https://moldroster.com/tx/): Texas Department of Licensing and Regulation licence records
+- [Florida](https://moldroster.com/fl/): Florida Department of Business and Professional Regulation licence records
+- [New York](https://moldroster.com/ny/): New York State Department of Labor licence records
+- [Washington, DC](https://moldroster.com/dc/): DC Department of Energy & Environment licence records
+
+## Guides
+- [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/)
+- [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/)
+- [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/)
+- [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
+- [How to get quotes](https://moldroster.com/get-quotes/): find 2-3 licensed pros near you and what to ask
+
+## For professionals
+- [For professionals](https://moldroster.com/for-pros/): free listings and planned advertising
+- [Claim, correct, add or remove a listing](https://moldroster.com/claim-listing/): request form
+- [How we make money](https://moldroster.com/how-we-make-money/)
+
+## About
+- [About](https://moldroster.com/about/)
+- [About our data](https://moldroster.com/about-our-data/): sources, dates, cleanup method
+- [Contact](https://moldroster.com/contact/)
+- [Privacy policy](https://moldroster.com/privacy/)
+- [How we verify listings](https://moldroster.com/how-we-verify/): sources and retrieval dates
+- [Sitemap](https://moldroster.com/sitemap.xml)
+
+## Optional
+- [llms-full.txt](https://moldroster.com/llms-full.txt): every county, city and guide page
