@@ -607,7 +607,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 ✔ Licensed by TDLR Mold remediation
 
-### Anthony@microinstitutetexas.com
+### Micro Institute
 
 Licensed firm
 
@@ -616,6 +616,7 @@ Licensed firm
 
 Mold Remediation Company #RCO1816 (exp. 2028-07-21)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
+Business name from TDLR's Mold Training Provider licence MTP1002 (same address and phone), retrieved 2026-10-12. TDLR's company licence file lists the licensee name as an email address.  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0642)
 
 ✔ Licensed by TDLR Mold remediation

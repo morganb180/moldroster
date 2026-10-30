@@ -3832,6 +3832,8 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 ### Gladys@warhorseconstructionllc.com
 
+⚠ TDLR's licence file gives this company's name as an email address. We haven't found a business name in the state data, so we show it as listed.
+
 Licensed firm
 
 4530 Cloudmount Dr, Houston, TX  

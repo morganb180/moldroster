@@ -96,6 +96,8 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 ### Zeke@p12enviro.com
 
+⚠ TDLR's licence file gives this company's name as an email address. We haven't found a business name in the state data, so we show it as listed.
+
 Licensed firm
 
 215 Republic Ave Apt 5304, Lafayette, LA  
