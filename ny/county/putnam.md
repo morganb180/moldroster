@@ -28,6 +28,11 @@ Licensed firm
 
 1511 Rte 22 Suite C24, Brewster, NY
 
+☎ [(845) 278-7710](tel:8452787710)  
+🌐 [adelaidellc.com](http://adelaidellc.com/)  
+Google rating 5.0 (5 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10899568255675063465&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Assessment Contractor License (SH125) #25-6IG9A-SHMO (exp. 2027-10-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0162)
@@ -80,6 +85,10 @@ Licensed firm
 
 59 Concord Rd, Carmel, NY  
 ☎ [(914) 772-4451](tel:9147724451)
+
+🌐 [mymoldfinder.com](https://www.mymoldfinder.com/)  
+Google rating 5.0 (24 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=18335978486969008609&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Assessment Contractor License (SH125) #26-63BCQ-SHMO (exp. 2028-10-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -157,6 +166,11 @@ Licensed firm
 
 70 Pigott Rd, Mahopac, NY  
 ☎ [(845) 276-0810](tel:8452760810)
+
+🌐 [propertyinspectionshq.com](http://www.propertyinspectionshq.com/)  
+✉ [info@propertyinspectionshq.com](mailto:info@propertyinspectionshq.com)  
+Google rating 5.0 (2 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4250369117635000999&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [propertyinspectionshq.com](https://propertyinspectionshq.com/), retrieved 2026-10-18.
 
 Mold Assessment Contractor License (SH125) #26-6SYND-SHMO (exp. 2028-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

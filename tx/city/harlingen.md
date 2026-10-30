@@ -33,6 +33,10 @@ Licensed firm
 1327 E Washington Ave Suite 242, Harlingen, TX  
 ☎ [(956) 357-4269](tel:9563574269)
 
+☎ Google listing: [(956) 535-3876](tel:9565353876)  
+🌐 [aamecctx.com](https://aamecctx.com/)  
+Added by us, not on the state list: phone and website from the firm's [Google Maps listing](https://maps.google.com/?cid=5996794740615158592&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Assessment Company #ACO1073 (exp. 2027-07-30)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0053)

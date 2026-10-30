@@ -1606,6 +1606,11 @@ Licensed firm
 
 * John Stephen Tisdale (Mold Remediator #MRSR518 (exp. 2028-07-31))
 
+☎ [(727) 360-1891](tel:7273601891)  
+🌐 [tisdaleconstruction.net](https://tisdaleconstruction.net/)  
+Google rating 4.0 (8 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=274318215737977739&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=FL0334)
 

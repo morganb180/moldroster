@@ -80,6 +80,9 @@ Licensed firm
 703 Yonkers Ave, Yonkers, NY  
 ☎ [(914) 613-8871](tel:9146138871)
 
+Google rating 5.0 (1 review)  
+Added by us, not on the state list: rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2042316792892186300&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #26-6ZJTU-SHMO (exp. 2028-02-29)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0206)
@@ -92,6 +95,11 @@ Licensed firm
 
 35 E Grassy Sprain Rd, Suite 206, Yonkers, NY  
 ☎ [(914) 434-3133](tel:9144343133)
+
+☎ Google listing: [(914) 377-0285](tel:9143770285)  
+🌐 [amaenv.com](https://amaenv.com/)  
+Google rating 5.0 (1 review)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=193228989297487414&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Contractor License (SH126) #24-6SIFU-SHMO (exp. 2027-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

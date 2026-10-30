@@ -33,6 +33,11 @@ Licensed firm
 125 Archers Way, San Marcos, TX  
 ☎ [(512) 952-2757](tel:5129522757)
 
+🌐 [txstec.com](http://www.txstec.com/)  
+✉ [consulting@txstec.com](mailto:consulting@txstec.com)  
+Google rating 5.0 (4 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=3026212007073067512&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [txstec.com](https://www.txstec.com/), retrieved 2026-10-18.
+
 Mold Assessment Company #ACO1193 (exp. 2027-09-20)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0103)

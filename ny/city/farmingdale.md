@@ -48,6 +48,11 @@ Licensed firm
 136 Allen Blvd, Farmingdale, NY  
 ☎ [(631) 600-2000](tel:6316002000)
 
+🌐 [ecerestoration.com](http://ecerestoration.com/)  
+✉ [vendorrelations@ecerestoration.com](mailto:vendorrelations@ecerestoration.com)  
+Google rating 4.7 (26 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11914518965069585189&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [ecerestoration.com](https://www.ecerestoration.com/), retrieved 2026-10-18.
+
 Mold Remediation Contractor License (SH126) #26-6ZUVX-SHMO (exp. 2028-02-29)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0383)
@@ -74,6 +79,9 @@ Licensed firm
 1 Rome St, Farmingdale, NY  
 ☎ [(516) 524-3782](tel:5165243782)
 
+☎ Google listing: [(631) 577-4181](tel:6315774181)  
+Added by us, not on the state list: phone from the firm's [Google Maps listing](https://maps.google.com/?cid=748048685816785235&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #25-6SIKK-SHMO (exp. 2027-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0667)
@@ -87,6 +95,10 @@ Licensed firm
 191 Melville Rd, Farmingdale, NY  
 ☎ [(718) 690-0567](tel:7186900567)
 
+🌐 [islandedrestoration.com](http://www.islandedrestoration.com/)  
+Google rating 5.0 (45 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5955314433474830612&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #25-64C5R-SHMO (exp. 2026-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0566)
@@ -99,6 +111,10 @@ Licensed firm
 
 27 Grand Ave, Farmingdale, NY  
 ☎ [(516) 531-2468](tel:5165312468)
+
+🌐 [lrccontractors.com](https://lrccontractors.com/)  
+Google rating 5.0 (40 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10603222621046417180&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Contractor License (SH126) #24-64GB6-SHMO (exp. 2026-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -125,6 +141,11 @@ Licensed firm
 
 176-8 Central Ave, Farmingdale, NY  
 ☎ [(631) 980-1800](tel:6319801800)
+
+🌐 [zavzaseal.com](https://zavzaseal.com/)  
+✉ [info@zavzaseal.com](mailto:info@zavzaseal.com)  
+Google rating 4.9 (121 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=8319801928076488822&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [zavzaseal.com](https://zavzaseal.com/), retrieved 2026-10-30.
 
 Mold Remediation Contractor License (SH126) #26-6APQG-SHMO (exp. 2028-05-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

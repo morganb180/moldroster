@@ -46,6 +46,9 @@ Licensed firm
 135 Delaware Ave Suite Frnt 103, Buffalo, NY  
 ☎ [(716) 259-9071](tel:7162599071)
 
+🌐 [acpdemolition.com](https://www.acpdemolition.com/)  
+Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=12046731812785531883&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #26-66IS5-SHMO (exp. 2028-04-30)  
 Mold Assessment Contractor License (SH125) #26-66AE4-SHMO (exp. 2028-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -60,6 +63,10 @@ Licensed firm
 295 Main St, Suite 200, Buffalo, NY  
 ☎ [(716) 856-3933](tel:7168563933)
 
+🌐 [azardzn.com](http://www.azardzn.com/)  
+Google rating 3.3 (4 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15224186096677876674&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Assessment Contractor License (SH125) #26-6AVO3-SHMO (exp. 2028-05-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0123)
@@ -72,6 +79,10 @@ Licensed firm
 
 2312 Wehrle Dr, Buffalo, NY  
 ☎ [(716) 689-4704](tel:7166894704)
+
+☎ Google listing: [(716) 204-8054](tel:7162048054)  
+🌐 [coreenv.com](https://coreenv.com/)  
+Added by us, not on the state list: phone and website from the firm's [Google Maps listing](https://maps.google.com/?cid=7267408190667496477&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Assessment Contractor License (SH125) #25-6I9ES-SHMO (exp. 2027-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -139,6 +150,11 @@ Licensed firm
 346 Austin St, Buffalo, NY  
 ☎ [(877) 466-4429](tel:8774664429)
 
+🌐 [unyse.net](https://unyse.net/)  
+✉ [info@unyse.net](mailto:info@unyse.net)  
+Google rating 4.4 (7 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7442058333327349308&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [unyse.net](https://unyse.net/), retrieved 2026-10-30.
+
 Mold Assessment Contractor License (SH125) #25-6LGZ9-SHMO (exp. 2027-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY1293)
@@ -165,6 +181,11 @@ Licensed firm
 95 Perry St, Suite 300, Buffalo, NY  
 ☎ [(716) 361-0996](tel:7163610996)
 
+☎ Google listing: [(716) 206-5100](tel:7162065100)  
+🌐 [watts-ae.com](http://www.watts-ae.com/)  
+Google rating 3.4 (7 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10181792123467148788&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Assessment Contractor License (SH125) #25-6L6ZP-SHMO (exp. 2027-10-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY1520)
@@ -180,6 +201,9 @@ Licensed firm
 65 Allendale Rd, Buffalo, NY  
 ☎ [(716) 677-4858](tel:7166774858)
 
+Google rating 5.0 (2 reviews)  
+Added by us, not on the state list: rating from the firm's [Google Maps listing](https://maps.google.com/?cid=16365758520907507897&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #25-6UFFK-SHMO (exp. 2027-09-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0346)
@@ -193,6 +217,11 @@ Licensed firm
 2319 Genesee St, Buffalo, NY  
 ☎ [(610) 637-1987](tel:6106371987)
 
+☎ Google listing: [(716) 875-3025](tel:7168753025)  
+🌐 [stanleysteemer.com](https://www.stanleysteemer.com/locations/NY/Buffalo/984)  
+Google rating 4.8 (2,588 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=9339131343811754745&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #25-6TKEB-SHMO (exp. 2027-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0715)
@@ -205,6 +234,10 @@ Licensed firm
 
 1979 Harlem Rd, Buffalo, NY  
 ☎ [(716) 681-6260](tel:7166816260)
+
+🌐 [lakesidecontracting.com](http://lakesidecontracting.com/)  
+Google rating 5.0 (1 review)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15530670411739288294&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Contractor License (SH126) #26-63NAL-SHMO (exp. 2028-08-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -232,6 +265,11 @@ Licensed firm
 3371 Harlem Rd Rear, Buffalo, NY  
 ☎ [(716) 602-9105](tel:7166029105)
 
+🌐 [segconstructioninc.com](https://www.segconstructioninc.com/)  
+✉ [stacy@segconstructioninc.com](mailto:stacy@segconstructioninc.com)  
+Google rating 5.0 (6 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=9129833914334247584&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [segconstructioninc.com](https://www.segconstructioninc.com/), retrieved 2026-10-18.
+
 Mold Remediation Contractor License (SH126) #26-6S7J6-SHMO (exp. 2028-05-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY1366)
@@ -257,6 +295,10 @@ Licensed firm
 
 190 Gruner Rd, Buffalo, NY  
 ☎ [(716) 874-4919](tel:7168744919)
+
+🌐 [rainbowrestores.com](https://rainbowrestores.com/buffalo?cid=LSTL_RBW000202)  
+Google rating 4.2 (41 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=3555653649041091103&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Contractor License (SH126) #26-6387E-SHMO (exp. 2028-09-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

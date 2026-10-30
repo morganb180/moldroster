@@ -57,6 +57,10 @@ Licensed firm
 195 Phoenix St, Canandaigua, NY  
 ☎ [(585) 224-6911](tel:5852246911)
 
+🌐 [onthespotcleanersinc.com](http://www.onthespotcleanersinc.com/)  
+Google rating 5.0 (1,004 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2858012042091853791&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #26-6ZOBU-SHMO (exp. 2028-02-29)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY1076)
@@ -69,6 +73,10 @@ Licensed firm
 
 630 Pre-emption Rd, Geneva, NY  
 ☎ [(315) 789-8667](tel:3157898667)
+
+🌐 [massaconstruction.com](https://www.massaconstruction.com/)  
+Google rating 3.7 (15 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2264403804610026135&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Contractor License (SH126) #26-69I8F-SHMO (exp. 2028-08-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -83,6 +91,10 @@ Licensed firm
 4617 Allens Hill Rd, Honeoye, NY  
 ☎ [(585) 704-4385](tel:5857044385)
 
+🌐 [envirosafeinspections.com](https://envirosafeinspections.com/)  
+Google rating 5.0 (5 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=1826220449061942788&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #25-6LQDQ-SHMO (exp. 2027-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0641)
@@ -95,6 +107,10 @@ Licensed firm
 
 61 School St Suite B, Victor, NY  
 ☎ [(585) 924-2010](tel:5859242010)
+
+🌐 [indoorairtechnologies.com](http://www.indoorairtechnologies.com/)  
+Google rating 5.0 (1 review)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7759289285482385425&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Contractor License (SH126) #25-61E4Z-SHMO (exp. 2027-09-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

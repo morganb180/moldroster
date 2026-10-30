@@ -40,6 +40,9 @@ Licensed firm
 14-26 28th Ave, Astoria, NY  
 ☎ [(718) 482-7525](tel:7184827525)
 
+Google rating 5.0 (8 reviews)  
+Added by us, not on the state list: rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15083138979397517048&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 Mold Assessment Contractor License (SH125) #26-6IPD3-SHMO (exp. 2028-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0170)
@@ -52,6 +55,11 @@ Licensed firm
 
 1235 30th Dr, Astoria, NY  
 ☎ [(718) 545-0870](tel:7185450870)
+
+🌐 [amiantosenvironmental.com](http://www.amiantosenvironmental.com/)  
+✉ [info@amiantosenvironmental.com](mailto:info@amiantosenvironmental.com)  
+Google rating 5.0 (5 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5866228406952100660&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [amiantosenvironmental.com](https://www.amiantosenvironmental.com/), retrieved 2026-10-18.
 
 Mold Assessment Contractor License (SH125) #26-6ZUU9-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -78,6 +86,11 @@ Licensed firm
 
 36-16 19th Ave, Astoria, NY  
 ☎ [(718) 729-2501](tel:7187292501)
+
+🌐 [abccci.com](http://www.abccci.com/)  
+✉ [info@abccci.com](mailto:info@abccci.com)  
+Google rating 5.0 (16 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7143313341832306832&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [abccci.com](https://www.abccci.com/contact), retrieved 2026-10-18.
 
 Mold Remediation Contractor License (SH126) #26-6SKCE-SHMO (exp. 2028-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

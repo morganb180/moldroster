@@ -86,6 +86,11 @@ Licensed firm
 3915 W Davis St Suite 130, Conroe, TX  
 ☎ [(833) 225-5379](tel:8332255379)
 
+🌐 [disastermasterssw.com](https://disastermasterssw.com/)  
+✉ [info@disastermasterssw.com](mailto:info@disastermasterssw.com)  
+Google rating 4.9 (66 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11580054170810460017&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [disastermasterssw.com](https://disastermasterssw.com/), retrieved 2026-10-30.
+
 Mold Remediation Company #RCO1805 (exp. 2028-06-24)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0631)

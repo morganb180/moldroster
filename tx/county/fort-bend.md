@@ -27,6 +27,11 @@ Licensed firm
 3107 Meadowcreek Dr, Missouri City, TX  
 ☎ [(832) 551-1397](tel:8325511397)
 
+☎ Google listing: [(281) 788-2599](tel:2817882599)  
+🌐 [noble1inspection.com](http://www.noble1inspection.com/)  
+Google rating 5.0 (8 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=9848464454731306326&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Assessment Company #ACO1314 (exp. 2028-04-20)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0192)
@@ -650,6 +655,11 @@ Licensed firm
 1306 Fm 1092 Rd Suite 509, Missouri City, TX  
 ☎ [(281) 559-0501](tel:2815590501)
 
+🌐 [restorerenew.co](http://www.restorerenew.co/)  
+✉ [hello@restorerenew.co](mailto:hello@restorerenew.co)  
+Google rating 5.0 (5 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11150099301001535733&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [restorerenew.co](https://www.restorerenew.co/), retrieved 2026-10-18.
+
 Mold Remediation Company #RCO1652 (exp. 2028-09-09)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0484)
@@ -702,6 +712,11 @@ Licensed firm
 10202 Mula Cir Suite A, Stafford, TX  
 ☎ [(281) 777-7872](tel:2817777872)
 
+🌐 [restorationresq.com](http://www.restorationresq.com/)  
+✉ [info@restorationresq.com](mailto:info@restorationresq.com)  
+Google rating 4.7 (12 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=8724710838382864942&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [restorationresq.com](https://restorationresq.com/), retrieved 2026-10-18.
+
 Mold Remediation Company #RCO1569 (exp. 2027-04-19)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0430)
@@ -727,6 +742,11 @@ Licensed firm
 
 13004 Murphy Rd Suite 218, Stafford, TX  
 ☎ [(832) 990-9333](tel:8329909333)
+
+🌐 [topstarairpros.com](https://www.topstarairpros.com/)  
+✉ [service@topstarairpros.com](mailto:service@topstarairpros.com)  
+Google rating 5.0 (416 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2029211981433431245&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [topstarairpros.com](https://topstarairpros.com/), retrieved 2026-10-18.
 
 Mold Remediation Company #RCO1699 (exp. 2027-06-08)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

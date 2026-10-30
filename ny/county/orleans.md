@@ -25,6 +25,10 @@ Licensed firm
 14109 W Ave, Albion, NY  
 ☎ [(585) 657-4223](tel:5856574223)
 
+🌐 [environmentalconstructiongroup.com](https://environmentalconstructiongroup.com/)  
+Google rating 5.0 (2 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=6266500179732325324&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #26-6SXBX-SHMO (exp. 2028-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0637)

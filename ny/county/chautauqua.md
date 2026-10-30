@@ -40,6 +40,12 @@ Licensed firm
 111 Cheney St, Jamestown, NY  
 ☎ [(716) 450-2811](tel:7164502811)
 
+☎ Google listing: [(800) 320-6919](tel:8003206919)  
+🌐 [delete86.com](https://delete86.com/)  
+✉ [info@delete86.com](mailto:info@delete86.com)  
+Google rating 4.0 (4 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=18305334510012984453&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [delete86.com](https://delete86.com/contact/), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #26-69JYP-SHMO (exp. 2028-06-30)  
 Mold Assessment Contractor License (SH125) #26-6A1ZH-SHMO (exp. 2028-06-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -53,6 +59,10 @@ Licensed firm
 
 5889 Magnolia Stedman Rd, Mayville, NY  
 ☎ [(716) 789-2097](tel:7167892097)
+
+🌐 [empiredevinc.com](http://empiredevinc.com/)  
+Google rating 5.0 (4 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5942853989429364752&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Assessment Contractor License (SH125) #26-6ZPKK-SHMO (exp. 2028-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -70,6 +80,10 @@ Licensed firm
 
 3749 E Main Rd, Fredonia, NY  
 ☎ [(716) 898-8143](tel:7168988143)
+
+🌐 [aholdofmold.com](https://aholdofmold.com/)  
+Google rating 5.0 (43 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=13666467316780009667&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Contractor License (SH126) #25-6LLX1-SHMO (exp. 2027-10-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

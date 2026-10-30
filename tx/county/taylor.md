@@ -29,6 +29,11 @@ Licensed firm
 402 Cedar St, Abilene, TX  
 ☎ [(325) 698-5560](tel:3256985560)
 
+🌐 [e-ht.com](http://e-ht.com/)  
+✉ [info@e-ht.com](mailto:info@e-ht.com)  
+Google rating 3.4 (5 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11422752243792653166&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [e-ht.com](https://e-ht.com/), retrieved 2026-10-18.
+
 Mold Assessment Company #ACO1296 (exp. 2027-09-23)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0174)
@@ -117,6 +122,11 @@ Licensed firm
 305 S Pioneer Dr, Abilene, TX  
 ☎ [(325) 428-7541](tel:3254287541)
 
+☎ Google listing: [(325) 876-3586](tel:3258763586)  
+🌐 [servicemasterrestore.com](https://servicemasterrestore.com/hi-tech-cleaning-and-restoration-abilene)  
+Google rating 4.8 (112 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10875152301305520243&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Company #RCO1189 (exp. 2028-08-18)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0268)
@@ -130,6 +140,12 @@ Licensed firm
 2241 S 41st St Suite A, Abilene, TX  
 ☎ [(325) 339-8723](tel:3253398723)
 
+☎ Google listing: [(325) 666-5949](tel:3256665949)  
+🌐 [aircarerestoration.com](https://aircarerestoration.com/)  
+✉ [info@aircarerestoration.com](mailto:info@aircarerestoration.com)  
+Google rating 5.0 (22 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=8729630138777523223&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [aircarerestoration.com](https://aircarerestoration.com/), retrieved 2026-10-18.
+
 Mold Remediation Company #RCO1798 (exp. 2028-05-21)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0624)
@@ -142,6 +158,11 @@ Licensed firm
 
 5948 US Hwy 277 S, Abilene, TX  
 ☎ [(325) 660-6427](tel:3256606427)
+
+☎ Google listing: [(325) 677-5033](tel:3256775033)  
+🌐 [amlenvironmental.com](https://amlenvironmental.com/)  
+Google rating 4.6 (9 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=12910112567286833594&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Company #RCO1566 (exp. 2027-03-06)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

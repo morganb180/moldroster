@@ -58,6 +58,10 @@ Licensed firm
 7940 Seymour Hwy, Wichita Falls, TX  
 ☎ [(940) 723-4722](tel:9407234722)
 
+🌐 [servicemasterwichitafalls.com](http://servicemasterwichitafalls.com/)  
+Google rating 4.5 (99 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15012593973934173871&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Company #RCO1091 (exp. 2028-05-19)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0253)

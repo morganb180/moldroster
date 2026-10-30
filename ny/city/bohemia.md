@@ -33,6 +33,11 @@ Licensed firm
 829-2 Lincoln Ave, Bohemia, NY  
 ☎ [(631) 922-5044](tel:6319225044)
 
+☎ Google listing: [(631) 766-4636](tel:6317664636)  
+🌐 [targetrestorationny.com](https://targetrestorationny.com/)  
+Google rating 5.0 (7 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7014797452923555520&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #26-69NVD-SHMO (exp. 2028-06-30)  
 Mold Assessment Contractor License (SH125) #26-69BDQ-SHMO (exp. 2028-05-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -72,6 +77,11 @@ Licensed firm
 630 Johnson Ave Suite 7, Bohemia, NY  
 ☎ [(631) 589-6353](tel:6315896353)
 
+🌐 [pwgrosser.com](http://pwgrosser.com/)  
+✉ [pwgc.info@pwgrosser.com](mailto:pwgc.info@pwgrosser.com)  
+Google rating 5.0 (4 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4306765423402126948&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [pwgrosser.com](https://pwgrosser.com/), retrieved 2026-10-18.
+
 Mold Assessment Contractor License (SH125) #26-69V9C-SHMO (exp. 2028-07-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY1201)
@@ -100,6 +110,11 @@ Licensed firm
 217 Knickerbocker Ave, Bohemia, NY  
 ☎ [(631) 654-1225](tel:6316541225)
 
+🌐 [customcareny.com](http://customcareny.com/)  
+✉ [customcare10@yahoo.com](mailto:customcare10@yahoo.com)  
+Google rating 4.8 (21 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=16364089430197677248&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [customcareny.com](https://www.customcareny.com/), retrieved 2026-10-18.
+
 Mold Remediation Contractor License (SH126) #26-6S6RZ-SHMO (exp. 2028-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0485)
@@ -112,6 +127,11 @@ Licensed firm
 
 1556 Ocean Ave, Bohemia, NY  
 ☎ [(631) 901-8856](tel:6319018856)
+
+☎ Google listing: [(631) 573-6300](tel:6315736300)  
+🌐 [4disasters.com](http://4disasters.com/)  
+Google rating 5.0 (30 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=3302763205747899301&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Contractor License (SH126) #26-6Z16G-SHMO (exp. 2028-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -139,6 +159,11 @@ Licensed firm
 1137 Locust Ave, Bohemia, NY  
 ☎ [(631) 615-1330](tel:6316151330)
 
+🌐 [puroclean.com](https://www.puroclean.com/bohemia-ny/)  
+✉ [pcofbohemia@puroclean.com](mailto:pcofbohemia@puroclean.com)  
+Google rating 5.0 (84 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7434454939294486242&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [puroclean.com](https://www.puroclean.com/bohemia-ny/), retrieved 2026-10-18.
+
 Mold Remediation Contractor License (SH126) #26-6AA3Z-SHMO (exp. 2028-07-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0590)
@@ -152,6 +177,12 @@ Licensed firm
 230 Knickerbocker Ave, Suite E, Bohemia, NY  
 ☎ [(631) 372-5433](tel:6313725433)
 
+☎ Google listing: [(631) 627-6929](tel:6316276929)  
+🌐 [gtechrestorationincny.com](https://www.gtechrestorationincny.com/)  
+✉ [info@gtechrestorationincny.com](mailto:info@gtechrestorationincny.com)  
+Google rating 4.7 (57 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=12337507642643439566&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [gtechrestorationincny.com](https://gtechrestorationincny.com/), retrieved 2026-10-18.
+
 Mold Remediation Contractor License (SH126) #24-63AVO-SHMO (exp. 2026-11-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0658)
@@ -164,6 +195,12 @@ Licensed firm
 
 380 Central Ave, Bohemia, NY  
 ☎ [(631) 456-3720](tel:6314563720)
+
+☎ Google listing: [(631) 613-8945](tel:6316138945)  
+🌐 [greenislandgroupny.com](https://www.greenislandgroupny.com/)  
+✉ [gig@greenislandgroupny.com](mailto:gig@greenislandgroupny.com)  
+Google rating 4.7 (34 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=936207695823425973&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [greenislandgroupny.com](https://greenislandgroupny.com/contact/), retrieved 2026-10-30.
 
 Mold Remediation Contractor License (SH126) #24-64DVX-SHMO (exp. 2026-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -190,6 +227,12 @@ Licensed firm
 
 161 Keyland Ct, Bohemia, NY  
 ☎ [(631) 245-4004](tel:6312454004)
+
+☎ Google listing: [(631) 502-7580](tel:6315027580)  
+🌐 [spartanrestoration.com](https://spartanrestoration.com/)  
+✉ [info@spartanrestoration.com](mailto:info@spartanrestoration.com)  
+Google rating 4.9 (134 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=8934953641743341525&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [spartanrestoration.com](https://spartanrestoration.com/contact-us-spartan-restoration), retrieved 2026-10-30.
 
 Mold Remediation Contractor License (SH126) #26-6AOBJ-SHMO (exp. 2028-09-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

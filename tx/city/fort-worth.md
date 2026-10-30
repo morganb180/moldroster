@@ -59,6 +59,11 @@ Licensed firm
 1801 Handley Ederville Rd, Fort Worth, TX  
 ☎ [(817) 268-8600](tel:8172688600)
 
+🌐 [terracon.com](http://www.terracon.com/)  
+✉ [corporate@terracon.com](mailto:corporate@terracon.com)  
+Google rating 4.3 (15 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5269214921103296978&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [terracon.com](https://www.terracon.com/about/contact/), retrieved 2026-10-18.
+
 Mold Assessment Company #ACO0117 (exp. 2028-03-14)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0006)
@@ -126,6 +131,9 @@ Licensed firm
 10101 Hicks Field Rd Suite 111, Fort Worth, TX  
 ☎ [(817) 232-3333](tel:8172323333)
 
+🌐 [servpronorthfortworth.com](https://www.servpronorthfortworth.com/)  
+Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=3866742857108541681&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 Mold Remediation Company #RCO1496 (exp. 2027-12-13)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0387)
@@ -190,6 +198,10 @@ Licensed firm
 
 5304 Sun Valley Dr, Fort Worth, TX  
 ☎ [(336) 449-1144](tel:3364491144)
+
+🌐 [sasser247.com](https://sasser247.com/)  
+Google rating 4.5 (54 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=9070217220312799155&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 Mold Remediation Company #RCO1443 (exp. 2026-12-14)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

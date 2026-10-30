@@ -59,6 +59,9 @@ Licensed firm
 3701 W Plano Pkwy Suite 150, Plano, TX  
 ☎ [(972) 390-8014](tel:9723908014)
 
+🌐 [farmereg.com](http://www.farmereg.com/)  
+Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=6371095889006914290&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Assessment Company #ACO0190 (exp. 2027-04-01)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0028)
@@ -72,6 +75,10 @@ Licensed firm
 2740 Dallas Pkwy Suite 220, Plano, TX  
 ☎ [(469) 429-9000](tel:4694299000)
 
+🌐 [nelsonforensics.com](https://www.nelsonforensics.com/)  
+✉ [expert@nelsonforensics.com](mailto:expert@nelsonforensics.com)  
+Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=14751581542014722024&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [nelsonforensics.com](https://www.nelsonforensics.com/), retrieved 2026-10-18.
+
 Mold Assessment Company #ACO1173 (exp. 2028-07-21)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0093)
@@ -84,6 +91,11 @@ Licensed firm
 
 800 Fulgham Rd Suite 27, Plano, TX  
 ☎ [(469) 588-8889](tel:4695888889)
+
+☎ Google listing: [(469) 384-2457](tel:4693842457)  
+🌐 [myalldry.com](https://www.myalldry.com/north-dallas-texas/)  
+Google rating 5.0 (40 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=12662925510188348817&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Company #RCO1474 (exp. 2027-08-25)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

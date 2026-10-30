@@ -87,6 +87,10 @@ Licensed firm
 333 W Merrick Rd, Unit B, Valley Stream, NY  
 ☎ [(718) 553-7768](tel:7185537768)
 
+☎ Google listing: [(718) 285-7365](tel:7182857365)  
+🌐 [servicemasterbygbs.com](http://www.servicemasterbygbs.com/)  
+Added by us, not on the state list: phone and website from the firm's [Google Maps listing](https://maps.google.com/?cid=17862641926371165754&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #24-64YLV-SHMO (exp. 2026-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0720)

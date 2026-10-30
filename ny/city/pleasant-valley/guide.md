@@ -85,6 +85,11 @@ Licensed firm
 65 S Ave, Pleasant Valley, NY  
 ☎ [(845) 453-7099](tel:8454537099)
 
+🌐 [chefalocontracting.com](http://chefalocontracting.com/)  
+✉ [evan@chefalocontracting.com](mailto:evan@chefalocontracting.com)  
+Google rating 4.6 (30 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15682713809556616134&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [chefalocontracting.com](https://chefalocontracting.com/), retrieved 2026-10-18.
+
 Mold Remediation Contractor License (SH126) #26-6614G-SHMO (exp. 2028-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0471)

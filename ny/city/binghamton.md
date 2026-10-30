@@ -47,6 +47,11 @@ Licensed firm
 143 Ct St 143 Ct St, Binghamton, NY  
 ☎ [(607) 798-8081](tel:6077988081)
 
+🌐 [hunt-eas.com](https://www.hunt-eas.com/post/shumaker-hunt-eas-acquisition)  
+✉ [info@hunt-eas.com](mailto:info@hunt-eas.com)  
+Google rating 4.7 (3 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=9664325317305457518&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [hunt-eas.com](https://www.hunt-eas.com/contact), retrieved 2026-10-18.
+
 Mold Assessment Contractor License (SH125) #26-66ACR-SHMO (exp. 2028-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0618)
@@ -60,6 +65,9 @@ Licensed firm
 58 Exchange St, Binghamton, NY  
 ☎ [(607) 723-5117](tel:6077235117)
 
+🌐 [kecompanies.com](https://www.kecompanies.com/)  
+Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=7134123039378909095&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Assessment Contractor License (SH125) #26-6LI8I-SHMO (exp. 2028-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0953)
@@ -72,6 +80,11 @@ Licensed firm
 
 1278 Vestal Ave, Binghamton, NY  
 ☎ [(607) 773-1519](tel:6077731519)
+
+🌐 [professionalhome.com](https://www.professionalhome.com/)  
+✉ [george@professionalhome.com](mailto:george@professionalhome.com)  
+Google rating 4.8 (193 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=12497785076643044040&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [professionalhome.com](https://www.professionalhome.com/), retrieved 2026-10-18.
 
 Mold Assessment Contractor License (SH125) #26-6ZTS6-SHMO (exp. 2028-02-29)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -88,6 +101,10 @@ Licensed firm
 49 1/2 Lincoln Ave, Binghamton, NY  
 ☎ [(607) 349-5155](tel:6073495155)
 
+🌐 [360propertyrestoration.com](http://www.360propertyrestoration.com/)  
+Google rating 4.8 (24 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15292956572847829442&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #25-65UJ9-SHMO (exp. 2027-05-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0076)
@@ -101,6 +118,10 @@ Licensed firm
 1 Telegraph St, Binghamton, NY  
 ☎ [(607) 232-0317](tel:6072320317)
 
+🌐 [firewaterpros.com](http://firewaterpros.com/)  
+Google rating 5.0 (109 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2790616704508412934&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #24-63UJY-SHMO (exp. 2026-11-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0916)
@@ -113,6 +134,11 @@ Licensed firm
 
 136 E Service Rd, Suite 100, Binghamton, NY  
 ☎ [(607) 882-0497](tel:6078820497)
+
+🌐 [northeastrestore.com](https://www.northeastrestore.com/)  
+✉ [admin@northeastrestore.com](mailto:admin@northeastrestore.com)  
+Google rating 5.0 (81 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11004205518238109666&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [northeastrestore.com](https://northeastrestore.com/), retrieved 2026-10-18.
 
 Mold Remediation Contractor License (SH126) #25-6U8XC-SHMO (exp. 2027-06-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -139,6 +165,11 @@ Licensed firm
 
 6 Spring Forest Ave, Binghamton, NY  
 ☎ [(607) 724-4400](tel:6077244400)
+
+🌐 [sunstreamny.com](https://www.sunstreamny.com/)  
+✉ [applications@sunstreamny.com](mailto:applications@sunstreamny.com)  
+Google rating 4.6 (7 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=3208306692689304414&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [sunstreamny.com](https://sunstreamny.com/), retrieved 2026-10-18.
 
 Mold Remediation Contractor License (SH126) #25-6UOPU-SHMO (exp. 2027-10-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

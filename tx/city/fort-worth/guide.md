@@ -72,6 +72,11 @@ Licensed firm
 1801 Handley Ederville Rd, Fort Worth, TX  
 ☎ [(817) 268-8600](tel:8172688600)
 
+🌐 [terracon.com](http://www.terracon.com/)  
+✉ [corporate@terracon.com](mailto:corporate@terracon.com)  
+Google rating 4.3 (15 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5269214921103296978&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [terracon.com](https://www.terracon.com/about/contact/), retrieved 2026-10-18.
+
 Mold Assessment Company #ACO0117 (exp. 2028-03-14)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0006)

@@ -648,6 +648,10 @@ Licensed firm
 
 * Gary L Eisinger (Mold Remediator #MRSR565 (exp. 2028-07-31))
 
+☎ [(239) 571-1183](tel:2395711183)  
+Google rating 5.0 (6 reviews)  
+Added by us, not on the state list: phone and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15921629563083839383&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=FL0525)
 

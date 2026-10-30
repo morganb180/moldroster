@@ -87,6 +87,11 @@ Licensed firm
 4 Gunsch Estate Dr, Newburgh, NY  
 ☎ [(845) 564-2349](tel:8455642349)
 
+🌐 [utopiarestoration.com](https://www.utopiarestoration.com/)  
+✉ [info@utopiarestoration.com](mailto:info@utopiarestoration.com)  
+Google rating 5.0 (66 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10122765746792238259&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [utopiarestoration.com](https://utopiarestoration.com/contact-us), retrieved 2026-10-18.
+
 Mold Remediation Contractor License (SH126) #26-6L5BG-SHMO (exp. 2028-04-30)  
 Mold Assessment Contractor License (SH125) #26-69434-SHMO (exp. 2028-08-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

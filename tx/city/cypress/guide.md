@@ -46,6 +46,11 @@ Licensed firm
 16111 Mary Ann St, Cypress, TX  
 ☎ [(832) 567-5791](tel:8325675791)
 
+🌐 [1strateinspections.com](https://1strateinspections.com/)  
+✉ [clientcare@1strateinspections.com](mailto:clientcare@1strateinspections.com)  
+Google rating 4.9 (2,399 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=6904854579935866999&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [1strateinspections.com](https://1strateinspections.com/), retrieved 2026-10-30.
+
 Mold Assessment Company #ACO1144 (exp. 2028-03-07)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0081)
@@ -84,6 +89,11 @@ Licensed firm
 
 14639 Fallbrook Dr Suite 100, Cypress, TX  
 ☎ [(281) 859-3999](tel:2818593999)
+
+☎ Google listing: [(346) 567-8333](tel:3465678333)  
+🌐 [firereconstructioninc.com](https://firereconstructioninc.com/)  
+Google rating 4.8 (286 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=12518298312837389518&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Company #RCO1436 (exp. 2028-10-22)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

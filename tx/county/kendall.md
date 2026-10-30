@@ -29,6 +29,11 @@ Licensed firm
 113 Falls Ct Suite 700, Boerne, TX  
 ☎ [(702) 712-0985](tel:7027120985)
 
+☎ Google listing: [(830) 816-5434](tel:8308165434)  
+🌐 [broadbentinc.com](http://www.broadbentinc.com/)  
+Google rating 5.0 (1 review)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=1796856495300997041&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Assessment Company #ACO1135 (exp. 2028-01-28)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0078)
@@ -87,6 +92,11 @@ Licensed firm
 215 W Bandera Rd Pmb 114-218, Boerne, TX  
 ☎ [(844) 333-3200](tel:8443333200)
 
+☎ Google listing: [(844) 569-7004](tel:8445697004)  
+🌐 [restorationsolutionsbyelite.com](https://www.restorationsolutionsbyelite.com/)  
+Google rating 4.9 (134 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4956981732064077450&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Company #RCO1809 (exp. 2028-07-01)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0635)
@@ -125,6 +135,11 @@ Licensed firm
 
 407 US Hwy 289, Comfort, TX  
 ☎ [(830) 995-4102](tel:8309954102)
+
+☎ Google listing: [(210) 973-7636](tel:2109737636)  
+🌐 [servpro.com](https://www.servpro.com/locations/tx/servpro-of-helotes-and-leon-springs)  
+Google rating 4.9 (72 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4407022977254091753&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Company #RCO1278 (exp. 2026-11-14)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

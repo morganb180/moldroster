@@ -48,6 +48,10 @@ Licensed firm
 2368 Maryland Ave, Niagara Falls, NY  
 ☎ [(716) 282-5244](tel:7162825244)
 
+🌐 [markcerrone.com](http://www.markcerrone.com/)  
+Google rating 3.6 (13 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7788917868271251556&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #26-6AR34-SHMO (exp. 2028-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0801)
@@ -61,6 +65,10 @@ Licensed firm
 2939 Lockport Rd, Niagara Falls, NY  
 ☎ [(716) 285-9280](tel:7162859280)
 
+🌐 [metroenvironmental.com](http://www.metroenvironmental.com/)  
+Google rating 5.0 (5 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14566791236487478584&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #26-6IPGH-SHMO (exp. 2028-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0930)
@@ -73,6 +81,11 @@ Licensed firm
 
 6281 Wendt Dr, Niagara Falls, NY  
 ☎ [(716) 284-3366](tel:7162843366)
+
+🌐 [redwny.com](https://redwny.com/)  
+✉ [rico@redwny.com](mailto:rico@redwny.com)  
+Google rating 4.1 (9 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14470473703076980843&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [redwny.com](https://redwny.com/contact-us/), retrieved 2026-10-18.
 
 Mold Remediation Contractor License (SH126) #25-6LOS6-SHMO (exp. 2027-11-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

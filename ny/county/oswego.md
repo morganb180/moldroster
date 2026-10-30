@@ -26,6 +26,11 @@ Licensed firm
 
 356 Paradise Rd, Central Square, NY
 
+☎ [(315) 447-8647](tel:3154478647)  
+🌐 [gte4mold.com](http://gte4mold.com/)  
+Google rating 5.0 (2 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10205184588867968695&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #25-6SC86-SHMO (exp. 2027-12-31)  
 Mold Assessment Contractor License (SH125) #25-6SCEE-SHMO (exp. 2027-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -39,6 +44,11 @@ Licensed firm
 
 2955 Lamson Rd, Phoenix, NY  
 ☎ [(315) 715-5847](tel:3157155847)
+
+🌐 [rockwellenv.com](https://rockwellenv.com/)  
+✉ [tiffany@rockwellenv.com](mailto:tiffany@rockwellenv.com)  
+Google rating 4.7 (46 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7877638468909761078&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [rockwellenv.com](https://rockwellenv.com/contact/), retrieved 2026-10-18.
 
 Mold Assessment Contractor License (SH125) #26-6ACVR-SHMO (exp. 2028-06-30)  
 Mold Remediation Contractor License (SH126) #26-6ACVG-SHMO (exp. 2028-08-31)  
@@ -57,6 +67,11 @@ Licensed firm
 
 22 Gildner Rd, Central Square, NY  
 ☎ [(315) 676-4473](tel:3156764473)
+
+🌐 [north-country.pauldavis.com](https://north-country.pauldavis.com/)  
+✉ [ncny@pauldavis.com](mailto:ncny@pauldavis.com)  
+Google rating 4.9 (141 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=1678696633069812247&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [north-country.pauldavis.com](https://north-country.pauldavis.com/contact-us/), retrieved 2026-10-18.
 
 Mold Remediation Contractor License (SH126) #26-6ZUVE-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

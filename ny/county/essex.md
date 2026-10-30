@@ -25,6 +25,11 @@ Licensed firm
 41 Danielle Rd, Jay, NY  
 ☎ [(518) 727-6470](tel:5187276470)
 
+🌐 [anthonysplumbingadk.com](https://www.anthonysplumbingadk.com/)  
+✉ [tony@anthonysplumbingadk.com](mailto:tony@anthonysplumbingadk.com)  
+Google rating 4.8 (114 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=13509583894107821290&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [anthonysplumbingadk.com](https://www.anthonysplumbingadk.com/), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #25-6UJH8-SHMO (exp. 2027-08-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0117)
@@ -37,6 +42,12 @@ Licensed firm
 
 917 Springfield Rd, Wilmington, NY  
 ☎ [(518) 524-6004](tel:5185246004)
+
+☎ Google listing: [(518) 946-7271](tel:5189467271)  
+🌐 [ashleysrestoration.com](http://www.ashleysrestoration.com/)  
+✉ [ashleysrestoration1@gmail.com](mailto:ashleysrestoration1@gmail.com)  
+Google rating 5.0 (19 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10632562328428513801&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [ashleysrestoration.com](https://www.ashleysrestoration.com/), retrieved 2026-10-18.
 
 Mold Remediation Contractor License (SH126) #26-69COD-SHMO (exp. 2028-07-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

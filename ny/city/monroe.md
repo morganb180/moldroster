@@ -75,6 +75,10 @@ Licensed firm
 38 Raywood Dr 203, Monroe, NY  
 ☎ [(845) 782-5199](tel:8457825199)
 
+🌐 [envirocleaninginc.com](http://envirocleaninginc.com/)  
+✉ [info@envirocleaninginc.com](mailto:info@envirocleaninginc.com)  
+Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=4029148520731966443&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [envirocleaninginc.com](https://www.envirocleaninginc.com/), retrieved 2026-10-18.
+
 Mold Remediation Contractor License (SH126) #26-6AS1G-SHMO (exp. 2028-08-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0512)

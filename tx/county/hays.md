@@ -29,6 +29,10 @@ Licensed firm
 485 Miss Don Miss Donna Ln Miss Donna Ln, Dripping Springs, TX  
 ☎ [(512) 557-5613](tel:5125575613)
 
+🌐 [indoormoldinspectortexas.com](http://indoormoldinspectortexas.com/)  
+Google rating 3.5 (6 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10342241310102245631&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Assessment Company #ACO1306 (exp. 2028-02-03)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0184)
@@ -41,6 +45,11 @@ Licensed firm
 
 125 Archers Way, San Marcos, TX  
 ☎ [(512) 952-2757](tel:5129522757)
+
+🌐 [txstec.com](http://www.txstec.com/)  
+✉ [consulting@txstec.com](mailto:consulting@txstec.com)  
+Google rating 5.0 (4 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=3026212007073067512&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [txstec.com](https://www.txstec.com/), retrieved 2026-10-18.
 
 Mold Assessment Company #ACO1193 (exp. 2027-09-20)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -324,6 +333,10 @@ Licensed firm
 1955 Fm 2001 Suite 500, Buda, TX  
 ☎ [(512) 813-0501](tel:5128130501)
 
+🌐 [unitedwaterrestoration.com](https://unitedwaterrestoration.com/us/texas/austin)  
+Google rating 5.0 (49 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14099579846736611136&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Company #RCO1329 (exp. 2028-03-04)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0314)
@@ -349,6 +362,10 @@ Licensed firm
 
 1032 Canyon Bend Dr Suite C, Dripping Springs, TX  
 ☎ [(512) 774-3919](tel:5127743919)
+
+🌐 [capedgeenvironmental.com](https://capedgeenvironmental.com/)  
+Google rating 5.0 (8 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7680435039962916612&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Company #RCO1762 (exp. 2028-02-12)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

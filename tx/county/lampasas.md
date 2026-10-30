@@ -27,6 +27,11 @@ Licensed firm
 PO Box 482, Kempner, TX  
 ☎ [(512) 932-2405](tel:5129322405)
 
+🌐 [tlienv.com](http://www.tlienv.com/)  
+✉ [tli@tlienv.com](mailto:tli@tlienv.com)  
+Google rating 5.0 (1 review)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=8737157233171047725&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [tlienv.com](https://www.tlienv.com/contact-us.html), retrieved 2026-10-18.
+
 Mold Assessment Company #ACO0194 (exp. 2027-04-20)  
 Mold Remediation Company #RCO0216 (exp. 2028-02-03)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

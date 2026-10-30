@@ -42,6 +42,11 @@ Licensed firm
 2026 Republic Dr Suite A, Tyler, TX  
 ☎ [(903) 534-5001](tel:9035345001)
 
+🌐 [ericonsulting.com](http://www.ericonsulting.com/)  
+✉ [info@ericonsulting.com](mailto:info@ericonsulting.com)  
+Google rating 5.0 (37 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11175114094704175589&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [ericonsulting.com](https://www.ericonsulting.com/contact), retrieved 2026-10-18.
+
 Mold Assessment Company #ACO0186 (exp. 2027-03-30)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0026)
@@ -54,6 +59,10 @@ Licensed firm
 
 3933 Fm 344 E, Tyler, TX  
 ☎ [(903) 592-7316](tel:9035927316)
+
+🌐 [aqatexas.com](https://www.aqatexas.com/)  
+Google rating 5.0 (1 review)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17552151306570247284&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Company #RCO0183 (exp. 2028-04-20)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

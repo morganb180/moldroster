@@ -29,6 +29,11 @@ Licensed firm
 330 Loch'n Green Trail, Arlington, TX  
 ☎ [(817) 275-2691](tel:8172752691)
 
+🌐 [aflab.com](http://aflab.com/)  
+✉ [info@aflab.com](mailto:info@aflab.com)  
+Google rating 4.0 (4 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2169537757896517467&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [aflab.com](https://aflab.com/), retrieved 2026-10-18.
+
 Mold Assessment Company #ACO1318 (exp. 2028-07-16)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0196)
@@ -42,6 +47,11 @@ Licensed firm
 1218 W Arkansas Ln Suite D, Arlington, TX  
 ☎ [(469) 446-6733](tel:4694466733)
 
+☎ Google listing: [(817) 695-6519](tel:8176956519)  
+🌐 [dtechit.net](http://www.dtechit.net/)  
+Google rating 4.9 (9 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=6211022052638500492&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Assessment Company #ACO1291 (exp. 2027-08-27)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0169)
@@ -54,6 +64,9 @@ Licensed firm
 
 835 E Lamar Blvd Suite 274, Arlington, TX  
 ☎ [(682) 227-8585](tel:6822278585)
+
+🌐 [primerapsg.com](http://primerapsg.com)  
+Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=17221300615093889391&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Assessment Company #ACO0201 (exp. 2028-08-13)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -120,6 +133,11 @@ Licensed firm
 1801 Handley Ederville Rd, Fort Worth, TX  
 ☎ [(817) 268-8600](tel:8172688600)
 
+🌐 [terracon.com](http://www.terracon.com/)  
+✉ [corporate@terracon.com](mailto:corporate@terracon.com)  
+Google rating 4.3 (15 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5269214921103296978&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [terracon.com](https://www.terracon.com/about/contact/), retrieved 2026-10-18.
+
 Mold Assessment Company #ACO0117 (exp. 2028-03-14)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0006)
@@ -132,6 +150,10 @@ Licensed firm
 
 2364 Hwy 287 N Suite 121, Mansfield, TX  
 ☎ [(817) 717-4668](tel:8177174668)
+
+🌐 [waterfiremoldremediation.com](https://waterfiremoldremediation.com/)  
+Google rating 5.0 (14 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=12023271800349631520&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Assessment Company #ACO1326 (exp. 2028-09-07)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -158,6 +180,12 @@ Licensed firm
 
 6709 Meadow Crest Dr, North Richland Hills, TX  
 ☎ [(817) 265-5452](tel:8172655452)
+
+☎ Google listing: [(817) 592-5335](tel:8175925335)  
+🌐 [texinspec.com](https://texinspec.com/)  
+✉ [clientcare@texinspec.com](mailto:clientcare@texinspec.com)  
+Google rating 4.8 (1,210 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15227176637276108231&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [texinspec.com](https://texinspec.com/), retrieved 2026-10-30.
 
 Mold Assessment Company #ACO1236 (exp. 2027-07-12)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -795,6 +823,10 @@ Licensed firm
 2901 Galleria Dr, Arlington, TX  
 ☎ [(817) 628-0606](tel:8176280606)
 
+🌐 [americanwaterdamage.com](https://americanwaterdamage.com/dfw)  
+Google rating 4.4 (1,376 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=16048464155955551499&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Company #RCO1722 (exp. 2027-09-02)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0549)
@@ -821,6 +853,10 @@ Licensed firm
 1008 W Harris Rd Suite 100, Arlington, TX  
 ☎ [(817) 489-9500](tel:8174899500)
 
+☎ Google listing: [(817) 312-1570](tel:8173121570)  
+Google rating 5.0 (114 reviews)  
+Added by us, not on the state list: phone and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4493262548128017374&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Company #RCO1603 (exp. 2027-11-14)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0452)
@@ -834,6 +870,10 @@ Licensed firm
 3101 Pleasant Valley Ln Suite D, Arlington, TX  
 ☎ [(817) 419-3420](tel:8174193420)
 
+🌐 [rainbowrestores.com](https://rainbowrestores.com/arlington?cid=LSTL_RBW000202)  
+Google rating 4.5 (43 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=12517208752681020287&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Company #RCO1502 (exp. 2028-09-28)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0391)
@@ -846,6 +886,10 @@ Licensed firm
 
 PO Box 173307, Arlington, TX  
 ☎ [(817) 557-6810](tel:8175576810)
+
+🌐 [firstrestore.com](https://firstrestore.com/)  
+Google rating 3.8 (46 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=16650563761737379340&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Company #RCO1000 (exp. 2027-06-21)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -951,6 +995,11 @@ Licensed firm
 1630 W Euless Blvd, Euless, TX  
 ☎ [(817) 267-5555](tel:8172675555)
 
+☎ Google listing: [(817) 968-3363](tel:8179683363)  
+🌐 [servicemasterrestore.com](http://www.servicemasterrestore.com/servicemaster-advanced-restorations)  
+Google rating 4.6 (85 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4827695436648721608&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Company #RCO1288 (exp. 2027-03-14)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0296)
@@ -963,6 +1012,11 @@ Licensed firm
 
 12750 S Pipeline Rd, Euless, TX  
 ☎ [(817) 355-8625](tel:8173558625)
+
+☎ Google listing: [(214) 833-5053](tel:2148335053)  
+🌐 [dalworthrestoration.com](http://www.dalworthrestoration.com/)  
+Google rating 4.7 (351 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17323207922560647597&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Company #RCO1004 (exp. 2027-08-01)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -1029,6 +1083,9 @@ Licensed firm
 10101 Hicks Field Rd Suite 111, Fort Worth, TX  
 ☎ [(817) 232-3333](tel:8172323333)
 
+🌐 [servpronorthfortworth.com](https://www.servpronorthfortworth.com/)  
+Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=3866742857108541681&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 Mold Remediation Company #RCO1496 (exp. 2027-12-13)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0387)
@@ -1093,6 +1150,10 @@ Licensed firm
 
 5304 Sun Valley Dr, Fort Worth, TX  
 ☎ [(336) 449-1144](tel:3364491144)
+
+🌐 [sasser247.com](https://sasser247.com/)  
+Google rating 4.5 (54 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=9070217220312799155&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 Mold Remediation Company #RCO1443 (exp. 2026-12-14)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -1250,6 +1311,11 @@ Licensed firm
 6413 Midway Rd Suite B, Haltom City, TX  
 ☎ [(817) 632-1555](tel:8176321555)
 
+🌐 [3wrestoration.com](http://www.3wrestoration.com/)  
+✉ [info@3wrestoration.com](mailto:info@3wrestoration.com)  
+Google rating 4.5 (14 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11507140991963369388&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [3wrestoration.com](https://www.3wrestoration.com/contact-us), retrieved 2026-10-18.
+
 Mold Remediation Company #RCO1259 (exp. 2028-05-19)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0285)
@@ -1262,6 +1328,12 @@ Licensed firm
 
 5960 Lower Birdville Rd C3, Haltom City, TX  
 ☎ [(972) 584-7961](tel:9725847961)
+
+☎ Google listing: [(972) 441-2956](tel:9724412956)  
+🌐 [jdrrestoration.com](https://jdrrestoration.com/)  
+✉ [info@jdrrestoration.com](mailto:info@jdrrestoration.com)  
+Google rating 4.9 (292 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17195958126107495431&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [jdrrestoration.com](https://jdrrestoration.com/), retrieved 2026-10-18.
 
 Mold Remediation Company #RCO1770 (exp. 2028-03-05)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -1288,6 +1360,12 @@ Licensed firm
 
 2653 Blue Mound Rd W Suite 101B, Haslet, TX  
 ☎ [(817) 373-5961](tel:8173735961)
+
+☎ Google listing: [(817) 506-6680](tel:8175066680)  
+🌐 [thedryguy.com](https://www.thedryguy.com/)  
+✉ [caleb@thedryguy.com](mailto:caleb@thedryguy.com)  
+Google rating 5.0 (134 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14450423932785154726&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [thedryguy.com](https://www.thedryguy.com/), retrieved 2026-10-30.
 
 Mold Remediation Company #RCO1687 (exp. 2027-04-21)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -1341,6 +1419,12 @@ Licensed firm
 801 S 4th Ave, Mansfield, TX  
 ☎ [(817) 694-2805](tel:8176942805)
 
+☎ Google listing: [(682) 702-2181](tel:6827022181)  
+🌐 [rapidrestorationtx.net](https://www.rapidrestorationtx.net/)  
+✉ [info@rapidrestorationtx.net](mailto:info@rapidrestorationtx.net)  
+Google rating 5.0 (240 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=3017615490760588379&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [rapidrestorationtx.net](https://www.rapidrestorationtx.net/), retrieved 2026-10-18.
+
 Mold Remediation Company #RCO1675 (exp. 2027-02-02)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0503)
@@ -1353,6 +1437,10 @@ Licensed firm
 
 1507 Mallard Cir, Mansfield, TX  
 ☎ [(469) 754-9255](tel:4697549255)
+
+☎ Google listing: [(469) 765-3269](tel:4697653269)  
+🌐 [totaldisastersolutions.com](https://totaldisastersolutions.com/)  
+Added by us, not on the state list: phone and website from the firm's [Google Maps listing](https://maps.google.com/?cid=325917609594032053&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 Mold Remediation Company #RCO1735 (exp. 2027-10-27)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -1367,6 +1455,11 @@ Licensed firm
 4028 Daley Ave, North Richland Hills, TX  
 ☎ [(817) 595-0790](tel:8175950790)
 
+🌐 [go1priority.com](https://go1priority.com/fort-worth-headquarters/)  
+✉ [bid@go1priority.com](mailto:bid@go1priority.com)  
+Google rating 4.2 (10 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15323159393539525077&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [go1priority.com](https://go1priority.com/fort-worth-headquarters/), retrieved 2026-10-18.
+
 Mold Remediation Company #RCO0116 (exp. 2028-01-07)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0210)
@@ -1379,6 +1472,11 @@ Licensed firm
 
 5750 Rufe Snow Dr Suite 100, North Richland Hills, TX  
 ☎ [(682) 758-1624](tel:6827581624)
+
+🌐 [coyoterestoration.com](https://coyoterestoration.com/)  
+✉ [info@coyoterestoration.com](mailto:info@coyoterestoration.com)  
+Google rating 4.7 (62 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15201795328449573344&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [coyoterestoration.com](https://coyoterestoration.com/), retrieved 2026-10-18.
 
 Mold Remediation Company #RCO1706 (exp. 2027-06-29)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -1405,6 +1503,11 @@ Licensed firm
 
 515 W Southlake Blvd Suite 150, Southlake, TX  
 ☎ [(214) 704-8765](tel:2147048765)
+
+🌐 [adhdr.com](http://adhdr.com/)  
+✉ [info@adhdr.com](mailto:info@adhdr.com)  
+Google rating 4.7 (14 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10427725756095857125&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [adhdr.com](https://adhdr.com/), retrieved 2026-10-30.
 
 Mold Remediation Company #RCO1577 (exp. 2027-07-12)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

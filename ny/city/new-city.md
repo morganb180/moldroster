@@ -59,6 +59,10 @@ Licensed firm
 32 Long Meadow Dr, New City, NY  
 ☎ [(845) 821-4063](tel:8458214063)
 
+🌐 [abetheinspector.com](https://abetheinspector.com/)  
+Google rating 5.0 (840 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=13728885920153923241&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Assessment Contractor License (SH125) #26-6SU8C-SHMO (exp. 2028-02-29)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0548)
@@ -100,6 +104,12 @@ Licensed firm
 
 216 Congers Rd #205, New City, NY  
 ☎ [(305) 785-8065](tel:3057858065)
+
+☎ Google listing: [(718) 316-6866](tel:7183166866)  
+🌐 [envirotechmold.com](https://www.envirotechmold.com/)  
+✉ [service@envirotechmold.com](mailto:service@envirotechmold.com)  
+Google rating 5.0 (1 review)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15717711868910773364&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [envirotechmold.com](https://www.envirotechmold.com/), retrieved 2026-10-18.
 
 Mold Remediation Contractor License (SH126) #26-67SU7-SHMO (exp. 2028-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

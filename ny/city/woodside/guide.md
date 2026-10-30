@@ -57,6 +57,10 @@ Licensed firm
 2612 Borough Pl, Woodside, NY  
 ☎ [(347) 448-6253](tel:3474486253)
 
+🌐 [judypaintingcorp.com](https://www.judypaintingcorp.com/contact)  
+✉ [office@judypaintingcorp.com](mailto:office@judypaintingcorp.com)  
+Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=9392334882003973603&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [judypaintingcorp.com](https://www.judypaintingcorp.com/contact), retrieved 2026-10-18.
+
 Mold Remediation Contractor License (SH126) #24-635KF-SHMO (exp. 2027-02-28)  
 Mold Assessment Contractor License (SH125) #25-67B4X-SHMO (exp. 2027-10-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -84,6 +88,9 @@ Licensed firm
 
 64-11 Broadway, Woodside, NY  
 ☎ [(718) 458-5545](tel:7184585545)
+
+Google rating 5.0 (7 reviews)  
+Added by us, not on the state list: rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15012425317563947729&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 Mold Remediation Contractor License (SH126) #26-61CGV-SHMO (exp. 2028-11-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

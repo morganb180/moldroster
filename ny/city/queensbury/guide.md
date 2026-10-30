@@ -66,6 +66,12 @@ Licensed firm
 18 Blackberry Ln, Queensbury, NY  
 ☎ [(518) 307-0130](tel:5183070130)
 
+☎ Google listing: [(518) 832-9213](tel:5188329213)  
+🌐 [cvenv.com](https://cvenv.com/)  
+✉ [support@cvenv.com](mailto:support@cvenv.com)  
+Google rating 4.8 (26 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7524363551134582234&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [cvenv.com](https://cvenv.com/), retrieved 2026-10-18.
+
 Mold Assessment Contractor License (SH125) #25-6LGBU-SHMO (exp. 2027-10-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0354)

@@ -40,6 +40,11 @@ Licensed firm
 PO Box 12333, College Station, TX  
 ☎ [(979) 492-5104](tel:9794925104)
 
+🌐 [ccpes.net](http://www.ccpes.net/)  
+✉ [brent@ccpes.net](mailto:brent@ccpes.net)  
+Google rating 4.3 (6 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4786758571159285909&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [ccpes.net](https://www.ccpes.net/), retrieved 2026-10-18.
+
 Mold Assessment Company #ACO1194 (exp. 2027-09-20)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0104)
@@ -65,6 +70,11 @@ Licensed firm
 
 12729 Sh-30, College Station, TX  
 ☎ [(979) 450-4504](tel:9794504504)
+
+🌐 [omni-pros.com](https://omni-pros.com/)  
+✉ [admin@omni-pros.com](mailto:admin@omni-pros.com)  
+Google rating 4.9 (77 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10378803799048728069&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [omni-pros.com](https://omni-pros.com/), retrieved 2026-10-18.
 
 Mold Remediation Company #RCO1746 (exp. 2027-12-15)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

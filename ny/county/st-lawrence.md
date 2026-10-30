@@ -27,6 +27,10 @@ Licensed firm
 6431 US Hwy 11, Canton, NY  
 ☎ [(315) 386-4578](tel:3153864578)
 
+🌐 [atlantictesting.com](https://www.atlantictesting.com/)  
+Google rating 5.0 (3 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11785242998860665332&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Assessment Contractor License (SH125) #26-6SS4C-SHMO (exp. 2028-02-29)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0247)
@@ -44,6 +48,10 @@ Licensed firm
 PO Box 224, Canton, NY  
 ☎ [(315) 386-8144](tel:3153868144)
 
+🌐 [kmhremediation.com](https://kmhremediation.com/)  
+Google rating 4.9 (17 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=1244942838785645022&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #24-63TLI-SHMO (exp. 2026-10-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0897)
@@ -56,6 +64,11 @@ Licensed firm
 
 273 S Grasse River Rd, Massena, NY  
 ☎ [(315) 769-3685](tel:3157693685)
+
+🌐 [jedaenvironmental.com](https://jedaenvironmental.com/)  
+✉ [info@jedaenvironmental.com](mailto:info@jedaenvironmental.com)  
+Google rating 3.4 (5 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5586025223862440672&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [jedaenvironmental.com](https://jedaenvironmental.com/), retrieved 2026-10-18.
 
 Mold Remediation Contractor License (SH126) #25-6LYR7-SHMO (exp. 2027-10-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

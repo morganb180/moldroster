@@ -33,6 +33,10 @@ Licensed firm
 85-55 115th St, Apt Super, Richmond Hill, NY  
 ☎ [(646) 773-4707](tel:6467734707)
 
+🌐 [usmapir.org](https://usmapir.org/details/painting-guys-inc--ChIJAa3)  
+Google rating 5.0 (2 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=9752171340469383345&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 Mold Assessment Contractor License (SH125) #25-6HXKT-SHMO (exp. 2027-08-31)  
 Mold Remediation Contractor License (SH126) #25-618GD-SHMO (exp. 2027-08-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

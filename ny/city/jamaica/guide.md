@@ -69,6 +69,10 @@ Licensed firm
 89-31 161st St Suite 805, Jamaica, NY  
 ☎ [(347) 495-0728](tel:3474950728)
 
+☎ Google listing: [(718) 313-1909](tel:7183131909)  
+🌐 [pyramidsoln.com](https://pyramidsoln.com/contact-us/)  
+Added by us, not on the state list: phone and website from the firm's [Google Maps listing](https://maps.google.com/?cid=6971397772501125818&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 Mold Assessment Contractor License (SH125) #24-63STG-SHMO (exp. 2026-11-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY1042)

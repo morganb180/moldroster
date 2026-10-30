@@ -25,6 +25,11 @@ Licensed firm
 4896 Fm 2314, Hallettsville, TX  
 ☎ [(361) 798-9332](tel:3617989332)
 
+🌐 [frontierdevelopmentinc.com](http://frontierdevelopmentinc.com/)  
+✉ [info@frontierdevelopmentinc.com](mailto:info@frontierdevelopmentinc.com)  
+Google rating 5.0 (4 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=1673068039297811533&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [frontierdevelopmentinc.com](https://frontierdevelopmentinc.com/), retrieved 2026-10-18.
+
 Mold Remediation Company #RCO1312 (exp. 2027-10-04)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0308)

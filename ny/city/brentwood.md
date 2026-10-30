@@ -87,6 +87,11 @@ Licensed firm
 26 Cain Dr, Brentwood, NY  
 ☎ [(631) 670-6445](tel:6316706445)
 
+☎ Google listing: [(631) 759-8080](tel:6317598080)  
+🌐 [smfireandwatercleanup.com](http://www.smfireandwatercleanup.com/)  
+Google rating 5.0 (49 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17135766617153379656&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #26-6I3LG-SHMO (exp. 2028-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0709)

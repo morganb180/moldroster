@@ -59,6 +59,10 @@ Licensed firm
 2150 Smithtown Ave Suite 3, Ronkonkoma, NY  
 ☎ [(631) 580-3191](tel:6315803191)
 
+🌐 [enviroscienceconsultants.com](https://enviroscienceconsultants.com/)  
+Google rating 5.0 (1 review)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=12445076183452170767&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #26-6ZIPR-SHMO (exp. 2028-02-29)  
 Mold Assessment Contractor License (SH125) #26-6ZIDV-SHMO (exp. 2028-02-29)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -99,6 +103,10 @@ Licensed firm
 22231-28 Fifth Ave, Ronkonkoma, NY  
 ☎ [(631) 648-9702](tel:6316489702)
 
+🌐 [lipremier.net](https://www.lipremier.net/)  
+Google rating 4.7 (13 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=1657287383811228530&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Assessment Contractor License (SH125) #25-64Q3O-SHMO (exp. 2027-01-31)  
 Mold Remediation Contractor License (SH126) #25-64Q48-SHMO (exp. 2027-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -126,6 +134,11 @@ Licensed firm
 145COMAC St, Ronkonkoma, NY  
 ☎ [(631) 454-9595](tel:6314549595)
 
+🌐 [techclean.com](https://www.techclean.com/)  
+✉ [info@techclean.com](mailto:info@techclean.com)  
+Google rating 4.3 (6 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=1863132071540269237&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [techclean.com](https://techclean.com/), retrieved 2026-10-18.
+
 Mold Remediation Contractor License (SH126) #26-6ZUSL-SHMO (exp. 2028-06-30)  
 Mold Assessment Contractor License (SH125) #26-6ZZS4-SHMO (exp. 2028-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -142,6 +155,11 @@ Licensed firm
 2099 9th Ave, Ronkonkoma, NY  
 ☎ [(631) 467-6600](tel:6314676600)
 
+🌐 [branchservicesinc.com](https://www.branchservicesinc.com/)  
+✉ [info@branchservicesinc.com](mailto:info@branchservicesinc.com)  
+Google rating 4.6 (10 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4984374791639263165&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [branchservicesinc.com](https://branchservicesinc.com/), retrieved 2026-10-18.
+
 Mold Remediation Contractor License (SH126) #26-6I1OF-SHMO (exp. 2028-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0002)
@@ -154,6 +172,10 @@ Licensed firm
 
 845 Marconi Ave, Ronkonkoma, NY  
 ☎ [(631) 395-3400](tel:6313953400)
+
+🌐 [acerestorationservice.com](https://acerestorationservice.com/)  
+Google rating 4.8 (87 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17129330433016578630&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Contractor License (SH126) #26-6ZVQF-SHMO (exp. 2028-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -194,6 +216,10 @@ Licensed firm
 60 Raynor Ave, Ronkonkoma, NY  
 ☎ [(631) 964-8900](tel:6319648900)
 
+🌐 [belfor.com](https://www.belfor.com/us/en/belfor-long-island/)  
+Google rating 4.7 (13 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4870311549773672308&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #24-64BBG-SHMO (exp. 2026-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0070)
@@ -220,6 +246,11 @@ Licensed firm
 140 Gary Way, Ronkonkoma, NY  
 ☎ [(631) 451-7500](tel:6314517500)
 
+🌐 [iacpros.com](http://iacpros.com/)  
+✉ [info@iacpros.com](mailto:info@iacpros.com)  
+Google rating 5.0 (309 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=6992084679351805371&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [iacpros.com](https://iacpros.com/), retrieved 2026-10-18.
+
 Mold Remediation Contractor License (SH126) #26-6ZCYO-SHMO (exp. 2028-02-29)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0685)
@@ -233,6 +264,10 @@ Licensed firm
 701-8 Koehler Ave, Ronkonkoma, NY  
 ☎ [(631) 738-6900](tel:6317386900)
 
+🌐 [pci-services.com](http://www.pci-services.com/)  
+Google rating 4.5 (32 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2894737331143252664&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #25-6LS8G-SHMO (exp. 2027-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY1015)
@@ -244,6 +279,12 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 205 RonKonKoma Ave, Ronkonkoma, NY
+
+☎ [(631) 588-1110](tel:6315881110)  
+🌐 [restorationexperts.com](https://restorationexperts.com/)  
+✉ [info@restorationexperts.com](mailto:info@restorationexperts.com)  
+Google rating 4.7 (86 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=16243577631373774744&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [restorationexperts.com](https://restorationexperts.com/), retrieved 2026-10-18.
 
 Mold Remediation Contractor License (SH126) #25-6LHRQ-SHMO (exp. 2027-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

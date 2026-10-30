@@ -44,6 +44,10 @@ Licensed firm
 7727COUNTY Rd 40, Bolivar, NY  
 ☎ [(585) 928-1709](tel:5859281709)
 
+🌐 [saveheat.org](http://saveheat.org/contact-us.html)  
+Google rating 2.7 (7 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15987187131047633097&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #25-65TEH-SHMO (exp. 2027-05-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY1006)

@@ -29,6 +29,10 @@ Licensed firm
 1327 E Washington Ave Suite 242, Harlingen, TX  
 ☎ [(956) 357-4269](tel:9563574269)
 
+☎ Google listing: [(956) 535-3876](tel:9565353876)  
+🌐 [aamecctx.com](https://aamecctx.com/)  
+Added by us, not on the state list: phone and website from the firm's [Google Maps listing](https://maps.google.com/?cid=5996794740615158592&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Assessment Company #ACO1073 (exp. 2027-07-30)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0053)
@@ -67,6 +71,11 @@ Licensed firm
 
 6805 W Lakeside Blvd, Olmito, TX  
 ☎ [(956) 459-2636](tel:9564592636)
+
+☎ Google listing: [(956) 455-7779](tel:9564557779)  
+🌐 [carrollsinspectors.com](http://www.carrollsinspectors.com/)  
+Google rating 4.7 (29 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11006429003803042377&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Assessment Company #ACO1281 (exp. 2027-05-28)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

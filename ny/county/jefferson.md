@@ -27,6 +27,9 @@ Licensed firm
 45477 State Rte 12, Suite 1, Alexandria Bay, NY  
 ☎ [(315) 788-3900](tel:3157883900)
 
+🌐 [gymodpc.com](http://www.gymodpc.com/)  
+Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=17693257489373045418&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Assessment Contractor License (SH125) #25-6UXS9-SHMO (exp. 2027-07-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0669)
@@ -39,6 +42,12 @@ Licensed firm
 
 123 Coleman Ave, Watertown, NY  
 ☎ [(315) 778-9403](tel:3157789403)
+
+☎ Google listing: [(315) 755-2044](tel:3157552044)  
+🌐 [colelloairtechnologies.com](https://www.colelloairtechnologies.com/)  
+✉ [colelloairtechnologies@gmail.com](mailto:colelloairtechnologies@gmail.com)  
+Google rating 4.9 (40 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10439919043578589753&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [colelloairtechnologies.com](https://www.colelloairtechnologies.com/contact-us), retrieved 2026-10-18.
 
 Mold Assessment Contractor License (SH125) #26-66LA1-SHMO (exp. 2028-04-30)  
 Mold Remediation Contractor License (SH126) #26-6ZPFO-SHMO (exp. 2028-04-30)  
@@ -53,6 +62,11 @@ Licensed firm
 
 800 Starbuck Ave, Suite B101, Watertown, NY  
 ☎ [(315) 788-8388](tel:3157888388)
+
+🌐 [converselabs.com](https://www.converselabs.com/)  
+✉ [customerservice3@converselabs.com](mailto:customerservice3@converselabs.com)  
+Google rating 4.2 (21 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7567774088892249243&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [converselabs.com](https://www.converselabs.com/), retrieved 2026-10-18.
 
 Mold Assessment Contractor License (SH125) #26-6SICG-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -70,6 +84,11 @@ Licensed firm
 
 800 Starbuck Ave Suite B-4, Watertown, NY  
 ☎ [(315) 777-8377](tel:3157778377)
+
+☎ Google listing: [(315) 748-5426](tel:3157485426)  
+🌐 [servpro.com](https://www.servpro.com/locations/ny/servpro-of-jefferson-county)  
+Google rating 4.7 (47 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=248773655039887919&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Contractor License (SH126) #25-6IFQ4-SHMO (exp. 2028-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

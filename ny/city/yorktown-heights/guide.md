@@ -53,6 +53,11 @@ Licensed firm
 170 Loder Rd, Yorktown Heights, NY  
 ☎ [(914) 962-1086](tel:9149621086)
 
+🌐 [geoenv.us](https://www.geoenv.us/)  
+✉ [info@geoenv.us](mailto:info@geoenv.us)  
+Google rating 5.0 (38 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2936411580536721745&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [geoenv.us](https://geoenv.us/), retrieved 2026-10-18.
+
 Mold Assessment Contractor License (SH125) #25-6LCJ7-SHMO (exp. 2027-10-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0725)
@@ -65,6 +70,11 @@ Licensed firm
 
 349 Columbine Ct, Yorktown Heights, NY  
 ☎ [(914) 314-1385](tel:9143141385)
+
+🌐 [hudsonmold.com](http://www.hudsonmold.com/)  
+✉ [gh@hudsonmold.com](mailto:gh@hudsonmold.com)  
+Google rating 5.0 (16 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=16923654128341702391&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [hudsonmold.com](https://www.hudsonmold.com/), retrieved 2026-10-18.
 
 Mold Assessment Contractor License (SH125) #24-631S7-SHMO (exp. 2026-11-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

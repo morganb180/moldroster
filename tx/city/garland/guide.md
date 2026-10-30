@@ -56,6 +56,10 @@ Licensed firm
 3821 Dividend Dr, Garland, TX  
 ☎ [(469) 338-7229](tel:4693387229)
 
+🌐 [aescompanies.com](http://www.aescompanies.com/)  
+Google rating 4.9 (32 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=188887871916323201&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Company #RCO1245 (exp. 2028-01-14)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0280)

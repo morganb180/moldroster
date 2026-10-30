@@ -42,6 +42,10 @@ Licensed firm
 1970 Walton Ave Apt 4A, Bronx, NY  
 ☎ [(646) 937-3124](tel:6469373124)
 
+🌐 [aplimitless.com](http://aplimitless.com/)  
+Google rating 5.0 (39 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=8608188216046413463&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Assessment Contractor License (SH125) #24-64BYU-SHMO (exp. 2026-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0214)
@@ -68,6 +72,11 @@ Licensed firm
 740 E 243rd St Apt 2F, Bronx, NY  
 ☎ [(646) 389-3361](tel:6463893361)
 
+🌐 [asapenv.com](https://asapenv.com/)  
+✉ [info@asapenv.com](mailto:info@asapenv.com)  
+Google rating 5.0 (4 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=588355598357846488&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [asapenv.com](https://www.asapenv.com/), retrieved 2026-10-18.
+
 Mold Remediation Contractor License (SH126) #26-69SH3-SHMO (exp. 2028-08-31)  
 Mold Assessment Contractor License (SH125) #24-6355R-SHMO (exp. 2026-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -82,6 +91,10 @@ Licensed firm
 4332 Bullard Ave, Bronx, NY  
 ☎ [(718) 994-1374](tel:7189941374)
 
+🌐 [abatementunltd.com](http://www.abatementunltd.com/)  
+Google rating 4.3 (6 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=8905821702720822748&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #25-6LSS7-SHMO (exp. 2027-11-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0217)
@@ -94,6 +107,11 @@ Licensed firm
 
 3434BOLLER Ave, Bronx, NY  
 ☎ [(347) 245-2541](tel:3472452541)
+
+🌐 [abate-pro.com](https://abate-pro.com/)  
+✉ [info@abate-pro.com](mailto:info@abate-pro.com)  
+Google rating 5.0 (20 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=8374096133014892333&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [abate-pro.com](https://www.abate-pro.com/), retrieved 2026-10-18.
 
 Mold Remediation Contractor License (SH126) #25-644CB-SHMO (exp. 2027-02-28)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

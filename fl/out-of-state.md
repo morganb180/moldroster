@@ -109,6 +109,10 @@ Licensed firm
 
 * Timothy Hebert (Mold Assessor #MRSA997 (exp. 2028-07-31); Mold Remediator #MRSR849 (exp. 2028-07-31))
 
+☎ [(800) 672-3386](tel:8006723386)  
+🌐 [apsihc.com](https://www.apsihc.com/)  
+Added by us, not on the state list: phone and website from the firm's [Google Maps listing](https://maps.google.com/?cid=5770727737287959501&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=FL0431)
 

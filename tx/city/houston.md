@@ -73,6 +73,10 @@ Licensed firm
 10605 Grant Rd Suite 106, Houston, TX  
 ☎ [(281) 640-4475](tel:2816404475)
 
+🌐 [cypressec.com](https://cypressec.com/)  
+Google rating 5.0 (3 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10539965768336439157&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Assessment Company #ACO1181 (exp. 2026-12-21)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0097)
@@ -85,6 +89,11 @@ Licensed firm
 
 1000 N Post Oak Rd Suite 240, Houston, TX  
 ☎ [(832) 993-6476](tel:8329936476)
+
+☎ Google listing: [(713) 955-1980](tel:7139551980)  
+🌐 [ecslimited.com](http://www.ecslimited.com/)  
+Google rating 3.9 (8 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=12299964097598823096&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Assessment Company #ACO1212 (exp. 2028-06-05)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -99,6 +108,11 @@ Licensed firm
 2000 S Dairy Ashford Rd Suite 600, Houston, TX  
 ☎ [(832) 518-5145](tel:8325185145)
 
+🌐 [efiglobal.com](https://www.efiglobal.com/)  
+✉ [marketing@efiglobal.com](mailto:marketing@efiglobal.com)  
+Google rating 2.8 (4 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=8703395173360871451&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [efiglobal.com](https://www.efiglobal.com/emerging-pfas-risks-what-you-need-to-know-about-airborne-exposure/), retrieved 2026-10-18.
+
 Mold Assessment Company #ACO0126 (exp. 2028-01-05)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0011)
@@ -111,6 +125,10 @@ Licensed firm
 
 5773 Woodway Dr Suite 310, Houston, TX  
 ☎ [(713) 344-1300](tel:7133441300)
+
+☎ Google listing: [(713) 334-1300](tel:7133341300)  
+🌐 [ecillcus.com](http://www.ecillcus.com/)  
+Added by us, not on the state list: phone and website from the firm's [Google Maps listing](https://maps.google.com/?cid=2282202050152919470&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Assessment Company #ACO1178 (exp. 2028-10-19)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -125,6 +143,10 @@ Licensed firm
 13831 Northwest Fwy Suite 440, Houston, TX  
 ☎ [(713) 934-9944](tel:7139349944)
 
+🌐 [esi-texas.com](https://www.esi-texas.com/)  
+Google rating 4.0 (4 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15649068887394627957&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Assessment Company #ACO0143 (exp. 2028-03-15)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0017)
@@ -137,6 +159,11 @@ Licensed firm
 
 1017 Blackhaw St, Houston, TX  
 ☎ [(713) 290-9444](tel:7132909444)
+
+🌐 [erc-tx.com](https://erc-tx.com/)  
+✉ [info@erc-tx.com](mailto:info@erc-tx.com)  
+Google rating 5.0 (6 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=12033518010741146589&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [erc-tx.com](https://erc-tx.com/), retrieved 2026-10-18.
 
 Mold Assessment Company #ACO0147 (exp. 2028-02-03)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -190,6 +217,11 @@ Licensed firm
 14420 W Sylvanfield Dr Suite 200, Houston, TX  
 ☎ [(713) 856-5354](tel:7138565354)
 
+🌐 [honestyenvironmental.com](http://www.honestyenvironmental.com/)  
+✉ [info@honestyenvironmental.com](mailto:info@honestyenvironmental.com)  
+Google rating 4.7 (19 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=16776735829968276760&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [honestyenvironmental.com](https://www.honestyenvironmental.com/), retrieved 2026-10-18.
+
 Mold Assessment Company #ACO0132 (exp. 2028-01-12)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0014)
@@ -216,6 +248,9 @@ Licensed firm
 6919 Pine Vista Ln, Houston, TX  
 ☎ [(832) 840-7887](tel:8328407887)
 
+Google rating 4.2 (15 reviews)  
+Added by us, not on the state list: rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14691918592682017153&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Assessment Company #ACO1179 (exp. 2026-10-29)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0096)
@@ -228,6 +263,10 @@ Licensed firm
 
 9079 Knight Rd, Houston, TX  
 ☎ [(713) 585-7000](tel:7135857000)
+
+🌐 [mecx.net](https://www.mecx.net/)  
+✉ [info@mecx.net](mailto:info@mecx.net)  
+Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=16543156641090866803&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [mecx.net](https://www.mecx.net/), retrieved 2026-10-18.
 
 Mold Assessment Company #ACO1080 (exp. 2028-03-08)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -242,6 +281,11 @@ Licensed firm
 8275 El Rio St Suite 110, Houston, TX  
 ☎ [(713) 663-6888](tel:7136636888)
 
+🌐 [microbiologyspecialists.com](http://www.microbiologyspecialists.com/)  
+✉ [msi@microbiologyspecialists.com](mailto:msi@microbiologyspecialists.com)  
+Google rating 4.8 (4 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10461289971257096199&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [microbiologyspecialists.com](https://microbiologyspecialists.com/contact-us/), retrieved 2026-10-18.
+
 Mold Assessment Company #ACO1117 (exp. 2027-03-16)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0067)
@@ -254,6 +298,11 @@ Licensed firm
 
 7457 Hollister St, Houston, TX  
 ☎ [(281) 782-7966](tel:2817827966)
+
+☎ Google listing: [(281) 558-4100](tel:2815584100)  
+🌐 [moldbadmold.com](http://moldbadmold.com/)  
+✉ [mold-test@moldbadmold.com](mailto:mold-test@moldbadmold.com)  
+Added by us, not on the state list: phone and website from the firm's [Google Maps listing](https://maps.google.com/?cid=1422801385058487089&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [moldbadmold.com](https://moldbadmold.com/), retrieved 2026-10-18.
 
 Mold Assessment Company #ACO1116 (exp. 2027-03-09)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -268,6 +317,10 @@ Licensed firm
 6101 Maple St, Houston, TX  
 ☎ [(713) 777-7700](tel:7137777700)
 
+🌐 [mundae.com](https://mundae.com/cleaning-restoration-southwest-houston/)  
+Google rating 4.9 (132 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=1239713752636212324&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Assessment Company #ACO1120 (exp. 2027-08-16)  
 Mold Remediation Company #RCO1265 (exp. 2028-10-05)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -281,6 +334,10 @@ Licensed firm
 
 5524 Cornish St, Houston, TX  
 ☎ [(713) 476-9844](tel:7134769844)
+
+🌐 [phaseengineering.com](http://www.phaseengineering.com/)  
+Google rating 4.7 (13 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=18084353768543300228&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Assessment Company #ACO0192 (exp. 2027-04-07)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -308,6 +365,9 @@ Licensed firm
 10810 Northwest Fwy, Houston, TX  
 ☎ [(713) 695-1133](tel:7136951133)
 
+Google rating 3.7 (6 reviews)  
+Added by us, not on the state list: rating from the firm's [Google Maps listing](https://maps.google.com/?cid=16892038344756219041&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Assessment Company #ACO1047 (exp. 2027-05-21)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0045)
@@ -321,6 +381,10 @@ Licensed firm
 1018 Hercules Ave, Houston, TX  
 ☎ [(713) 568-8184](tel:7135688184)
 
+🌐 [redfishinspections.com](https://redfishinspections.com/houston/houston-home-inspection-lsa/)  
+Google rating 4.9 (1,514 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5038096993254509279&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Assessment Company #ACO1237 (exp. 2027-12-04)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0125)
@@ -333,6 +397,9 @@ Licensed firm
 
 12140 Wickchester Ln Suite 300, Houston, TX  
 ☎ [(210) 647-8400](tel:2106478400)
+
+🌐 [rimkus.com](https://rimkus.com/locations/san-antonio)  
+Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=14614114830581981228&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 Mold Assessment Company #ACO0115 (exp. 2027-10-29)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -359,6 +426,10 @@ Licensed firm
 
 11707 S Sam Houston Pkwy W Suite A, Houston, TX  
 ☎ [(713) 782-4411](tel:7137824411)
+
+☎ Google listing: [(314) 421-0600](tel:3144210600)  
+🌐 [sitexsolutions.com](https://sitexsolutions.com/)  
+Added by us, not on the state list: phone and website from the firm's [Google Maps listing](https://maps.google.com/?cid=6702483983752316729&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Assessment Company #ACO0164 (exp. 2028-03-10)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -425,6 +496,12 @@ Licensed firm
 8048 Northcourt Rd, Houston, TX  
 ☎ [(713) 744-5876](tel:7137445876)
 
+☎ Google listing: [(713) 744-5805](tel:7137445805)  
+🌐 [tgeresources.com](https://tgeresources.com/)  
+✉ [rdfranks@tgeresources.com](mailto:rdfranks@tgeresources.com)  
+Google rating 5.0 (5 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=1949691808899601119&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [tgeresources.com](https://www.tgeresources.com/contact), retrieved 2026-10-18.
+
 Mold Assessment Company #ACO0123 (exp. 2028-01-08)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0009)
@@ -437,6 +514,11 @@ Licensed firm
 
 1431 Wirt Rd, Houston, TX  
 ☎ [(832) 373-1670](tel:8323731670)
+
+🌐 [tmicec.com](http://tmicec.com/)  
+✉ [tmicecbooks@gmail.com](mailto:tmicecbooks@gmail.com)  
+Google rating 5.0 (1 review)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10623091339845756601&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [tmicec.com](https://tmicec.com/), retrieved 2026-10-18.
 
 Mold Assessment Company #ACO1268 (exp. 2027-01-22)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -464,6 +546,10 @@ Licensed firm
 1322 Space Park Dr Suite A155, Houston, TX  
 ☎ [(281) 470-0708](tel:2814700708)
 
+🌐 [turnstoneehs.net](https://www.turnstoneehs.net/)  
+Google rating 3.8 (4 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=12333756956084454297&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Assessment Company #ACO1100 (exp. 2028-10-02)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0065)
@@ -476,6 +562,11 @@ Licensed firm
 
 14731 Pebble Bend Dr, Houston, TX  
 ☎ [(281) 580-8892](tel:2815808892)
+
+🌐 [teamues.com](https://www.teamues.com/)  
+✉ [info@teamues.com](mailto:info@teamues.com)  
+Google rating 4.4 (7 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2258165432975341595&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [teamues.com](https://www.teamues.com/), retrieved 2026-10-18.
 
 Mold Assessment Company #ACO1277 (exp. 2027-05-04)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -507,6 +598,10 @@ Licensed firm
 1626 Oak Tree Dr Suite A, Houston, TX  
 ☎ [(281) 262-9500](tel:2812629500)
 
+🌐 [247restorationspecialists.com](https://247restorationspecialists.com/)  
+Google rating 4.9 (44 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=1962432139071013962&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Company #RCO1693 (exp. 2027-05-12)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0521)
@@ -533,6 +628,11 @@ Licensed firm
 1106 Carby Rd, Houston, TX  
 ☎ [(281) 999-1696](tel:2819991696)
 
+☎ Google listing: [(281) 336-1888](tel:2813361888)  
+🌐 [abcrestoration.com](https://www.abcrestoration.com/)  
+Google rating 4.7 (130 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7723431266762889725&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Company #RCO1800 (exp. 2028-06-03)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0626)
@@ -546,6 +646,11 @@ Licensed firm
 6640 Signat Signat Dr, Houston, TX  
 ☎ [(713) 466-6800](tel:7134666800)
 
+🌐 [aarinc.net](http://www.aarinc.net/)  
+✉ [mail@aarinc.net](mailto:mail@aarinc.net)  
+Google rating 3.9 (26 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=13286303032288680855&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [aarinc.net](https://www.aarinc.net/), retrieved 2026-10-18.
+
 Mold Remediation Company #RCO0124 (exp. 2028-01-19)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0212)
@@ -558,6 +663,11 @@ Licensed firm
 
 1421 Upland Dr, Houston, TX  
 ☎ [(832) 230-4293](tel:8322304293)
+
+🌐 [abatementspecialists.com](http://www.abatementspecialists.com/)  
+✉ [joe@abatementspecialists.com](mailto:joe@abatementspecialists.com)  
+Google rating 1.0 (1 review)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17283219023651047507&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [abatementspecialists.com](https://www.abatementspecialists.com/contact.html), retrieved 2026-10-18.
 
 Mold Remediation Company #RCO1214 (exp. 2028-11-09)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -598,6 +708,11 @@ Licensed firm
 8701 Gulf Fwy, Houston, TX  
 ☎ [(713) 378-9911](tel:7133789911)
 
+🌐 [amxenvironmental.com](http://www.amxenvironmental.com/)  
+✉ [kgray@amxenvironmental.com](mailto:kgray@amxenvironmental.com)  
+Google rating 4.7 (11 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=967715849250572929&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [amxenvironmental.com](https://www.amxenvironmental.com/contact-us/), retrieved 2026-10-18.
+
 Mold Remediation Company #RCO1439 (exp. 2028-11-17)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0357)
@@ -610,6 +725,10 @@ Licensed firm
 
 250 Assay St Suite 500, Houston, TX  
 ☎ [(713) 450-9307](tel:7134509307)
+
+🌐 [apacheip.com](http://www.apacheip.com/)  
+Google rating 4.4 (7 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4255471301246679284&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Company #RCO1344 (exp. 2028-05-17)  
 Mold Remediation Company #RCO1344 (exp. 2028-05-17)  
@@ -630,6 +749,11 @@ Licensed firm
 
 11811 N Freeway Suite 480, Houston, TX  
 ☎ [(281) 445-1246](tel:2814451246)
+
+🌐 [arrowsvs.net](http://www.arrowsvs.net/)  
+✉ [info@arrowsvs.net](mailto:info@arrowsvs.net)  
+Google rating 3.9 (15 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14538981319707278280&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [arrowsvs.net](https://www.arrowsvs.net/), retrieved 2026-10-18.
 
 Mold Remediation Company #RCO0188 (exp. 2028-11-15)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -657,6 +781,10 @@ Licensed firm
 777 N Eldridge Pkwy Suite 900, Houston, TX  
 ☎ [(281) 807-8200](tel:2818078200)
 
+🌐 [brockgroup.com](http://www.brockgroup.com/)  
+Google rating 5.0 (6 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14267199243520748049&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 Mold Remediation Company #RCO1657 (exp. 2028-09-15)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0487)
@@ -670,6 +798,11 @@ Licensed firm
 9809 Harwin Dr Suite J, Houston, TX  
 ☎ [(832) 329-6041](tel:8323296041)
 
+☎ Google listing: [(832) 772-2088](tel:8327722088)  
+🌐 [buffalohomeremodelingtx.com](https://buffalohomeremodelingtx.com/)  
+Google rating 4.8 (246 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15502380577556672226&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Company #RCO1563 (exp. 2027-03-01)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0425)
@@ -682,6 +815,10 @@ Licensed firm
 
 1123 Witte Rd Suite B, Houston, TX  
 ☎ [(713) 775-5203](tel:7137755203)
+
+🌐 [capdsus.com](https://www.capdsus.com/)  
+Google rating 4.8 (16 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7965924700760749380&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Company #RCO1554 (exp. 2026-12-08)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -721,6 +858,11 @@ Licensed firm
 
 6730 Windfern Rd, Houston, TX  
 ☎ [(832) 230-8871](tel:8322308871)
+
+🌐 [compass-svcs.com](http://www.compass-svcs.com/)  
+✉ [info@compass-svcs.com](mailto:info@compass-svcs.com)  
+Google rating 4.0 (6 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4952668272389974195&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [compass-svcs.com](https://www.compass-svcs.com/), retrieved 2026-10-18.
 
 Mold Remediation Company #RCO1251 (exp. 2028-02-29)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -774,6 +916,11 @@ Licensed firm
 16011 Hollister St Suite C, Houston, TX  
 ☎ [(281) 460-5870](tel:2814605870)
 
+☎ Google listing: [(713) 597-4466](tel:7135974466)  
+🌐 [1strestore.com](https://www.1strestore.com/water-damage-restoration-houston-tx)  
+Google rating 5.0 (12 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15695912041563538039&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Company #RCO1827 (exp. 2028-09-16)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0653)
@@ -786,6 +933,11 @@ Licensed firm
 
 10205 Windfern Rd, Houston, TX  
 ☎ [(281) 838-9214](tel:2818389214)
+
+☎ Google listing: [(713) 877-8041](tel:7138778041)  
+🌐 [frontlinerestores.com](https://www.frontlinerestores.com/)  
+Google rating 5.0 (24 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7682419449849298020&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Company #RCO1788 (exp. 2028-04-14)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -854,6 +1006,12 @@ Licensed firm
 16011 Hollister St Suite D, Houston, TX  
 ☎ [(760) 797-5763](tel:7607975763)
 
+☎ Google listing: [(800) 760-0391](tel:8007600391)  
+🌐 [h20rsco.com](https://www.h20rsco.com/)  
+✉ [mike@h20rsco.com](mailto:mike@h20rsco.com)  
+Google rating 4.8 (70 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=100715717841577540&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [h20rsco.com](https://www.h20rsco.com/), retrieved 2026-10-18.
+
 Mold Remediation Company #RCO1826 (exp. 2028-09-16)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0652)
@@ -919,6 +1077,11 @@ Licensed firm
 3635 Willowbend Blvd Suite 318, Houston, TX  
 ☎ [(832) 856-5900](tel:8328565900)
 
+🌐 [puroclean.com](https://www.puroclean.com/houston-tx-puroclean-central-southwest-houston)  
+✉ [emergencycswhouston@puroclean.com](mailto:emergencycswhouston@puroclean.com)  
+Google rating 4.7 (289 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17843874875604635359&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [puroclean.com](https://www.puroclean.com/houston-tx-puroclean-central-southwest-houston/), retrieved 2026-10-18.
+
 Mold Remediation Company #RCO1630 (exp. 2028-05-13)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0468)
@@ -971,6 +1134,11 @@ Licensed firm
 550 Post Oak Blvd Suite #414, Houston, TX  
 ☎ [(832) 918-2555](tel:8329182555)
 
+☎ Google listing: [(832) 402-9466](tel:8324029466)  
+🌐 [qualityairductcleaninghouston.com](https://qualityairductcleaninghouston.com/)  
+Google rating 5.0 (255 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=1745106116839188937&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Company #RCO1653 (exp. 2028-09-09)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0485)
@@ -997,6 +1165,12 @@ Licensed firm
 1330 Sherwood Forest, Houston, TX  
 ☎ [(713) 489-8089](tel:7134898089)
 
+☎ Google listing: [(713) 574-1579](tel:7135741579)  
+🌐 [rapidresponse-remediation.com](https://rapidresponse-remediation.com/)  
+✉ [hussam@rapidresponse-remediation.com](mailto:hussam@rapidresponse-remediation.com)  
+Google rating 4.9 (166 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2012665834680600867&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [rapidresponse-remediation.com](https://rapidresponse-remediation.com/), retrieved 2026-10-30.
+
 Mold Remediation Company #RCO1759 (exp. 2028-02-03)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0585)
@@ -1009,6 +1183,11 @@ Licensed firm
 
 2611 Arabelle St, Houston, TX  
 ☎ [(713) 862-8433](tel:7138628433)
+
+🌐 [regalgc.com](http://regalgc.com/)  
+✉ [info@regalgc.com](mailto:info@regalgc.com)  
+Google rating 4.8 (16 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15612153840328761708&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [regalgc.com](https://www.regalgc.com/), retrieved 2026-10-18.
 
 Mold Remediation Company #RCO1314 (exp. 2027-10-22)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -1088,6 +1267,11 @@ Licensed firm
 2500 Fairway Park Dr, Houston, TX  
 ☎ [(713) 939-0505](tel:7139390505)
 
+🌐 [strategicfiltration.com](http://www.strategicfiltration.com/)  
+✉ [sales@strategicfiltration.com](mailto:sales@strategicfiltration.com)  
+Google rating 3.4 (10 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=12584444877634735392&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [strategicfiltration.com](https://www.strategicfiltration.com/), retrieved 2026-10-18.
+
 Mold Remediation Company #RCO1238 (exp. 2028-09-22)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0278)
@@ -1127,6 +1311,12 @@ Licensed firm
 4601 S Wayside Dr, Houston, TX  
 ☎ [(713) 640-2025](tel:7136402025)
 
+☎ Google listing: [(936) 628-5566](tel:9366285566)  
+🌐 [texasgeneral.com](https://www.texasgeneral.com/)  
+✉ [tgc@texasgeneral.com](mailto:tgc@texasgeneral.com)  
+Google rating 4.9 (50 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=13502261628443613665&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [texasgeneral.com](https://www.texasgeneral.com/), retrieved 2026-10-18.
+
 Mold Remediation Company #RCO1115 (exp. 2027-06-03)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0258)
@@ -1152,6 +1342,10 @@ Licensed firm
 
 1655 Townhurst Dr Suite 150, Houston, TX  
 ☎ [(281) 721-4700](tel:2817214700)
+
+🌐 [xxlconstruction.com](https://www.xxlconstruction.com/)  
+Google rating 5.0 (6 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17910386629139321476&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Company #RCO1715 (exp. 2027-08-14)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

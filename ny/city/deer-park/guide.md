@@ -71,6 +71,11 @@ Licensed firm
 40 Brook Ave Unit A, Deer Park, NY  
 ☎ [(631) 392-4244](tel:6313924244)
 
+☎ Google listing: [(631) 519-8993](tel:6315198993)  
+🌐 [servicemasterrestore.com](https://www.servicemasterrestore.com/servicemaster-restoration-by-clean-sweep/)  
+Google rating 5.0 (16 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=16458948982950470511&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #25-6L8QC-SHMO (exp. 2027-11-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY1441)
@@ -83,6 +88,11 @@ Licensed firm
 
 80 E Jefryn Blvd, Deer Park, NY  
 ☎ [(631) 838-0646](tel:6318380646)
+
+☎ Google listing: [(631) 320-2350](tel:6313202350)  
+🌐 [sunshineenv.com](http://sunshineenv.com/)  
+Google rating 5.0 (1 review)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5825300384834825840&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Contractor License (SH126) #25-6Z737-SHMO (exp. 2027-09-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

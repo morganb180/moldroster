@@ -45,6 +45,12 @@ Licensed firm
 3333 County Rd 119 Suite 96, Hutto, TX  
 ☎ [(512) 743-4922](tel:5127434922)
 
+☎ Google listing: [(512) 713-5532](tel:5127135532)  
+🌐 [beaverdamwr.com](https://www.beaverdamwr.com/)  
+✉ [office@beaverdamwr.com](mailto:office@beaverdamwr.com)  
+Google rating 4.8 (33 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17238617148059194672&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [beaverdamwr.com](https://www.beaverdamwr.com/), retrieved 2026-10-18.
+
 Mold Remediation Company #RCO1709 (exp. 2027-07-22)  
 Mold Remediation Company #RCO1710 (exp. 2027-07-29)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -59,6 +65,10 @@ Licensed firm
 101 Tradesmen Dr, Hutto, TX  
 ☎ [(512) 733-0600](tel:5127330600)
 
+🌐 [contractorsinc.com](https://contractorsinc.com/)  
+Google rating 4.0 (1 review)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=3070354303682458125&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Company #RCO1158 (exp. 2026-11-14)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0264)
@@ -71,6 +81,11 @@ Licensed firm
 
 118 Campos Dr, Hutto, TX  
 ☎ [(512) 661-4754](tel:5126614754)
+
+🌐 [jsgbiocleanse.com](https://jsgbiocleanse.com/)  
+✉ [jsgbiocleanse@gmail.com](mailto:jsgbiocleanse@gmail.com)  
+Google rating 5.0 (14 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11292626545282232965&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [jsgbiocleanse.com](https://jsgbiocleanse.com/), retrieved 2026-10-18.
 
 Mold Remediation Company #RCO1676 (exp. 2027-02-04)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

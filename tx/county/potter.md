@@ -27,6 +27,10 @@ Licensed firm
 211 S E 17th Ave, Amarillo, TX  
 ☎ [(806) 381-8888](tel:8063818888)
 
+🌐 [asbestosamarillo.com](http://asbestosamarillo.com/)  
+Google rating 3.0 (2 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14710145242596213445&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Assessment Company #ACO1303 (exp. 2028-01-07)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0181)
@@ -71,6 +75,11 @@ Licensed firm
 
 8700 N US Hwy 287, Amarillo, TX  
 ☎ [(806) 646-5854](tel:8066465854)
+
+🌐 [arloenv.com](http://www.arloenv.com/)  
+✉ [arloenv@gmail.com](mailto:arloenv@gmail.com)  
+Google rating 4.7 (31 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=13897475769284127820&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [arloenv.com](https://www.arloenv.com/), retrieved 2026-10-18.
 
 Mold Remediation Company #RCO1435 (exp. 2028-10-21)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

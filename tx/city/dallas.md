@@ -33,6 +33,10 @@ Licensed firm
 5445 LA Sierra Dr Suite 450, Dallas, TX  
 ☎ [(214) 363-0099](tel:2143630099)
 
+🌐 [abacusenvironment.com](https://www.abacusenvironment.com/)  
+Google rating 5.0 (1 review)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4799530740971701889&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Assessment Company #ACO1221 (exp. 2027-02-10)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0114)
@@ -45,6 +49,10 @@ Licensed firm
 
 3626 N Hall St Suite 610, Dallas, TX  
 ☎ [(214) 377-6093](tel:2143776093)
+
+🌐 [airmd.com](https://airmd.com/areas-served/texas/dallas/)  
+✉ [info@airmd.com](mailto:info@airmd.com)  
+Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=3640255470889563984&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [airmd.com](https://airmd.com/areas-served/texas/dallas/), retrieved 2026-10-18.
 
 Mold Assessment Company #ACO1294 (exp. 2027-09-08)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -59,6 +67,12 @@ Licensed firm
 PO Box 619428 Annex A Environmental, Dallas, TX  
 ☎ [(972) 973-5682](tel:9729735682)
 
+☎ Google listing: [(972) 973-3112](tel:9729733112)  
+🌐 [dfwairport.com](https://www.dfwairport.com/)  
+✉ [boardsecretary@dfwairport.com](mailto:boardsecretary@dfwairport.com)  
+Google rating 4.1 (63,920 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=8300766736265584668&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [dfwairport.com](https://www.dfwairport.com/business/about/board/), retrieved 2026-10-30.
+
 Mold Assessment Company #ACO1127 (exp. 2027-10-02)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0073)
@@ -71,6 +85,9 @@ Licensed firm
 
 10455 N Central Expy Suite 109, Dallas, TX  
 ☎ [(214) 417-9280](tel:2144179280)
+
+Google rating 1.0 (1 review)  
+Added by us, not on the state list: rating from the firm's [Google Maps listing](https://maps.google.com/?cid=6456869216142784920&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Assessment Company #ACO1029 (exp. 2027-06-18)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -85,6 +102,11 @@ Licensed firm
 8330 Lbj Fwy Suite 830, Dallas, TX  
 ☎ [(214) 364-8142](tel:2143648142)
 
+☎ Google listing: [(844) 500-7775](tel:8445007775)  
+🌐 [ensolum.com](http://www.ensolum.com/)  
+Google rating 4.4 (7 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17002048755009923641&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Assessment Company #ACO1138 (exp. 2028-02-07)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0079)
@@ -97,6 +119,11 @@ Licensed firm
 
 4350 Alpha Rd Suite 130, Dallas, TX  
 ☎ [(972) 428-8505](tel:9724288505)
+
+☎ Google listing: [(800) 665-7586](tel:8006657586)  
+🌐 [texas.envirocheck.com](https://texas.envirocheck.com/)  
+✉ [infoaz@envirocheck.com](mailto:infoaz@envirocheck.com)  
+Added by us, not on the state list: phone and website from the firm's [Google Maps listing](https://maps.google.com/?cid=8707337509155042442&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [texas.envirocheck.com](https://texas.envirocheck.com/contact/), retrieved 2026-10-18.
 
 Mold Assessment Company #ACO1293 (exp. 2027-09-08)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -124,6 +151,11 @@ Licensed firm
 PO Box 29469, Dallas, TX  
 ☎ [(972) 241-6680](tel:9722416680)
 
+🌐 [lcaenvironmental.com](http://lcaenvironmental.com/)  
+✉ [assistant@lcaenvironmental.com](mailto:assistant@lcaenvironmental.com)  
+Google rating 5.0 (2 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11738367854668818445&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [lcaenvironmental.com](https://lcaenvironmental.com/), retrieved 2026-10-18.
+
 Mold Assessment Company #ACO0211 (exp. 2028-10-28)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0034)
@@ -149,6 +181,11 @@ Licensed firm
 
 1910 Pacific Ave, Suite 6060, Dallas, TX  
 ☎ [(214) 217-4330](tel:2142174330)
+
+🌐 [progeaglobal.com](http://www.progeaglobal.com/)  
+✉ [contact@progeaglobal.com](mailto:contact@progeaglobal.com)  
+Google rating 4.7 (3 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15624674796902344013&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [progeaglobal.com](https://www.progeaglobal.com/), retrieved 2026-10-18.
 
 Mold Assessment Company #ACO0135 (exp. 2028-03-15)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -243,6 +280,11 @@ Licensed firm
 1408 N Riverfront Blvd Suite 364, Dallas, TX  
 ☎ [(214) 243-8589](tel:2142438589)
 
+🌐 [excellenceecoservices.com](http://www.excellenceecoservices.com/)  
+✉ [carlos.lopez@excellenceecoservices.com](mailto:carlos.lopez@excellenceecoservices.com)  
+Google rating 5.0 (2 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=13623802158010978293&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [excellenceecoservices.com](https://excellenceecoservices.com/), retrieved 2026-10-18.
+
 Mold Remediation Company #RCO1383 (exp. 2027-05-08)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0332)
@@ -282,6 +324,10 @@ Licensed firm
 9913 Silver Meadow Dr, Dallas, TX  
 ☎ [(469) 579-6022](tel:4695796022)
 
+🌐 [ntedservices.com](http://www.ntedservices.com/)  
+Google rating 5.0 (3 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=6060427749699103159&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Company #RCO1574 (exp. 2027-06-28)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0433)
@@ -307,6 +353,11 @@ Licensed firm
 
 1408 N Riverfront Blvd # 138, Dallas, TX  
 ☎ [(254) 466-3368](tel:2544663368)
+
+🌐 [goridgeline.com](http://www.goridgeline.com/)  
+✉ [jdukes@goridgeline.com](mailto:jdukes@goridgeline.com)  
+Google rating 5.0 (30 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14652120798653372379&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [goridgeline.com](https://www.goridgeline.com/contact.html), retrieved 2026-10-18.
 
 Mold Remediation Company #RCO1286 (exp. 2027-02-07)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

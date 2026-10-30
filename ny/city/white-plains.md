@@ -73,6 +73,10 @@ Licensed firm
 1025 Westchester Ave Suite 108, White Plains, NY  
 ☎ [(914) 288-0805](tel:9142880805)
 
+🌐 [nicheanalysisinc.com](http://nicheanalysisinc.com/)  
+Google rating 5.0 (3 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=8679448301616384419&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Assessment Contractor License (SH125) #26-6ZGJT-SHMO (exp. 2028-02-29)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY1002)
@@ -98,6 +102,10 @@ Licensed firm
 337 Church St, White Plains, NY  
 ☎ [(914) 468-3204](tel:9144683204)
 
+🌐 [vikingenvironmentalny.com](http://vikingenvironmentalny.com/)  
+✉ [mike.nolan@vikingenvironmentalny.com](mailto:mike.nolan@vikingenvironmentalny.com)  
+Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=12962690817947304848&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [vikingenvironmentalny.com](https://vikingenvironmentalny.com/), retrieved 2026-10-18.
+
 Mold Assessment Contractor License (SH125) #26-6SDC5-SHMO (exp. 2028-02-29)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY1529)
@@ -112,6 +120,10 @@ Licensed firm
 
 7 Intervale St, White Plains, NY  
 ☎ [(844) 269-3762](tel:8442693762)
+
+🌐 [bowermanrestoration.com](https://bowermanrestoration.com/)  
+Google rating 4.9 (271 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5383363855467142788&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Contractor License (SH126) #24-63XR3-SHMO (exp. 2026-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -139,6 +151,10 @@ Licensed firm
 63 Chatterton Ave #2, White Plains, NY  
 ☎ [(347) 278-1627](tel:3472781627)
 
+🌐 [lifeaircare.com](https://www.lifeaircare.com/)  
+Google rating 4.9 (148 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=18055296084072396980&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #25-6LAXI-SHMO (exp. 2027-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0961)
@@ -151,6 +167,11 @@ Licensed firm
 
 63 Chatterton Ave Apt 2, White Plains, NY  
 ☎ [(914) 323-8019](tel:9143238019)
+
+🌐 [moldaircare.com](http://www.moldaircare.com/)  
+✉ [moldaircare@gmail.com](mailto:moldaircare@gmail.com)  
+Google rating 5.0 (12 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17099329172488314257&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [moldaircare.com](https://moldaircare.com/), retrieved 2026-10-18.
 
 Mold Remediation Contractor License (SH126) #26-69QH4-SHMO (exp. 2028-07-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

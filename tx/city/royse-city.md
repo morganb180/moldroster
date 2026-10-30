@@ -61,6 +61,12 @@ Licensed firm
 3918 Marlin Dr Suite A, Royse City, TX  
 ☎ [(972) 771-5771](tel:9727715771)
 
+☎ Google listing: [(972) 914-8389](tel:9729148389)  
+🌐 [doiggs.com](https://doiggs.com/)  
+✉ [doiggs@doiggs.com](mailto:doiggs@doiggs.com)  
+Google rating 5.0 (250 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17897455995639343011&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [doiggs.com](https://www.doiggs.com/), retrieved 2026-10-30.
+
 Mold Remediation Company #RCO1470 (exp. 2027-08-09)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0375)
@@ -73,6 +79,12 @@ Licensed firm
 
 6280 State Hwy 276 Suite F, Royse City, TX  
 ☎ [(972) 587-6881](tel:9725876881)
+
+☎ Google listing: [(972) 587-6960](tel:9725876960)  
+🌐 [zeusrestoration.com](https://www.zeusrestoration.com/)  
+✉ [info@zeusrestoration.com](mailto:info@zeusrestoration.com)  
+Google rating 4.8 (411 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15452434779356154648&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [zeusrestoration.com](https://zeusrestoration.com/), retrieved 2026-10-18.
 
 Mold Remediation Company #RCO1615 (exp. 2028-01-08)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

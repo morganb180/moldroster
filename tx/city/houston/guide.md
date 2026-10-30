@@ -93,6 +93,10 @@ Licensed firm
 1626 Oak Tree Dr Suite A, Houston, TX  
 ☎ [(281) 262-9500](tel:2812629500)
 
+🌐 [247restorationspecialists.com](https://247restorationspecialists.com/)  
+Google rating 4.9 (44 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=1962432139071013962&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Company #RCO1693 (exp. 2027-05-12)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0521)

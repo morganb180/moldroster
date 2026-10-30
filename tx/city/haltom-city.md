@@ -109,6 +109,11 @@ Licensed firm
 6413 Midway Rd Suite B, Haltom City, TX  
 ☎ [(817) 632-1555](tel:8176321555)
 
+🌐 [3wrestoration.com](http://www.3wrestoration.com/)  
+✉ [info@3wrestoration.com](mailto:info@3wrestoration.com)  
+Google rating 4.5 (14 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11507140991963369388&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [3wrestoration.com](https://www.3wrestoration.com/contact-us), retrieved 2026-10-18.
+
 Mold Remediation Company #RCO1259 (exp. 2028-05-19)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0285)
@@ -121,6 +126,12 @@ Licensed firm
 
 5960 Lower Birdville Rd C3, Haltom City, TX  
 ☎ [(972) 584-7961](tel:9725847961)
+
+☎ Google listing: [(972) 441-2956](tel:9724412956)  
+🌐 [jdrrestoration.com](https://jdrrestoration.com/)  
+✉ [info@jdrrestoration.com](mailto:info@jdrrestoration.com)  
+Google rating 4.9 (292 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17195958126107495431&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [jdrrestoration.com](https://jdrrestoration.com/), retrieved 2026-10-18.
 
 Mold Remediation Company #RCO1770 (exp. 2028-03-05)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

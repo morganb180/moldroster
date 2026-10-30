@@ -52,6 +52,12 @@ Licensed firm
 
 * Robert Melendez (Mold Assessor #MRSA2773 (exp. 2028-07-31); Mold Remediator #MRSR2983 (exp. 2028-07-31))
 
+☎ [(954) 801-7575](tel:9548017575)  
+🌐 [rmihomeinspections.com](https://rmihomeinspections.com/)  
+✉ [office@rmihomeinspections.com](mailto:office@rmihomeinspections.com)  
+Google rating 4.7 (68 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2348175018547445412&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [rmihomeinspections.com](https://rmihomeinspections.com/), retrieved 2026-10-30.
+
 Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=FL1631)
 

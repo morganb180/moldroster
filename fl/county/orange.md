@@ -79,6 +79,12 @@ Licensed firm
 
 * John Thomas Edgren (Mold Assessor #MRSA57 (exp. 2028-07-31))
 
+☎ [(407) 490-4272](tel:4074904272)  
+🌐 [moldinspect.org](https://moldinspect.org/)  
+✉ [mail@moldinspect.org](mailto:mail@moldinspect.org)  
+Google rating 4.9 (1,044 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=6131588748943591382&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [moldinspect.org](https://moldinspect.org/), retrieved 2026-10-30.
+
 Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=FL0070)
 

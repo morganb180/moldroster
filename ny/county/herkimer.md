@@ -25,6 +25,10 @@ Licensed firm
 6968 State Hwy 29, Dolgeville, NY  
 ☎ [(518) 533-4888](tel:5185334888)
 
+🌐 [buildingenvironmentservice.com](http://www.buildingenvironmentservice.com/)  
+Google rating 5.0 (10 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=6290868365721174176&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #26-6ZUVR-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0457)

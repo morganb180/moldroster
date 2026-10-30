@@ -58,6 +58,11 @@ Licensed firm
 1043 Hw 22 Cambridge, NY 12816, Cambridge, NY  
 ☎ [(518) 677-3444](tel:5186773444)
 
+☎ Google listing: [(518) 635-0491](tel:5186350491)  
+🌐 [servpro.com](https://www.servpro.com/locations/ny/servpro-of-north-rensselaer-south-washington-counties)  
+Google rating 4.7 (61 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=9460394644872374014&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #26-6ZH73-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0491)
@@ -70,6 +75,10 @@ Licensed firm
 
 22 Academy St, Cambridge, NY  
 ☎ [(518) 677-0700](tel:5186770700)
+
+🌐 [vandyksolutions.com](http://www.vandyksolutions.com/)  
+Google rating 5.0 (13 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14555231303869562859&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Contractor License (SH126) #26-6ZGIO-SHMO (exp. 2028-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

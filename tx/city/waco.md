@@ -33,6 +33,10 @@ Licensed firm
 4923 Franklin Ave, Waco, TX  
 ☎ [(254) 776-7663](tel:2547767663)
 
+🌐 [brazosenvironmental.com](https://brazosenvironmental.com/)  
+✉ [brazos@brazosenvironmental.com](mailto:brazos@brazosenvironmental.com)  
+Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=10287739259740292761&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [brazosenvironmental.com](https://brazosenvironmental.com/), retrieved 2026-10-18.
+
 Mold Assessment Company #ACO0185 (exp. 2028-03-30)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0025)
@@ -61,6 +65,12 @@ Licensed firm
 6175 N State Hwy 6, Waco, TX  
 ☎ [(254) 709-7654](tel:2547097654)
 
+☎ Google listing: [(844) 457-7669](tel:8444577669)  
+🌐 [lprpros.com](https://www.lprpros.com/)  
+✉ [info@lprpros.com](mailto:info@lprpros.com)  
+Google rating 3.7 (3 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=1090022497339868490&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [lprpros.com](https://www.lprpros.com/contact), retrieved 2026-10-18.
+
 Mold Remediation Company #RCO1781 (exp. 2028-03-29)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0607)
@@ -73,6 +83,11 @@ Licensed firm
 
 6906 Old McGregor Rd, Waco, TX  
 ☎ [(254) 776-0441](tel:2547760441)
+
+☎ Google listing: [(888) 553-2687](tel:8885532687)  
+🌐 [specialtyrestorationoftexas.com](http://www.specialtyrestorationoftexas.com/)  
+Google rating 4.3 (46 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=9873121690992984614&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Company #RCO0189 (exp. 2028-05-20)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

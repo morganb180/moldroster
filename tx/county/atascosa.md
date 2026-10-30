@@ -59,6 +59,11 @@ Licensed firm
 PO Box 39, Leming, TX  
 ☎ [(210) 892-4496](tel:2108924496)
 
+🌐 [terrabellaes.com](http://www.terrabellaes.com/)  
+✉ [sales@terrabellaes.com](mailto:sales@terrabellaes.com)  
+Google rating 5.0 (4 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14402484610936300986&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [terrabellaes.com](https://terrabellaes.com/), retrieved 2026-10-18.
+
 Mold Remediation Company #RCO1341 (exp. 2028-05-13)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0318)
@@ -71,6 +76,10 @@ Licensed firm
 
 17788 Interstate 35 S, Lytle, TX  
 ☎ [(210) 622-3500](tel:2106223500)
+
+🌐 [bexarenvironmental.com](http://www.bexarenvironmental.com/)  
+Google rating 5.0 (3 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11715240868440232377&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Company #RCO0197 (exp. 2028-06-16)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

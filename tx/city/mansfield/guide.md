@@ -46,6 +46,10 @@ Licensed firm
 2364 Hwy 287 N Suite 121, Mansfield, TX  
 ☎ [(817) 717-4668](tel:8177174668)
 
+🌐 [waterfiremoldremediation.com](https://waterfiremoldremediation.com/)  
+Google rating 5.0 (14 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=12023271800349631520&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Assessment Company #ACO1326 (exp. 2028-09-07)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0204)

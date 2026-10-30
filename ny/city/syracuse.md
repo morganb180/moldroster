@@ -58,6 +58,11 @@ Licensed firm
 202 Twin Oaks Dr Suite 110, Syracuse, NY  
 ☎ [(315) 671-6006](tel:3156716006)
 
+🌐 [cralinc.com](http://cralinc.com/)  
+✉ [info@cralinc.com](mailto:info@cralinc.com)  
+Google rating 4.7 (30 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5561188872530522233&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [cralinc.com](https://www.cralinc.com/), retrieved 2026-10-18.
+
 Mold Assessment Contractor License (SH125) #26-6ZPJG-SHMO (exp. 2028-03-31)  
 Mold Remediation Contractor License (SH126) #25-6I31C-SHMO (exp. 2027-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -86,6 +91,10 @@ Licensed firm
 1111 W High Ter, Syracuse, NY  
 ☎ [(315) 469-1926](tel:3154691926)
 
+🌐 [entechassociates.com](https://www.entechassociates.com/contact.html)  
+✉ [tom@entechassociates.com](mailto:tom@entechassociates.com)  
+Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=6429073297403870900&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [entechassociates.com](https://www.entechassociates.com/contact.html), retrieved 2026-10-18.
+
 Mold Assessment Contractor License (SH125) #26-69J86-SHMO (exp. 2028-06-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0500)
@@ -98,6 +107,10 @@ Licensed firm
 
 6443 Ridings Rd, Suite 134, Syracuse, NY  
 ☎ [(315) 569-2139](tel:3155692139)
+
+🌐 [energyandenvironment.net](https://energyandenvironment.net/)  
+✉ [mark.fiorini@energyandenvironment.net](mailto:mark.fiorini@energyandenvironment.net)  
+Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=9398153637202412519&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [energyandenvironment.net](https://energyandenvironment.net/contact-us), retrieved 2026-10-18.
 
 Mold Assessment Contractor License (SH125) #25-6SDTH-SHMO (exp. 2027-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -114,6 +127,11 @@ Licensed firm
 6710 Commerce Blvd, Syracuse, NY  
 ☎ [(315) 877-1250](tel:3158771250)
 
+☎ Google listing: [(315) 455-7148](tel:3154557148)  
+🌐 [stanleysteemer.com](https://www.stanleysteemer.com/locations/NY/Syracuse/890)  
+Google rating 4.9 (2,130 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=539905052550377789&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #26-6I5BT-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0503)
@@ -127,6 +145,10 @@ Licensed firm
 7035 Van Buren Rd, Syracuse, NY  
 ☎ [(315) 635-0383](tel:3156350383)
 
+🌐 [firewater-restoration.com](http://firewater-restoration.com/)  
+Google rating 4.9 (57 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14567033628096022740&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #24-63P34-SHMO (exp. 2026-10-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0711)
@@ -139,6 +161,11 @@ Licensed firm
 
 2320 Milton Ave, Syracuse, NY  
 ☎ [(585) 641-0040](tel:5856410040)
+
+☎ Google listing: [(315) 800-5366](tel:3158005366)  
+🌐 [servpro.com](https://www.servpro.com/locations/ny/servpro-of-sw-onondaga-county)  
+Google rating 4.5 (78 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2622691926321102527&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Contractor License (SH126) #26-66X16-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -166,6 +193,10 @@ Licensed firm
 605 W Genesee St Suite 605, Syracuse, NY  
 ☎ [(315) 877-1885](tel:3158771885)
 
+🌐 [mjtenv.com](https://www.mjtenv.com/services)  
+Google rating 5.0 (72 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=140034874315854432&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #25-6LD57-SHMO (exp. 2027-10-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0857)
@@ -192,6 +223,11 @@ Licensed firm
 115 Ainsley Dr, Syracuse, NY  
 ☎ [(315) 479-5011](tel:3154795011)
 
+🌐 [stalwartdg.com](https://www.stalwartdg.com/contact/)  
+✉ [info@stalwartdg.com](mailto:info@stalwartdg.com)  
+Google rating 5.0 (5 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14363815413390633514&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [stalwartdg.com](https://www.stalwartdg.com/contact/), retrieved 2026-10-18.
+
 Mold Remediation Contractor License (SH126) #26-6ZUS7-SHMO (exp. 2028-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY1343)
@@ -217,6 +253,11 @@ Licensed firm
 
 1 Lepage Pl Suite 100, Syracuse, NY  
 ☎ [(315) 422-1937](tel:3154221937)
+
+☎ Google listing: [(800) 476-1730](tel:8004761730)  
+🌐 [trsny.com](https://trsny.com/)  
+Google rating 4.7 (24 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2895190090475556612&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Contractor License (SH126) #26-66HSF-SHMO (exp. 2028-05-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

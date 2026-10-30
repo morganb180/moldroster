@@ -46,6 +46,11 @@ Licensed firm
 47 Brightwood St, Patchogue, NY  
 ☎ [(631) 774-6502](tel:6317746502)
 
+🌐 [healthybuildingsandhomes.com](http://healthybuildingsandhomes.com/)  
+✉ [healthybuildingsandhomes@gmail.com](mailto:healthybuildingsandhomes@gmail.com)  
+Google rating 5.0 (114 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10228513144184579722&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [longislandmoldinspections.com](https://longislandmoldinspections.com), retrieved 2026-10-18.
+
 Mold Assessment Contractor License (SH125) #25-65H15-SHMO (exp. 2027-06-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0737)
@@ -57,6 +62,11 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 74 E Main St, Suite #1, Patchogue, NY
+
+☎ [(631) 654-2780](tel:6316542780)  
+🌐 [insightenvironmental.com](http://www.insightenvironmental.com/)  
+Google rating 5.0 (3 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17173351276136307269&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 Mold Assessment Contractor License (SH125) #25-6LL13-SHMO (exp. 2027-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

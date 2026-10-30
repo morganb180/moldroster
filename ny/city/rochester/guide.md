@@ -53,6 +53,12 @@ Licensed firm
 291 Buell Rd, Rochester, NY  
 ☎ [(585) 489-3666](tel:5854893666)
 
+☎ Google listing: [(585) 235-6182](tel:5852356182)  
+🌐 [compmold.com](http://www.compmold.com/)  
+✉ [info@compmold.com](mailto:info@compmold.com)  
+Google rating 4.9 (200 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7679243695872996552&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [compmold.com](https://compmold.com/), retrieved 2026-10-18.
+
 Mold Remediation Contractor License (SH126) #25-61VC3-SHMO (exp. 2027-08-31)  
 Mold Assessment Contractor License (SH125) #25-6IG9H-SHMO (exp. 2027-10-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -67,6 +73,10 @@ Licensed firm
 695 Elmgrove Rd, Rochester, NY  
 ☎ [(585) 749-2688](tel:5857492688)
 
+🌐 [craftsmanhomeremodeling.com](https://craftsmanhomeremodeling.com/)  
+Google rating 4.8 (103 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=12817262238052621945&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #26-64C4I-SHMO (exp. 2028-07-31)  
 Mold Assessment Contractor License (SH125) #26-6641Z-SHMO (exp. 2028-05-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -80,6 +90,10 @@ Licensed firm
 
 175 Humboldt St Suite 200, Rochester, NY  
 ☎ [(585) 527-8000](tel:5855278000)
+
+🌐 [aac-contracting.com](http://www.aac-contracting.com/)  
+Google rating 4.3 (10 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17833096384833571680&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Contractor License (SH126) #25-67LTT-SHMO (exp. 2027-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

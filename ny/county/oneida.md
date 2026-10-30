@@ -43,6 +43,11 @@ Licensed firm
 6630 Irish Rd, Marcy, NY  
 ☎ [(315) 404-3368](tel:3154043368)
 
+🌐 [rocksolidhomeinspections.net](https://rocksolidhomeinspections.net/)  
+✉ [rocksolidhomeinspectionsllc@gmail.com](mailto:rocksolidhomeinspectionsllc@gmail.com)  
+Google rating 5.0 (2 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=12520068042235420297&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [rocksolidhomeinspections.net](https://rocksolidhomeinspections.net/about-us), retrieved 2026-10-18.
+
 Mold Assessment Contractor License (SH125) #25-6URHW-SHMO (exp. 2027-07-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY1235)
@@ -55,6 +60,11 @@ Licensed firm
 
 1 Ora Ave, New Hartford, NY  
 ☎ [(315) 507-2140](tel:3155072140)
+
+🌐 [bluelinesolutions.net](https://bluelinesolutions.net/)  
+✉ [info@bluelinesolutions.net](mailto:info@bluelinesolutions.net)  
+Google rating 4.8 (84 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17350606787673423980&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [bluelinesolutions.net](https://bluelinesolutions.net/), retrieved 2026-10-18.
 
 Mold Assessment Contractor License (SH125) #26-6L7O9-SHMO (exp. 2027-12-31)  
 Mold Remediation Contractor License (SH126) #26-6ZIKT-SHMO (exp. 2028-04-30)  
@@ -140,6 +150,10 @@ Licensed firm
 133 Wakefield Ln, Ava, NY  
 ☎ [(315) 564-6000](tel:3155646000)
 
+🌐 [rainbowrestores.com](https://rainbowrestores.com/onondaga/?cid=LSTL_RBW000202)  
+Google rating 4.9 (41 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4473599404382871332&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #25-678SP-SHMO (exp. 2027-11-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0645)
@@ -152,6 +166,10 @@ Licensed firm
 
 185 Redeeming Ln, Holland Patent, NY  
 ☎ [(315) 335-6235](tel:3153356235)
+
+🌐 [redeemingrestoration.com](https://www.redeemingrestoration.com/)  
+Google rating 4.9 (65 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=12106937047184016435&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Contractor License (SH126) #26-69O5S-SHMO (exp. 2028-07-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -166,6 +184,11 @@ Licensed firm
 6630 Irish Rd, Marcy, NY  
 ☎ [(315) 404-3368](tel:3154043368)
 
+🌐 [rocksolidhomeinspections.net](https://rocksolidhomeinspections.net/)  
+✉ [rocksolidhomeinspectionsllc@gmail.com](mailto:rocksolidhomeinspectionsllc@gmail.com)  
+Google rating 5.0 (2 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=12520068042235420297&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [rocksolidhomeinspections.net](https://rocksolidhomeinspections.net/about-us), retrieved 2026-10-18.
+
 Mold Remediation Contractor License (SH126) #25-6LYU8-SHMO (exp. 2027-09-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY1428)
@@ -179,6 +202,11 @@ Licensed firm
 20 Jordan Rd, New Hartford, NY  
 ☎ [(315) 797-1128](tel:3157971128)
 
+🌐 [disasterservices.us](http://disasterservices.us/)  
+✉ [disasterservices@roadrunner.com](mailto:disasterservices@roadrunner.com)  
+Google rating 4.9 (38 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=13557571869351489532&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [disasterservices.us](https://www.disasterservices.us/contact-us/4541783), retrieved 2026-10-18.
+
 Mold Remediation Contractor License (SH126) #26-6ZELJ-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0376)
@@ -191,6 +219,9 @@ Licensed firm
 
 9362 Paris Hill Rd, Sauquoit, NY  
 ☎ [(315) 737-3827](tel:3157373827)
+
+Google rating 3.9 (8 reviews)  
+Added by us, not on the state list: rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7732561726949480737&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Contractor License (SH126) #26-6I7EJ-SHMO (exp. 2028-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -217,6 +248,10 @@ Licensed firm
 7722 State Route 20, Waterville, NY  
 ☎ [(315) 202-4006](tel:3152024006)
 
+🌐 [mjcsi.com](https://mjcsi.com/)  
+✉ [info@mjcsi.com](mailto:info@mjcsi.com)  
+Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=14150282420970992382&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [mjcsi.com](https://mjcsi.com/contact/), retrieved 2026-10-18.
+
 Mold Remediation Contractor License (SH126) #25-6TJ74-SHMO (exp. 2027-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0794)
@@ -229,6 +264,10 @@ Licensed firm
 
 7391 Cider St, Westmoreland, NY  
 ☎ [(315) 736-5288](tel:3157365288)
+
+🌐 [tbcdemo.com](https://tbcdemo.com/)  
+Google rating 5.0 (4 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17998961712482267333&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Contractor License (SH126) #26-6A1CD-SHMO (exp. 2028-07-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

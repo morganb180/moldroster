@@ -46,6 +46,11 @@ Licensed firm
 109 W 7th St Suite 210, Georgetown, TX  
 ☎ [(512) 992-5383](tel:5129925383)
 
+☎ Google listing: [(512) 503-5035](tel:5125035035)  
+🌐 [c-eci.com](http://c-eci.com/)  
+✉ [info@c-eci.com](mailto:info@c-eci.com)  
+Added by us, not on the state list: phone and website from the firm's [Google Maps listing](https://maps.google.com/?cid=9461696956005243036&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [c-eci.com](https://www.c-eci.com/), retrieved 2026-10-18.
+
 Mold Assessment Company #ACO1088 (exp. 2027-02-18)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0059)
@@ -58,6 +63,10 @@ Licensed firm
 
 701 County Rd 144, Georgetown, TX  
 ☎ [(800) 931-1962](tel:8009311962)
+
+🌐 [blackhillrestoration.com](http://blackhillrestoration.com/)  
+Google rating 4.8 (105 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11017089478888731475&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Company #RCO1348 (exp. 2028-06-24)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -84,6 +93,11 @@ Licensed firm
 
 2300 Scenic Dr Suite 2542, Georgetown, TX  
 ☎ [(512) 818-4728](tel:5128184728)
+
+🌐 [restotektx.com](https://restotektx.com/)  
+✉ [joangarza@restotektx.com](mailto:joangarza@restotektx.com)  
+Google rating 5.0 (62 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2049517912694489155&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [restotektx.com](https://restotektx.com/contact-us/), retrieved 2026-10-18.
 
 Mold Remediation Company #RCO1662 (exp. 2026-10-31)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

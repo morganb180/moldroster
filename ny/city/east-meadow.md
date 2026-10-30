@@ -33,6 +33,11 @@ Licensed firm
 1975 Hempstead Turnpike 408, East Meadow, NY  
 ☎ [(516) 368-2673](tel:5163682673)
 
+🌐 [2safeconsulting.com](https://www.2safeconsulting.com/)  
+✉ [info@2safeconsulting.com](mailto:info@2safeconsulting.com)  
+Google rating 5.0 (1 review)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5308325897650361053&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [2safeconsulting.com](https://www.2safeconsulting.com/), retrieved 2026-10-18.
+
 Mold Assessment Contractor License (SH125) #26-6AKFB-SHMO (exp. 2028-05-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0075)
@@ -45,6 +50,11 @@ Licensed firm
 
 2387 Cooper Dr, East Meadow, NY  
 ☎ [(516) 589-2617](tel:5165892617)
+
+🌐 [butlerhomeinspection.com](http://butlerhomeinspection.com/)  
+✉ [bhillc23@yahoo.com](mailto:bhillc23@yahoo.com)  
+Google rating 5.0 (7 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11995871684622681798&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [butlerhomeinspection.com](https://butlerhomeinspection.com/), retrieved 2026-10-18.
 
 Mold Assessment Contractor License (SH125) #25-6HAHK-SHMO (exp. 2027-09-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

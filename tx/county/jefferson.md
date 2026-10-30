@@ -27,6 +27,10 @@ Licensed firm
 1245 W Cardinal Dr, Beaumont, TX  
 ☎ [(409) 842-4094](tel:4098424094)
 
+🌐 [allpointsenviro.com](https://allpointsenviro.com/contact-us)  
+Google rating 3.0 (2 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=12380743998917335786&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Assessment Company #ACO1311 (exp. 2028-03-29)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0189)
@@ -39,6 +43,11 @@ Licensed firm
 
 5610 Old Dowlen Rd, Beaumont, TX  
 ☎ [(409) 273-5909](tel:4092735909)
+
+🌐 [legendaryinspections.com](https://www.legendaryinspections.com/)  
+✉ [gregory@legendaryinspections.com](mailto:gregory@legendaryinspections.com)  
+Google rating 4.9 (175 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=13125092344417801758&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [legendaryinspections.com](https://www.legendaryinspections.com/), retrieved 2026-10-18.
 
 Mold Assessment Company #ACO1239 (exp. 2028-08-20)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -167,6 +176,10 @@ Licensed firm
 3050 E Pkwy St, Groves, TX  
 ☎ [(409) 553-6476](tel:4095536476)
 
+🌐 [bosscontractingtx.com](https://www.bosscontractingtx.com/)  
+Google rating 3.7 (3 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2857127511371307057&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Company #RCO1466 (exp. 2027-07-18)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0373)
@@ -205,6 +218,10 @@ Licensed firm
 
 5215 N Twin City Hwy, Port Arthur, TX  
 ☎ [(409) 962-1647](tel:4099621647)
+
+🌐 [action-restoration.com](http://www.action-restoration.com/)  
+Google rating 4.8 (23 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=413605139862418214&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Company #RCO0148 (exp. 2028-03-17)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

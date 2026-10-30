@@ -73,6 +73,12 @@ Licensed firm
 151 Lafayette Rd, West Babylon, NY  
 ☎ [(631) 422-2100](tel:6314222100)
 
+☎ Google listing: [(631) 920-3995](tel:6319203995)  
+🌐 [advancedrestoration.com](http://www.advancedrestoration.com/)  
+✉ [info@advancedrestoration.com](mailto:info@advancedrestoration.com)  
+Google rating 4.8 (50 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=1107382139933360570&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [advancedrestoration.com](https://www.advancedrestoration.com/), retrieved 2026-10-18.
+
 Mold Remediation Contractor License (SH126) #26-6SQKR-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0223)

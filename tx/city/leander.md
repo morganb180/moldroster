@@ -31,6 +31,10 @@ Licensed firm
 1621 County Rd 269, Leander, TX  
 ☎ [(512) 778-6069](tel:5127786069)
 
+🌐 [badcompany-inc.com](https://badcompany-inc.com/contact-us/)  
+✉ [info@badcompany-inc.com](mailto:info@badcompany-inc.com)  
+Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=14340904061196656075&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [badcompany-inc.com](https://badcompany-inc.com/contact-us/), retrieved 2026-10-18.
+
 Mold Remediation Company #RCO1302 (exp. 2027-08-21)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0301)
@@ -69,6 +73,9 @@ Licensed firm
 
 PO Box 1581, Leander, TX  
 ☎ [(512) 260-7171](tel:5122607171)
+
+Google rating 2.8 (12 reviews)  
+Added by us, not on the state list: rating from the firm's [Google Maps listing](https://maps.google.com/?cid=824157535225556370&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Company #RCO0104 (exp. 2028-02-15)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

@@ -33,6 +33,11 @@ Licensed firm
 5 Old Dock Rd, Yaphank, NY  
 ☎ [(631) 924-3001](tel:6319243001)
 
+🌐 [envirotrac.com](https://envirotrac.com/)  
+✉ [info@envirotrac.com](mailto:info@envirotrac.com)  
+Google rating 4.8 (5 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14168441550682421719&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [envirotrac.com](https://envirotrac.com/), retrieved 2026-10-18.
+
 Mold Assessment Contractor License (SH125) #26-6Z58I-SHMO (exp. 2028-03-31)  
 Mold Remediation Contractor License (SH126) #25-6UJHK-SHMO (exp. 2027-08-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -48,6 +53,10 @@ Licensed firm
 
 78 Horse Block Rd Unit #7, Yaphank, NY  
 ☎ [(855) 862-7474](tel:8558627474)
+
+🌐 [itsenvironmentalservices.com](https://www.itsenvironmentalservices.com/)  
+Google rating 5.0 (26 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5602079479283892762&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Contractor License (SH126) #26-63BKO-SHMO (exp. 2028-06-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -74,6 +83,9 @@ Licensed firm
 
 14 Old Dock Rd, Yaphank, NY  
 ☎ [(631) 924-2707](tel:6319242707)
+
+Google rating 4.5 (22 reviews)  
+Added by us, not on the state list: rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2989150359771888767&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Contractor License (SH126) #26-6AF3E-SHMO (exp. 2028-05-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

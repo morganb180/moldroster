@@ -72,6 +72,11 @@ Licensed firm
 1A Concord Dr, Schenectady, NY  
 ☎ [(518) 365-7211](tel:5183657211)
 
+🌐 [enoshomeinspections.com](https://enoshomeinspections.com/)  
+✉ [info@enoshomeinspections.com](mailto:info@enoshomeinspections.com)  
+Google rating 4.9 (64 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15737819039211108755&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [enoshomeinspections.com](https://enoshomeinspections.com/contact/), retrieved 2026-10-18.
+
 Mold Assessment Contractor License (SH125) #25-6I863-SHMO (exp. 2027-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0511)
@@ -85,6 +90,11 @@ Licensed firm
 1161 Curry Rd, Schenectady, NY  
 ☎ [(518) 374-0357](tel:5183740357)
 
+🌐 [accuratepestcontrolny.com](http://accuratepestcontrolny.com/)  
+✉ [services@accuratepestcontrolny.com](mailto:services@accuratepestcontrolny.com)  
+Google rating 4.9 (188 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=9421248518491918385&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [accuratepestcontrolny.com](https://www.accuratepestcontrolny.com/), retrieved 2026-10-18.
+
 Mold Remediation Contractor License (SH126) #26-6sxbd-shmo (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0095)
@@ -97,6 +107,11 @@ Licensed firm
 
 1161 Curry Rd, Schenectady, NY  
 ☎ [(518) 387-9900](tel:5183879900)
+
+🌐 [accuratewaterandfire.com](https://accuratewaterandfire.com/)  
+✉ [services@accuratewaterandfire.com](mailto:services@accuratewaterandfire.com)  
+Google rating 5.0 (30 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=3485720865612600859&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [accuratewaterandfire.com](https://accuratewaterandfire.com/), retrieved 2026-10-30.
 
 Mold Remediation Contractor License (SH126) #26-6Z6HD-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

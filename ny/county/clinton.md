@@ -68,6 +68,11 @@ Licensed firm
 13 Latour Ave, Suite 204, Plattsburgh, NY  
 ☎ [(518) 563-9445](tel:5185639445)
 
+🌐 [kas-consulting.com](https://www.kas-consulting.com/)  
+✉ [info@kas-consulting.com](mailto:info@kas-consulting.com)  
+Google rating 5.0 (2 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15457284430624451614&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [kas-consulting.com](https://www.kas-consulting.com/), retrieved 2026-10-18.
+
 Mold Assessment Contractor License (SH125) #26-6ZXG1-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0895)
@@ -85,6 +90,11 @@ Licensed firm
 9409 State Route 9, Chazy, NY  
 ☎ [(518) 846-3332](tel:5188463332)
 
+🌐 [firstchoicerestorationservices.com](https://www.firstchoicerestorationservices.com/)  
+✉ [contact@firstchoicerestorationservices.com](mailto:contact@firstchoicerestorationservices.com)  
+Google rating 4.9 (74 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4523938160120329155&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [firstchoicerestorationservices.com](https://www.firstchoicerestorationservices.com/), retrieved 2026-10-18.
+
 Mold Remediation Contractor License (SH126) #26-6AC74-SHMO (exp. 2028-06-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0712)
@@ -97,6 +107,11 @@ Licensed firm
 
 1080 Military Turnpike, Plattsburgh, NY  
 ☎ [(518) 566-4575](tel:5185664575)
+
+🌐 [mp-env.net](http://www.mp-env.net/)  
+✉ [info@mp-env.net](mailto:info@mp-env.net)  
+Google rating 5.0 (5 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=665004792088067137&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [mp-env.net](https://www.mp-env.net/), retrieved 2026-10-18.
 
 Mold Remediation Contractor License (SH126) #26-63ZOL-SHMO (exp. 2028-11-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -123,6 +138,10 @@ Licensed firm
 
 4424 Route 22, Plattsburgh, NY  
 ☎ [(518) 561-0610](tel:5185610610)
+
+🌐 [pmlearyrestoration.com](https://pmlearyrestoration.com/)  
+Google rating 4.3 (31 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=12824688572124610860&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Contractor License (SH126) #25-6UEB4-SHMO (exp. 2027-07-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

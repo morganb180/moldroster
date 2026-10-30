@@ -72,6 +72,10 @@ Licensed firm
 2150 Smithtown Ave Suite 3, Ronkonkoma, NY  
 ☎ [(631) 580-3191](tel:6315803191)
 
+🌐 [enviroscienceconsultants.com](https://enviroscienceconsultants.com/)  
+Google rating 5.0 (1 review)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=12445076183452170767&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #26-6ZIPR-SHMO (exp. 2028-02-29)  
 Mold Assessment Contractor License (SH125) #26-6ZIDV-SHMO (exp. 2028-02-29)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -86,6 +90,11 @@ Licensed firm
 2099 9th Ave, Ronkonkoma, NY  
 ☎ [(631) 467-6600](tel:6314676600)
 
+🌐 [branchservicesinc.com](https://www.branchservicesinc.com/)  
+✉ [info@branchservicesinc.com](mailto:info@branchservicesinc.com)  
+Google rating 4.6 (10 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4984374791639263165&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [branchservicesinc.com](https://branchservicesinc.com/), retrieved 2026-10-18.
+
 Mold Remediation Contractor License (SH126) #26-6I1OF-SHMO (exp. 2028-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0002)
@@ -98,6 +107,10 @@ Licensed firm
 
 845 Marconi Ave, Ronkonkoma, NY  
 ☎ [(631) 395-3400](tel:6313953400)
+
+🌐 [acerestorationservice.com](https://acerestorationservice.com/)  
+Google rating 4.8 (87 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17129330433016578630&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Contractor License (SH126) #26-6ZVQF-SHMO (exp. 2028-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

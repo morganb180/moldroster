@@ -6,7 +6,7 @@ canonical: https://moldroster.com/how-we-verify/
 
 # How we verify listings
 
-Every listing comes from a state licensing agency's own public records. Nothing is added from reviews or scraped directories.
+Every listing comes from a state licensing agency's own public records. Phones, websites, Google ratings and emails we added from Google Maps listings and firms' own websites are labelled on each card; nothing is taken from review sites or scraped directories.
 
 ## Sources and last retrieval
 
@@ -23,7 +23,7 @@ Every listing comes from a state licensing agency's own public records. Nothing 
 ## What we don't verify
 
 * Workmanship, prices, insurance or availability.
-* Contact details a pro adds later, until the claim process checks them against the licence record.
+* Contact details a pro adds later, until the claim process checks them against the licence record. The same goes for phones, websites, ratings and emails we added from Google Maps listings and firm websites: we match them carefully, but they are not part of the licence record.
 
 ## Corrections
 

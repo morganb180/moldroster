@@ -72,6 +72,11 @@ Licensed firm
 5680 Merrick Rd, Massapequa, NY  
 ☎ [(631) 290-8025](tel:6312908025)
 
+☎ Google listing: [(631) 455-9455](tel:6314559455)  
+🌐 [northeastrestorationny.com](http://www.northeastrestorationny.com/)  
+Google rating 5.0 (34 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11712630798325443714&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #24-63ON9-SHMO (exp. 2026-10-31)  
 Mold Assessment Contractor License (SH125) #24-63ODB-SHMO (exp. 2026-10-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

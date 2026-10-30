@@ -45,6 +45,11 @@ Licensed firm
 443 Electronics Pkwy, Liverpool, NY  
 ☎ [(315) 457-5200](tel:3154575200)
 
+🌐 [bartonandloguidice.com](http://www.bartonandloguidice.com/)  
+✉ [info@bartonandloguidice.com](mailto:info@bartonandloguidice.com)  
+Google rating 5.0 (4 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=13161204384095170133&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [bartonandloguidice.com](https://www.bartonandloguidice.com/contact/offices/), retrieved 2026-10-18.
+
 Mold Assessment Contractor License (SH125) #26-6SNNY-SHMO (exp. 2028-02-29)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0255)
@@ -57,6 +62,12 @@ Licensed firm
 
 250 Commerce Blvd, Liverpool, NY  
 ☎ [(315) 715-7412](tel:3157157412)
+
+☎ Google listing: [(315) 314-9090](tel:3153149090)  
+🌐 [puroclean.com](https://www.puroclean.com/liverpool-ny-puroclean-syracuse-north)  
+✉ [psnny@puroclean.com](mailto:psnny@puroclean.com)  
+Google rating 4.9 (78 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=16486895111208361337&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [puroclean.com](https://www.puroclean.com/liverpool-ny-puroclean-syracuse-north/), retrieved 2026-10-18.
 
 Mold Remediation Contractor License (SH126) #25-6tqkm-shmo (exp. 2027-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -71,6 +82,10 @@ Licensed firm
 4655 Crossroads Park Dr, Liverpool, NY  
 ☎ [(315) 218-6995](tel:3152186995)
 
+🌐 [sunenvironmentalcorp.com](https://sunenvironmentalcorp.com/contact/liverpool-ny/)  
+Google rating 3.9 (25 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=3541656939762452286&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #24-63O59-SHMO (exp. 2026-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY1453)
@@ -83,6 +98,10 @@ Licensed firm
 
 7709 Maltlage Dr, Liverpool, NY  
 ☎ [(315) 701-0107](tel:3157010107)
+
+🌐 [tpmgc.com](http://www.tpmgc.com/)  
+Google rating 4.5 (15 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17923097398912875163&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Contractor License (SH126) #26-6ZAKF-SHMO (exp. 2028-07-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

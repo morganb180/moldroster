@@ -40,6 +40,11 @@ Licensed firm
 829-2 Lincoln Ave, Bohemia, NY  
 ☎ [(631) 922-5044](tel:6319225044)
 
+☎ Google listing: [(631) 766-4636](tel:6317664636)  
+🌐 [targetrestorationny.com](https://targetrestorationny.com/)  
+Google rating 5.0 (7 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7014797452923555520&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #26-69NVD-SHMO (exp. 2028-06-30)  
 Mold Assessment Contractor License (SH125) #26-69BDQ-SHMO (exp. 2028-05-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -79,6 +84,11 @@ Licensed firm
 217 Knickerbocker Ave, Bohemia, NY  
 ☎ [(631) 654-1225](tel:6316541225)
 
+🌐 [customcareny.com](http://customcareny.com/)  
+✉ [customcare10@yahoo.com](mailto:customcare10@yahoo.com)  
+Google rating 4.8 (21 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=16364089430197677248&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [customcareny.com](https://www.customcareny.com/), retrieved 2026-10-18.
+
 Mold Remediation Contractor License (SH126) #26-6S6RZ-SHMO (exp. 2028-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0485)
@@ -91,6 +101,11 @@ Licensed firm
 
 1556 Ocean Ave, Bohemia, NY  
 ☎ [(631) 901-8856](tel:6319018856)
+
+☎ Google listing: [(631) 573-6300](tel:6315736300)  
+🌐 [4disasters.com](http://4disasters.com/)  
+Google rating 5.0 (30 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=3302763205747899301&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Contractor License (SH126) #26-6Z16G-SHMO (exp. 2028-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

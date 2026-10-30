@@ -183,6 +183,12 @@ Licensed firm
 19286 Kickapoo Rd, Waller, TX  
 ☎ [(281) 376-7474](tel:2813767474)
 
+☎ Google listing: [(281) 771-0927](tel:2817710927)  
+🌐 [andersonrestore.com](https://andersonrestore.com/)  
+✉ [info@andersonrestore.com](mailto:info@andersonrestore.com)  
+Google rating 4.8 (176 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=1979684924217142903&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [andersonrestore.com](https://andersonrestore.com/contact-us/), retrieved 2026-10-30.
+
 Mold Remediation Company #RCO1584 (exp. 2027-08-23)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0440)

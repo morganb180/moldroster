@@ -59,6 +59,12 @@ Licensed firm
 6709 Meadow Crest Dr, North Richland Hills, TX  
 ☎ [(817) 265-5452](tel:8172655452)
 
+☎ Google listing: [(817) 592-5335](tel:8175925335)  
+🌐 [texinspec.com](https://texinspec.com/)  
+✉ [clientcare@texinspec.com](mailto:clientcare@texinspec.com)  
+Google rating 4.8 (1,210 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15227176637276108231&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [texinspec.com](https://texinspec.com/), retrieved 2026-10-30.
+
 Mold Assessment Company #ACO1236 (exp. 2027-07-12)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0124)
@@ -72,6 +78,11 @@ Licensed firm
 4028 Daley Ave, North Richland Hills, TX  
 ☎ [(817) 595-0790](tel:8175950790)
 
+🌐 [go1priority.com](https://go1priority.com/fort-worth-headquarters/)  
+✉ [bid@go1priority.com](mailto:bid@go1priority.com)  
+Google rating 4.2 (10 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15323159393539525077&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [go1priority.com](https://go1priority.com/fort-worth-headquarters/), retrieved 2026-10-18.
+
 Mold Remediation Company #RCO0116 (exp. 2028-01-07)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0210)
@@ -84,6 +95,11 @@ Licensed firm
 
 5750 Rufe Snow Dr Suite 100, North Richland Hills, TX  
 ☎ [(682) 758-1624](tel:6827581624)
+
+🌐 [coyoterestoration.com](https://coyoterestoration.com/)  
+✉ [info@coyoterestoration.com](mailto:info@coyoterestoration.com)  
+Google rating 4.7 (62 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15201795328449573344&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [coyoterestoration.com](https://coyoterestoration.com/), retrieved 2026-10-18.
 
 Mold Remediation Company #RCO1706 (exp. 2027-06-29)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

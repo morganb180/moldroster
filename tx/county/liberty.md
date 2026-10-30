@@ -45,6 +45,12 @@ Licensed firm
 18060 Hill Rd, Cleveland, TX  
 ☎ [(936) 718-1616](tel:9367181616)
 
+☎ Google listing: [(936) 777-8718](tel:9367778718)  
+🌐 [dryguyswaterdamage.com](http://dryguyswaterdamage.com/)  
+✉ [eric@dryguyswaterdamage.com](mailto:eric@dryguyswaterdamage.com)  
+Google rating 5.0 (79 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10250196331883131681&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [dryguyswaterdamage.com](https://dryguyswaterdamage.com/), retrieved 2026-10-18.
+
 Mold Remediation Company #RCO1582 (exp. 2027-12-03)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0438)

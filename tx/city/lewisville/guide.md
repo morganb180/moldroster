@@ -59,6 +59,11 @@ Licensed firm
 4400 State Hwy 121 Suite 300-1228, Lewisville, TX  
 ☎ [(469) 224-7774](tel:4692247774)
 
+🌐 [iaqrx.com](https://iaqrx.com/)  
+✉ [sales@iaqrx.com](mailto:sales@iaqrx.com)  
+Google rating 5.0 (221 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=944990971020455111&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [fixairx.com](https://fixairx.com/), retrieved 2026-10-18.
+
 Mold Assessment Company #ACO1171 (exp. 2027-01-30)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0092)
@@ -71,6 +76,10 @@ Licensed firm
 
 1625 Clarendon Dr, Lewisville, TX  
 ☎ [(469) 400-5838](tel:4694005838)
+
+🌐 [gifservices.net](http://www.gifservices.net/)  
+Google rating 4.7 (13 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5752156754904664600&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Assessment Company #ACO1165 (exp. 2028-01-06)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

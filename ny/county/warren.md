@@ -29,6 +29,11 @@ Licensed firm
 1319 Friends Lake Rd, Chestertown, NY  
 ☎ [(518) 796-5699](tel:5187965699)
 
+☎ Google listing: [(518) 465-5024](tel:5184655024)  
+🌐 [jgibbprospec.com](https://jgibbprospec.com/)  
+Google rating 4.1 (9 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14614780583076387200&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Assessment Contractor License (SH125) #25-6TJMM-SHMO (exp. 2027-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY1019)
@@ -67,6 +72,12 @@ Licensed firm
 
 18 Blackberry Ln, Queensbury, NY  
 ☎ [(518) 307-0130](tel:5183070130)
+
+☎ Google listing: [(518) 832-9213](tel:5188329213)  
+🌐 [cvenv.com](https://cvenv.com/)  
+✉ [support@cvenv.com](mailto:support@cvenv.com)  
+Google rating 4.8 (26 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7524363551134582234&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [cvenv.com](https://cvenv.com/), retrieved 2026-10-18.
 
 Mold Assessment Contractor License (SH125) #25-6LGBU-SHMO (exp. 2027-10-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -124,6 +135,11 @@ Licensed firm
 153 Broad St, Glens Falls, NY  
 ☎ [(518) 791-1609](tel:5187911609)
 
+☎ Google listing: [(518) 401-0813](tel:5184010813)  
+🌐 [natureswaypestcontrol.com](https://www.natureswaypestcontrol.com/)  
+Google rating 4.8 (1,801 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11483277061697234363&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #26-6SVZO-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY1188)
@@ -136,6 +152,11 @@ Licensed firm
 
 188 Dix Ave, Glens Falls, NY  
 ☎ [(518) 793-8750](tel:5187938750)
+
+🌐 [northcountryjanitorial.com](http://www.northcountryjanitorial.com/)  
+✉ [ncj@northcountryjanitorial.com](mailto:ncj@northcountryjanitorial.com)  
+Google rating 3.4 (40 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10351007309808317030&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [northcountryjanitorial.com](https://www.northcountryjanitorial.com/contact-us/), retrieved 2026-10-18.
 
 Mold Remediation Contractor License (SH126) #25-6UXQU-SHMO (exp. 2027-07-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

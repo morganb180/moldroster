@@ -75,6 +75,11 @@ Licensed firm
 61 Glen Head Rd, Glen Head, NY  
 ☎ [(516) 723-9463](tel:5167239463)
 
+🌐 [victoryrestorationandcleaning.com](http://www.victoryrestorationandcleaning.com/)  
+✉ [victoryrestorationinc@gmail.com](mailto:victoryrestorationinc@gmail.com)  
+Google rating 3.9 (15 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=13878722480477064733&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [victoryrestorationandcleaning.com](https://www.victoryrestorationandcleaning.com/), retrieved 2026-10-18.
+
 Mold Remediation Contractor License (SH126) #25-6IPFT-SHMO (exp. 2027-10-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY1498)

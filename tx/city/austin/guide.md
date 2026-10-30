@@ -60,6 +60,11 @@ Licensed firm
 7756 Northcross Dr Suite 211, Austin, TX  
 ☎ [(512) 453-3733](tel:5124533733)
 
+🌐 [baereng.com](https://baereng.com/)  
+✉ [info@baereng.com](mailto:info@baereng.com)  
+Google rating 5.0 (4 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=1336555372796930611&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [baereng.com](https://baereng.com/), retrieved 2026-10-18.
+
 Mold Assessment Company #ACO1203 (exp. 2028-01-03)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0110)
@@ -85,6 +90,12 @@ Licensed firm
 
 9601 Dessau Rd Suite 104, Austin, TX  
 ☎ [(512) 420-6970](tel:5124206970)
+
+☎ Google listing: [(737) 358-6017](tel:7373586017)  
+🌐 [allnationrestoration.com](https://www.allnationrestoration.com/)  
+✉ [info@allnationrestoration.com](mailto:info@allnationrestoration.com)  
+Google rating 4.9 (325 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15195344373746837695&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [allnationrestoration.com](https://www.allnationrestoration.com/), retrieved 2026-10-30.
 
 Mold Remediation Company #RCO1501 (exp. 2028-02-15)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

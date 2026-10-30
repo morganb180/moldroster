@@ -73,6 +73,11 @@ Licensed firm
 51 Highland Ave, New Rochelle, NY  
 ☎ [(914) 918-5440](tel:9149185440)
 
+☎ Google listing: [(347) 352-7312](tel:3473527312)  
+🌐 [procyonrestoration.net](https://procyonrestoration.net/)  
+Google rating 4.6 (24 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10376760574402685664&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Assessment Contractor License (SH125) #25-64JTU-SHMO (exp. 2026-12-31)  
 Mold Remediation Contractor License (SH126) #26-6ICUN-SHMO (exp. 2027-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -102,6 +107,10 @@ Licensed firm
 41 Columbus Ave, New Rochelle, NY  
 ☎ [(914) 328-8894](tel:9143288894)
 
+🌐 [servicemasterwhiteplains.com](http://www.servicemasterwhiteplains.com/)  
+Google rating 5.0 (28 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14788398703026953379&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #24-636HG-SHMO (exp. 2026-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0837)
@@ -115,6 +124,11 @@ Licensed firm
 34 First St, New Rochelle, NY  
 ☎ [(914) 741-6660](tel:9147416660)
 
+☎ Google listing: [(800) 442-1976](tel:8004421976)  
+🌐 [westfairrestoration.com](http://www.westfairrestoration.com/)  
+Google rating 5.0 (96 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=9466493813673138129&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #25-6LZG4-SHMO (exp. 2027-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY1517)
@@ -127,6 +141,11 @@ Licensed firm
 
 20 Burling Ln Floor 4 Office 3, New Rochelle, NY  
 ☎ [(800) 874-8146](tel:8008748146)
+
+☎ Google listing: [(914) 554-1592](tel:9145541592)  
+🌐 [ifloodedrestoration.com](https://ifloodedrestoration.com/locations/ny/water-damage-restoration-westchester/)  
+Google rating 5.0 (35 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14156999746938043728&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Contractor License (SH126) #26-673FU-SHMO (exp. 2028-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

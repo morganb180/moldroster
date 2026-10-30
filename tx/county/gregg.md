@@ -87,6 +87,12 @@ Licensed firm
 104 Steven St, Kilgore, TX  
 ☎ [(903) 557-9032](tel:9035579032)
 
+☎ Google listing: [(903) 290-1308](tel:9032901308)  
+🌐 [puremaintofeasttexasllc.com](https://www.puremaintofeasttexasllc.com/)  
+✉ [info@puremaintofeasttexasllc.com](mailto:info@puremaintofeasttexasllc.com)  
+Google rating 4.9 (8 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=8508668411439204148&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [puremaintofeasttexasllc.com](https://www.puremaintofeasttexasllc.com/), retrieved 2026-10-18.
+
 Mold Remediation Company #RCO1744 (exp. 2027-12-07)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0571)

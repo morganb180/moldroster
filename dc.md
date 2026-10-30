@@ -84,6 +84,11 @@ DC
 
 * D. Sewell (Mold Assessor)
 
+☎ [(202) 359-4477](tel:2023594477)  
+🌐 [dmvhomeinspections.com](http://www.dmvhomeinspections.com/)  
+Google rating 4.3 (24 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10780854257491166250&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=DC0104)
 
@@ -291,6 +296,10 @@ Licensed firm
 1 licensed individual
 
 * M. DaRin (Mold Assessor)
+
+☎ [(315) 299-2467](tel:3152992467)  
+🌐 [bluepointenvironmental.com](https://www.bluepointenvironmental.com/contact)  
+Added by us, not on the state list: phone and website from the firm's [Google Maps listing](https://maps.google.com/?cid=15618521270886208653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=DC0049)
@@ -622,6 +631,11 @@ Licensed firm
 
 * J. Hawkins (Mold Assessor)
 
+☎ [(703) 450-6398](tel:7034506398)  
+🌐 [nextdayinspect.com](https://nextdayinspect.com/)  
+Google rating 4.9 (3,154 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=6494295388858694915&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=DC0103)
 
@@ -789,6 +803,11 @@ Licensed firm
 
 * D. Johnson (Mold Assessor)
 
+☎ [(301) 542-7922](tel:3015427922)  
+🌐 [tdmmoldinspection.com](http://tdmmoldinspection.com/)  
+Google rating 5.0 (90 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=6339570265547680591&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=DC0030)
 
@@ -855,6 +874,11 @@ Licensed firm
 1 licensed individual
 
 * C. Moxey (Mold Assessor)
+
+☎ [(410) 360-1075](tel:4103601075)  
+🌐 [thomasvillerestoration.com](http://thomasvillerestoration.com/)  
+Google rating 4.9 (1,513 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=6995614608747115800&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=DC0093)
@@ -968,6 +992,11 @@ Licensed firm
 1 licensed individual
 
 * D. Diblasi (Mold Remediator)
+
+☎ [(202) 246-1159](tel:2022461159)  
+🌐 [acemulti6.com](http://acemulti6.com/)  
+Google rating 5.0 (16 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=8330286685043473994&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=DC0087)
@@ -1097,6 +1126,11 @@ Licensed firm
 
 * H. Amani (Mold Remediator)
 
+☎ [(703) 257-1112](tel:7032571112)  
+🌐 [dmvrestorationsinc.com](https://www.dmvrestorationsinc.com/)  
+Google rating 4.6 (81 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15948231843387654836&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=DC0034)
 
@@ -1128,6 +1162,11 @@ Licensed firm
 1 licensed individual
 
 * J. Nyanin (Mold Remediator)
+
+☎ [(703) 769-7990](tel:7037697990)  
+🌐 [greenspringconst.com](http://greenspringconst.com/)  
+Google rating 4.4 (27 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=13177483837278110745&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=DC0120)
@@ -1224,6 +1263,11 @@ Licensed firm
 1 licensed individual
 
 * O. Tapiro (Mold Remediator)
+
+☎ [(240) 418-5978](tel:2404185978)  
+🌐 [midatlantichandymanservices.com](https://midatlantichandymanservices.com/remodeling-home-improvement-services-in-silver-spring-md/)  
+Google rating 5.0 (7 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10391055724887313684&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=DC0020)
@@ -1474,6 +1518,10 @@ Licensed firm
 * D. Nolasco (Mold Remediator)
 * L. Flores (Mold Remediator)
 * S. Argueta (Mold Remediator)
+
+☎ [(301) 322-1446](tel:3013221446)  
+🌐 [sandowconstruction.com](https://sandowconstruction.com/contact-us/)  
+Added by us, not on the state list: phone and website from the firm's [Google Maps listing](https://maps.google.com/?cid=10637130073830186173&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=DC0060)
@@ -1821,6 +1869,11 @@ MD
 
 * A. Clark (Mold Assessor)
 
+☎ [(301) 776-0500](tel:3017760500)  
+🌐 [aec-env.com](http://www.aec-env.com/)  
+Google rating 3.7 (3 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5511784562676679758&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=DC0102)
 
@@ -1837,6 +1890,11 @@ MD
 1 licensed individual
 
 * A. Washington (Mold Assessor)
+
+☎ [(410) 684-3327](tel:4106843327)  
+🌐 [amatraining.com](https://amatraining.com/)  
+Google rating 4.9 (7 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=9952382114924849430&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=DC0143)
@@ -2012,6 +2070,11 @@ MD
 * A. Hawkins (Mold Remediator)
 * A. Hawkins (Mold Assessor)
 
+☎ [(301) 261-4935](tel:3012614935)  
+🌐 [millmansystems.com](https://www.millmansystems.com/)  
+Google rating 4.0 (4 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=9523011972102155025&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=DC0039)
 
@@ -2046,6 +2109,11 @@ MD
 
 * C. Benko (Mold Remediator)
 * C. Benko (Mold Assessor)
+
+☎ [(301) 725-6459](tel:3017256459)  
+🌐 [ptccmold.com](http://ptccmold.com/)  
+Google rating 4.9 (41 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=18186583137609735982&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=DC0042)
@@ -2111,6 +2179,11 @@ MD
 * P. Bolanos (Mold Remediator)
 * R. Duran (Mold Remediator)
 * J. Palacios (Mold Remediator)
+
+☎ [(301) 230-2822](tel:3012302822)  
+🌐 [acmservices.com](http://www.acmservices.com/)  
+Google rating 4.8 (77 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=12703401687346916994&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=DC0052)

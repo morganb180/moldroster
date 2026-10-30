@@ -27,6 +27,11 @@ Licensed firm
 6810 Industrial Park Rd, Bath, NY  
 ☎ [(607) 383-5500](tel:6073835500)
 
+🌐 [momentumenvironmental.com](https://momentumenvironmental.com/environmental-services-bath-ny/)  
+✉ [info@momentumenvironmental.com](mailto:info@momentumenvironmental.com)  
+Google rating 3.9 (7 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=9487953261287698686&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [momentumenvironmental.com](https://momentumenvironmental.com/environmental-services-bath-ny/), retrieved 2026-10-30.
+
 Mold Assessment Contractor License (SH125) #25-67OJ8-SHMO (exp. 2027-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0874)

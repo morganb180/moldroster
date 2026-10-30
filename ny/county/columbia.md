@@ -27,6 +27,10 @@ Licensed firm
 36 Brook St, Bolton Landing, NY  
 ☎ [(518) 376-7345](tel:5183767345)
 
+🌐 [airwaterenv.com](https://www.airwaterenv.com/)  
+✉ [airwaterenvironmental@gmail.com](mailto:airwaterenvironmental@gmail.com)  
+Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=15481505565668443855&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [airwaterenv.com](https://airwaterenv.com/), retrieved 2026-10-18.
+
 Mold Remediation Contractor License (SH126) #26-6ZXG5-SHMO (exp. 2028-03-31)  
 Mold Assessment Contractor License (SH125) #26-6ZXG4-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -54,6 +58,10 @@ Licensed firm
 26 Whitman Pl, Hillsdale, NY  
 ☎ [(201) 522-3204](tel:2015223204)
 
+🌐 [moldtestingllc.com](https://moldtestingllc.com/)  
+Google rating 5.0 (57 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2487267935029848806&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Assessment Contractor License (SH125) #26-6Z1FC-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0982)
@@ -66,6 +74,11 @@ Licensed firm
 
 1326 US Route 9, Hudson, NY  
 ☎ [(518) 598-4861](tel:5185984861)
+
+🌐 [cghi518.com](https://cghi518.com/)  
+✉ [cghi518@gmail.com](mailto:cghi518@gmail.com)  
+Google rating 5.0 (15 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=3371504778116841561&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [cghi518.com](https://cghi518.com/), retrieved 2026-10-18.
 
 Mold Assessment Contractor License (SH125) #25-6HN4G-SHMO (exp. 2027-07-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -84,6 +97,11 @@ Licensed firm
 108 Hallenbeck Rd, Hudson, NY  
 ☎ [(518) 821-3355](tel:5188213355)
 
+🌐 [hudsonhomemoldremediation.com](https://hudsonhomemoldremediation.com/)  
+✉ [artpremiumco@yahoo.com](mailto:artpremiumco@yahoo.com)  
+Google rating 4.9 (153 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10335670223931278856&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [hudsonhomemoldremediation.com](https://www.hudsonhomemoldremediation.com/), retrieved 2026-10-18.
+
 Mold Remediation Contractor License (SH126) #26-6ACIX-SHMO (exp. 2028-07-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY1032)
@@ -96,6 +114,11 @@ Licensed firm
 
 4066 Route 203, North Chatham, NY  
 ☎ [(518) 766-9595](tel:5187669595)
+
+🌐 [certifiedwsf.com](https://certifiedwsf.com/)  
+✉ [office@certifiedwsf.com](mailto:office@certifiedwsf.com)  
+Google rating 4.7 (52 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=1322058922903373391&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [certifiedwsf.com](https://certifiedwsf.com/), retrieved 2026-10-18.
 
 Mold Remediation Contractor License (SH126) #25-6L761-SHMO (exp. 2027-11-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

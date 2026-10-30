@@ -44,6 +44,11 @@ Licensed firm
 1123 86th St, Brooklyn, NY  
 ☎ [(347) 622-0208](tel:3476220208)
 
+🌐 [111homeinspections.com](http://111homeinspections.com/)  
+✉ [info@111homeinspections.com](mailto:info@111homeinspections.com)  
+Google rating 5.0 (209 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10736908773757146902&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [111homeinspections.com](https://111homeinspections.com/), retrieved 2026-10-18.
+
 Mold Assessment Contractor License (SH125) #26-6ZIVR-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0200)
@@ -84,6 +89,10 @@ Licensed firm
 159 42nd St, Brooklyn, NY  
 ☎ [(917) 692-8280](tel:9176928280)
 
+☎ Google listing: [(718) 965-4866](tel:7189654866)  
+Google rating 4.5 (2 reviews)  
+Added by us, not on the state list: phone and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4288558675150536571&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #25-6TMXF-SHMO (exp. 2027-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0080)
@@ -96,6 +105,9 @@ Licensed firm
 
 1548 E 2nd St, Brooklyn, NY  
 ☎ [(929) 581-3300](tel:9295813300)
+
+🌐 [tryabcenvironmental.com](https://tryabcenvironmental.com/)  
+Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=2809736664446635377&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 Mold Assessment Contractor License (SH125) #26-69LUX-SHMO (exp. 2028-08-31)  
 Mold Remediation Contractor License (SH126) #25-6UPIY-SHMO (exp. 2027-08-31)  

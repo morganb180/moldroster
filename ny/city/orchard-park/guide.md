@@ -47,6 +47,9 @@ Licensed firm
 3860 California Rd, Orchard Park, NY  
 ☎ [(716) 312-8296](tel:7163128296)
 
+🌐 [msanalytical.com](https://www.msanalytical.com/)  
+Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=16549773737096620311&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Assessment Contractor License (SH125) #26-63XK3-SHMO (exp. 2028-09-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0797)
@@ -59,6 +62,10 @@ Licensed firm
 
 3860 California Rd, Orchard Park, NY  
 ☎ [(716) 312-0070](tel:7163120070)
+
+🌐 [stohlenvironmental.com](https://www.stohlenvironmental.com/)  
+Google rating 4.9 (34 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=3937032643428762722&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Assessment Contractor License (SH125) #26-6SD97-SHMO (exp. 2028-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -86,6 +93,12 @@ Licensed firm
 3689 California Rd, Orchard Park, NY  
 ☎ [(716) 860-5360](tel:7168605360)
 
+☎ Google listing: [(716) 662-0188](tel:7166620188)  
+🌐 [puroclean.com](https://www.puroclean.com/orchard-park-ny-puroclean-property-damage-restoration)  
+✉ [kcantwell@puroclean.com](mailto:kcantwell@puroclean.com)  
+Google rating 4.4 (34 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4967656282496092979&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [puroclean.com](https://www.puroclean.com/orchard-park-ny-puroclean-property-damage-restoration/), retrieved 2026-10-18.
+
 Mold Remediation Contractor License (SH126) #26-6I4IY-SHMO (exp. 2028-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY1298)
@@ -98,6 +111,10 @@ Licensed firm
 
 3860 California Rd, Orchard Park, NY  
 ☎ [(716) 312-0070](tel:7163120070)
+
+🌐 [stohlenvironmental.com](https://www.stohlenvironmental.com/)  
+Google rating 4.9 (34 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=3937032643428762722&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 Mold Remediation Contractor License (SH126) #26-6SD99-SHMO (exp. 2028-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

@@ -11,4 +11,5 @@ canonical: https://moldroster.com/about-our-data/
 * **New York:** NYS DOL mold contractor licences (data.ny.gov ikqx-ispy), retrieved 2026-10-12. Active licences only.
 * **DC:** DOEE list of licensed mold professionals, retrieved 2026-10-12. Grouped by email domain or company. No licence numbers published.
 * **Cleanup:** expired/inactive licences dropped; names and addresses case-normalized; phones formatted; counties from ZIP (GeoNames, CC BY 4.0). Every change is in data/cleanup-log.csv.
+* **Added from Google Maps:** For 1,021 licensed firms that we matched with high confidence to their Google Maps listing (October 30, 2026; matched by the state-listed phone, or by name plus the same street or ZIP), cards show the phone, website and Google rating from that listing, plus an email where the firm publishes one on its own website. Each addition is labelled on the card with its source and date. Individual licensees and firms without a confident match show only the state data.
 * **Not covered:** Louisiana (LSLBC bulk roster is a paid order).

@@ -33,6 +33,11 @@ Licensed firm
 156 Shore Rd, Port Washington, NY  
 ☎ [(516) 944-5323](tel:5169445323)
 
+🌐 [epafirm.com](https://epafirm.com/)  
+✉ [info@epafirm.com](mailto:info@epafirm.com)  
+Google rating 5.0 (4 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15160063923121040426&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [epafirm.com](https://epafirm.com/), retrieved 2026-10-18.
+
 Mold Assessment Contractor License (SH125) #26-6SBCJ-SHMO (exp. 2028-01-31)  
 Mold Remediation Contractor License (SH126) #26-6SBCY-SHMO (exp. 2028-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -87,6 +92,10 @@ Licensed firm
 
 1 Crooker Pl, Port Washington, NY  
 ☎ [(347) 538-4591](tel:3475384591)
+
+🌐 [taraenterprises.com](https://www.taraenterprises.com/)  
+Google rating 4.0 (5 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5106611694418225797&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Contractor License (SH126) #25-64QVU-SHMO (exp. 2027-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

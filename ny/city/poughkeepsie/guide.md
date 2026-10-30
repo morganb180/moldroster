@@ -45,6 +45,10 @@ Licensed firm
 3 Neptune Rd, Suite A29, Poughkeepsie, NY  
 ☎ [(845) 462-0200](tel:8454620200)
 
+🌐 [airenv.com](http://www.airenv.com/)  
+Google rating 4.7 (11 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15764041276579592032&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Assessment Contractor License (SH125) #25-6UJ59-SHMO (exp. 2027-07-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0088)
@@ -84,6 +88,11 @@ Licensed firm
 95 N Clinton St, Poughkeepsie, NY  
 ☎ [(845) 797-5780](tel:8457975780)
 
+🌐 [efgrestoration.com](https://efgrestoration.com/)  
+✉ [ggass28@gmail.com](mailto:ggass28@gmail.com)  
+Google rating 4.9 (156 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4856405021447438530&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [efgrestoration.com](https://efgrestoration.com/), retrieved 2026-10-18.
+
 Mold Remediation Contractor License (SH126) #24-63T8Q-SHMO (exp. 2026-10-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0441)
@@ -110,6 +119,11 @@ Licensed firm
 
 67 Page Park Dr, Poughkeepsie, NY  
 ☎ [(845) 226-0868](tel:8452260868)
+
+☎ Google listing: [(845) 379-9825](tel:8453799825)  
+🌐 [firstcallny.com](https://www.firstcallny.com/)  
+Google rating 4.9 (253 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17604507899608326275&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 Mold Remediation Contractor License (SH126) #25-6TTG8-SHMO (exp. 2027-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

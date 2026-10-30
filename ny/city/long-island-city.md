@@ -33,6 +33,10 @@ Licensed firm
 39-27 29th St Suite 1, Long Island City, NY  
 ☎ [(212) 219-8261](tel:2122198261)
 
+🌐 [greenorchardgroup.com](https://greenorchardgroup.com/)  
+Google rating 5.0 (339 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=16170653384738240515&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Assessment Contractor License (SH125) #26-6Z373-SHMO (exp. 2028-03-31)  
 Mold Remediation Contractor License (SH126) #26-6ZE6H-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -73,6 +77,11 @@ Licensed firm
 35-40 36th St, Long Island City, NY  
 ☎ [(718) 729-1997](tel:7187291997)
 
+🌐 [kamconsultants.com](https://www.kamconsultants.com/)  
+✉ [info@kamconsultants.com](mailto:info@kamconsultants.com)  
+Google rating 4.7 (14 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5897265863045496776&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [kamconsultants.com](https://www.kamconsultants.com/), retrieved 2026-10-18.
+
 Mold Assessment Contractor License (SH125) #26-6ZU8S-SHMO (exp. 2028-02-29)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0831)
@@ -85,6 +94,10 @@ Licensed firm
 
 39-27 29th St Suite 2, Long Island City, NY  
 ☎ [(212) 219-8218](tel:2122198218)
+
+🌐 [mandmenvironmental.com](http://www.mandmenvironmental.com/)  
+Google rating 3.4 (51 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2977429551884684008&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 Mold Assessment Contractor License (SH125) #26-6ZXB1-SHMO (exp. 2028-03-31)  
 Mold Remediation Contractor License (SH126) #26-6ZXY1-SHMO (exp. 2028-03-31)  
@@ -125,6 +138,11 @@ Licensed firm
 
 10-59 Jackson Ave, Long Island City, NY  
 ☎ [(929) 500-0106](tel:9295000106)
+
+🌐 [testortech.com](https://testortech.com/)  
+✉ [contact@testortech.com](mailto:contact@testortech.com)  
+Google rating 4.6 (27 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=16701924965352595737&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [testortech.com](https://testortech.com/), retrieved 2026-10-18.
 
 Mold Remediation Contractor License (SH126) #26-6ANC6-SHMO (exp. 2028-06-30)  
 Mold Assessment Contractor License (SH125) #26-6ANPD-SHMO (exp. 2028-06-30)  
@@ -168,6 +186,11 @@ Licensed firm
 33-01 Vernon Blvd, Long Island City, NY  
 ☎ [(718) 274-5000](tel:7182745000)
 
+🌐 [krausinc.com](http://www.krausinc.com/)  
+✉ [info@krausinc.com](mailto:info@krausinc.com)  
+Google rating 3.3 (57 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=3532696551021774177&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [krausinc.com](https://www.krausinc.com/contact.html), retrieved 2026-10-18.
+
 Mold Remediation Contractor License (SH126) #26-6LLAZ-SHMO (exp. 2027-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0955)
@@ -207,6 +230,11 @@ Licensed firm
 27-05 41st Ave Unit Com-1, Long Island City, NY  
 ☎ [(646) 851-0669](tel:6468510669)
 
+🌐 [mulberryrestoration.com](https://mulberryrestoration.com/)  
+✉ [info@mulberryrestoration.com](mailto:info@mulberryrestoration.com)  
+Google rating 5.0 (17 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2641433382993117742&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [mulberryrestoration.com](https://mulberryrestoration.com/), retrieved 2026-10-18.
+
 Mold Remediation Contractor License (SH126) #26-6ZODC-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0941)
@@ -220,6 +248,9 @@ Licensed firm
 35-61 Vernon Blvd, Long Island City, NY  
 ☎ [(718) 932-1280](tel:7189321280)
 
+Google rating 1.0 (1 review)  
+Added by us, not on the state list: rating from the firm's [Google Maps listing](https://maps.google.com/?cid=16220895384100408961&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #26-6IC9G-SHMO (exp. 2027-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0820)
@@ -232,6 +263,10 @@ Licensed firm
 
 11-02 Queens Plaza South, Long Island City, NY  
 ☎ [(718) 349-0900](tel:7183490900)
+
+🌐 [palcorp.com](http://palcorp.com/)  
+Google rating 4.3 (41 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=9648235233266620827&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 Mold Remediation Contractor License (SH126) #26-6Z19V-SHMO (exp. 2028-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -259,6 +294,11 @@ Licensed firm
 43-01 21st St Suite 105B, Long Island City, NY  
 ☎ [(718) 487-9596](tel:7184879596)
 
+☎ Google listing: [(888) 816-1188](tel:8888161188)  
+🌐 [superiornyc.com](https://www.superiornyc.com/)  
+Google rating 5.0 (120 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=16062143292254624587&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #26-6AANJ-SHMO (exp. 2028-06-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY1332)
@@ -271,6 +311,9 @@ Licensed firm
 
 43-11 19th Ave Suite 201, Long island city, NY  
 ☎ [(347) 237-2701](tel:3472372701)
+
+☎ Google listing: [(718) 440-8136](tel:7184408136)  
+Added by us, not on the state list: phone from the firm's [Google Maps listing](https://maps.google.com/?cid=12649711078454146450&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 Mold Remediation Contractor License (SH126) #25-653NB-SHMO (exp. 2027-05-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

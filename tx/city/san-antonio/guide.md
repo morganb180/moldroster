@@ -42,6 +42,10 @@ Licensed firm
 4402 Centergate St, San Antonio, TX  
 ☎ [(210) 656-9300](tel:2106569300)
 
+🌐 [aehs-sa.com](http://www.aehs-sa.com/)  
+Google rating 4.6 (15 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10206103190069433573&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Assessment Company #ACO0121 (exp. 2026-12-31)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0008)
@@ -94,6 +98,11 @@ Licensed firm
 2900 Nacogdoches Rd, San Antonio, TX  
 ☎ [(210) 404-1220](tel:2104041220)
 
+🌐 [alamo1.com](https://www.alamo1.com/contact.html)  
+✉ [info@alamo1.com](mailto:info@alamo1.com)  
+Google rating 3.6 (16 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14714953747603920742&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [alamo1.com](https://www.alamo1.com/contact/), retrieved 2026-10-18.
+
 Mold Remediation Company #RCO0138 (exp. 2027-03-04)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0215)
@@ -106,6 +115,10 @@ Licensed firm
 
 4712 Broom St, San Antonio, TX  
 ☎ [(210) 599-9726](tel:2105999726)
+
+🌐 [astrestoration.com](https://astrestoration.com/service-areas/san-antonio/)  
+Google rating 4.9 (920 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4637947322050723826&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Company #RCO1739 (exp. 2027-11-11)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

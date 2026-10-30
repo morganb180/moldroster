@@ -42,6 +42,10 @@ Licensed firm
 5445 LA Sierra Dr Suite 450, Dallas, TX  
 ☎ [(214) 363-0099](tel:2143630099)
 
+🌐 [abacusenvironment.com](https://www.abacusenvironment.com/)  
+Google rating 5.0 (1 review)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4799530740971701889&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Assessment Company #ACO1221 (exp. 2027-02-10)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0114)
@@ -55,6 +59,10 @@ Licensed firm
 3626 N Hall St Suite 610, Dallas, TX  
 ☎ [(214) 377-6093](tel:2143776093)
 
+🌐 [airmd.com](https://airmd.com/areas-served/texas/dallas/)  
+✉ [info@airmd.com](mailto:info@airmd.com)  
+Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=3640255470889563984&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [airmd.com](https://airmd.com/areas-served/texas/dallas/), retrieved 2026-10-18.
+
 Mold Assessment Company #ACO1294 (exp. 2027-09-08)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0172)
@@ -67,6 +75,12 @@ Licensed firm
 
 PO Box 619428 Annex A Environmental, Dallas, TX  
 ☎ [(972) 973-5682](tel:9729735682)
+
+☎ Google listing: [(972) 973-3112](tel:9729733112)  
+🌐 [dfwairport.com](https://www.dfwairport.com/)  
+✉ [boardsecretary@dfwairport.com](mailto:boardsecretary@dfwairport.com)  
+Google rating 4.1 (63,920 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=8300766736265584668&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [dfwairport.com](https://www.dfwairport.com/business/about/board/), retrieved 2026-10-30.
 
 Mold Assessment Company #ACO1127 (exp. 2027-10-02)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

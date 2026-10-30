@@ -71,6 +71,10 @@ Licensed firm
 22 Southern Blvd Suite 104, Nesconset, NY  
 ☎ [(631) 862-6288](tel:6318626288)
 
+🌐 [jsfirefloodmold.com](https://jsfirefloodmold.com/)  
+✉ [jared@jsfirefloodmold.com](mailto:jared@jsfirefloodmold.com)  
+Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=15381659581543454862&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [jsfirefloodmold.com](https://jsfirefloodmold.com/), retrieved 2026-10-18.
+
 Mold Remediation Contractor License (SH126) #26-6SV3A-SHMO (exp. 2028-02-29)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0823)
@@ -83,6 +87,11 @@ Licensed firm
 
 106 Lake Ave S Unit 3, Nesconset, NY  
 ☎ [(631) 265-9200](tel:6312659200)
+
+☎ Google listing: [(631) 609-6091](tel:6316096091)  
+🌐 [servpro.com](https://www.servpro.com/locations/ny/servpro-of-greater-smithtown)  
+Google rating 4.9 (114 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=13824614463980113560&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Contractor License (SH126) #25-64TZB-SHMO (exp. 2027-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

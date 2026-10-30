@@ -46,6 +46,10 @@ Licensed firm
 950-7 Old Medford Ave, Medford, NY  
 ☎ [(631) 698-6250](tel:6316986250)
 
+🌐 [allislandcleaning.com](http://allislandcleaning.com/)  
+Google rating 4.0 (18 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=3586779253184123726&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #26-6AHEZ-SHMO (exp. 2028-06-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0108)
@@ -58,6 +62,10 @@ Licensed firm
 
 22 B Industrial Blvd, Medford, NY  
 ☎ [(631) 236-9613](tel:6312369613)
+
+🌐 [servicemasterbyar.com](https://www.servicemasterbyar.com/)  
+Google rating 4.9 (43 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=6734658079247317605&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Contractor License (SH126) #26-6ZVUO-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

@@ -46,6 +46,12 @@ Licensed firm
 208 Newtown Rd, Plainview, NY  
 ☎ [(516) 932-3228](tel:5169323228)
 
+☎ Google listing: [(833) 782-8724](tel:8337828724)  
+🌐 [cnsenviro.com](http://www.cnsenviro.com/)  
+✉ [info@cnsenviro.com](mailto:info@cnsenviro.com)  
+Google rating 4.9 (697 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4849539728292881237&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [cnsenviro.com](https://www.cnsenviro.com/contact-us), retrieved 2026-10-18.
+
 Mold Assessment Contractor License (SH125) #25-64ZSD-SHMO (exp. 2027-02-28)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0276)
@@ -61,6 +67,11 @@ Licensed firm
 39 Werman Ct, Plainview, NY  
 ☎ [(516) 927-8263](tel:5169278263)
 
+☎ Google listing: [(516) 927-8262](tel:5169278262)  
+🌐 [americanrestorationsolutions.com](http://americanrestorationsolutions.com/)  
+Google rating 4.9 (95 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=16832074151786104819&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #25-6UOY3-SHMO (exp. 2027-09-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0114)
@@ -73,6 +84,9 @@ Licensed firm
 
 206 Terminal Dr, Plainview, NY  
 ☎ [(718) 961-9404](tel:7189619404)
+
+Google rating 4.4 (8 reviews)  
+Added by us, not on the state list: rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14243029431486958069&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Contractor License (SH126) #26-6AUG4-SHMO (exp. 2028-06-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

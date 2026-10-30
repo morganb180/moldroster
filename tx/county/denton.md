@@ -42,6 +42,10 @@ Licensed firm
 516 Forest Trl, Argyle, TX  
 ☎ [(940) 597-2673](tel:9405972673)
 
+🌐 [precisionenviro.net](https://precisionenviro.net/locations/precision-environmental-service-flower-mound-tx/)  
+Google rating 3.9 (14 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7127076264936816522&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Assessment Company #ACO1271 (exp. 2027-03-04)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0149)
@@ -55,6 +59,10 @@ Licensed firm
 400 W Oak St Suite 305, Denton, TX  
 ☎ [(409) 656-7032](tel:4096567032)
 
+🌐 [aspenintegrity.com](https://www.aspenintegrity.com/)  
+✉ [cobie@aspenintegrity.com](mailto:cobie@aspenintegrity.com)  
+Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=1032973615511548181&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [aspenintegrity.com](https://www.aspenintegrity.com/), retrieved 2026-10-18.
+
 Mold Assessment Company #ACO1248 (exp. 2028-02-29)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0133)
@@ -67,6 +75,10 @@ Licensed firm
 
 PO Box 886, Denton, TX  
 ☎ [(940) 898-0861](tel:9408980861)
+
+🌐 [theprovidentgroup.com](http://theprovidentgroup.com/)  
+Google rating 4.9 (24 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14389061572919688986&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Assessment Company #ACO1000 (exp. 2027-05-28)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -107,6 +119,11 @@ Licensed firm
 4400 State Hwy 121 Suite 300-1228, Lewisville, TX  
 ☎ [(469) 224-7774](tel:4692247774)
 
+🌐 [iaqrx.com](https://iaqrx.com/)  
+✉ [sales@iaqrx.com](mailto:sales@iaqrx.com)  
+Google rating 5.0 (221 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=944990971020455111&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [fixairx.com](https://fixairx.com/), retrieved 2026-10-18.
+
 Mold Assessment Company #ACO1171 (exp. 2027-01-30)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0092)
@@ -119,6 +136,10 @@ Licensed firm
 
 1625 Clarendon Dr, Lewisville, TX  
 ☎ [(469) 400-5838](tel:4694005838)
+
+🌐 [gifservices.net](http://www.gifservices.net/)  
+Google rating 4.7 (13 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5752156754904664600&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Assessment Company #ACO1165 (exp. 2028-01-06)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -812,6 +833,11 @@ Licensed firm
 1612 Gold Mine Trl, Aubrey, TX  
 ☎ [(469) 737-0296](tel:4697370296)
 
+🌐 [sswaterrestoration.com](https://sswaterrestoration.com/services/water-damage-restoration/krugerville-tx/)  
+✉ [sswaterrestoration@gmail.com](mailto:sswaterrestoration@gmail.com)  
+Google rating 5.0 (110 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5530263564430756090&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [sswaterrestoration.com](https://sswaterrestoration.com/services/water-damage-restoration/krugerville-tx/), retrieved 2026-10-30.
+
 Mold Remediation Company #RCO1659 (exp. 2028-09-26)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0488)
@@ -838,6 +864,10 @@ Licensed firm
 3323 Sam Rayburn Run, Carrollton, TX  
 ☎ [(469) 892-6008](tel:4698926008)
 
+🌐 [alphaabatementsolutions.net](http://alphaabatementsolutions.net/)  
+Google rating 5.0 (19 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15547526872151797206&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Company #RCO1543 (exp. 2028-08-28)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0412)
@@ -850,6 +880,11 @@ Licensed firm
 
 4912 Dozier Rd, Carrollton, TX  
 ☎ [(972) 492-3417](tel:9724923417)
+
+🌐 [edrs-inc.com](http://www.edrs-inc.com/)  
+✉ [joboers@earthlink.net](mailto:joboers@earthlink.net)  
+Google rating 4.0 (6 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11944130277018754366&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [edrs-inc.com](https://www.edrs-inc.com/contacts.html), retrieved 2026-10-18.
 
 Mold Remediation Company #RCO1385 (exp. 2027-05-07)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -876,6 +911,11 @@ Licensed firm
 
 1001 Long Prairie Rd Suite 300, Flower Mound, TX  
 ☎ [(214) 448-5100](tel:2144485100)
+
+☎ Google listing: [(972) 318-5200](tel:9723185200)  
+🌐 [greenlightrestoration.com](http://greenlightrestoration.com/)  
+Google rating 4.3 (6 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=3980727212535865679&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Company #RCO1414 (exp. 2028-01-13)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

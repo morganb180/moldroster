@@ -57,6 +57,11 @@ Licensed firm
 160 Engineers Dr, Hicksville, NY  
 ☎ [(516) 412-6000](tel:5164126000)
 
+🌐 [1800waterdamage.com](https://www.1800waterdamage.com/nassau-county/)  
+✉ [brian.facchin@1800waterdamage.com](mailto:brian.facchin@1800waterdamage.com)  
+Google rating 5.0 (106 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14751410278799239930&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [1800waterdamage.com](https://www.1800waterdamage.com/nassau-county/), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #25-65P96-SHMO (exp. 2027-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0684)

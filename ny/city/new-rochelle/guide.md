@@ -100,6 +100,10 @@ Licensed firm
 41 Columbus Ave, New Rochelle, NY  
 ☎ [(914) 328-8894](tel:9143288894)
 
+🌐 [servicemasterwhiteplains.com](http://www.servicemasterwhiteplains.com/)  
+Google rating 5.0 (28 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14788398703026953379&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #24-636HG-SHMO (exp. 2026-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0837)

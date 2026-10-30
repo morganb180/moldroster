@@ -25,6 +25,11 @@ Licensed firm
 7086 Commercial Dr, Canastota, NY  
 ☎ [(315) 697-8437](tel:3156978437)
 
+☎ Google listing: [(800) 273-5318](tel:8002735318)  
+🌐 [abscope.com](http://www.abscope.com/)  
+Google rating 5.0 (2 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11441323741960724160&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #26-6I5BI-SHMO (exp. 2028-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0218)

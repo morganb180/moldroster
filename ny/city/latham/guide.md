@@ -42,6 +42,10 @@ Licensed firm
 50 Century Hill Dr, Latham, NY  
 ☎ [(518) 786-7400](tel:5187867400)
 
+🌐 [ctmale.com](https://ctmale.com/)  
+Google rating 3.0 (6 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7252453394987114386&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Assessment Contractor License (SH125) #26-6IZHN-SHMO (exp. 2028-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0461)
@@ -54,6 +58,10 @@ Licensed firm
 
 17 British American Blvd, Latham, NY  
 ☎ [(518) 377-9841](tel:5183779841)
+
+🌐 [intertek.com](https://www.intertek.com/building/psi/locations/new-york/latham/)  
+Google rating 1.0 (1 review)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=13747299786956206986&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Assessment Contractor License (SH125) #26-6ZXPS-SHMO (exp. 2028-07-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -94,6 +102,10 @@ Licensed firm
 112 Wade Rd, Latham, NY  
 ☎ [(518) 857-7696](tel:5188577696)
 
+☎ Google listing: [(518) 591-0234](tel:5185910234)  
+🌐 [classicenvironmental.com](https://www.classicenvironmental.com/contact)  
+Added by us, not on the state list: phone and website from the firm's [Google Maps listing](https://maps.google.com/?cid=12592182928779705636&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #25-6SDEE-SHMO (exp. 2028-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0349)
@@ -106,6 +118,11 @@ Licensed firm
 
 6 Northway Ln Suite B05, Latham, NY  
 ☎ [(518) 818-6536](tel:5188186536)
+
+🌐 [restopros.co](https://www.restopros.co/ny-hudson-valley/)  
+✉ [rphudsonvalley@restopros.co](mailto:rphudsonvalley@restopros.co)  
+Google rating 5.0 (51 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=8247424488566486704&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [restopros.co](https://www.restopros.co/ny-hudson-valley/Contact/), retrieved 2026-10-18.
 
 Mold Remediation Contractor License (SH126) #25-67LA4-SHMO (exp. 2027-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

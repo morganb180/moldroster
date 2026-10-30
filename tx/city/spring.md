@@ -33,6 +33,9 @@ Licensed firm
 22720 Lain Rd, Spring, TX  
 ☎ [(832) 953-2899](tel:8329532899)
 
+🌐 [pointalliancesolutions.com](http://www.pointalliancesolutions.com/contactus.html)  
+Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=17237983593192779428&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Assessment Company #ACO1146 (exp. 2027-05-07)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0082)
@@ -45,6 +48,10 @@ Licensed firm
 
 26406 Pine Canyon Dr, Spring, TX  
 ☎ [(713) 249-8581](tel:7132498581)
+
+🌐 [preferredhomeservices.expert](http://www.preferredhomeservices.expert/)  
+Google rating 4.6 (9 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14068759642559388194&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Assessment Company #ACO1094 (exp. 2027-03-20)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -60,6 +67,12 @@ Licensed firm
 
 26310 Oak Ridge Dr Suite 36, Spring, TX  
 ☎ [(832) 347-3551](tel:8323473551)
+
+☎ Google listing: [(281) 821-9111](tel:2818219111)  
+🌐 [aaci.us](https://www.aaci.us/)  
+✉ [bill@aaci.us](mailto:bill@aaci.us)  
+Google rating 5.0 (2 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7769159601344891324&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [aaci.us](https://www.aaci.us/), retrieved 2026-10-18.
 
 Mold Remediation Company #RCO1403 (exp. 2027-11-13)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

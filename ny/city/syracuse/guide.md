@@ -71,6 +71,11 @@ Licensed firm
 202 Twin Oaks Dr Suite 110, Syracuse, NY  
 ☎ [(315) 671-6006](tel:3156716006)
 
+🌐 [cralinc.com](http://cralinc.com/)  
+✉ [info@cralinc.com](mailto:info@cralinc.com)  
+Google rating 4.7 (30 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5561188872530522233&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [cralinc.com](https://www.cralinc.com/), retrieved 2026-10-18.
+
 Mold Assessment Contractor License (SH125) #26-6ZPJG-SHMO (exp. 2028-03-31)  
 Mold Remediation Contractor License (SH126) #25-6I31C-SHMO (exp. 2027-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -98,6 +103,11 @@ Licensed firm
 
 6710 Commerce Blvd, Syracuse, NY  
 ☎ [(315) 877-1250](tel:3158771250)
+
+☎ Google listing: [(315) 455-7148](tel:3154557148)  
+🌐 [stanleysteemer.com](https://www.stanleysteemer.com/locations/NY/Syracuse/890)  
+Google rating 4.9 (2,130 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=539905052550377789&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Contractor License (SH126) #26-6I5BT-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

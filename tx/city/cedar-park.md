@@ -33,6 +33,12 @@ Licensed firm
 2510 Lou Hollow Pl, Cedar Park, TX  
 ☎ [(737) 262-2046](tel:7372622046)
 
+☎ Google listing: [(512) 710-6841](tel:5127106841)  
+🌐 [bnfconsultingtx.com](https://bnfconsultingtx.com/)  
+✉ [lucas@bnfconsultingtx.com](mailto:lucas@bnfconsultingtx.com)  
+Google rating 5.0 (4 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=18222401949018086592&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [bnfconsultingtx.com](https://www.bnfconsultingtx.com/), retrieved 2026-10-18.
+
 Mold Assessment Company #ACO1263 (exp. 2028-10-21)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0141)

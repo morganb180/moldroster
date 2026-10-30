@@ -100,6 +100,10 @@ Licensed firm
 3129 Kingsley Dr Suite 520, Pearland, TX  
 ☎ [(469) 235-3840](tel:4692353840)
 
+☎ Google listing: [(713) 887-1780](tel:7138871780)  
+🌐 [globalindg.com](https://www.globalindg.com/)  
+Added by us, not on the state list: phone and website from the firm's [Google Maps listing](https://maps.google.com/?cid=1794553517418165795&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Company #RCO1514 (exp. 2028-05-15)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0394)

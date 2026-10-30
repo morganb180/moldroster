@@ -49,6 +49,10 @@ Licensed firm
 3821 Dividend Dr, Garland, TX  
 ☎ [(469) 338-7229](tel:4693387229)
 
+🌐 [aescompanies.com](http://www.aescompanies.com/)  
+Google rating 4.9 (32 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=188887871916323201&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Company #RCO1245 (exp. 2028-01-14)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0280)
@@ -100,6 +104,11 @@ Licensed firm
 
 3637 Marquis Dr Suite 109, Garland, TX  
 ☎ [(469) 642-6062](tel:4696426062)
+
+☎ Google listing: [(469) 814-0030](tel:4698140030)  
+🌐 [impact-environmental.com](https://impact-environmental.com/)  
+Google rating 5.0 (3 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15113392195202859921&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Company #RCO1646 (exp. 2028-07-26)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

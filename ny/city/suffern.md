@@ -48,6 +48,11 @@ Licensed firm
 64 Orange Ave, Suffern, NY  
 ☎ [(845) 360-5680](tel:8453605680)
 
+🌐 [betterenergysolutionsinc.com](http://www.betterenergysolutionsinc.com/)  
+✉ [info@betterenergysolutionsinc.com](mailto:info@betterenergysolutionsinc.com)  
+Google rating 4.6 (72 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=8998754657021751101&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [betterenergysolutionsinc.com](https://www.betterenergysolutionsinc.com/), retrieved 2026-10-18.
+
 Mold Remediation Contractor License (SH126) #25-6UJRF-SHMO (exp. 2027-07-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0258)
@@ -61,6 +66,9 @@ Licensed firm
 313 Spook Rock Rd, Suffern, NY  
 ☎ [(845) 369-7500](tel:8453697500)
 
+Google rating 4.3 (6 reviews)  
+Added by us, not on the state list: rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5835766022191965011&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #25-6LSZK-SHMO (exp. 2028-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY1080)
@@ -73,6 +81,11 @@ Licensed firm
 
 51 Wayne Ave, Suffern, NY  
 ☎ [(845) 388-1000](tel:8453881000)
+
+☎ Google listing: [(888) 312-4055](tel:8883124055)  
+🌐 [perfectrestoration24.com](http://www.perfectrestoration24.com/)  
+Google rating 5.0 (72 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=1531648788736739343&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Remediation Contractor License (SH126) #26-6SLAU-SHMO (exp. 2028-02-29)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

@@ -59,6 +59,10 @@ Licensed firm
 4820 206th St 4820 206th St, Flushing, NY  
 ☎ [(347) 267-4755](tel:3472674755)
 
+🌐 [nycleadtestnyc.com](https://nycleadtestnyc.com/)  
+✉ [precisioncompliancetesting@gmail.com](mailto:precisioncompliancetesting@gmail.com)  
+Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=5801024393053600889&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [nycleadtestnyc.com](https://nycleadtestnyc.com/), retrieved 2026-10-18.
+
 Mold Assessment Contractor License (SH125) #26-693PX-SHMO (exp. 2028-08-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY1083)

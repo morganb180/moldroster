@@ -75,6 +75,12 @@ Licensed firm
 540 Willow Ave Suite A, Cedarhurst, NY  
 ☎ [(888) 705-6653](tel:8887056653)
 
+☎ Google listing: [(516) 200-0587](tel:5162000587)  
+🌐 [5trestoration.com](https://5trestoration.com/)  
+✉ [office@5trestoration.com](mailto:office@5trestoration.com)  
+Google rating 5.0 (24 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=12494581418087121767&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [5trestoration.com](https://5trestoration.com/), retrieved 2026-10-18.
+
 Mold Remediation Contractor License (SH126) #26-6AXJZ-SHMO (exp. 2028-06-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY1342)

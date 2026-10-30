@@ -46,6 +46,10 @@ Licensed firm
 32 Peppermint Rd, Commack, NY  
 ☎ [(516) 512-2646](tel:5165122646)
 
+🌐 [qualityairtesting.com](https://www.qualityairtesting.com/)  
+✉ [sales@qualityairtesting.com](mailto:sales@qualityairtesting.com)  
+Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=18061345234476141525&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [qualityairtesting.com](https://www.qualityairtesting.com/), retrieved 2026-10-18.
+
 Mold Assessment Contractor License (SH125) #25-654NY-SHMO (exp. 2027-06-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY1217)
@@ -58,6 +62,11 @@ Licensed firm
 
 169 Commack Rd, Commack, NY  
 ☎ [(516) 326-0209](tel:5163260209)
+
+🌐 [qualteckny.com](https://qualteckny.com/)  
+✉ [info@qualteckny.com](mailto:info@qualteckny.com)  
+Google rating 5.0 (2 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=16905776953482745521&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [qualteckny.com](https://qualteckny.com/), retrieved 2026-10-18.
 
 Mold Assessment Contractor License (SH125) #26-6ZU89-SHMO (exp. 2028-03-31)  
 Mold Remediation Contractor License (SH126) #26-6ZU87-SHMO (exp. 2028-03-31)  

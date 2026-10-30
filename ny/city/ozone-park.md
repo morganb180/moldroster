@@ -70,6 +70,10 @@ Licensed firm
 106-08 101st Ave, Ozone Park, NY  
 ☎ [(929) 335-5300](tel:9293355300)
 
+🌐 [rainbowrestores.com](https://rainbowrestores.com/ozone-park?cid=LSTL_RBW000202)  
+Google rating 5.0 (3 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=1058322344186811348&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Remediation Contractor License (SH126) #25-6LDX3-SHMO (exp. 2027-11-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY1387)

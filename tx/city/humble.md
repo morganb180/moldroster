@@ -87,6 +87,11 @@ Licensed firm
 1780 Roughneck Dr, Humble, TX  
 ☎ [(281) 812-1461](tel:2818121461)
 
+🌐 [sitekomni.com](https://sitekomni.com/contact-us/)  
+✉ [jwoodard@sitekomni.com](mailto:jwoodard@sitekomni.com)  
+Google rating 4.8 (5 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=841890231835364968&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [sitekomni.com](https://sitekomni.com/contact-us/), retrieved 2026-10-18.
+
 Mold Remediation Company #RCO1218 (exp. 2028-12-21)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0275)

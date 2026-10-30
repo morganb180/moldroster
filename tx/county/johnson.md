@@ -115,6 +115,11 @@ Licensed firm
 2404 Ellis St Suite 4, Venus, TX  
 ☎ [(817) 779-4649](tel:8177794649)
 
+🌐 [hcrestores.com](http://hcrestores.com/)  
+✉ [info@hcrestores.com](mailto:info@hcrestores.com)  
+Google rating 4.9 (39 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=232417607510705796&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [hcrestores.com](https://hcrestores.com/), retrieved 2026-10-18.
+
 Mold Remediation Company #RCO1602 (exp. 2027-11-14)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0451)

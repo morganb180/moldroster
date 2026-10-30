@@ -33,6 +33,10 @@ Licensed firm
 1389 Hempstead Tpke, Elmont, NY  
 ☎ [(516) 488-2454](tel:5164882454)
 
+🌐 [crossislandfs.com](http://crossislandfs.com/)  
+Google rating 5.0 (5 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=3381567970839694870&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+
 Mold Assessment Contractor License (SH125) #26-6AXN1-SHMO (exp. 2028-09-30)  
 Mold Remediation Contractor License (SH126) #24-637SI-SHMO (exp. 2026-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -46,6 +50,9 @@ Licensed firm
 
 1471 Hempstead Tpke, Elmont, NY  
 ☎ [(516) 328-6088](tel:5163286088)
+
+🌐 [filtriteny.com](https://filtriteny.com/)  
+Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=10844819252388500020&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Mold Assessment Contractor License (SH125) #26-6ZCUQ-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

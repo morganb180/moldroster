@@ -33,6 +33,11 @@ Licensed firm
 1 Ora Ave, New Hartford, NY  
 ☎ [(315) 507-2140](tel:3155072140)
 
+🌐 [bluelinesolutions.net](https://bluelinesolutions.net/)  
+✉ [info@bluelinesolutions.net](mailto:info@bluelinesolutions.net)  
+Google rating 4.8 (84 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17350606787673423980&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [bluelinesolutions.net](https://bluelinesolutions.net/), retrieved 2026-10-18.
+
 Mold Assessment Contractor License (SH125) #26-6L7O9-SHMO (exp. 2027-12-31)  
 Mold Remediation Contractor License (SH126) #26-6ZIKT-SHMO (exp. 2028-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -75,6 +80,11 @@ Licensed firm
 
 20 Jordan Rd, New Hartford, NY  
 ☎ [(315) 797-1128](tel:3157971128)
+
+🌐 [disasterservices.us](http://disasterservices.us/)  
+✉ [disasterservices@roadrunner.com](mailto:disasterservices@roadrunner.com)  
+Google rating 4.9 (38 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=13557571869351489532&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [disasterservices.us](https://www.disasterservices.us/contact-us/4541783), retrieved 2026-10-18.
 
 Mold Remediation Contractor License (SH126) #26-6ZELJ-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

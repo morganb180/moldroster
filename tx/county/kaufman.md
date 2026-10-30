@@ -73,6 +73,11 @@ Licensed firm
 406 N 2nd St, Crandall, TX  
 ☎ [(214) 797-4672](tel:2147974672)
 
+🌐 [firstclass-dfw.com](http://firstclass-dfw.com/)  
+✉ [info@firstclass-dfw.com](mailto:info@firstclass-dfw.com)  
+Google rating 5.0 (102 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=1494848642237436753&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [firstclass-dfw.com](https://www.firstclass-dfw.com/), retrieved 2026-10-18.
+
 Mold Remediation Company #RCO1492 (exp. 2027-11-16)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0385)
@@ -99,6 +104,11 @@ Licensed firm
 PO Box 12, Crandall, TX  
 ☎ [(469) 881-3033](tel:4698813033)
 
+🌐 [persistencees.com](https://www.persistencees.com/)  
+✉ [estimator@persistencees.com](mailto:estimator@persistencees.com)  
+Google rating 5.0 (1 review)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=227526169255928764&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [persistencees.com](https://www.persistencees.com/), retrieved 2026-10-18.
+
 Mold Remediation Company #RCO1784 (exp. 2028-04-07)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TX0610)
@@ -111,6 +121,11 @@ Licensed firm
 
 102 E Broad St Unit 2421, Forney, TX  
 ☎ [(972) 564-0477](tel:9725640477)
+
+🌐 [iaqm.com](http://www.iaqm.com/)  
+✉ [info@iaqm.com](mailto:info@iaqm.com)  
+Google rating 4.6 (19 reviews)  
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10893107210174472752&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [iaqm.com](https://www.iaqm.com/), retrieved 2026-10-18.
 
 Mold Remediation Company #RCO1694 (exp. 2027-05-14)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
