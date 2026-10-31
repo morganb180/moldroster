@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/brooksville/guide/
 
 9 DBPR-licensed listings give an address in Brooksville: **8** hold an assessment licence and **6** hold a remediation licence. Another 19 are elsewhere in Hernando County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=brooksville&st=fl) [All Brooksville listings](https://moldroster.com/fl/city/brooksville/)
+[Get quotes](https://moldroster.com/quotes/?city=brooksville&st=fl) [All Brooksville listings](https://moldroster.com/fl/city/brooksville/)
 
 ## Do I need a mold assessment before remediation?
 

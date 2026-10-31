@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/county/washington/
 
 **Quick answer:** 2 TDLR-licensed listings with an address of record in Washington County (2 mold assessment): 0 firms and 2 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**2 TDLR-licensed listings** with an address of record in Washington County (2 mold assessment): 0 firms and 2 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=washington&st=tx)
+**2 TDLR-licensed listings** with an address of record in Washington County (2 mold assessment): 0 firms and 2 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=washington&st=tx)
 
 ## Which licensed mold assessors are in Washington County, TX? (2)
 

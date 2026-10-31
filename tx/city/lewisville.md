@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/city/lewisville/
 
 [**Read the Lewisville hiring guide →**](https://moldroster.com/tx/city/lewisville/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Lewisville](https://moldroster.com/get-quotes/?city=lewisville&st=tx)
+[How to get quotes in Lewisville](https://moldroster.com/quotes/?city=lewisville&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Lewisville, TX?
 

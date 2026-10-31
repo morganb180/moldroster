@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/davie/guide/
 
 46 DBPR-licensed listings give an address in Davie: **36** hold an assessment licence and **35** hold a remediation licence. Another 543 are elsewhere in Broward County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=davie&st=fl) [All Davie listings](https://moldroster.com/fl/city/davie/)
+[Get quotes](https://moldroster.com/quotes/?city=davie&st=fl) [All Davie listings](https://moldroster.com/fl/city/davie/)
 
 ## What are Florida's mold licensing rules?
 

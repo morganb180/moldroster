@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/plantation/guide/
 
 26 DBPR-licensed listings give an address in Plantation: **20** hold an assessment licence and **18** hold a remediation licence. Another 563 are elsewhere in Broward County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=plantation&st=fl) [All Plantation listings](https://moldroster.com/fl/city/plantation/)
+[Get quotes](https://moldroster.com/quotes/?city=plantation&st=fl) [All Plantation listings](https://moldroster.com/fl/city/plantation/)
 
 ## How do I verify a mold pro's licence in Plantation, FL?
 

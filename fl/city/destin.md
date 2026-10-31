@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/destin/
 
 [**Read the Destin hiring guide →**](https://moldroster.com/fl/city/destin/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Destin](https://moldroster.com/get-quotes/?city=destin&st=fl)
+[How to get quotes in Destin](https://moldroster.com/quotes/?city=destin&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Destin, FL?
 

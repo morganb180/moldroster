@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/deltona/guide/
 
 9 DBPR-licensed listings give an address in Deltona: **7** hold an assessment licence and **7** hold a remediation licence. Another 57 are elsewhere in Volusia County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=deltona&st=fl) [All Deltona listings](https://moldroster.com/fl/city/deltona/)
+[Get quotes](https://moldroster.com/quotes/?city=deltona&st=fl) [All Deltona listings](https://moldroster.com/fl/city/deltona/)
 
 ## How much does mold inspection and remediation cost?
 

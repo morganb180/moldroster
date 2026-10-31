@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/port-st-lucie/guide/
 
 40 DBPR-licensed listings give an address in Port St Lucie: **30** hold an assessment licence and **33** hold a remediation licence. Another 39 are elsewhere in St. Lucie County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=port-st-lucie&st=fl) [All Port St Lucie listings](https://moldroster.com/fl/city/port-st-lucie/)
+[Get quotes](https://moldroster.com/quotes/?city=port-st-lucie&st=fl) [All Port St Lucie listings](https://moldroster.com/fl/city/port-st-lucie/)
 
 ## What should I ask a mold pro before I sign?
 

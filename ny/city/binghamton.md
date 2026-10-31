@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/binghamton/
 
 [**Read the Binghamton hiring guide →**](https://moldroster.com/ny/city/binghamton/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Binghamton](https://moldroster.com/get-quotes/?city=binghamton&st=ny)
+[How to get quotes in Binghamton](https://moldroster.com/quotes/?city=binghamton&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Binghamton, NY?
 

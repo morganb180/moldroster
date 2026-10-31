@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/county/seminole/
 
 **Quick answer:** 83 DBPR-licensed listings with an address of record in Seminole County (59 mold assessment, 58 mold remediation): 6 firms and 77 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**83 DBPR-licensed listings** with an address of record in Seminole County (59 mold assessment, 58 mold remediation): 6 firms and 77 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=seminole&st=fl)
+**83 DBPR-licensed listings** with an address of record in Seminole County (59 mold assessment, 58 mold remediation): 6 firms and 77 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=seminole&st=fl)
 
 City pages: [Altamonte Springs](https://moldroster.com/fl/city/altamonte-springs/) · [Casselberry](https://moldroster.com/fl/city/casselberry/) · [Lake Mary](https://moldroster.com/fl/city/lake-mary/) · [Longwood](https://moldroster.com/fl/city/longwood/) · [Oviedo](https://moldroster.com/fl/city/oviedo/) · [Sanford](https://moldroster.com/fl/city/sanford/) · [Winter Springs](https://moldroster.com/fl/city/winter-springs/)
 

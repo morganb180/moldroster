@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/county/kerr/
 
 **Quick answer:** 2 TDLR-licensed listings with an address of record in Kerr County (1 mold assessment, 1 mold remediation): 0 firms and 2 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**2 TDLR-licensed listings** with an address of record in Kerr County (1 mold assessment, 1 mold remediation): 0 firms and 2 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=kerr&st=tx)
+**2 TDLR-licensed listings** with an address of record in Kerr County (1 mold assessment, 1 mold remediation): 0 firms and 2 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=kerr&st=tx)
 
 ## Which licensed mold assessors are in Kerr County, TX? (1)
 
@@ -67,7 +67,7 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 **How many licensed mold assessors are in Kerr County?**
 
-1 listings with a TDLR mold assessment licence and 1 with a remediation licence have an address of record in Kerr County. Pros from neighboring counties may also serve the area.
+1 listing with a TDLR mold assessment licence and 1 with a remediation licence have an address of record in Kerr County. Pros from neighboring counties may also serve the area.
 
 **How do I check a Kerr County mold company's licence?**
 

@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/city/georgetown/
 
 [**Read the Georgetown hiring guide →**](https://moldroster.com/tx/city/georgetown/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Georgetown](https://moldroster.com/get-quotes/?city=georgetown&st=tx)
+[How to get quotes in Georgetown](https://moldroster.com/quotes/?city=georgetown&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Georgetown, TX?
 

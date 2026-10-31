@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/parrish/guide/
 
 8 DBPR-licensed listings give an address in Parrish: **7** hold an assessment licence and **4** hold a remediation licence. Another 59 are elsewhere in Manatee County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=parrish&st=fl) [All Parrish listings](https://moldroster.com/fl/city/parrish/)
+[Get quotes](https://moldroster.com/quotes/?city=parrish&st=fl) [All Parrish listings](https://moldroster.com/fl/city/parrish/)
 
 ## What should I ask a mold pro before I sign?
 

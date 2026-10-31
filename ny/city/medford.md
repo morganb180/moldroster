@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/medford/
 
 [**Read the Medford hiring guide →**](https://moldroster.com/ny/city/medford/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Medford](https://moldroster.com/get-quotes/?city=medford&st=ny)
+[How to get quotes in Medford](https://moldroster.com/quotes/?city=medford&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Medford, NY?
 

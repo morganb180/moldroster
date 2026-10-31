@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/palm-bay/
 
 [**Read the Palm Bay hiring guide →**](https://moldroster.com/fl/city/palm-bay/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Palm Bay](https://moldroster.com/get-quotes/?city=palm-bay&st=fl)
+[How to get quotes in Palm Bay](https://moldroster.com/quotes/?city=palm-bay&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Palm Bay, FL?
 

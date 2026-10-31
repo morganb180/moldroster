@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/city/magnolia/
 
 [**Read the Magnolia hiring guide →**](https://moldroster.com/tx/city/magnolia/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Magnolia](https://moldroster.com/get-quotes/?city=magnolia&st=tx)
+[How to get quotes in Magnolia](https://moldroster.com/quotes/?city=magnolia&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Magnolia, TX?
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/saugerties/guide/
 
 4 NYS DOL-licensed listings give an address in Saugerties: **4** hold an assessment licence and **0** hold a remediation licence. Another 14 are elsewhere in Ulster County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=saugerties&st=ny) [All Saugerties listings](https://moldroster.com/ny/city/saugerties/)
+[Get quotes](https://moldroster.com/quotes/?city=saugerties&st=ny) [All Saugerties listings](https://moldroster.com/ny/city/saugerties/)
 
 ## How do I verify a mold pro's licence in Saugerties, NY?
 

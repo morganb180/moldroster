@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/rockledge/guide/
 
 7 DBPR-licensed listings give an address in Rockledge: **7** hold an assessment licence and **3** hold a remediation licence. Another 86 are elsewhere in Brevard County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=rockledge&st=fl) [All Rockledge listings](https://moldroster.com/fl/city/rockledge/)
+[Get quotes](https://moldroster.com/quotes/?city=rockledge&st=fl) [All Rockledge listings](https://moldroster.com/fl/city/rockledge/)
 
 ## Do I need a mold assessment before remediation?
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/saint-johns/guide/
 
 4 DBPR-licensed listings give an address in Saint Johns: **3** hold an assessment licence and **3** hold a remediation licence. Another 48 are elsewhere in St. Johns County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=saint-johns&st=fl) [All Saint Johns listings](https://moldroster.com/fl/city/saint-johns/)
+[Get quotes](https://moldroster.com/quotes/?city=saint-johns&st=fl) [All Saint Johns listings](https://moldroster.com/fl/city/saint-johns/)
 
 ## What are Florida's mold licensing rules?
 

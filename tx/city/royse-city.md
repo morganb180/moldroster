@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/city/royse-city/
 
 [**Read the Royse City hiring guide →**](https://moldroster.com/tx/city/royse-city/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Royse City](https://moldroster.com/get-quotes/?city=royse-city&st=tx)
+[How to get quotes in Royse City](https://moldroster.com/quotes/?city=royse-city&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Royse City, TX?
 

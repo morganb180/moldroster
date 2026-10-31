@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/casselberry/
 
 [**Read the Casselberry hiring guide →**](https://moldroster.com/fl/city/casselberry/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Casselberry](https://moldroster.com/get-quotes/?city=casselberry&st=fl)
+[How to get quotes in Casselberry](https://moldroster.com/quotes/?city=casselberry&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Casselberry, FL?
 

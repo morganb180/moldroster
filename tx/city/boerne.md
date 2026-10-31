@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/city/boerne/
 
 [**Read the Boerne hiring guide →**](https://moldroster.com/tx/city/boerne/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Boerne](https://moldroster.com/get-quotes/?city=boerne&st=tx)
+[How to get quotes in Boerne](https://moldroster.com/quotes/?city=boerne&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Boerne, TX?
 

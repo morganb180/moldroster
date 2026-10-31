@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/syracuse/
 
 [**Read the Syracuse hiring guide →**](https://moldroster.com/ny/city/syracuse/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Syracuse](https://moldroster.com/get-quotes/?city=syracuse&st=ny)
+[How to get quotes in Syracuse](https://moldroster.com/quotes/?city=syracuse&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Syracuse, NY?
 

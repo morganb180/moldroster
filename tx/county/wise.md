@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/county/wise/
 
 **Quick answer:** 9 TDLR-licensed listings with an address of record in Wise County (2 mold assessment, 7 mold remediation): 4 firms and 5 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**9 TDLR-licensed listings** with an address of record in Wise County (2 mold assessment, 7 mold remediation): 4 firms and 5 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=wise&st=tx)
+**9 TDLR-licensed listings** with an address of record in Wise County (2 mold assessment, 7 mold remediation): 4 firms and 5 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=wise&st=tx)
 
 ## Which licensed mold assessors are in Wise County, TX? (2)
 

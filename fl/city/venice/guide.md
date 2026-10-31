@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/venice/guide/
 
 9 DBPR-licensed listings give an address in Venice: **4** hold an assessment licence and **8** hold a remediation licence. Another 61 are elsewhere in Sarasota County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=venice&st=fl) [All Venice listings](https://moldroster.com/fl/city/venice/)
+[Get quotes](https://moldroster.com/quotes/?city=venice&st=fl) [All Venice listings](https://moldroster.com/fl/city/venice/)
 
 ## How much does mold inspection and remediation cost?
 

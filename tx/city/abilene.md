@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/city/abilene/
 
 [**Read the Abilene hiring guide →**](https://moldroster.com/tx/city/abilene/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Abilene](https://moldroster.com/get-quotes/?city=abilene&st=tx)
+[How to get quotes in Abilene](https://moldroster.com/quotes/?city=abilene&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Abilene, TX?
 

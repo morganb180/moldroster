@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/west-babylon/guide/
 
 6 NYS DOL-licensed listings give an address in West Babylon: **2** hold an assessment licence and **5** hold a remediation licence. Another 179 are elsewhere in Suffolk County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=west-babylon&st=ny) [All West Babylon listings](https://moldroster.com/ny/city/west-babylon/)
+[Get quotes](https://moldroster.com/quotes/?city=west-babylon&st=ny) [All West Babylon listings](https://moldroster.com/ny/city/west-babylon/)
 
 ## What are New York's mold licensing rules?
 

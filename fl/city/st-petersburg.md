@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/st-petersburg/
 
 [**Read the St. Petersburg hiring guide →**](https://moldroster.com/fl/city/st-petersburg/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in St. Petersburg](https://moldroster.com/get-quotes/?city=st-petersburg&st=fl)
+[How to get quotes in St. Petersburg](https://moldroster.com/quotes/?city=st-petersburg&st=fl)
 
 ## Which licensed mold assessors and remediators are based in St. Petersburg, FL?
 

@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/city/tomball/
 
 [**Read the Tomball hiring guide →**](https://moldroster.com/tx/city/tomball/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Tomball](https://moldroster.com/get-quotes/?city=tomball&st=tx)
+[How to get quotes in Tomball](https://moldroster.com/quotes/?city=tomball&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Tomball, TX?
 

@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/newburgh/
 
 [**Read the Newburgh hiring guide →**](https://moldroster.com/ny/city/newburgh/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Newburgh](https://moldroster.com/get-quotes/?city=newburgh&st=ny)
+[How to get quotes in Newburgh](https://moldroster.com/quotes/?city=newburgh&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Newburgh, NY?
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/new-rochelle/guide/
 
 8 NYS DOL-licensed listings give an address in New Rochelle: **4** hold an assessment licence and **6** hold a remediation licence. Another 94 are elsewhere in Westchester County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=new-rochelle&st=ny) [All New Rochelle listings](https://moldroster.com/ny/city/new-rochelle/)
+[Get quotes](https://moldroster.com/quotes/?city=new-rochelle&st=ny) [All New Rochelle listings](https://moldroster.com/ny/city/new-rochelle/)
 
 ## What should I ask a mold pro before I sign?
 

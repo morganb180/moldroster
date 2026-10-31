@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/pleasant-valley/
 
 [**Read the Pleasant Valley hiring guide →**](https://moldroster.com/ny/city/pleasant-valley/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Pleasant Valley](https://moldroster.com/get-quotes/?city=pleasant-valley&st=ny)
+[How to get quotes in Pleasant Valley](https://moldroster.com/quotes/?city=pleasant-valley&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Pleasant Valley, NY?
 

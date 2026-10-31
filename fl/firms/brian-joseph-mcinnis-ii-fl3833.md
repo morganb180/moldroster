@@ -1,0 +1,14 @@
+---
+title: "Brian Joseph McInnis II, Sarasota, FL | Mold Roster"
+description: "Brian Joseph McInnis II: mold remediation in Sarasota, FL. FL DBPR licence details, contact."
+canonical: https://moldroster.com/fl/firms/brian-joseph-mcinnis-ii-fl3833/
+---
+
+# Brian Joseph McInnis II
+
+* Mold remediation
+* Licensed by FL DBPR (Florida Department of Business and Professional Regulation)
+* Sarasota, FL
+* Address: 422 S Osprey Ave, Sarasota, FL
+
+Source: https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv, retrieved 2026-10-12. Verify: https://www2.myfloridalicense.com/mold-related-services/. Claim / correct: https://moldroster.com/claim-listing/?id=FL3833

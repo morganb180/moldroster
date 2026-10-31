@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/county/niagara/
 
 **Quick answer:** 7 NYS DOL-licensed listings with an address of record in Niagara County (1 mold assessment, 6 mold remediation): 7 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**7 NYS DOL-licensed listings** with an address of record in Niagara County (1 mold assessment, 6 mold remediation): 7 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=niagara&st=ny)
+**7 NYS DOL-licensed listings** with an address of record in Niagara County (1 mold assessment, 6 mold remediation): 7 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=niagara&st=ny)
 
 City pages: [Niagara Falls](https://moldroster.com/ny/city/niagara-falls/)
 
@@ -156,7 +156,7 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 **How many licensed mold assessors are in Niagara County?**
 
-1 listings with a NYS DOL mold assessment licence and 6 with a remediation licence have an address of record in Niagara County. Pros from neighboring counties may also serve the area.
+1 listing with a NYS DOL mold assessment licence and 6 with a remediation licence have an address of record in Niagara County. Pros from neighboring counties may also serve the area.
 
 **How do I check a Niagara County mold company's licence?**
 

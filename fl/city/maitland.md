@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/maitland/
 
 [**Read the Maitland hiring guide →**](https://moldroster.com/fl/city/maitland/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Maitland](https://moldroster.com/get-quotes/?city=maitland&st=fl)
+[How to get quotes in Maitland](https://moldroster.com/quotes/?city=maitland&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Maitland, FL?
 

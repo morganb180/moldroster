@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/county/potter/
 
 **Quick answer:** 6 TDLR-licensed listings with an address of record in Potter County (3 mold assessment, 3 mold remediation): 2 firms and 4 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**6 TDLR-licensed listings** with an address of record in Potter County (3 mold assessment, 3 mold remediation): 2 firms and 4 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=potter&st=tx)
+**6 TDLR-licensed listings** with an address of record in Potter County (3 mold assessment, 3 mold remediation): 2 firms and 4 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=potter&st=tx)
 
 ## Which licensed mold assessors are in Potter County, TX? (3)
 

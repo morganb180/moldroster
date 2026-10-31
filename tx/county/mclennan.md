@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/county/mclennan/
 
 **Quick answer:** 26 TDLR-licensed listings with an address of record in McLennan County (11 mold assessment, 15 mold remediation): 8 firms and 18 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**26 TDLR-licensed listings** with an address of record in McLennan County (11 mold assessment, 15 mold remediation): 8 firms and 18 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=mclennan&st=tx)
+**26 TDLR-licensed listings** with an address of record in McLennan County (11 mold assessment, 15 mold remediation): 8 firms and 18 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=mclennan&st=tx)
 
 City pages: [Waco](https://moldroster.com/tx/city/waco/)
 

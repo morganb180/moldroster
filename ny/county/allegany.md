@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/county/allegany/
 
 **Quick answer:** 2 NYS DOL-licensed listings with an address of record in Allegany County (1 mold assessment, 1 mold remediation): 2 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**2 NYS DOL-licensed listings** with an address of record in Allegany County (1 mold assessment, 1 mold remediation): 2 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=allegany&st=ny)
+**2 NYS DOL-licensed listings** with an address of record in Allegany County (1 mold assessment, 1 mold remediation): 2 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=allegany&st=ny)
 
 ## Which licensed mold assessors are in Allegany County, NY? (1)
 
@@ -69,9 +69,9 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 **How many licensed mold assessors are in Allegany County?**
 
-1 listings with a NYS DOL mold assessment licence and 1 with a remediation licence have an address of record in Allegany County. Pros from neighboring counties may also serve the area.
+1 listing with a NYS DOL mold assessment licence and 1 with a remediation licence have an address of record in Allegany County. Pros from neighboring counties may also serve the area.
 
-**How do I check a Allegany County mold company's licence?**
+**How do I check an Allegany County mold company's licence?**
 
 Look it up with the New York State Department of Labor (NYS DOL). Each listing here shows the licence number and expiry date from the agency's records.
 

@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/plantation/
 
 [**Read the Plantation hiring guide →**](https://moldroster.com/fl/city/plantation/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Plantation](https://moldroster.com/get-quotes/?city=plantation&st=fl)
+[How to get quotes in Plantation](https://moldroster.com/quotes/?city=plantation&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Plantation, FL?
 

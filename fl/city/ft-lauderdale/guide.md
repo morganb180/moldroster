@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/ft-lauderdale/guide/
 
 6 DBPR-licensed listings give an address in Ft. Lauderdale: **3** hold an assessment licence and **5** hold a remediation licence. Another 583 are elsewhere in Broward County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=ft-lauderdale&st=fl) [All Ft. Lauderdale listings](https://moldroster.com/fl/city/ft-lauderdale/)
+[Get quotes](https://moldroster.com/quotes/?city=ft-lauderdale&st=fl) [All Ft. Lauderdale listings](https://moldroster.com/fl/city/ft-lauderdale/)
 
 ## How much does mold inspection and remediation cost?
 

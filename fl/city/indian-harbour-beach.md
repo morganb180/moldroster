@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/indian-harbour-beach/
 
 [**Read the Indian Harbour Beach hiring guide →**](https://moldroster.com/fl/city/indian-harbour-beach/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Indian Harbour Beach](https://moldroster.com/get-quotes/?city=indian-harbour-beach&st=fl)
+[How to get quotes in Indian Harbour Beach](https://moldroster.com/quotes/?city=indian-harbour-beach&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Indian Harbour Beach, FL?
 

@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/plattsburgh/
 
 [**Read the Plattsburgh hiring guide →**](https://moldroster.com/ny/city/plattsburgh/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Plattsburgh](https://moldroster.com/get-quotes/?city=plattsburgh&st=ny)
+[How to get quotes in Plattsburgh](https://moldroster.com/quotes/?city=plattsburgh&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Plattsburgh, NY?
 

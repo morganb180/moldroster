@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/north-palm-beach/
 
 [**Read the North Palm Beach hiring guide →**](https://moldroster.com/fl/city/north-palm-beach/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in North Palm Beach](https://moldroster.com/get-quotes/?city=north-palm-beach&st=fl)
+[How to get quotes in North Palm Beach](https://moldroster.com/quotes/?city=north-palm-beach&st=fl)
 
 ## Which licensed mold assessors and remediators are based in North Palm Beach, FL?
 

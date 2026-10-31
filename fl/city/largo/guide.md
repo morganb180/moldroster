@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/largo/guide/
 
 19 DBPR-licensed listings give an address in Largo: **12** hold an assessment licence and **16** hold a remediation licence. Another 164 are elsewhere in Pinellas County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=largo&st=fl) [All Largo listings](https://moldroster.com/fl/city/largo/)
+[Get quotes](https://moldroster.com/quotes/?city=largo&st=fl) [All Largo listings](https://moldroster.com/fl/city/largo/)
 
 ## How much does mold inspection and remediation cost?
 

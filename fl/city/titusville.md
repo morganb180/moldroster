@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/titusville/
 
 [**Read the Titusville hiring guide →**](https://moldroster.com/fl/city/titusville/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Titusville](https://moldroster.com/get-quotes/?city=titusville&st=fl)
+[How to get quotes in Titusville](https://moldroster.com/quotes/?city=titusville&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Titusville, FL?
 

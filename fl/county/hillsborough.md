@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/county/hillsborough/
 
 **Quick answer:** 235 DBPR-licensed listings with an address of record in Hillsborough County (175 mold assessment, 155 mold remediation): 8 firms and 227 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**235 DBPR-licensed listings** with an address of record in Hillsborough County (175 mold assessment, 155 mold remediation): 8 firms and 227 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=hillsborough&st=fl)
+**235 DBPR-licensed listings** with an address of record in Hillsborough County (175 mold assessment, 155 mold remediation): 8 firms and 227 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=hillsborough&st=fl)
 
 City pages: [Apollo Beach](https://moldroster.com/fl/city/apollo-beach/) · [Brandon](https://moldroster.com/fl/city/brandon/) · [Lithia](https://moldroster.com/fl/city/lithia/) · [Lutz](https://moldroster.com/fl/city/lutz/) · [Odessa](https://moldroster.com/fl/city/odessa/) · [Plant City](https://moldroster.com/fl/city/plant-city/) · [Riverview](https://moldroster.com/fl/city/riverview/) · [Ruskin](https://moldroster.com/fl/city/ruskin/) · [Seffner](https://moldroster.com/fl/city/seffner/) · [Tampa](https://moldroster.com/fl/city/tampa/) · [Temple Terrace](https://moldroster.com/fl/city/temple-terrace/) · [Valrico](https://moldroster.com/fl/city/valrico/)
 

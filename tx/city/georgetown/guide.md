@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/georgetown/guide/
 
 4 TDLR-licensed listings give an address in Georgetown: **1** hold an assessment licence and **3** hold a remediation licence. Another 79 are elsewhere in Williamson County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=georgetown&st=tx) [All Georgetown listings](https://moldroster.com/tx/city/georgetown/)
+[Get quotes](https://moldroster.com/quotes/?city=georgetown&st=tx) [All Georgetown listings](https://moldroster.com/tx/city/georgetown/)
 
 ## What should I ask a mold pro before I sign?
 
@@ -133,7 +133,7 @@ Look the name up in the TDLR records and check the licence is still current. Ask
 
 **How do I find a licensed mold inspector in Georgetown?**
 
-Start with the 1 listings in Georgetown that hold a TDLR assessment licence, then confirm the licence with the agency.
+Start with the 1 listing in Georgetown that hold a TDLR assessment licence, then confirm the licence with the agency.
 
 **How much does mold remediation cost in Georgetown?**
 

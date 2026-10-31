@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/fort-walton-beach/guide/
 
 4 DBPR-licensed listings give an address in Fort Walton Beach: **3** hold an assessment licence and **3** hold a remediation licence. Another 14 are elsewhere in Okaloosa County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=fort-walton-beach&st=fl) [All Fort Walton Beach listings](https://moldroster.com/fl/city/fort-walton-beach/)
+[Get quotes](https://moldroster.com/quotes/?city=fort-walton-beach&st=fl) [All Fort Walton Beach listings](https://moldroster.com/fl/city/fort-walton-beach/)
 
 ## What are Florida's mold licensing rules?
 

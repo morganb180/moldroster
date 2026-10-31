@@ -8,9 +8,9 @@ canonical: https://moldroster.com/tx/county/gregg/
 
 # Licensed mold assessors & remediators in Gregg County, TX
 
-**Quick answer:** 7 TDLR-licensed listings with an address of record in Gregg County (4 mold assessment, 3 mold remediation): 1 firms and 6 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+**Quick answer:** 7 TDLR-licensed listings with an address of record in Gregg County (4 mold assessment, 3 mold remediation): 1 firm and 6 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**7 TDLR-licensed listings** with an address of record in Gregg County (4 mold assessment, 3 mold remediation): 1 firms and 6 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=gregg&st=tx)
+**7 TDLR-licensed listings** with an address of record in Gregg County (4 mold assessment, 3 mold remediation): 1 firm and 6 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=gregg&st=tx)
 
 ## Which licensed mold assessors are in Gregg County, TX? (4)
 

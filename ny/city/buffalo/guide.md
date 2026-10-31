@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/buffalo/guide/
 
 19 NYS DOL-licensed listings give an address in Buffalo: **11** hold an assessment licence and **10** hold a remediation licence. Another 23 are elsewhere in Erie County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=buffalo&st=ny) [All Buffalo listings](https://moldroster.com/ny/city/buffalo/)
+[Get quotes](https://moldroster.com/quotes/?city=buffalo&st=ny) [All Buffalo listings](https://moldroster.com/ny/city/buffalo/)
 
 ## How much does mold inspection and remediation cost?
 

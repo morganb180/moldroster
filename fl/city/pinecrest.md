@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/pinecrest/
 
 [**Read the Pinecrest hiring guide →**](https://moldroster.com/fl/city/pinecrest/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Pinecrest](https://moldroster.com/get-quotes/?city=pinecrest&st=fl)
+[How to get quotes in Pinecrest](https://moldroster.com/quotes/?city=pinecrest&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Pinecrest, FL?
 

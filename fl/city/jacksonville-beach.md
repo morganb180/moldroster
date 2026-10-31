@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/jacksonville-beach/
 
 [**Read the Jacksonville Beach hiring guide →**](https://moldroster.com/fl/city/jacksonville-beach/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Jacksonville Beach](https://moldroster.com/get-quotes/?city=jacksonville-beach&st=fl)
+[How to get quotes in Jacksonville Beach](https://moldroster.com/quotes/?city=jacksonville-beach&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Jacksonville Beach, FL?
 

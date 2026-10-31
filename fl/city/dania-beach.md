@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/dania-beach/
 
 [**Read the Dania Beach hiring guide →**](https://moldroster.com/fl/city/dania-beach/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Dania Beach](https://moldroster.com/get-quotes/?city=dania-beach&st=fl)
+[How to get quotes in Dania Beach](https://moldroster.com/quotes/?city=dania-beach&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Dania Beach, FL?
 

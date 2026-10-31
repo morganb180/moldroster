@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/city/fort-worth/
 
 [**Read the Fort Worth hiring guide →**](https://moldroster.com/tx/city/fort-worth/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Fort Worth](https://moldroster.com/get-quotes/?city=fort-worth&st=tx)
+[How to get quotes in Fort Worth](https://moldroster.com/quotes/?city=fort-worth&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Fort Worth, TX?
 

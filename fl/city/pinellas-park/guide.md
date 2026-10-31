@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/pinellas-park/guide/
 
 5 DBPR-licensed listings give an address in Pinellas Park: **2** hold an assessment licence and **4** hold a remediation licence. Another 178 are elsewhere in Pinellas County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=pinellas-park&st=fl) [All Pinellas Park listings](https://moldroster.com/fl/city/pinellas-park/)
+[Get quotes](https://moldroster.com/quotes/?city=pinellas-park&st=fl) [All Pinellas Park listings](https://moldroster.com/fl/city/pinellas-park/)
 
 ## Do I need a mold assessment before remediation?
 

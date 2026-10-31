@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/new-york/
 
 [**Read the New York hiring guide →**](https://moldroster.com/ny/city/new-york/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in New York](https://moldroster.com/get-quotes/?city=new-york&st=ny)
+[How to get quotes in New York](https://moldroster.com/quotes/?city=new-york&st=ny)
 
 ## Which licensed mold assessors and remediators are based in New York, NY?
 

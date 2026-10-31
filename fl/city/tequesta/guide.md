@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/tequesta/guide/
 
 5 DBPR-licensed listings give an address in Tequesta: **3** hold an assessment licence and **5** hold a remediation licence. Another 365 are elsewhere in Palm Beach County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=tequesta&st=fl) [All Tequesta listings](https://moldroster.com/fl/city/tequesta/)
+[Get quotes](https://moldroster.com/quotes/?city=tequesta&st=fl) [All Tequesta listings](https://moldroster.com/fl/city/tequesta/)
 
 ## What are Florida's mold licensing rules?
 

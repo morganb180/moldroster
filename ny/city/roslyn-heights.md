@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/roslyn-heights/
 
 [**Read the Roslyn Heights hiring guide →**](https://moldroster.com/ny/city/roslyn-heights/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Roslyn Heights](https://moldroster.com/get-quotes/?city=roslyn-heights&st=ny)
+[How to get quotes in Roslyn Heights](https://moldroster.com/quotes/?city=roslyn-heights&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Roslyn Heights, NY?
 

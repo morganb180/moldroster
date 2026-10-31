@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/city/mckinney/
 
 [**Read the McKinney hiring guide →**](https://moldroster.com/tx/city/mckinney/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in McKinney](https://moldroster.com/get-quotes/?city=mckinney&st=tx)
+[How to get quotes in McKinney](https://moldroster.com/quotes/?city=mckinney&st=tx)
 
 ## Which licensed mold assessors and remediators are based in McKinney, TX?
 

@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/kingston/
 
 [**Read the Kingston hiring guide →**](https://moldroster.com/ny/city/kingston/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Kingston](https://moldroster.com/get-quotes/?city=kingston&st=ny)
+[How to get quotes in Kingston](https://moldroster.com/quotes/?city=kingston&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Kingston, NY?
 

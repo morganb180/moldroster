@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/stuart/
 
 [**Read the Stuart hiring guide →**](https://moldroster.com/fl/city/stuart/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Stuart](https://moldroster.com/get-quotes/?city=stuart&st=fl)
+[How to get quotes in Stuart](https://moldroster.com/quotes/?city=stuart&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Stuart, FL?
 

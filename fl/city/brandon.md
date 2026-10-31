@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/brandon/
 
 [**Read the Brandon hiring guide →**](https://moldroster.com/fl/city/brandon/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Brandon](https://moldroster.com/get-quotes/?city=brandon&st=fl)
+[How to get quotes in Brandon](https://moldroster.com/quotes/?city=brandon&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Brandon, FL?
 

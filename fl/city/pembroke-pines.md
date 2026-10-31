@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/pembroke-pines/
 
 [**Read the Pembroke Pines hiring guide →**](https://moldroster.com/fl/city/pembroke-pines/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Pembroke Pines](https://moldroster.com/get-quotes/?city=pembroke-pines&st=fl)
+[How to get quotes in Pembroke Pines](https://moldroster.com/quotes/?city=pembroke-pines&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Pembroke Pines, FL?
 

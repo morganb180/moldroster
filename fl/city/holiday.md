@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/holiday/
 
 [**Read the Holiday hiring guide →**](https://moldroster.com/fl/city/holiday/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Holiday](https://moldroster.com/get-quotes/?city=holiday&st=fl)
+[How to get quotes in Holiday](https://moldroster.com/quotes/?city=holiday&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Holiday, FL?
 

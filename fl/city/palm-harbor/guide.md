@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/palm-harbor/guide/
 
 13 DBPR-licensed listings give an address in Palm Harbor: **6** hold an assessment licence and **10** hold a remediation licence. Another 170 are elsewhere in Pinellas County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=palm-harbor&st=fl) [All Palm Harbor listings](https://moldroster.com/fl/city/palm-harbor/)
+[Get quotes](https://moldroster.com/quotes/?city=palm-harbor&st=fl) [All Palm Harbor listings](https://moldroster.com/fl/city/palm-harbor/)
 
 ## Do I need a mold assessment before remediation?
 

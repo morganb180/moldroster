@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/sarasota/
 
 [**Read the Sarasota hiring guide →**](https://moldroster.com/fl/city/sarasota/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Sarasota](https://moldroster.com/get-quotes/?city=sarasota&st=fl)
+[How to get quotes in Sarasota](https://moldroster.com/quotes/?city=sarasota&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Sarasota, FL?
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/cutler-bay/guide/
 
 18 DBPR-licensed listings give an address in Cutler Bay: **18** hold an assessment licence and **8** hold a remediation licence. Another 528 are elsewhere in Miami-Dade County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=cutler-bay&st=fl) [All Cutler Bay listings](https://moldroster.com/fl/city/cutler-bay/)
+[Get quotes](https://moldroster.com/quotes/?city=cutler-bay&st=fl) [All Cutler Bay listings](https://moldroster.com/fl/city/cutler-bay/)
 
 ## How do I verify a mold pro's licence in Cutler Bay, FL?
 

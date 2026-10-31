@@ -1,0 +1,23 @@
+---
+title: "Abatepro Mbe Environmental Corp., Bronx, NY | Mold Roster"
+description: "Abatepro Mbe Environmental Corp.: mold remediation in Bronx, NY. NYS DOL licence details, contact and free quotes."
+canonical: https://moldroster.com/ny/firms/abatepro-mbe-environmental-corp-ny0027/
+---
+
+# Abatepro Mbe Environmental Corp.
+
+* Mold remediation
+* Licensed by NYS DOL (New York State Department of Labor)
+* Bronx, NY
+* Address: 3434BOLLER Ave, Bronx, NY
+* Phone: (347) 245-2541
+* Email: info@abate-pro.com
+* Website: https://abate-pro.com/
+* Google rating: 5.0 from 20 reviews (as of Oct 30, 2026)
+* Mold Remediation Contractor License (SH126) #25-644CB-SHMO (exp. 2027-02-28)
+
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=8374096133014892333&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [abate-pro.com](https://www.abate-pro.com/), retrieved 2026-10-18.
+
+Get a quote: https://moldroster.com/quotes/?firm=NY0027 (goes to Abatepro Mbe Environmental Corp. and up to 2 other nearby licensed pros)
+
+Source: https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy, retrieved 2026-10-12. Verify: https://dol.ny.gov/mold-program. Claim / correct: https://moldroster.com/claim-listing/?id=NY0027

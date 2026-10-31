@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/tamarac/
 
 [**Read the Tamarac hiring guide →**](https://moldroster.com/fl/city/tamarac/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Tamarac](https://moldroster.com/get-quotes/?city=tamarac&st=fl)
+[How to get quotes in Tamarac](https://moldroster.com/quotes/?city=tamarac&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Tamarac, FL?
 

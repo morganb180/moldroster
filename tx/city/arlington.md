@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/city/arlington/
 
 [**Read the Arlington hiring guide →**](https://moldroster.com/tx/city/arlington/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Arlington](https://moldroster.com/get-quotes/?city=arlington&st=tx)
+[How to get quotes in Arlington](https://moldroster.com/quotes/?city=arlington&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Arlington, TX?
 

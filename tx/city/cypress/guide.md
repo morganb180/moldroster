@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/cypress/guide/
 
 10 TDLR-licensed listings give an address in Cypress: **2** hold an assessment licence and **8** hold a remediation licence. Another 435 are elsewhere in Harris County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=cypress&st=tx) [All Cypress listings](https://moldroster.com/tx/city/cypress/)
+[Get quotes](https://moldroster.com/quotes/?city=cypress&st=tx) [All Cypress listings](https://moldroster.com/tx/city/cypress/)
 
 ## What should I ask a mold pro before I sign?
 

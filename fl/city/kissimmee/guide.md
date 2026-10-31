@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/kissimmee/guide/
 
 42 DBPR-licensed listings give an address in Kissimmee: **38** hold an assessment licence and **29** hold a remediation licence. Another 20 are elsewhere in Osceola County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=kissimmee&st=fl) [All Kissimmee listings](https://moldroster.com/fl/city/kissimmee/)
+[Get quotes](https://moldroster.com/quotes/?city=kissimmee&st=fl) [All Kissimmee listings](https://moldroster.com/fl/city/kissimmee/)
 
 ## What should I ask a mold pro before I sign?
 

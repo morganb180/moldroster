@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/hudson/
 
 [**Read the Hudson hiring guide →**](https://moldroster.com/fl/city/hudson/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Hudson](https://moldroster.com/get-quotes/?city=hudson&st=fl)
+[How to get quotes in Hudson](https://moldroster.com/quotes/?city=hudson&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Hudson, FL?
 

@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/rochester/
 
 [**Read the Rochester hiring guide →**](https://moldroster.com/ny/city/rochester/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Rochester](https://moldroster.com/get-quotes/?city=rochester&st=ny)
+[How to get quotes in Rochester](https://moldroster.com/quotes/?city=rochester&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Rochester, NY?
 

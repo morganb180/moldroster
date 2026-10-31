@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/county/lee/
 
 **Quick answer:** 189 DBPR-licensed listings with an address of record in Lee County (135 mold assessment, 129 mold remediation): 7 firms and 182 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**189 DBPR-licensed listings** with an address of record in Lee County (135 mold assessment, 129 mold remediation): 7 firms and 182 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=lee&st=fl)
+**189 DBPR-licensed listings** with an address of record in Lee County (135 mold assessment, 129 mold remediation): 7 firms and 182 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=lee&st=fl)
 
 City pages: [Bonita Springs](https://moldroster.com/fl/city/bonita-springs/) · [Cape Coral](https://moldroster.com/fl/city/cape-coral/) · [Estero](https://moldroster.com/fl/city/estero/) · [Fort Myers](https://moldroster.com/fl/city/fort-myers/) · [Lehigh Acres](https://moldroster.com/fl/city/lehigh-acres/) · [North Fort Myers](https://moldroster.com/fl/city/north-fort-myers/)
 

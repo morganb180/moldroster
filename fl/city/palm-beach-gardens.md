@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/palm-beach-gardens/
 
 [**Read the Palm Beach Gardens hiring guide →**](https://moldroster.com/fl/city/palm-beach-gardens/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Palm Beach Gardens](https://moldroster.com/get-quotes/?city=palm-beach-gardens&st=fl)
+[How to get quotes in Palm Beach Gardens](https://moldroster.com/quotes/?city=palm-beach-gardens&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Palm Beach Gardens, FL?
 

@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/hialeah/
 
 [**Read the Hialeah hiring guide →**](https://moldroster.com/fl/city/hialeah/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Hialeah](https://moldroster.com/get-quotes/?city=hialeah&st=fl)
+[How to get quotes in Hialeah](https://moldroster.com/quotes/?city=hialeah&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Hialeah, FL?
 

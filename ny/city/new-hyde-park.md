@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/new-hyde-park/
 
 [**Read the New Hyde Park hiring guide →**](https://moldroster.com/ny/city/new-hyde-park/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in New Hyde Park](https://moldroster.com/get-quotes/?city=new-hyde-park&st=ny)
+[How to get quotes in New Hyde Park](https://moldroster.com/quotes/?city=new-hyde-park&st=ny)
 
 ## Which licensed mold assessors and remediators are based in New Hyde Park, NY?
 

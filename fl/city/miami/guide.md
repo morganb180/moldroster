@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/miami/guide/
 
 336 DBPR-licensed listings give an address in Miami: **271** hold an assessment licence and **259** hold a remediation licence. Another 210 are elsewhere in Miami-Dade County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=miami&st=fl) [All Miami listings](https://moldroster.com/fl/city/miami/)
+[Get quotes](https://moldroster.com/quotes/?city=miami&st=fl) [All Miami listings](https://moldroster.com/fl/city/miami/)
 
 ## What are Florida's mold licensing rules?
 

@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/mahopac/
 
 [**Read the Mahopac hiring guide →**](https://moldroster.com/ny/city/mahopac/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Mahopac](https://moldroster.com/get-quotes/?city=mahopac&st=ny)
+[How to get quotes in Mahopac](https://moldroster.com/quotes/?city=mahopac&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Mahopac, NY?
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/county/putnam/
 
 **Quick answer:** 14 NYS DOL-licensed listings with an address of record in Putnam County (13 mold assessment, 4 mold remediation): 14 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**14 NYS DOL-licensed listings** with an address of record in Putnam County (13 mold assessment, 4 mold remediation): 14 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=putnam&st=ny)
+**14 NYS DOL-licensed listings** with an address of record in Putnam County (13 mold assessment, 4 mold remediation): 14 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=putnam&st=ny)
 
 City pages: [Mahopac](https://moldroster.com/ny/city/mahopac/)
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/county/jefferson/
 
 **Quick answer:** 26 TDLR-licensed listings with an address of record in Jefferson County (9 mold assessment, 17 mold remediation): 10 firms and 16 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**26 TDLR-licensed listings** with an address of record in Jefferson County (9 mold assessment, 17 mold remediation): 10 firms and 16 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=jefferson&st=tx)
+**26 TDLR-licensed listings** with an address of record in Jefferson County (9 mold assessment, 17 mold remediation): 10 firms and 16 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=jefferson&st=tx)
 
 ## Which licensed mold assessors are in Jefferson County, TX? (9)
 

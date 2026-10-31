@@ -8,9 +8,9 @@ canonical: https://moldroster.com/fl/county/columbia/
 
 # Licensed mold assessors & remediators in Columbia County, FL
 
-**Quick answer:** 4 DBPR-licensed listings with an address of record in Columbia County (2 mold assessment, 3 mold remediation): 1 firms and 3 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+**Quick answer:** 4 DBPR-licensed listings with an address of record in Columbia County (2 mold assessment, 3 mold remediation): 1 firm and 3 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**4 DBPR-licensed listings** with an address of record in Columbia County (2 mold assessment, 3 mold remediation): 1 firms and 3 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=columbia&st=fl)
+**4 DBPR-licensed listings** with an address of record in Columbia County (2 mold assessment, 3 mold remediation): 1 firm and 3 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=columbia&st=fl)
 
 ## Which licensed mold assessors are in Columbia County, FL? (2)
 

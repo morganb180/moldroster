@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/boynton-beach/
 
 [**Read the Boynton Beach hiring guide →**](https://moldroster.com/fl/city/boynton-beach/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Boynton Beach](https://moldroster.com/get-quotes/?city=boynton-beach&st=fl)
+[How to get quotes in Boynton Beach](https://moldroster.com/quotes/?city=boynton-beach&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Boynton Beach, FL?
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/austin/guide/
 
 31 TDLR-licensed listings give an address in Austin: **10** hold an assessment licence and **22** hold a remediation licence. Another 94 are elsewhere in Travis County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=austin&st=tx) [All Austin listings](https://moldroster.com/tx/city/austin/)
+[Get quotes](https://moldroster.com/quotes/?city=austin&st=tx) [All Austin listings](https://moldroster.com/tx/city/austin/)
 
 ## What are Texas' mold licensing rules?
 

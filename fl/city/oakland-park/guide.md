@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/oakland-park/guide/
 
 10 DBPR-licensed listings give an address in Oakland Park: **4** hold an assessment licence and **8** hold a remediation licence. Another 579 are elsewhere in Broward County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=oakland-park&st=fl) [All Oakland Park listings](https://moldroster.com/fl/city/oakland-park/)
+[Get quotes](https://moldroster.com/quotes/?city=oakland-park&st=fl) [All Oakland Park listings](https://moldroster.com/fl/city/oakland-park/)
 
 ## How much does mold inspection and remediation cost?
 

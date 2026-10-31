@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/city/argyle/
 
 [**Read the Argyle hiring guide →**](https://moldroster.com/tx/city/argyle/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Argyle](https://moldroster.com/get-quotes/?city=argyle&st=tx)
+[How to get quotes in Argyle](https://moldroster.com/quotes/?city=argyle&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Argyle, TX?
 

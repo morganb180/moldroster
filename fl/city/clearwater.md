@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/clearwater/
 
 [**Read the Clearwater hiring guide →**](https://moldroster.com/fl/city/clearwater/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Clearwater](https://moldroster.com/get-quotes/?city=clearwater&st=fl)
+[How to get quotes in Clearwater](https://moldroster.com/quotes/?city=clearwater&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Clearwater, FL?
 

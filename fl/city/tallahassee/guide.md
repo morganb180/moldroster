@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/tallahassee/guide/
 
 29 DBPR-licensed listings give an address in Tallahassee: **17** hold an assessment licence and **20** hold a remediation licence. Another 0 are elsewhere in Leon County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=tallahassee&st=fl) [All Tallahassee listings](https://moldroster.com/fl/city/tallahassee/)
+[Get quotes](https://moldroster.com/quotes/?city=tallahassee&st=fl) [All Tallahassee listings](https://moldroster.com/fl/city/tallahassee/)
 
 ## What are Florida's mold licensing rules?
 

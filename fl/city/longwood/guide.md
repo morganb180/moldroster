@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/longwood/guide/
 
 18 DBPR-licensed listings give an address in Longwood: **10** hold an assessment licence and **15** hold a remediation licence. Another 65 are elsewhere in Seminole County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=longwood&st=fl) [All Longwood listings](https://moldroster.com/fl/city/longwood/)
+[Get quotes](https://moldroster.com/quotes/?city=longwood&st=fl) [All Longwood listings](https://moldroster.com/fl/city/longwood/)
 
 ## What should I ask a mold pro before I sign?
 

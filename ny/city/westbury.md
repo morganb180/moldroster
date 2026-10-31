@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/westbury/
 
 [**Read the Westbury hiring guide →**](https://moldroster.com/ny/city/westbury/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Westbury](https://moldroster.com/get-quotes/?city=westbury&st=ny)
+[How to get quotes in Westbury](https://moldroster.com/quotes/?city=westbury&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Westbury, NY?
 

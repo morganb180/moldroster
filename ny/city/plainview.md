@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/plainview/
 
 [**Read the Plainview hiring guide →**](https://moldroster.com/ny/city/plainview/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Plainview](https://moldroster.com/get-quotes/?city=plainview&st=ny)
+[How to get quotes in Plainview](https://moldroster.com/quotes/?city=plainview&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Plainview, NY?
 

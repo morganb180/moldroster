@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/county/collin/
 
 **Quick answer:** 107 TDLR-licensed listings with an address of record in Collin County (49 mold assessment, 59 mold remediation): 33 firms and 74 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**107 TDLR-licensed listings** with an address of record in Collin County (49 mold assessment, 59 mold remediation): 33 firms and 74 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=collin&st=tx)
+**107 TDLR-licensed listings** with an address of record in Collin County (49 mold assessment, 59 mold remediation): 33 firms and 74 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=collin&st=tx)
 
 City pages: [McKinney](https://moldroster.com/tx/city/mckinney/) · [Plano](https://moldroster.com/tx/city/plano/)
 

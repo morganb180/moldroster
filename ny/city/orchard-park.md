@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/orchard-park/
 
 [**Read the Orchard Park hiring guide →**](https://moldroster.com/ny/city/orchard-park/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Orchard Park](https://moldroster.com/get-quotes/?city=orchard-park&st=ny)
+[How to get quotes in Orchard Park](https://moldroster.com/quotes/?city=orchard-park&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Orchard Park, NY?
 

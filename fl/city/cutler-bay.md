@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/cutler-bay/
 
 [**Read the Cutler Bay hiring guide →**](https://moldroster.com/fl/city/cutler-bay/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Cutler Bay](https://moldroster.com/get-quotes/?city=cutler-bay&st=fl)
+[How to get quotes in Cutler Bay](https://moldroster.com/quotes/?city=cutler-bay&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Cutler Bay, FL?
 

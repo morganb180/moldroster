@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/tyler/guide/
 
 5 TDLR-licensed listings give an address in Tyler: **1** hold an assessment licence and **4** hold a remediation licence. Another 11 are elsewhere in Smith County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=tyler&st=tx) [All Tyler listings](https://moldroster.com/tx/city/tyler/)
+[Get quotes](https://moldroster.com/quotes/?city=tyler&st=tx) [All Tyler listings](https://moldroster.com/tx/city/tyler/)
 
 ## How much does mold inspection and remediation cost?
 
@@ -128,7 +128,7 @@ Summary of 16 Texas Administrative Code Chapter 78 (Texas Mold Assessment and Re
 
 **How do I find a licensed mold inspector in Tyler?**
 
-Start with the 1 listings in Tyler that hold a TDLR assessment licence, then confirm the licence with the agency.
+Start with the 1 listing in Tyler that hold a TDLR assessment licence, then confirm the licence with the agency.
 
 **How much does mold remediation cost in Tyler?**
 

@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/satellite-beach/
 
 [**Read the Satellite Beach hiring guide →**](https://moldroster.com/fl/city/satellite-beach/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Satellite Beach](https://moldroster.com/get-quotes/?city=satellite-beach&st=fl)
+[How to get quotes in Satellite Beach](https://moldroster.com/quotes/?city=satellite-beach&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Satellite Beach, FL?
 

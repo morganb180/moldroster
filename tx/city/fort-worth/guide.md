@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/fort-worth/guide/
 
 15 TDLR-licensed listings give an address in Fort Worth: **3** hold an assessment licence and **12** hold a remediation licence. Another 168 are elsewhere in Tarrant County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=fort-worth&st=tx) [All Fort Worth listings](https://moldroster.com/tx/city/fort-worth/)
+[Get quotes](https://moldroster.com/quotes/?city=fort-worth&st=tx) [All Fort Worth listings](https://moldroster.com/tx/city/fort-worth/)
 
 ## What are Texas' mold licensing rules?
 

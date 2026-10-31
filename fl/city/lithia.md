@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/lithia/
 
 [**Read the Lithia hiring guide →**](https://moldroster.com/fl/city/lithia/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Lithia](https://moldroster.com/get-quotes/?city=lithia&st=fl)
+[How to get quotes in Lithia](https://moldroster.com/quotes/?city=lithia&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Lithia, FL?
 

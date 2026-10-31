@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/fort-myers/guide/
 
 63 DBPR-licensed listings give an address in Fort Myers: **46** hold an assessment licence and **36** hold a remediation licence. Another 133 are elsewhere in Lee County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=fort-myers&st=fl) [All Fort Myers listings](https://moldroster.com/fl/city/fort-myers/)
+[Get quotes](https://moldroster.com/quotes/?city=fort-myers&st=fl) [All Fort Myers listings](https://moldroster.com/fl/city/fort-myers/)
 
 ## How much does mold inspection and remediation cost?
 

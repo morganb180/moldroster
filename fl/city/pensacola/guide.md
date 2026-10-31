@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/pensacola/guide/
 
 20 DBPR-licensed listings give an address in Pensacola: **16** hold an assessment licence and **15** hold a remediation licence. Another 4 are elsewhere in Escambia County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=pensacola&st=fl) [All Pensacola listings](https://moldroster.com/fl/city/pensacola/)
+[Get quotes](https://moldroster.com/quotes/?city=pensacola&st=fl) [All Pensacola listings](https://moldroster.com/fl/city/pensacola/)
 
 ## What should I ask a mold pro before I sign?
 

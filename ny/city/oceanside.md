@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/oceanside/
 
 [**Read the Oceanside hiring guide →**](https://moldroster.com/ny/city/oceanside/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Oceanside](https://moldroster.com/get-quotes/?city=oceanside&st=ny)
+[How to get quotes in Oceanside](https://moldroster.com/quotes/?city=oceanside&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Oceanside, NY?
 

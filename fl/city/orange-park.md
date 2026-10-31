@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/orange-park/
 
 [**Read the Orange Park hiring guide →**](https://moldroster.com/fl/city/orange-park/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Orange Park](https://moldroster.com/get-quotes/?city=orange-park&st=fl)
+[How to get quotes in Orange Park](https://moldroster.com/quotes/?city=orange-park&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Orange Park, FL?
 

@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/boca-raton/
 
 [**Read the Boca Raton hiring guide →**](https://moldroster.com/fl/city/boca-raton/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Boca Raton](https://moldroster.com/get-quotes/?city=boca-raton&st=fl)
+[How to get quotes in Boca Raton](https://moldroster.com/quotes/?city=boca-raton&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Boca Raton, FL?
 

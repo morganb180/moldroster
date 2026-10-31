@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/west-palm-beach/guide/
 
 43 DBPR-licensed listings give an address in West Palm Beach: **28** hold an assessment licence and **31** hold a remediation licence. Another 327 are elsewhere in Palm Beach County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=west-palm-beach&st=fl) [All West Palm Beach listings](https://moldroster.com/fl/city/west-palm-beach/)
+[Get quotes](https://moldroster.com/quotes/?city=west-palm-beach&st=fl) [All West Palm Beach listings](https://moldroster.com/fl/city/west-palm-beach/)
 
 ## How much does mold inspection and remediation cost?
 

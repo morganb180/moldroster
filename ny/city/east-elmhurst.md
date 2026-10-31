@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/east-elmhurst/
 
 [**Read the East Elmhurst hiring guide →**](https://moldroster.com/ny/city/east-elmhurst/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in East Elmhurst](https://moldroster.com/get-quotes/?city=east-elmhurst&st=ny)
+[How to get quotes in East Elmhurst](https://moldroster.com/quotes/?city=east-elmhurst&st=ny)
 
 ## Which licensed mold assessors and remediators are based in East Elmhurst, NY?
 

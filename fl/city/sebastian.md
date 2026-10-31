@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/sebastian/
 
 [**Read the Sebastian hiring guide →**](https://moldroster.com/fl/city/sebastian/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Sebastian](https://moldroster.com/get-quotes/?city=sebastian&st=fl)
+[How to get quotes in Sebastian](https://moldroster.com/quotes/?city=sebastian&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Sebastian, FL?
 

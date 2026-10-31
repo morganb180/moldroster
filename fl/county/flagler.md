@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/county/flagler/
 
 **Quick answer:** 15 DBPR-licensed listings with an address of record in Flagler County (11 mold assessment, 9 mold remediation): 0 firms and 15 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**15 DBPR-licensed listings** with an address of record in Flagler County (11 mold assessment, 9 mold remediation): 0 firms and 15 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=flagler&st=fl)
+**15 DBPR-licensed listings** with an address of record in Flagler County (11 mold assessment, 9 mold remediation): 0 firms and 15 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=flagler&st=fl)
 
 City pages: [Palm Coast](https://moldroster.com/fl/city/palm-coast/)
 

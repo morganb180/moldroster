@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/new-city/
 
 [**Read the New City hiring guide →**](https://moldroster.com/ny/city/new-city/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in New City](https://moldroster.com/get-quotes/?city=new-city&st=ny)
+[How to get quotes in New City](https://moldroster.com/quotes/?city=new-city&st=ny)
 
 ## Which licensed mold assessors and remediators are based in New City, NY?
 

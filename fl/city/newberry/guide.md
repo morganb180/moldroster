@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/newberry/guide/
 
 4 DBPR-licensed listings give an address in Newberry: **2** hold an assessment licence and **3** hold a remediation licence. Another 30 are elsewhere in Alachua County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=newberry&st=fl) [All Newberry listings](https://moldroster.com/fl/city/newberry/)
+[Get quotes](https://moldroster.com/quotes/?city=newberry&st=fl) [All Newberry listings](https://moldroster.com/fl/city/newberry/)
 
 ## Do I need a mold assessment before remediation?
 

@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/queensbury/
 
 [**Read the Queensbury hiring guide →**](https://moldroster.com/ny/city/queensbury/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Queensbury](https://moldroster.com/get-quotes/?city=queensbury&st=ny)
+[How to get quotes in Queensbury](https://moldroster.com/quotes/?city=queensbury&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Queensbury, NY?
 

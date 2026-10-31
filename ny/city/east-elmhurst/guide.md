@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/east-elmhurst/guide/
 
 5 NYS DOL-licensed listings give an address in East Elmhurst: **2** hold an assessment licence and **4** hold a remediation licence. Another 149 are elsewhere in Queens County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=east-elmhurst&st=ny) [All East Elmhurst listings](https://moldroster.com/ny/city/east-elmhurst/)
+[Get quotes](https://moldroster.com/quotes/?city=east-elmhurst&st=ny) [All East Elmhurst listings](https://moldroster.com/ny/city/east-elmhurst/)
 
 ## What are New York's mold licensing rules?
 

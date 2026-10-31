@@ -1,0 +1,14 @@
+---
+title: "Brantley Sean May, Jacksonville, FL | Mold Roster"
+description: "Brantley Sean May: mold assessment in Jacksonville, FL. FL DBPR licence details, contact."
+canonical: https://moldroster.com/fl/firms/brantley-sean-may-fl1781/
+---
+
+# Brantley Sean May
+
+* Mold assessment
+* Licensed by FL DBPR (Florida Department of Business and Professional Regulation)
+* Jacksonville, FL (Duval County)
+* Address: 13720 Old St Augustine Rd Suite 8-198, Jacksonville, FL
+
+Source: https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv, retrieved 2026-10-12. Verify: https://www2.myfloridalicense.com/mold-related-services/. Claim / correct: https://moldroster.com/claim-listing/?id=FL1781

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/county/kings/
 
 **Quick answer:** 125 NYS DOL-licensed listings with an address of record in Kings County (71 mold assessment, 97 mold remediation): 125 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**125 NYS DOL-licensed listings** with an address of record in Kings County (71 mold assessment, 97 mold remediation): 125 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=kings&st=ny)
+**125 NYS DOL-licensed listings** with an address of record in Kings County (71 mold assessment, 97 mold remediation): 125 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=kings&st=ny)
 
 City pages: [Brooklyn](https://moldroster.com/ny/city/brooklyn/)
 

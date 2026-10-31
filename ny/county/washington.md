@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/county/washington/
 
 **Quick answer:** 4 NYS DOL-licensed listings with an address of record in Washington County (2 mold assessment, 3 mold remediation): 4 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**4 NYS DOL-licensed listings** with an address of record in Washington County (2 mold assessment, 3 mold remediation): 4 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=washington&st=ny)
+**4 NYS DOL-licensed listings** with an address of record in Washington County (2 mold assessment, 3 mold remediation): 4 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=washington&st=ny)
 
 ## Which licensed mold assessors are in Washington County, NY? (2)
 

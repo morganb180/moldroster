@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/tampa/guide/
 
 127 DBPR-licensed listings give an address in Tampa: **98** hold an assessment licence and **84** hold a remediation licence. Another 108 are elsewhere in Hillsborough County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=tampa&st=fl) [All Tampa listings](https://moldroster.com/fl/city/tampa/)
+[Get quotes](https://moldroster.com/quotes/?city=tampa&st=fl) [All Tampa listings](https://moldroster.com/fl/city/tampa/)
 
 ## How much does mold inspection and remediation cost?
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/liverpool/guide/
 
 4 NYS DOL-licensed listings give an address in Liverpool: **1** hold an assessment licence and **3** hold a remediation licence. Another 31 are elsewhere in Onondaga County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=liverpool&st=ny) [All Liverpool listings](https://moldroster.com/ny/city/liverpool/)
+[Get quotes](https://moldroster.com/quotes/?city=liverpool&st=ny) [All Liverpool listings](https://moldroster.com/ny/city/liverpool/)
 
 ## What should I ask a mold pro before I sign?
 
@@ -137,7 +137,7 @@ Look the name up in the NYS DOL records and check the licence is still current. 
 
 **How do I find a licensed mold inspector in Liverpool?**
 
-Start with the 1 listings in Liverpool that hold a NYS DOL assessment licence, then confirm the licence with the agency.
+Start with the 1 listing in Liverpool that hold a NYS DOL assessment licence, then confirm the licence with the agency.
 
 **How much does mold remediation cost in Liverpool?**
 

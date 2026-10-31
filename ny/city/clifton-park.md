@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/clifton-park/
 
 [**Read the Clifton Park hiring guide →**](https://moldroster.com/ny/city/clifton-park/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Clifton Park](https://moldroster.com/get-quotes/?city=clifton-park&st=ny)
+[How to get quotes in Clifton Park](https://moldroster.com/quotes/?city=clifton-park&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Clifton Park, NY?
 

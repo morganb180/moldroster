@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/county/kaufman/
 
 **Quick answer:** 21 TDLR-licensed listings with an address of record in Kaufman County (3 mold assessment, 18 mold remediation): 6 firms and 15 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**21 TDLR-licensed listings** with an address of record in Kaufman County (3 mold assessment, 18 mold remediation): 6 firms and 15 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=kaufman&st=tx)
+**21 TDLR-licensed listings** with an address of record in Kaufman County (3 mold assessment, 18 mold remediation): 6 firms and 15 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=kaufman&st=tx)
 
 ## Which licensed mold assessors are in Kaufman County, TX? (3)
 

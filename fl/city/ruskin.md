@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/ruskin/
 
 [**Read the Ruskin hiring guide →**](https://moldroster.com/fl/city/ruskin/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Ruskin](https://moldroster.com/get-quotes/?city=ruskin&st=fl)
+[How to get quotes in Ruskin](https://moldroster.com/quotes/?city=ruskin&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Ruskin, FL?
 

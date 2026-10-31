@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/lancaster/
 
 [**Read the Lancaster hiring guide →**](https://moldroster.com/ny/city/lancaster/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Lancaster](https://moldroster.com/get-quotes/?city=lancaster&st=ny)
+[How to get quotes in Lancaster](https://moldroster.com/quotes/?city=lancaster&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Lancaster, NY?
 

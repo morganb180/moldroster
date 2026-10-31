@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/county/oswego/
 
 **Quick answer:** 4 NYS DOL-licensed listings with an address of record in Oswego County (2 mold assessment, 4 mold remediation): 4 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**4 NYS DOL-licensed listings** with an address of record in Oswego County (2 mold assessment, 4 mold remediation): 4 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=oswego&st=ny)
+**4 NYS DOL-licensed listings** with an address of record in Oswego County (2 mold assessment, 4 mold remediation): 4 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=oswego&st=ny)
 
 ## Which licensed mold assessors are in Oswego County, NY? (2)
 
@@ -109,7 +109,7 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 2 listings with a NYS DOL mold assessment licence and 4 with a remediation licence have an address of record in Oswego County. Pros from neighboring counties may also serve the area.
 
-**How do I check a Oswego County mold company's licence?**
+**How do I check an Oswego County mold company's licence?**
 
 Look it up with the New York State Department of Labor (NYS DOL). Each listing here shows the licence number and expiry date from the agency's records.
 

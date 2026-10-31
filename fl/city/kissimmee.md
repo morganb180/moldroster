@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/kissimmee/
 
 [**Read the Kissimmee hiring guide →**](https://moldroster.com/fl/city/kissimmee/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Kissimmee](https://moldroster.com/get-quotes/?city=kissimmee&st=fl)
+[How to get quotes in Kissimmee](https://moldroster.com/quotes/?city=kissimmee&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Kissimmee, FL?
 

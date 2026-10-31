@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/syosset/
 
 [**Read the Syosset hiring guide →**](https://moldroster.com/ny/city/syosset/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Syosset](https://moldroster.com/get-quotes/?city=syosset&st=ny)
+[How to get quotes in Syosset](https://moldroster.com/quotes/?city=syosset&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Syosset, NY?
 

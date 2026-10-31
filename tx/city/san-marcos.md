@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/city/san-marcos/
 
 [**Read the San Marcos hiring guide →**](https://moldroster.com/tx/city/san-marcos/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in San Marcos](https://moldroster.com/get-quotes/?city=san-marcos&st=tx)
+[How to get quotes in San Marcos](https://moldroster.com/quotes/?city=san-marcos&st=tx)
 
 ## Which licensed mold assessors and remediators are based in San Marcos, TX?
 

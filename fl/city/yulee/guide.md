@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/yulee/guide/
 
 5 DBPR-licensed listings give an address in Yulee: **4** hold an assessment licence and **5** hold a remediation licence. Another 7 are elsewhere in Nassau County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=yulee&st=fl) [All Yulee listings](https://moldroster.com/fl/city/yulee/)
+[Get quotes](https://moldroster.com/quotes/?city=yulee&st=fl) [All Yulee listings](https://moldroster.com/fl/city/yulee/)
 
 ## What should I ask a mold pro before I sign?
 

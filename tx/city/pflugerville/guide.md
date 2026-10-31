@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/pflugerville/guide/
 
 4 TDLR-licensed listings give an address in Pflugerville: **2** hold an assessment licence and **2** hold a remediation licence. Another 120 are elsewhere in Travis County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=pflugerville&st=tx) [All Pflugerville listings](https://moldroster.com/tx/city/pflugerville/)
+[Get quotes](https://moldroster.com/quotes/?city=pflugerville&st=tx) [All Pflugerville listings](https://moldroster.com/tx/city/pflugerville/)
 
 ## How do I verify a mold pro's licence in Pflugerville, TX?
 

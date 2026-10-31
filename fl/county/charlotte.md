@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/county/charlotte/
 
 **Quick answer:** 42 DBPR-licensed listings with an address of record in Charlotte County (26 mold assessment, 34 mold remediation): 2 firms and 40 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**42 DBPR-licensed listings** with an address of record in Charlotte County (26 mold assessment, 34 mold remediation): 2 firms and 40 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=charlotte&st=fl)
+**42 DBPR-licensed listings** with an address of record in Charlotte County (26 mold assessment, 34 mold remediation): 2 firms and 40 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=charlotte&st=fl)
 
 City pages: [Port Charlotte](https://moldroster.com/fl/city/port-charlotte/) · [Punta Gorda](https://moldroster.com/fl/city/punta-gorda/) · [Rotonda West](https://moldroster.com/fl/city/rotonda-west/)
 

@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/jamaica/
 
 [**Read the Jamaica hiring guide →**](https://moldroster.com/ny/city/jamaica/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Jamaica](https://moldroster.com/get-quotes/?city=jamaica&st=ny)
+[How to get quotes in Jamaica](https://moldroster.com/quotes/?city=jamaica&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Jamaica, NY?
 

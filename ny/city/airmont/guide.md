@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/airmont/guide/
 
 5 NYS DOL-licensed listings give an address in Airmont: **2** hold an assessment licence and **4** hold a remediation licence. Another 28 are elsewhere in Rockland County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=airmont&st=ny) [All Airmont listings](https://moldroster.com/ny/city/airmont/)
+[Get quotes](https://moldroster.com/quotes/?city=airmont&st=ny) [All Airmont listings](https://moldroster.com/ny/city/airmont/)
 
 ## How do I verify a mold pro's licence in Airmont, NY?
 

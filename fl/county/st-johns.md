@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/county/st-johns/
 
 **Quick answer:** 52 DBPR-licensed listings with an address of record in St. Licensed pros often travel, so ask whether they cover your address.
 
-**52 DBPR-licensed listings** with an address of record in St. Johns County (42 mold assessment, 36 mold remediation): 3 firms and 49 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=st-johns&st=fl)
+**52 DBPR-licensed listings** with an address of record in St. Johns County (42 mold assessment, 36 mold remediation): 3 firms and 49 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=st-johns&st=fl)
 
 City pages: [Ponte Vedra](https://moldroster.com/fl/city/ponte-vedra/) · [Saint Augustine](https://moldroster.com/fl/city/saint-augustine/) · [Saint Johns](https://moldroster.com/fl/city/saint-johns/) · [St Augustine](https://moldroster.com/fl/city/st-augustine/) · [St. Johns](https://moldroster.com/fl/city/st-johns/)
 

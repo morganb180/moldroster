@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/mount-vernon/guide/
 
 4 NYS DOL-licensed listings give an address in Mount Vernon: **1** hold an assessment licence and **3** hold a remediation licence. Another 98 are elsewhere in Westchester County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=mount-vernon&st=ny) [All Mount Vernon listings](https://moldroster.com/ny/city/mount-vernon/)
+[Get quotes](https://moldroster.com/quotes/?city=mount-vernon&st=ny) [All Mount Vernon listings](https://moldroster.com/ny/city/mount-vernon/)
 
 ## What should I ask a mold pro before I sign?
 
@@ -134,7 +134,7 @@ Look the name up in the NYS DOL records and check the licence is still current. 
 
 **How do I find a licensed mold inspector in Mount Vernon?**
 
-Start with the 1 listings in Mount Vernon that hold a NYS DOL assessment licence, then confirm the licence with the agency.
+Start with the 1 listing in Mount Vernon that hold a NYS DOL assessment licence, then confirm the licence with the agency.
 
 **How much does mold remediation cost in Mount Vernon?**
 

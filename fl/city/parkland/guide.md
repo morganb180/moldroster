@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/parkland/guide/
 
 17 DBPR-licensed listings give an address in Parkland: **13** hold an assessment licence and **13** hold a remediation licence. Another 572 are elsewhere in Broward County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=parkland&st=fl) [All Parkland listings](https://moldroster.com/fl/city/parkland/)
+[Get quotes](https://moldroster.com/quotes/?city=parkland&st=fl) [All Parkland listings](https://moldroster.com/fl/city/parkland/)
 
 ## Do I need a mold assessment before remediation?
 

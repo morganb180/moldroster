@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/palm-beach-gardens/guide/
 
 20 DBPR-licensed listings give an address in Palm Beach Gardens: **14** hold an assessment licence and **14** hold a remediation licence. Another 350 are elsewhere in Palm Beach County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=palm-beach-gardens&st=fl) [All Palm Beach Gardens listings](https://moldroster.com/fl/city/palm-beach-gardens/)
+[Get quotes](https://moldroster.com/quotes/?city=palm-beach-gardens&st=fl) [All Palm Beach Gardens listings](https://moldroster.com/fl/city/palm-beach-gardens/)
 
 ## Do I need a mold assessment before remediation?
 

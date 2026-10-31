@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/yonkers/
 
 [**Read the Yonkers hiring guide →**](https://moldroster.com/ny/city/yonkers/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Yonkers](https://moldroster.com/get-quotes/?city=yonkers&st=ny)
+[How to get quotes in Yonkers](https://moldroster.com/quotes/?city=yonkers&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Yonkers, NY?
 

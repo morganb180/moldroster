@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/liverpool/
 
 [**Read the Liverpool hiring guide →**](https://moldroster.com/ny/city/liverpool/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Liverpool](https://moldroster.com/get-quotes/?city=liverpool&st=ny)
+[How to get quotes in Liverpool](https://moldroster.com/quotes/?city=liverpool&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Liverpool, NY?
 

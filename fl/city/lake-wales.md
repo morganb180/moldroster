@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/lake-wales/
 
 [**Read the Lake Wales hiring guide →**](https://moldroster.com/fl/city/lake-wales/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Lake Wales](https://moldroster.com/get-quotes/?city=lake-wales&st=fl)
+[How to get quotes in Lake Wales](https://moldroster.com/quotes/?city=lake-wales&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Lake Wales, FL?
 

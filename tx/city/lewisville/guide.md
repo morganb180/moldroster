@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/lewisville/guide/
 
 5 TDLR-licensed listings give an address in Lewisville: **3** hold an assessment licence and **2** hold a remediation licence. Another 83 are elsewhere in Denton County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=lewisville&st=tx) [All Lewisville listings](https://moldroster.com/tx/city/lewisville/)
+[Get quotes](https://moldroster.com/quotes/?city=lewisville&st=tx) [All Lewisville listings](https://moldroster.com/tx/city/lewisville/)
 
 ## What are Texas' mold licensing rules?
 

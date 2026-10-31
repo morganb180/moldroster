@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/san-antonio/guide/
 
 41 TDLR-licensed listings give an address in San Antonio: **12** hold an assessment licence and **29** hold a remediation licence. Another 110 are elsewhere in Bexar County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=san-antonio&st=tx) [All San Antonio listings](https://moldroster.com/tx/city/san-antonio/)
+[Get quotes](https://moldroster.com/quotes/?city=san-antonio&st=tx) [All San Antonio listings](https://moldroster.com/tx/city/san-antonio/)
 
 ## How much does mold inspection and remediation cost?
 

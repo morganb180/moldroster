@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/county/erie/
 
 **Quick answer:** 42 NYS DOL-licensed listings with an address of record in Erie County (21 mold assessment, 25 mold remediation): 42 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**42 NYS DOL-licensed listings** with an address of record in Erie County (21 mold assessment, 25 mold remediation): 42 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=erie&st=ny)
+**42 NYS DOL-licensed listings** with an address of record in Erie County (21 mold assessment, 25 mold remediation): 42 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=erie&st=ny)
 
 City pages: [Buffalo](https://moldroster.com/ny/city/buffalo/) · [Lancaster](https://moldroster.com/ny/city/lancaster/) · [Orchard Park](https://moldroster.com/ny/city/orchard-park/)
 
@@ -714,7 +714,7 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 21 listings with a NYS DOL mold assessment licence and 25 with a remediation licence have an address of record in Erie County. Pros from neighboring counties may also serve the area.
 
-**How do I check a Erie County mold company's licence?**
+**How do I check an Erie County mold company's licence?**
 
 Look it up with the New York State Department of Labor (NYS DOL). Each listing here shows the licence number and expiry date from the agency's records.
 

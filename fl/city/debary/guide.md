@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/debary/guide/
 
 10 DBPR-licensed listings give an address in Debary: **7** hold an assessment licence and **7** hold a remediation licence. Another 60 are elsewhere in Volusia County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=debary&st=fl) [All Debary listings](https://moldroster.com/fl/city/debary/)
+[Get quotes](https://moldroster.com/quotes/?city=debary&st=fl) [All Debary listings](https://moldroster.com/fl/city/debary/)
 
 ## What are Florida's mold licensing rules?
 

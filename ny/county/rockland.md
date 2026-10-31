@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/county/rockland/
 
 **Quick answer:** 33 NYS DOL-licensed listings with an address of record in Rockland County (17 mold assessment, 21 mold remediation): 33 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**33 NYS DOL-licensed listings** with an address of record in Rockland County (17 mold assessment, 21 mold remediation): 33 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=rockland&st=ny)
+**33 NYS DOL-licensed listings** with an address of record in Rockland County (17 mold assessment, 21 mold remediation): 33 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=rockland&st=ny)
 
 City pages: [Airmont](https://moldroster.com/ny/city/airmont/) · [New City](https://moldroster.com/ny/city/new-city/) · [Suffern](https://moldroster.com/ny/city/suffern/)
 

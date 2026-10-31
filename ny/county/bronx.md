@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/county/bronx/
 
 **Quick answer:** 52 NYS DOL-licensed listings with an address of record in Bronx County (29 mold assessment, 37 mold remediation): 52 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**52 NYS DOL-licensed listings** with an address of record in Bronx County (29 mold assessment, 37 mold remediation): 52 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=bronx&st=ny)
+**52 NYS DOL-licensed listings** with an address of record in Bronx County (29 mold assessment, 37 mold remediation): 52 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=bronx&st=ny)
 
 City pages: [Bronx](https://moldroster.com/ny/city/bronx/)
 

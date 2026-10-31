@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/county/columbia/
 
 **Quick answer:** 6 NYS DOL-licensed listings with an address of record in Columbia County (4 mold assessment, 3 mold remediation): 6 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**6 NYS DOL-licensed listings** with an address of record in Columbia County (4 mold assessment, 3 mold remediation): 6 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=columbia&st=ny)
+**6 NYS DOL-licensed listings** with an address of record in Columbia County (4 mold assessment, 3 mold remediation): 6 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=columbia&st=ny)
 
 ## Which licensed mold assessors are in Columbia County, NY? (4)
 

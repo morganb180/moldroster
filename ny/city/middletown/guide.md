@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/middletown/guide/
 
 4 NYS DOL-licensed listings give an address in Middletown: **1** hold an assessment licence and **4** hold a remediation licence. Another 29 are elsewhere in Orange County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=middletown&st=ny) [All Middletown listings](https://moldroster.com/ny/city/middletown/)
+[Get quotes](https://moldroster.com/quotes/?city=middletown&st=ny) [All Middletown listings](https://moldroster.com/ny/city/middletown/)
 
 ## How much does mold inspection and remediation cost?
 
@@ -125,7 +125,7 @@ Summary of New York Labor Law Article 32 and 12 NYCRR Part 60. See the agency: [
 
 **How do I find a licensed mold inspector in Middletown?**
 
-Start with the 1 listings in Middletown that hold a NYS DOL assessment licence, then confirm the licence with the agency.
+Start with the 1 listing in Middletown that hold a NYS DOL assessment licence, then confirm the licence with the agency.
 
 **How much does mold remediation cost in Middletown?**
 

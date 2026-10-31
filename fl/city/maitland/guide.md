@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/maitland/guide/
 
 5 DBPR-licensed listings give an address in Maitland: **3** hold an assessment licence and **3** hold a remediation licence. Another 189 are elsewhere in Orange County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=maitland&st=fl) [All Maitland listings](https://moldroster.com/fl/city/maitland/)
+[Get quotes](https://moldroster.com/quotes/?city=maitland&st=fl) [All Maitland listings](https://moldroster.com/fl/city/maitland/)
 
 ## How much does mold inspection and remediation cost?
 

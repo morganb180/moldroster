@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/lancaster/guide/
 
 4 NYS DOL-licensed listings give an address in Lancaster: **1** hold an assessment licence and **4** hold a remediation licence. Another 38 are elsewhere in Erie County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=lancaster&st=ny) [All Lancaster listings](https://moldroster.com/ny/city/lancaster/)
+[Get quotes](https://moldroster.com/quotes/?city=lancaster&st=ny) [All Lancaster listings](https://moldroster.com/ny/city/lancaster/)
 
 ## What are New York's mold licensing rules?
 
@@ -117,7 +117,7 @@ Ask what clearance test will show the job is done, for the licence number and ty
 
 **How do I find a licensed mold inspector in Lancaster?**
 
-Start with the 1 listings in Lancaster that hold a NYS DOL assessment licence, then confirm the licence with the agency.
+Start with the 1 listing in Lancaster that hold a NYS DOL assessment licence, then confirm the licence with the agency.
 
 **How much does mold remediation cost in Lancaster?**
 

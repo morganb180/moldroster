@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/tavares/guide/
 
 5 DBPR-licensed listings give an address in Tavares: **4** hold an assessment licence and **5** hold a remediation licence. Another 56 are elsewhere in Lake County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=tavares&st=fl) [All Tavares listings](https://moldroster.com/fl/city/tavares/)
+[Get quotes](https://moldroster.com/quotes/?city=tavares&st=fl) [All Tavares listings](https://moldroster.com/fl/city/tavares/)
 
 ## What are Florida's mold licensing rules?
 

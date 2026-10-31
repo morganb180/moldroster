@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/plainview/guide/
 
 6 NYS DOL-licensed listings give an address in Plainview: **2** hold an assessment licence and **4** hold a remediation licence. Another 147 are elsewhere in Nassau County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=plainview&st=ny) [All Plainview listings](https://moldroster.com/ny/city/plainview/)
+[Get quotes](https://moldroster.com/quotes/?city=plainview&st=ny) [All Plainview listings](https://moldroster.com/ny/city/plainview/)
 
 ## How much does mold inspection and remediation cost?
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/pompano-beach/guide/
 
 41 DBPR-licensed listings give an address in Pompano Beach: **26** hold an assessment licence and **35** hold a remediation licence. Another 548 are elsewhere in Broward County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=pompano-beach&st=fl) [All Pompano Beach listings](https://moldroster.com/fl/city/pompano-beach/)
+[Get quotes](https://moldroster.com/quotes/?city=pompano-beach&st=fl) [All Pompano Beach listings](https://moldroster.com/fl/city/pompano-beach/)
 
 ## How much does mold inspection and remediation cost?
 

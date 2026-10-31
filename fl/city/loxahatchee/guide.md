@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/loxahatchee/guide/
 
 12 DBPR-licensed listings give an address in Loxahatchee: **6** hold an assessment licence and **9** hold a remediation licence. Another 358 are elsewhere in Palm Beach County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=loxahatchee&st=fl) [All Loxahatchee listings](https://moldroster.com/fl/city/loxahatchee/)
+[Get quotes](https://moldroster.com/quotes/?city=loxahatchee&st=fl) [All Loxahatchee listings](https://moldroster.com/fl/city/loxahatchee/)
 
 ## What are Florida's mold licensing rules?
 

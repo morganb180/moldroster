@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/yulee/
 
 [**Read the Yulee hiring guide →**](https://moldroster.com/fl/city/yulee/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Yulee](https://moldroster.com/get-quotes/?city=yulee&st=fl)
+[How to get quotes in Yulee](https://moldroster.com/quotes/?city=yulee&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Yulee, FL?
 

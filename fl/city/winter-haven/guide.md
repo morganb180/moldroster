@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/winter-haven/guide/
 
 12 DBPR-licensed listings give an address in Winter Haven: **8** hold an assessment licence and **10** hold a remediation licence. Another 66 are elsewhere in Polk County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=winter-haven&st=fl) [All Winter Haven listings](https://moldroster.com/fl/city/winter-haven/)
+[Get quotes](https://moldroster.com/quotes/?city=winter-haven&st=fl) [All Winter Haven listings](https://moldroster.com/fl/city/winter-haven/)
 
 ## Do I need a mold assessment before remediation?
 

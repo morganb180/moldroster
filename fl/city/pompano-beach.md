@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/pompano-beach/
 
 [**Read the Pompano Beach hiring guide →**](https://moldroster.com/fl/city/pompano-beach/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Pompano Beach](https://moldroster.com/get-quotes/?city=pompano-beach&st=fl)
+[How to get quotes in Pompano Beach](https://moldroster.com/quotes/?city=pompano-beach&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Pompano Beach, FL?
 

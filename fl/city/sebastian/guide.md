@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/sebastian/guide/
 
 7 DBPR-licensed listings give an address in Sebastian: **4** hold an assessment licence and **6** hold a remediation licence. Another 18 are elsewhere in Indian River County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=sebastian&st=fl) [All Sebastian listings](https://moldroster.com/fl/city/sebastian/)
+[Get quotes](https://moldroster.com/quotes/?city=sebastian&st=fl) [All Sebastian listings](https://moldroster.com/fl/city/sebastian/)
 
 ## How do I verify a mold pro's licence in Sebastian, FL?
 

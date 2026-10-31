@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/county/chemung/
 
 **Quick answer:** 4 NYS DOL-licensed listings with an address of record in Chemung County (2 mold assessment, 2 mold remediation): 4 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**4 NYS DOL-licensed listings** with an address of record in Chemung County (2 mold assessment, 2 mold remediation): 4 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=chemung&st=ny)
+**4 NYS DOL-licensed listings** with an address of record in Chemung County (2 mold assessment, 2 mold remediation): 4 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=chemung&st=ny)
 
 ## Which licensed mold assessors are in Chemung County, NY? (2)
 

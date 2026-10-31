@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/county/hays/
 
 **Quick answer:** 37 TDLR-licensed listings with an address of record in Hays County (21 mold assessment, 16 mold remediation): 10 firms and 27 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**37 TDLR-licensed listings** with an address of record in Hays County (21 mold assessment, 16 mold remediation): 10 firms and 27 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=hays&st=tx)
+**37 TDLR-licensed listings** with an address of record in Hays County (21 mold assessment, 16 mold remediation): 10 firms and 27 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=hays&st=tx)
 
 City pages: [San Marcos](https://moldroster.com/tx/city/san-marcos/)
 

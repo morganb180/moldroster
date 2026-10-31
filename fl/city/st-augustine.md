@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/st-augustine/
 
 [**Read the St Augustine hiring guide →**](https://moldroster.com/fl/city/st-augustine/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in St Augustine](https://moldroster.com/get-quotes/?city=st-augustine&st=fl)
+[How to get quotes in St Augustine](https://moldroster.com/quotes/?city=st-augustine&st=fl)
 
 ## Which licensed mold assessors and remediators are based in St Augustine, FL?
 

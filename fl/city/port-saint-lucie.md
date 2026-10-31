@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/port-saint-lucie/
 
 [**Read the Port Saint Lucie hiring guide →**](https://moldroster.com/fl/city/port-saint-lucie/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Port Saint Lucie](https://moldroster.com/get-quotes/?city=port-saint-lucie&st=fl)
+[How to get quotes in Port Saint Lucie](https://moldroster.com/quotes/?city=port-saint-lucie&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Port Saint Lucie, FL?
 

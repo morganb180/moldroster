@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/county/miami-dade/
 
 **Quick answer:** 546 DBPR-licensed listings with an address of record in Miami-Dade County (443 mold assessment, 398 mold remediation): 28 firms and 518 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**546 DBPR-licensed listings** with an address of record in Miami-Dade County (443 mold assessment, 398 mold remediation): 28 firms and 518 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=miami-dade&st=fl)
+**546 DBPR-licensed listings** with an address of record in Miami-Dade County (443 mold assessment, 398 mold remediation): 28 firms and 518 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=miami-dade&st=fl)
 
 City pages: [Aventura](https://moldroster.com/fl/city/aventura/) · [Coral Gables](https://moldroster.com/fl/city/coral-gables/) · [Cutler Bay](https://moldroster.com/fl/city/cutler-bay/) · [Doral](https://moldroster.com/fl/city/doral/) · [Hialeah](https://moldroster.com/fl/city/hialeah/) · [Homestead](https://moldroster.com/fl/city/homestead/) · [Miami](https://moldroster.com/fl/city/miami/) · [Miami Beach](https://moldroster.com/fl/city/miami-beach/) · [Miami Gardens](https://moldroster.com/fl/city/miami-gardens/) · [Miami Lakes](https://moldroster.com/fl/city/miami-lakes/) · [North Miami](https://moldroster.com/fl/city/north-miami/) · [North Miami Beach](https://moldroster.com/fl/city/north-miami-beach/) · [Palmetto Bay](https://moldroster.com/fl/city/palmetto-bay/) · [Pinecrest](https://moldroster.com/fl/city/pinecrest/)
 

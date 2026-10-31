@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/fort-pierce/
 
 [**Read the Fort Pierce hiring guide →**](https://moldroster.com/fl/city/fort-pierce/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Fort Pierce](https://moldroster.com/get-quotes/?city=fort-pierce&st=fl)
+[How to get quotes in Fort Pierce](https://moldroster.com/quotes/?city=fort-pierce&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Fort Pierce, FL?
 

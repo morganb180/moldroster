@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/dania-beach/guide/
 
 5 DBPR-licensed listings give an address in Dania Beach: **3** hold an assessment licence and **4** hold a remediation licence. Another 584 are elsewhere in Broward County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=dania-beach&st=fl) [All Dania Beach listings](https://moldroster.com/fl/city/dania-beach/)
+[Get quotes](https://moldroster.com/quotes/?city=dania-beach&st=fl) [All Dania Beach listings](https://moldroster.com/fl/city/dania-beach/)
 
 ## What should I ask a mold pro before I sign?
 

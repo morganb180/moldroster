@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/farmingdale/guide/
 
 8 NYS DOL-licensed listings give an address in Farmingdale: **1** hold an assessment licence and **7** hold a remediation licence. Another 145 are elsewhere in Nassau County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=farmingdale&st=ny) [All Farmingdale listings](https://moldroster.com/ny/city/farmingdale/)
+[Get quotes](https://moldroster.com/quotes/?city=farmingdale&st=ny) [All Farmingdale listings](https://moldroster.com/ny/city/farmingdale/)
 
 ## What should I ask a mold pro before I sign?
 
@@ -126,7 +126,7 @@ Look the name up in the NYS DOL records and check the licence is still current. 
 
 **How do I find a licensed mold inspector in Farmingdale?**
 
-Start with the 1 listings in Farmingdale that hold a NYS DOL assessment licence, then confirm the licence with the agency.
+Start with the 1 listing in Farmingdale that hold a NYS DOL assessment licence, then confirm the licence with the agency.
 
 **How much does mold remediation cost in Farmingdale?**
 

@@ -1,0 +1,14 @@
+---
+title: "Alberto Cardona, North Lauderdale, FL | Mold Roster"
+description: "Alberto Cardona: mold remediation in North Lauderdale, FL. FL DBPR licence details, contact."
+canonical: https://moldroster.com/fl/firms/alberto-cardona-fl2682/
+---
+
+# Alberto Cardona
+
+* Mold remediation
+* Licensed by FL DBPR (Florida Department of Business and Professional Regulation)
+* North Lauderdale, FL (Broward County)
+* Address: 8024 McNab Rd Suite 63, North Lauderdale, FL
+
+Source: https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv, retrieved 2026-10-12. Verify: https://www2.myfloridalicense.com/mold-related-services/. Claim / correct: https://moldroster.com/claim-listing/?id=FL2682

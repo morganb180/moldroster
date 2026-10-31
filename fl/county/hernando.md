@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/county/hernando/
 
 **Quick answer:** 28 DBPR-licensed listings with an address of record in Hernando County (21 mold assessment, 22 mold remediation): 3 firms and 25 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**28 DBPR-licensed listings** with an address of record in Hernando County (21 mold assessment, 22 mold remediation): 3 firms and 25 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=hernando&st=fl)
+**28 DBPR-licensed listings** with an address of record in Hernando County (21 mold assessment, 22 mold remediation): 3 firms and 25 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=hernando&st=fl)
 
 City pages: [Brooksville](https://moldroster.com/fl/city/brooksville/) · [Spring Hill](https://moldroster.com/fl/city/spring-hill/)
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/satellite-beach/guide/
 
 8 DBPR-licensed listings give an address in Satellite Beach: **6** hold an assessment licence and **4** hold a remediation licence. Another 85 are elsewhere in Brevard County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=satellite-beach&st=fl) [All Satellite Beach listings](https://moldroster.com/fl/city/satellite-beach/)
+[Get quotes](https://moldroster.com/quotes/?city=satellite-beach&st=fl) [All Satellite Beach listings](https://moldroster.com/fl/city/satellite-beach/)
 
 ## What are Florida's mold licensing rules?
 

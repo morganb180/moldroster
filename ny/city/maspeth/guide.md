@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/maspeth/guide/
 
 7 NYS DOL-licensed listings give an address in Maspeth: **2** hold an assessment licence and **7** hold a remediation licence. Another 147 are elsewhere in Queens County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=maspeth&st=ny) [All Maspeth listings](https://moldroster.com/ny/city/maspeth/)
+[Get quotes](https://moldroster.com/quotes/?city=maspeth&st=ny) [All Maspeth listings](https://moldroster.com/ny/city/maspeth/)
 
 ## How much does mold inspection and remediation cost?
 

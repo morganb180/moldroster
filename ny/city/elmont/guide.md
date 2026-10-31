@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/elmont/guide/
 
 5 NYS DOL-licensed listings give an address in Elmont: **4** hold an assessment licence and **2** hold a remediation licence. Another 148 are elsewhere in Nassau County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=elmont&st=ny) [All Elmont listings](https://moldroster.com/ny/city/elmont/)
+[Get quotes](https://moldroster.com/quotes/?city=elmont&st=ny) [All Elmont listings](https://moldroster.com/ny/city/elmont/)
 
 ## Do I need a mold assessment before remediation?
 

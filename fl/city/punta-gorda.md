@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/punta-gorda/
 
 [**Read the Punta Gorda hiring guide →**](https://moldroster.com/fl/city/punta-gorda/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Punta Gorda](https://moldroster.com/get-quotes/?city=punta-gorda&st=fl)
+[How to get quotes in Punta Gorda](https://moldroster.com/quotes/?city=punta-gorda&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Punta Gorda, FL?
 

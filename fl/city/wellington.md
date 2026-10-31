@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/wellington/
 
 [**Read the Wellington hiring guide →**](https://moldroster.com/fl/city/wellington/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Wellington](https://moldroster.com/get-quotes/?city=wellington&st=fl)
+[How to get quotes in Wellington](https://moldroster.com/quotes/?city=wellington&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Wellington, FL?
 

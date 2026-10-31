@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/port-charlotte/
 
 [**Read the Port Charlotte hiring guide →**](https://moldroster.com/fl/city/port-charlotte/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Port Charlotte](https://moldroster.com/get-quotes/?city=port-charlotte&st=fl)
+[How to get quotes in Port Charlotte](https://moldroster.com/quotes/?city=port-charlotte&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Port Charlotte, FL?
 

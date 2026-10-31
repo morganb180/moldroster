@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/deerfield-beach/guide/
 
 23 DBPR-licensed listings give an address in Deerfield Beach: **14** hold an assessment licence and **18** hold a remediation licence. Another 566 are elsewhere in Broward County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=deerfield-beach&st=fl) [All Deerfield Beach listings](https://moldroster.com/fl/city/deerfield-beach/)
+[Get quotes](https://moldroster.com/quotes/?city=deerfield-beach&st=fl) [All Deerfield Beach listings](https://moldroster.com/fl/city/deerfield-beach/)
 
 ## Do I need a mold assessment before remediation?
 

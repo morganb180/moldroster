@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/spring-hill/guide/
 
 18 DBPR-licensed listings give an address in Spring Hill: **13** hold an assessment licence and **14** hold a remediation licence. Another 13 are elsewhere in Hernando County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=spring-hill&st=fl) [All Spring Hill listings](https://moldroster.com/fl/city/spring-hill/)
+[Get quotes](https://moldroster.com/quotes/?city=spring-hill&st=fl) [All Spring Hill listings](https://moldroster.com/fl/city/spring-hill/)
 
 ## Do I need a mold assessment before remediation?
 

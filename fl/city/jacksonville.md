@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/jacksonville/
 
 [**Read the Jacksonville hiring guide →**](https://moldroster.com/fl/city/jacksonville/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Jacksonville](https://moldroster.com/get-quotes/?city=jacksonville&st=fl)
+[How to get quotes in Jacksonville](https://moldroster.com/quotes/?city=jacksonville&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Jacksonville, FL?
 

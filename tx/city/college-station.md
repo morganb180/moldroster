@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/city/college-station/
 
 [**Read the College Station hiring guide →**](https://moldroster.com/tx/city/college-station/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in College Station](https://moldroster.com/get-quotes/?city=college-station&st=tx)
+[How to get quotes in College Station](https://moldroster.com/quotes/?city=college-station&st=tx)
 
 ## Which licensed mold assessors and remediators are based in College Station, TX?
 

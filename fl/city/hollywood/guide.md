@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/hollywood/guide/
 
 58 DBPR-licensed listings give an address in Hollywood: **44** hold an assessment licence and **42** hold a remediation licence. Another 531 are elsewhere in Broward County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=hollywood&st=fl) [All Hollywood listings](https://moldroster.com/fl/city/hollywood/)
+[Get quotes](https://moldroster.com/quotes/?city=hollywood&st=fl) [All Hollywood listings](https://moldroster.com/fl/city/hollywood/)
 
 ## What are Florida's mold licensing rules?
 

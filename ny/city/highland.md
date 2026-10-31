@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/highland/
 
 [**Read the Highland hiring guide →**](https://moldroster.com/ny/city/highland/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Highland](https://moldroster.com/get-quotes/?city=highland&st=ny)
+[How to get quotes in Highland](https://moldroster.com/quotes/?city=highland&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Highland, NY?
 

@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/lauderhill/
 
 [**Read the Lauderhill hiring guide →**](https://moldroster.com/fl/city/lauderhill/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Lauderhill](https://moldroster.com/get-quotes/?city=lauderhill&st=fl)
+[How to get quotes in Lauderhill](https://moldroster.com/quotes/?city=lauderhill&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Lauderhill, FL?
 

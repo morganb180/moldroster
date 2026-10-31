@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/windermere/
 
 [**Read the Windermere hiring guide →**](https://moldroster.com/fl/city/windermere/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Windermere](https://moldroster.com/get-quotes/?city=windermere&st=fl)
+[How to get quotes in Windermere](https://moldroster.com/quotes/?city=windermere&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Windermere, FL?
 

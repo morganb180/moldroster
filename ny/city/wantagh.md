@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/wantagh/
 
 [**Read the Wantagh hiring guide →**](https://moldroster.com/ny/city/wantagh/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Wantagh](https://moldroster.com/get-quotes/?city=wantagh&st=ny)
+[How to get quotes in Wantagh](https://moldroster.com/quotes/?city=wantagh&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Wantagh, NY?
 

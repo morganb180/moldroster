@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/palm-coast/guide/
 
 14 DBPR-licensed listings give an address in Palm Coast: **11** hold an assessment licence and **8** hold a remediation licence. Another 1 are elsewhere in Flagler County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=palm-coast&st=fl) [All Palm Coast listings](https://moldroster.com/fl/city/palm-coast/)
+[Get quotes](https://moldroster.com/quotes/?city=palm-coast&st=fl) [All Palm Coast listings](https://moldroster.com/fl/city/palm-coast/)
 
 ## Do I need a mold assessment before remediation?
 

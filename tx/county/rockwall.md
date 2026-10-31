@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/county/rockwall/
 
 **Quick answer:** 26 TDLR-licensed listings with an address of record in Rockwall County (8 mold assessment, 18 mold remediation): 10 firms and 16 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**26 TDLR-licensed listings** with an address of record in Rockwall County (8 mold assessment, 18 mold remediation): 10 firms and 16 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=rockwall&st=tx)
+**26 TDLR-licensed listings** with an address of record in Rockwall County (8 mold assessment, 18 mold remediation): 10 firms and 16 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=rockwall&st=tx)
 
 City pages: [Rockwall](https://moldroster.com/tx/city/rockwall/) · [Royse City](https://moldroster.com/tx/city/royse-city/)
 

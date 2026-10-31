@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/lynn-haven/
 
 [**Read the Lynn Haven hiring guide →**](https://moldroster.com/fl/city/lynn-haven/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Lynn Haven](https://moldroster.com/get-quotes/?city=lynn-haven&st=fl)
+[How to get quotes in Lynn Haven](https://moldroster.com/quotes/?city=lynn-haven&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Lynn Haven, FL?
 

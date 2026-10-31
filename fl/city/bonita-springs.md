@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/bonita-springs/
 
 [**Read the Bonita Springs hiring guide →**](https://moldroster.com/fl/city/bonita-springs/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Bonita Springs](https://moldroster.com/get-quotes/?city=bonita-springs&st=fl)
+[How to get quotes in Bonita Springs](https://moldroster.com/quotes/?city=bonita-springs&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Bonita Springs, FL?
 

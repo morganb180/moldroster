@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/whitestone/guide/
 
 8 NYS DOL-licensed listings give an address in Whitestone: **3** hold an assessment licence and **6** hold a remediation licence. Another 146 are elsewhere in Queens County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=whitestone&st=ny) [All Whitestone listings](https://moldroster.com/ny/city/whitestone/)
+[Get quotes](https://moldroster.com/quotes/?city=whitestone&st=ny) [All Whitestone listings](https://moldroster.com/ny/city/whitestone/)
 
 ## What should I ask a mold pro before I sign?
 

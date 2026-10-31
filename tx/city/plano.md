@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/city/plano/
 
 [**Read the Plano hiring guide →**](https://moldroster.com/tx/city/plano/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Plano](https://moldroster.com/get-quotes/?city=plano&st=tx)
+[How to get quotes in Plano](https://moldroster.com/quotes/?city=plano&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Plano, TX?
 

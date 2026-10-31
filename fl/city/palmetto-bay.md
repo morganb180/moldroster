@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/palmetto-bay/
 
 [**Read the Palmetto Bay hiring guide →**](https://moldroster.com/fl/city/palmetto-bay/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Palmetto Bay](https://moldroster.com/get-quotes/?city=palmetto-bay&st=fl)
+[How to get quotes in Palmetto Bay](https://moldroster.com/quotes/?city=palmetto-bay&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Palmetto Bay, FL?
 

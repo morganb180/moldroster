@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/apollo-beach/
 
 [**Read the Apollo Beach hiring guide →**](https://moldroster.com/fl/city/apollo-beach/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Apollo Beach](https://moldroster.com/get-quotes/?city=apollo-beach&st=fl)
+[How to get quotes in Apollo Beach](https://moldroster.com/quotes/?city=apollo-beach&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Apollo Beach, FL?
 

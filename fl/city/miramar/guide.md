@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/miramar/guide/
 
 34 DBPR-licensed listings give an address in Miramar: **32** hold an assessment licence and **22** hold a remediation licence. Another 555 are elsewhere in Broward County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=miramar&st=fl) [All Miramar listings](https://moldroster.com/fl/city/miramar/)
+[Get quotes](https://moldroster.com/quotes/?city=miramar&st=fl) [All Miramar listings](https://moldroster.com/fl/city/miramar/)
 
 ## How do I verify a mold pro's licence in Miramar, FL?
 

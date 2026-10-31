@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/new-smyrna-beach/guide/
 
 8 DBPR-licensed listings give an address in New Smyrna Beach: **7** hold an assessment licence and **4** hold a remediation licence. Another 58 are elsewhere in Volusia County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=new-smyrna-beach&st=fl) [All New Smyrna Beach listings](https://moldroster.com/fl/city/new-smyrna-beach/)
+[Get quotes](https://moldroster.com/quotes/?city=new-smyrna-beach&st=fl) [All New Smyrna Beach listings](https://moldroster.com/fl/city/new-smyrna-beach/)
 
 ## How much does mold inspection and remediation cost?
 

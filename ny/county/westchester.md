@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/county/westchester/
 
 **Quick answer:** 102 NYS DOL-licensed listings with an address of record in Westchester County (51 mold assessment, 71 mold remediation): 102 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**102 NYS DOL-licensed listings** with an address of record in Westchester County (51 mold assessment, 71 mold remediation): 102 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=westchester&st=ny)
+**102 NYS DOL-licensed listings** with an address of record in Westchester County (51 mold assessment, 71 mold remediation): 102 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=westchester&st=ny)
 
 City pages: [Elmsford](https://moldroster.com/ny/city/elmsford/) · [Mount Vernon](https://moldroster.com/ny/city/mount-vernon/) · [New Rochelle](https://moldroster.com/ny/city/new-rochelle/) · [White Plains](https://moldroster.com/ny/city/white-plains/) · [Yonkers](https://moldroster.com/ny/city/yonkers/) · [Yorktown Heights](https://moldroster.com/ny/city/yorktown-heights/)
 

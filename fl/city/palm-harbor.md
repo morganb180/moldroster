@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/palm-harbor/
 
 [**Read the Palm Harbor hiring guide →**](https://moldroster.com/fl/city/palm-harbor/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Palm Harbor](https://moldroster.com/get-quotes/?city=palm-harbor&st=fl)
+[How to get quotes in Palm Harbor](https://moldroster.com/quotes/?city=palm-harbor&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Palm Harbor, FL?
 

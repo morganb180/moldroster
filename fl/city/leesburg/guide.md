@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/leesburg/guide/
 
 5 DBPR-licensed listings give an address in Leesburg: **3** hold an assessment licence and **3** hold a remediation licence. Another 56 are elsewhere in Lake County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=leesburg&st=fl) [All Leesburg listings](https://moldroster.com/fl/city/leesburg/)
+[Get quotes](https://moldroster.com/quotes/?city=leesburg&st=fl) [All Leesburg listings](https://moldroster.com/fl/city/leesburg/)
 
 ## What should I ask a mold pro before I sign?
 

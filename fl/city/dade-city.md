@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/dade-city/
 
 [**Read the Dade City hiring guide →**](https://moldroster.com/fl/city/dade-city/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Dade City](https://moldroster.com/get-quotes/?city=dade-city&st=fl)
+[How to get quotes in Dade City](https://moldroster.com/quotes/?city=dade-city&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Dade City, FL?
 

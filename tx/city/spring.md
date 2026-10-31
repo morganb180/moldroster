@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/city/spring/
 
 [**Read the Spring hiring guide →**](https://moldroster.com/tx/city/spring/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Spring](https://moldroster.com/get-quotes/?city=spring&st=tx)
+[How to get quotes in Spring](https://moldroster.com/quotes/?city=spring&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Spring, TX?
 

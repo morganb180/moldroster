@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/jensen-beach/guide/
 
 6 DBPR-licensed listings give an address in Jensen Beach: **3** hold an assessment licence and **5** hold a remediation licence. Another 32 are elsewhere in Martin County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=jensen-beach&st=fl) [All Jensen Beach listings](https://moldroster.com/fl/city/jensen-beach/)
+[Get quotes](https://moldroster.com/quotes/?city=jensen-beach&st=fl) [All Jensen Beach listings](https://moldroster.com/fl/city/jensen-beach/)
 
 ## What should I ask a mold pro before I sign?
 

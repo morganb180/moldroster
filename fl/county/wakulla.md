@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/county/wakulla/
 
 **Quick answer:** 3 DBPR-licensed listings with an address of record in Wakulla County (3 mold remediation): 0 firms and 3 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**3 DBPR-licensed listings** with an address of record in Wakulla County (3 mold remediation): 0 firms and 3 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=wakulla&st=fl)
+**3 DBPR-licensed listings** with an address of record in Wakulla County (3 mold remediation): 0 firms and 3 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=wakulla&st=fl)
 
 ## Which licensed mold remediators are in Wakulla County, FL? (3)
 

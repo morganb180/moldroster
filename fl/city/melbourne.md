@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/melbourne/
 
 [**Read the Melbourne hiring guide →**](https://moldroster.com/fl/city/melbourne/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Melbourne](https://moldroster.com/get-quotes/?city=melbourne&st=fl)
+[How to get quotes in Melbourne](https://moldroster.com/quotes/?city=melbourne&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Melbourne, FL?
 

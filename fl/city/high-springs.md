@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/high-springs/
 
 [**Read the High Springs hiring guide →**](https://moldroster.com/fl/city/high-springs/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in High Springs](https://moldroster.com/get-quotes/?city=high-springs&st=fl)
+[How to get quotes in High Springs](https://moldroster.com/quotes/?city=high-springs&st=fl)
 
 ## Which licensed mold assessors and remediators are based in High Springs, FL?
 

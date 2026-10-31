@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/new-smyrna-beach/
 
 [**Read the New Smyrna Beach hiring guide →**](https://moldroster.com/fl/city/new-smyrna-beach/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in New Smyrna Beach](https://moldroster.com/get-quotes/?city=new-smyrna-beach&st=fl)
+[How to get quotes in New Smyrna Beach](https://moldroster.com/quotes/?city=new-smyrna-beach&st=fl)
 
 ## Which licensed mold assessors and remediators are based in New Smyrna Beach, FL?
 

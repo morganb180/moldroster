@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/parrish/
 
 [**Read the Parrish hiring guide →**](https://moldroster.com/fl/city/parrish/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Parrish](https://moldroster.com/get-quotes/?city=parrish&st=fl)
+[How to get quotes in Parrish](https://moldroster.com/quotes/?city=parrish&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Parrish, FL?
 

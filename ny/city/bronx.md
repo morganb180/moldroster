@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/bronx/
 
 [**Read the Bronx hiring guide →**](https://moldroster.com/ny/city/bronx/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Bronx](https://moldroster.com/get-quotes/?city=bronx&st=ny)
+[How to get quotes in Bronx](https://moldroster.com/quotes/?city=bronx&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Bronx, NY?
 

@@ -8,9 +8,9 @@ canonical: https://moldroster.com/tx/county/henderson/
 
 # Licensed mold assessors & remediators in Henderson County, TX
 
-**Quick answer:** 1 TDLR-licensed listings with an address of record in Henderson County (1 mold remediation): 0 firms and 1 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+**Quick answer:** 1 TDLR-licensed listing with an address of record in Henderson County (1 mold remediation): 0 firms and 1 individual licensee. Licensed pros often travel, so ask whether they cover your address.
 
-**1 TDLR-licensed listings** with an address of record in Henderson County (1 mold remediation): 0 firms and 1 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=henderson&st=tx)
+**1 TDLR-licensed listing** with an address of record in Henderson County (1 mold remediation): 0 firms and 1 individual licensee. [How to get quotes](https://moldroster.com/quotes/?county=henderson&st=tx)
 
 ## Which licensed mold remediators are in Henderson County, TX? (1)
 

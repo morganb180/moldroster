@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/apollo-beach/guide/
 
 5 DBPR-licensed listings give an address in Apollo Beach: **4** hold an assessment licence and **2** hold a remediation licence. Another 230 are elsewhere in Hillsborough County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=apollo-beach&st=fl) [All Apollo Beach listings](https://moldroster.com/fl/city/apollo-beach/)
+[Get quotes](https://moldroster.com/quotes/?city=apollo-beach&st=fl) [All Apollo Beach listings](https://moldroster.com/fl/city/apollo-beach/)
 
 ## How do I verify a mold pro's licence in Apollo Beach, FL?
 

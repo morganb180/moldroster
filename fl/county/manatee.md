@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/county/manatee/
 
 **Quick answer:** 67 DBPR-licensed listings with an address of record in Manatee County (49 mold assessment, 44 mold remediation): 4 firms and 63 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**67 DBPR-licensed listings** with an address of record in Manatee County (49 mold assessment, 44 mold remediation): 4 firms and 63 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=manatee&st=fl)
+**67 DBPR-licensed listings** with an address of record in Manatee County (49 mold assessment, 44 mold remediation): 4 firms and 63 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=manatee&st=fl)
 
 City pages: [Bradenton](https://moldroster.com/fl/city/bradenton/) · [Palmetto](https://moldroster.com/fl/city/palmetto/) · [Parrish](https://moldroster.com/fl/city/parrish/)
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/county/guadalupe/
 
 **Quick answer:** 15 TDLR-licensed listings with an address of record in Guadalupe County (4 mold assessment, 12 mold remediation): 4 firms and 11 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**15 TDLR-licensed listings** with an address of record in Guadalupe County (4 mold assessment, 12 mold remediation): 4 firms and 11 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=guadalupe&st=tx)
+**15 TDLR-licensed listings** with an address of record in Guadalupe County (4 mold assessment, 12 mold remediation): 4 firms and 11 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=guadalupe&st=tx)
 
 ## Which licensed mold assessors are in Guadalupe County, TX? (4)
 

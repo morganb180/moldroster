@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/boynton-beach/guide/
 
 44 DBPR-licensed listings give an address in Boynton Beach: **33** hold an assessment licence and **31** hold a remediation licence. Another 326 are elsewhere in Palm Beach County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=boynton-beach&st=fl) [All Boynton Beach listings](https://moldroster.com/fl/city/boynton-beach/)
+[Get quotes](https://moldroster.com/quotes/?city=boynton-beach&st=fl) [All Boynton Beach listings](https://moldroster.com/fl/city/boynton-beach/)
 
 ## What should I ask a mold pro before I sign?
 

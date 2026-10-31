@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/county/gilchrist/
 
 **Quick answer:** 2 DBPR-licensed listings with an address of record in Gilchrist County (2 mold assessment, 1 mold remediation): 0 firms and 2 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**2 DBPR-licensed listings** with an address of record in Gilchrist County (2 mold assessment, 1 mold remediation): 0 firms and 2 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=gilchrist&st=fl)
+**2 DBPR-licensed listings** with an address of record in Gilchrist County (2 mold assessment, 1 mold remediation): 0 firms and 2 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=gilchrist&st=fl)
 
 ## Which licensed mold assessors are in Gilchrist County, FL? (2)
 

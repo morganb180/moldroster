@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/sanford/
 
 [**Read the Sanford hiring guide →**](https://moldroster.com/fl/city/sanford/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Sanford](https://moldroster.com/get-quotes/?city=sanford&st=fl)
+[How to get quotes in Sanford](https://moldroster.com/quotes/?city=sanford&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Sanford, FL?
 

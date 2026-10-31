@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/new-york/guide/
 
 65 NYS DOL-licensed listings give an address in New York: **42** hold an assessment licence and **28** hold a remediation licence. Another 2 are elsewhere in New York County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=new-york&st=ny) [All New York listings](https://moldroster.com/ny/city/new-york/)
+[Get quotes](https://moldroster.com/quotes/?city=new-york&st=ny) [All New York listings](https://moldroster.com/ny/city/new-york/)
 
 ## How much does mold inspection and remediation cost?
 

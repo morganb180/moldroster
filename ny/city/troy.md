@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/troy/
 
 [**Read the Troy hiring guide →**](https://moldroster.com/ny/city/troy/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Troy](https://moldroster.com/get-quotes/?city=troy&st=ny)
+[How to get quotes in Troy](https://moldroster.com/quotes/?city=troy&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Troy, NY?
 

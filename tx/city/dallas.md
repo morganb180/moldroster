@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/city/dallas/
 
 [**Read the Dallas hiring guide →**](https://moldroster.com/tx/city/dallas/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Dallas](https://moldroster.com/get-quotes/?city=dallas&st=tx)
+[How to get quotes in Dallas](https://moldroster.com/quotes/?city=dallas&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Dallas, TX?
 

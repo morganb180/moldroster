@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/alachua/
 
 [**Read the Alachua hiring guide →**](https://moldroster.com/fl/city/alachua/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Alachua](https://moldroster.com/get-quotes/?city=alachua&st=fl)
+[How to get quotes in Alachua](https://moldroster.com/quotes/?city=alachua&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Alachua, FL?
 

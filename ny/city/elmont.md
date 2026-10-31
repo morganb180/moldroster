@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/elmont/
 
 [**Read the Elmont hiring guide →**](https://moldroster.com/ny/city/elmont/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Elmont](https://moldroster.com/get-quotes/?city=elmont&st=ny)
+[How to get quotes in Elmont](https://moldroster.com/quotes/?city=elmont&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Elmont, NY?
 

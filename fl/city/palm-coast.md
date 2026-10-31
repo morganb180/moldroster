@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/palm-coast/
 
 [**Read the Palm Coast hiring guide →**](https://moldroster.com/fl/city/palm-coast/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Palm Coast](https://moldroster.com/get-quotes/?city=palm-coast&st=fl)
+[How to get quotes in Palm Coast](https://moldroster.com/quotes/?city=palm-coast&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Palm Coast, FL?
 

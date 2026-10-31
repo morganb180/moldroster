@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/deer-park/
 
 [**Read the Deer Park hiring guide →**](https://moldroster.com/ny/city/deer-park/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Deer Park](https://moldroster.com/get-quotes/?city=deer-park&st=ny)
+[How to get quotes in Deer Park](https://moldroster.com/quotes/?city=deer-park&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Deer Park, NY?
 

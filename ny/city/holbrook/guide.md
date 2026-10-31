@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/holbrook/guide/
 
 5 NYS DOL-licensed listings give an address in Holbrook: **2** hold an assessment licence and **3** hold a remediation licence. Another 180 are elsewhere in Suffolk County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=holbrook&st=ny) [All Holbrook listings](https://moldroster.com/ny/city/holbrook/)
+[Get quotes](https://moldroster.com/quotes/?city=holbrook&st=ny) [All Holbrook listings](https://moldroster.com/ny/city/holbrook/)
 
 ## How much does mold inspection and remediation cost?
 

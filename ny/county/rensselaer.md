@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/county/rensselaer/
 
 **Quick answer:** 24 NYS DOL-licensed listings with an address of record in Rensselaer County (15 mold assessment, 9 mold remediation): 24 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**24 NYS DOL-licensed listings** with an address of record in Rensselaer County (15 mold assessment, 9 mold remediation): 24 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=rensselaer&st=ny)
+**24 NYS DOL-licensed listings** with an address of record in Rensselaer County (15 mold assessment, 9 mold remediation): 24 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=rensselaer&st=ny)
 
 City pages: [Troy](https://moldroster.com/ny/city/troy/) · [Wynantskill](https://moldroster.com/ny/city/wynantskill/)
 

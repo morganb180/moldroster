@@ -8,9 +8,9 @@ canonical: https://moldroster.com/tx/county/liberty/
 
 # Licensed mold assessors & remediators in Liberty County, TX
 
-**Quick answer:** 3 TDLR-licensed listings with an address of record in Liberty County (1 mold assessment, 2 mold remediation): 1 firms and 2 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+**Quick answer:** 3 TDLR-licensed listings with an address of record in Liberty County (1 mold assessment, 2 mold remediation): 1 firm and 2 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**3 TDLR-licensed listings** with an address of record in Liberty County (1 mold assessment, 2 mold remediation): 1 firms and 2 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=liberty&st=tx)
+**3 TDLR-licensed listings** with an address of record in Liberty County (1 mold assessment, 2 mold remediation): 1 firm and 2 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=liberty&st=tx)
 
 ## Which licensed mold assessors are in Liberty County, TX? (1)
 
@@ -86,7 +86,7 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 **How many licensed mold assessors are in Liberty County?**
 
-1 listings with a TDLR mold assessment licence and 2 with a remediation licence have an address of record in Liberty County. Pros from neighboring counties may also serve the area.
+1 listing with a TDLR mold assessment licence and 2 with a remediation licence have an address of record in Liberty County. Pros from neighboring counties may also serve the area.
 
 **How do I check a Liberty County mold company's licence?**
 

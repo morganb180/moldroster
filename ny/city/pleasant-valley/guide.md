@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/pleasant-valley/guide/
 
 5 NYS DOL-licensed listings give an address in Pleasant Valley: **3** hold an assessment licence and **2** hold a remediation licence. Another 27 are elsewhere in Dutchess County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=pleasant-valley&st=ny) [All Pleasant Valley listings](https://moldroster.com/ny/city/pleasant-valley/)
+[Get quotes](https://moldroster.com/quotes/?city=pleasant-valley&st=ny) [All Pleasant Valley listings](https://moldroster.com/ny/city/pleasant-valley/)
 
 ## What should I ask a mold pro before I sign?
 

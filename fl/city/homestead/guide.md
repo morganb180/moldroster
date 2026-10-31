@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/homestead/guide/
 
 22 DBPR-licensed listings give an address in Homestead: **18** hold an assessment licence and **14** hold a remediation licence. Another 524 are elsewhere in Miami-Dade County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=homestead&st=fl) [All Homestead listings](https://moldroster.com/fl/city/homestead/)
+[Get quotes](https://moldroster.com/quotes/?city=homestead&st=fl) [All Homestead listings](https://moldroster.com/fl/city/homestead/)
 
 ## How do I verify a mold pro's licence in Homestead, FL?
 

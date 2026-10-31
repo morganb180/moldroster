@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/freeport/guide/
 
 7 DBPR-licensed listings give an address in Freeport: **4** hold an assessment licence and **6** hold a remediation licence. Another 17 are elsewhere in Walton County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=freeport&st=fl) [All Freeport listings](https://moldroster.com/fl/city/freeport/)
+[Get quotes](https://moldroster.com/quotes/?city=freeport&st=fl) [All Freeport listings](https://moldroster.com/fl/city/freeport/)
 
 ## What should I ask a mold pro before I sign?
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/port-charlotte/guide/
 
 19 DBPR-licensed listings give an address in Port Charlotte: **10** hold an assessment licence and **18** hold a remediation licence. Another 23 are elsewhere in Charlotte County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=port-charlotte&st=fl) [All Port Charlotte listings](https://moldroster.com/fl/city/port-charlotte/)
+[Get quotes](https://moldroster.com/quotes/?city=port-charlotte&st=fl) [All Port Charlotte listings](https://moldroster.com/fl/city/port-charlotte/)
 
 ## How much does mold inspection and remediation cost?
 

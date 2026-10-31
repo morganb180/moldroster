@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/woodside/
 
 [**Read the Woodside hiring guide →**](https://moldroster.com/ny/city/woodside/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Woodside](https://moldroster.com/get-quotes/?city=woodside&st=ny)
+[How to get quotes in Woodside](https://moldroster.com/quotes/?city=woodside&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Woodside, NY?
 

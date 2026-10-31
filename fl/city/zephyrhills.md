@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/zephyrhills/
 
 [**Read the Zephyrhills hiring guide →**](https://moldroster.com/fl/city/zephyrhills/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Zephyrhills](https://moldroster.com/get-quotes/?city=zephyrhills&st=fl)
+[How to get quotes in Zephyrhills](https://moldroster.com/quotes/?city=zephyrhills&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Zephyrhills, FL?
 

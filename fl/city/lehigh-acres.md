@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/lehigh-acres/
 
 [**Read the Lehigh Acres hiring guide →**](https://moldroster.com/fl/city/lehigh-acres/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Lehigh Acres](https://moldroster.com/get-quotes/?city=lehigh-acres&st=fl)
+[How to get quotes in Lehigh Acres](https://moldroster.com/quotes/?city=lehigh-acres&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Lehigh Acres, FL?
 

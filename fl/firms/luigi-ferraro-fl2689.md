@@ -1,0 +1,14 @@
+---
+title: "Luigi Ferraro, Longwood, FL | Mold Roster"
+description: "Luigi Ferraro: mold assessment and mold remediation in Longwood, FL. FL DBPR licence details, contact."
+canonical: https://moldroster.com/fl/firms/luigi-ferraro-fl2689/
+---
+
+# Luigi Ferraro
+
+* Mold assessment, Mold remediation
+* Licensed by FL DBPR (Florida Department of Business and Professional Regulation)
+* Longwood, FL (Seminole County)
+* Address: 813 Waterway Pl, Longwood, FL
+
+Source: https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv, retrieved 2026-10-12. Verify: https://www2.myfloridalicense.com/mold-related-services/. Claim / correct: https://moldroster.com/claim-listing/?id=FL2689

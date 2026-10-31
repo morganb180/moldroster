@@ -1,0 +1,14 @@
+---
+title: "Mayerly Gonzalez Vazquez, Miami, FL | Mold Roster"
+description: "Mayerly Gonzalez Vazquez: mold assessment and mold remediation in Miami, FL. FL DBPR licence details, contact."
+canonical: https://moldroster.com/fl/firms/mayerly-gonzalez-vazquez-fl2679/
+---
+
+# Mayerly Gonzalez Vazquez
+
+* Mold assessment, Mold remediation
+* Licensed by FL DBPR (Florida Department of Business and Professional Regulation)
+* Miami, FL (Miami-Dade County)
+* Address: 12525 NW 11th Ln, Miami, FL
+
+Source: https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv, retrieved 2026-10-12. Verify: https://www2.myfloridalicense.com/mold-related-services/. Claim / correct: https://moldroster.com/claim-listing/?id=FL2679

@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/new-hartford/
 
 [**Read the New Hartford hiring guide →**](https://moldroster.com/ny/city/new-hartford/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in New Hartford](https://moldroster.com/get-quotes/?city=new-hartford&st=ny)
+[How to get quotes in New Hartford](https://moldroster.com/quotes/?city=new-hartford&st=ny)
 
 ## Which licensed mold assessors and remediators are based in New Hartford, NY?
 

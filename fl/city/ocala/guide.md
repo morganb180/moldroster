@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/ocala/guide/
 
 27 DBPR-licensed listings give an address in Ocala: **22** hold an assessment licence and **16** hold a remediation licence. Another 9 are elsewhere in Marion County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=ocala&st=fl) [All Ocala listings](https://moldroster.com/fl/city/ocala/)
+[Get quotes](https://moldroster.com/quotes/?city=ocala&st=fl) [All Ocala listings](https://moldroster.com/fl/city/ocala/)
 
 ## How much does mold inspection and remediation cost?
 

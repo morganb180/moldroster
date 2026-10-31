@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/ronkonkoma/
 
 [**Read the Ronkonkoma hiring guide →**](https://moldroster.com/ny/city/ronkonkoma/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Ronkonkoma](https://moldroster.com/get-quotes/?city=ronkonkoma&st=ny)
+[How to get quotes in Ronkonkoma](https://moldroster.com/quotes/?city=ronkonkoma&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Ronkonkoma, NY?
 

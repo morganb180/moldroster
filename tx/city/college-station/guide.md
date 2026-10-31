@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/college-station/guide/
 
 4 TDLR-licensed listings give an address in College Station: **2** hold an assessment licence and **2** hold a remediation licence. Another 22 are elsewhere in Brazos County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=college-station&st=tx) [All College Station listings](https://moldroster.com/tx/city/college-station/)
+[Get quotes](https://moldroster.com/quotes/?city=college-station&st=tx) [All College Station listings](https://moldroster.com/tx/city/college-station/)
 
 ## Do I need a mold assessment before remediation?
 

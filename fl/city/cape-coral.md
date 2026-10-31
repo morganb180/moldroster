@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/cape-coral/
 
 [**Read the Cape Coral hiring guide →**](https://moldroster.com/fl/city/cape-coral/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Cape Coral](https://moldroster.com/get-quotes/?city=cape-coral&st=fl)
+[How to get quotes in Cape Coral](https://moldroster.com/quotes/?city=cape-coral&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Cape Coral, FL?
 

@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/tavares/
 
 [**Read the Tavares hiring guide →**](https://moldroster.com/fl/city/tavares/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Tavares](https://moldroster.com/get-quotes/?city=tavares&st=fl)
+[How to get quotes in Tavares](https://moldroster.com/quotes/?city=tavares&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Tavares, FL?
 

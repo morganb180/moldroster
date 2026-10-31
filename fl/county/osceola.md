@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/county/osceola/
 
 **Quick answer:** 61 DBPR-licensed listings with an address of record in Osceola County (53 mold assessment, 43 mold remediation): 6 firms and 55 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**61 DBPR-licensed listings** with an address of record in Osceola County (53 mold assessment, 43 mold remediation): 6 firms and 55 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=osceola&st=fl)
+**61 DBPR-licensed listings** with an address of record in Osceola County (53 mold assessment, 43 mold remediation): 6 firms and 55 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=osceola&st=fl)
 
 City pages: [Kissimmee](https://moldroster.com/fl/city/kissimmee/) · [Saint Cloud](https://moldroster.com/fl/city/saint-cloud/) · [St Cloud](https://moldroster.com/fl/city/st-cloud/)
 
@@ -827,7 +827,7 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 53 listings with a DBPR mold assessment licence and 43 with a remediation licence have an address of record in Osceola County. Pros from neighboring counties may also serve the area.
 
-**How do I check a Osceola County mold company's licence?**
+**How do I check an Osceola County mold company's licence?**
 
 Look it up with the Florida Department of Business and Professional Regulation (DBPR). Each listing here shows the licence number and expiry date from the agency's records.
 

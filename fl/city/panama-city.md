@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/panama-city/
 
 [**Read the Panama City hiring guide →**](https://moldroster.com/fl/city/panama-city/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Panama City](https://moldroster.com/get-quotes/?city=panama-city&st=fl)
+[How to get quotes in Panama City](https://moldroster.com/quotes/?city=panama-city&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Panama City, FL?
 

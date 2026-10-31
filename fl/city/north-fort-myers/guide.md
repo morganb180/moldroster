@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/north-fort-myers/guide/
 
 10 DBPR-licensed listings give an address in North Fort Myers: **8** hold an assessment licence and **6** hold a remediation licence. Another 179 are elsewhere in Lee County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=north-fort-myers&st=fl) [All North Fort Myers listings](https://moldroster.com/fl/city/north-fort-myers/)
+[Get quotes](https://moldroster.com/quotes/?city=north-fort-myers&st=fl) [All North Fort Myers listings](https://moldroster.com/fl/city/north-fort-myers/)
 
 ## How do I verify a mold pro's licence in North Fort Myers, FL?
 

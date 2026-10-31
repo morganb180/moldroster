@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/troy/guide/
 
 7 NYS DOL-licensed listings give an address in Troy: **6** hold an assessment licence and **1** hold a remediation licence. Another 17 are elsewhere in Rensselaer County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=troy&st=ny) [All Troy listings](https://moldroster.com/ny/city/troy/)
+[Get quotes](https://moldroster.com/quotes/?city=troy&st=ny) [All Troy listings](https://moldroster.com/ny/city/troy/)
 
 ## What are New York's mold licensing rules?
 

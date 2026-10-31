@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/brentwood/
 
 [**Read the Brentwood hiring guide →**](https://moldroster.com/ny/city/brentwood/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Brentwood](https://moldroster.com/get-quotes/?city=brentwood&st=ny)
+[How to get quotes in Brentwood](https://moldroster.com/quotes/?city=brentwood&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Brentwood, NY?
 

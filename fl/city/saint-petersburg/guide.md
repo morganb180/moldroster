@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/saint-petersburg/guide/
 
 8 DBPR-licensed listings give an address in Saint Petersburg: **8** hold an assessment licence and **2** hold a remediation licence. Another 175 are elsewhere in Pinellas County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=saint-petersburg&st=fl) [All Saint Petersburg listings](https://moldroster.com/fl/city/saint-petersburg/)
+[Get quotes](https://moldroster.com/quotes/?city=saint-petersburg&st=fl) [All Saint Petersburg listings](https://moldroster.com/fl/city/saint-petersburg/)
 
 ## How much does mold inspection and remediation cost?
 

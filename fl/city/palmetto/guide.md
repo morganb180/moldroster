@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/palmetto/guide/
 
 8 DBPR-licensed listings give an address in Palmetto: **6** hold an assessment licence and **4** hold a remediation licence. Another 59 are elsewhere in Manatee County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=palmetto&st=fl) [All Palmetto listings](https://moldroster.com/fl/city/palmetto/)
+[Get quotes](https://moldroster.com/quotes/?city=palmetto&st=fl) [All Palmetto listings](https://moldroster.com/fl/city/palmetto/)
 
 ## Do I need a mold assessment before remediation?
 

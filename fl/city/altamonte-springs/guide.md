@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/altamonte-springs/guide/
 
 12 DBPR-licensed listings give an address in Altamonte Springs: **10** hold an assessment licence and **9** hold a remediation licence. Another 71 are elsewhere in Seminole County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=altamonte-springs&st=fl) [All Altamonte Springs listings](https://moldroster.com/fl/city/altamonte-springs/)
+[Get quotes](https://moldroster.com/quotes/?city=altamonte-springs&st=fl) [All Altamonte Springs listings](https://moldroster.com/fl/city/altamonte-springs/)
 
 ## Do I need a mold assessment before remediation?
 

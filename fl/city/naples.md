@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/naples/
 
 [**Read the Naples hiring guide →**](https://moldroster.com/fl/city/naples/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Naples](https://moldroster.com/get-quotes/?city=naples&st=fl)
+[How to get quotes in Naples](https://moldroster.com/quotes/?city=naples&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Naples, FL?
 

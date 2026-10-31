@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/fruitland-park/guide/
 
 5 DBPR-licensed listings give an address in Fruitland Park: **4** hold an assessment licence and **2** hold a remediation licence. Another 56 are elsewhere in Lake County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=fruitland-park&st=fl) [All Fruitland Park listings](https://moldroster.com/fl/city/fruitland-park/)
+[Get quotes](https://moldroster.com/quotes/?city=fruitland-park&st=fl) [All Fruitland Park listings](https://moldroster.com/fl/city/fruitland-park/)
 
 ## Do I need a mold assessment before remediation?
 

@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/commack/
 
 [**Read the Commack hiring guide →**](https://moldroster.com/ny/city/commack/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Commack](https://moldroster.com/get-quotes/?city=commack&st=ny)
+[How to get quotes in Commack](https://moldroster.com/quotes/?city=commack&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Commack, NY?
 

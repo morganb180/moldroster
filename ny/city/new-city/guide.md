@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/new-city/guide/
 
 6 NYS DOL-licensed listings give an address in New City: **5** hold an assessment licence and **2** hold a remediation licence. Another 27 are elsewhere in Rockland County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=new-city&st=ny) [All New City listings](https://moldroster.com/ny/city/new-city/)
+[Get quotes](https://moldroster.com/quotes/?city=new-city&st=ny) [All New City listings](https://moldroster.com/ny/city/new-city/)
 
 ## What should I ask a mold pro before I sign?
 

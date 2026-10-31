@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/middleburg/guide/
 
 5 DBPR-licensed listings give an address in Middleburg: **4** hold an assessment licence and **2** hold a remediation licence. Another 21 are elsewhere in Clay County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=middleburg&st=fl) [All Middleburg listings](https://moldroster.com/fl/city/middleburg/)
+[Get quotes](https://moldroster.com/quotes/?city=middleburg&st=fl) [All Middleburg listings](https://moldroster.com/fl/city/middleburg/)
 
 ## Do I need a mold assessment before remediation?
 

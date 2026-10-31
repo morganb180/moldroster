@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/commack/guide/
 
 4 NYS DOL-licensed listings give an address in Commack: **4** hold an assessment licence and **1** hold a remediation licence. Another 181 are elsewhere in Suffolk County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=commack&st=ny) [All Commack listings](https://moldroster.com/ny/city/commack/)
+[Get quotes](https://moldroster.com/quotes/?city=commack&st=ny) [All Commack listings](https://moldroster.com/ny/city/commack/)
 
 ## How much does mold inspection and remediation cost?
 

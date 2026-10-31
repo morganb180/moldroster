@@ -8,9 +8,9 @@ canonical: https://moldroster.com/tx/county/madison/
 
 # Licensed mold assessors & remediators in Madison County, TX
 
-**Quick answer:** 2 TDLR-licensed listings with an address of record in Madison County (1 mold assessment, 2 mold remediation): 1 firms and 1 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+**Quick answer:** 2 TDLR-licensed listings with an address of record in Madison County (1 mold assessment, 2 mold remediation): 1 firm and 1 individual licensee. Licensed pros often travel, so ask whether they cover your address.
 
-**2 TDLR-licensed listings** with an address of record in Madison County (1 mold assessment, 2 mold remediation): 1 firms and 1 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=madison&st=tx)
+**2 TDLR-licensed listings** with an address of record in Madison County (1 mold assessment, 2 mold remediation): 1 firm and 1 individual licensee. [How to get quotes](https://moldroster.com/quotes/?county=madison&st=tx)
 
 ## Which licensed mold assessors are in Madison County, TX? (1)
 
@@ -67,7 +67,7 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 **How many licensed mold assessors are in Madison County?**
 
-1 listings with a TDLR mold assessment licence and 2 with a remediation licence have an address of record in Madison County. Pros from neighboring counties may also serve the area.
+1 listing with a TDLR mold assessment licence and 2 with a remediation licence have an address of record in Madison County. Pros from neighboring counties may also serve the area.
 
 **How do I check a Madison County mold company's licence?**
 

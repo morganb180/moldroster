@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/valrico/
 
 [**Read the Valrico hiring guide →**](https://moldroster.com/fl/city/valrico/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Valrico](https://moldroster.com/get-quotes/?city=valrico&st=fl)
+[How to get quotes in Valrico](https://moldroster.com/quotes/?city=valrico&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Valrico, FL?
 

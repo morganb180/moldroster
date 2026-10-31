@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/white-plains/guide/
 
 10 NYS DOL-licensed listings give an address in White Plains: **6** hold an assessment licence and **5** hold a remediation licence. Another 92 are elsewhere in Westchester County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=white-plains&st=ny) [All White Plains listings](https://moldroster.com/ny/city/white-plains/)
+[Get quotes](https://moldroster.com/quotes/?city=white-plains&st=ny) [All White Plains listings](https://moldroster.com/ny/city/white-plains/)
 
 ## Do I need a mold assessment before remediation?
 

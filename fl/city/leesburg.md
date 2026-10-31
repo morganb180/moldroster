@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/leesburg/
 
 [**Read the Leesburg hiring guide →**](https://moldroster.com/fl/city/leesburg/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Leesburg](https://moldroster.com/get-quotes/?city=leesburg&st=fl)
+[How to get quotes in Leesburg](https://moldroster.com/quotes/?city=leesburg&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Leesburg, FL?
 

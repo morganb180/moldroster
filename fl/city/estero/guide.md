@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/estero/guide/
 
 7 DBPR-licensed listings give an address in Estero: **4** hold an assessment licence and **3** hold a remediation licence. Another 182 are elsewhere in Lee County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=estero&st=fl) [All Estero listings](https://moldroster.com/fl/city/estero/)
+[Get quotes](https://moldroster.com/quotes/?city=estero&st=fl) [All Estero listings](https://moldroster.com/fl/city/estero/)
 
 ## How do I verify a mold pro's licence in Estero, FL?
 

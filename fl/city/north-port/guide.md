@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/north-port/guide/
 
 16 DBPR-licensed listings give an address in North Port: **14** hold an assessment licence and **10** hold a remediation licence. Another 54 are elsewhere in Sarasota County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=north-port&st=fl) [All North Port listings](https://moldroster.com/fl/city/north-port/)
+[Get quotes](https://moldroster.com/quotes/?city=north-port&st=fl) [All North Port listings](https://moldroster.com/fl/city/north-port/)
 
 ## How much does mold inspection and remediation cost?
 

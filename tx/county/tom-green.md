@@ -8,9 +8,9 @@ canonical: https://moldroster.com/tx/county/tom-green/
 
 # Licensed mold assessors & remediators in Tom Green County, TX
 
-**Quick answer:** 1 TDLR-licensed listings with an address of record in Tom Green County (1 mold remediation): 0 firms and 1 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+**Quick answer:** 1 TDLR-licensed listing with an address of record in Tom Green County (1 mold remediation): 0 firms and 1 individual licensee. Licensed pros often travel, so ask whether they cover your address.
 
-**1 TDLR-licensed listings** with an address of record in Tom Green County (1 mold remediation): 0 firms and 1 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=tom-green&st=tx)
+**1 TDLR-licensed listing** with an address of record in Tom Green County (1 mold remediation): 0 firms and 1 individual licensee. [How to get quotes](https://moldroster.com/quotes/?county=tom-green&st=tx)
 
 ## Which licensed mold remediators are in Tom Green County, TX? (1)
 

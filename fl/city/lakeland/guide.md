@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/lakeland/guide/
 
 24 DBPR-licensed listings give an address in Lakeland: **13** hold an assessment licence and **17** hold a remediation licence. Another 54 are elsewhere in Polk County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=lakeland&st=fl) [All Lakeland listings](https://moldroster.com/fl/city/lakeland/)
+[Get quotes](https://moldroster.com/quotes/?city=lakeland&st=fl) [All Lakeland listings](https://moldroster.com/fl/city/lakeland/)
 
 ## Do I need a mold assessment before remediation?
 

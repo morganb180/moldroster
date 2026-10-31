@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/newberry/
 
 [**Read the Newberry hiring guide →**](https://moldroster.com/fl/city/newberry/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Newberry](https://moldroster.com/get-quotes/?city=newberry&st=fl)
+[How to get quotes in Newberry](https://moldroster.com/quotes/?city=newberry&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Newberry, FL?
 

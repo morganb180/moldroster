@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/parkland/
 
 [**Read the Parkland hiring guide →**](https://moldroster.com/fl/city/parkland/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Parkland](https://moldroster.com/get-quotes/?city=parkland&st=fl)
+[How to get quotes in Parkland](https://moldroster.com/quotes/?city=parkland&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Parkland, FL?
 

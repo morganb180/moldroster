@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/cedarhurst/
 
 [**Read the Cedarhurst hiring guide →**](https://moldroster.com/ny/city/cedarhurst/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Cedarhurst](https://moldroster.com/get-quotes/?city=cedarhurst&st=ny)
+[How to get quotes in Cedarhurst](https://moldroster.com/quotes/?city=cedarhurst&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Cedarhurst, NY?
 

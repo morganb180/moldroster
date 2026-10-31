@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/county/clay/
 
 **Quick answer:** 26 DBPR-licensed listings with an address of record in Clay County (21 mold assessment, 15 mold remediation): 0 firms and 26 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**26 DBPR-licensed listings** with an address of record in Clay County (21 mold assessment, 15 mold remediation): 0 firms and 26 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=clay&st=fl)
+**26 DBPR-licensed listings** with an address of record in Clay County (21 mold assessment, 15 mold remediation): 0 firms and 26 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=clay&st=fl)
 
 City pages: [Green Cove Springs](https://moldroster.com/fl/city/green-cove-springs/) · [Middleburg](https://moldroster.com/fl/city/middleburg/) · [Orange Park](https://moldroster.com/fl/city/orange-park/)
 

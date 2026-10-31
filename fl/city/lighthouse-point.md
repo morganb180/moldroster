@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/lighthouse-point/
 
 [**Read the Lighthouse Point hiring guide →**](https://moldroster.com/fl/city/lighthouse-point/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Lighthouse Point](https://moldroster.com/get-quotes/?city=lighthouse-point&st=fl)
+[How to get quotes in Lighthouse Point](https://moldroster.com/quotes/?city=lighthouse-point&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Lighthouse Point, FL?
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/county/nueces/
 
 **Quick answer:** 17 TDLR-licensed listings with an address of record in Nueces County (9 mold assessment, 9 mold remediation): 2 firms and 15 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**17 TDLR-licensed listings** with an address of record in Nueces County (9 mold assessment, 9 mold remediation): 2 firms and 15 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=nueces&st=tx)
+**17 TDLR-licensed listings** with an address of record in Nueces County (9 mold assessment, 9 mold remediation): 2 firms and 15 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=nueces&st=tx)
 
 ## Which licensed mold assessors are in Nueces County, TX? (9)
 

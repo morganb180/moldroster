@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/seffner/
 
 [**Read the Seffner hiring guide →**](https://moldroster.com/fl/city/seffner/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Seffner](https://moldroster.com/get-quotes/?city=seffner&st=fl)
+[How to get quotes in Seffner](https://moldroster.com/quotes/?city=seffner&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Seffner, FL?
 

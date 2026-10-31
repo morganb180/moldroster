@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/city/cedar-park/
 
 [**Read the Cedar Park hiring guide →**](https://moldroster.com/tx/city/cedar-park/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Cedar Park](https://moldroster.com/get-quotes/?city=cedar-park&st=tx)
+[How to get quotes in Cedar Park](https://moldroster.com/quotes/?city=cedar-park&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Cedar Park, TX?
 

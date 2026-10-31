@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/astoria/
 
 [**Read the Astoria hiring guide →**](https://moldroster.com/ny/city/astoria/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Astoria](https://moldroster.com/get-quotes/?city=astoria&st=ny)
+[How to get quotes in Astoria](https://moldroster.com/quotes/?city=astoria&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Astoria, NY?
 

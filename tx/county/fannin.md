@@ -8,9 +8,9 @@ canonical: https://moldroster.com/tx/county/fannin/
 
 # Licensed mold assessors & remediators in Fannin County, TX
 
-**Quick answer:** 1 TDLR-licensed listings with an address of record in Fannin County (1 mold remediation): 1 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+**Quick answer:** 1 TDLR-licensed listing with an address of record in Fannin County (1 mold remediation): 1 firm and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**1 TDLR-licensed listings** with an address of record in Fannin County (1 mold remediation): 1 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=fannin&st=tx)
+**1 TDLR-licensed listing** with an address of record in Fannin County (1 mold remediation): 1 firm and 0 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=fannin&st=tx)
 
 ## Which licensed mold remediators are in Fannin County, TX? (1)
 

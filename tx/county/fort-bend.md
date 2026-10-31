@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/county/fort-bend/
 
 **Quick answer:** 69 TDLR-licensed listings with an address of record in Fort Bend County (43 mold assessment, 29 mold remediation): 10 firms and 59 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**69 TDLR-licensed listings** with an address of record in Fort Bend County (43 mold assessment, 29 mold remediation): 10 firms and 59 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=fort-bend&st=tx)
+**69 TDLR-licensed listings** with an address of record in Fort Bend County (43 mold assessment, 29 mold remediation): 10 firms and 59 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=fort-bend&st=tx)
 
 ## Which licensed mold assessors are in Fort Bend County, TX? (43)
 

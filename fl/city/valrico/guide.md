@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/valrico/guide/
 
 17 DBPR-licensed listings give an address in Valrico: **13** hold an assessment licence and **10** hold a remediation licence. Another 218 are elsewhere in Hillsborough County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=valrico&st=fl) [All Valrico listings](https://moldroster.com/fl/city/valrico/)
+[Get quotes](https://moldroster.com/quotes/?city=valrico&st=fl) [All Valrico listings](https://moldroster.com/fl/city/valrico/)
 
 ## How much does mold inspection and remediation cost?
 

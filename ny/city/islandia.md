@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/islandia/
 
 [**Read the Islandia hiring guide →**](https://moldroster.com/ny/city/islandia/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Islandia](https://moldroster.com/get-quotes/?city=islandia&st=ny)
+[How to get quotes in Islandia](https://moldroster.com/quotes/?city=islandia&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Islandia, NY?
 

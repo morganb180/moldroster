@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/deer-park/guide/
 
 4 NYS DOL-licensed listings give an address in Deer Park: **2** hold an assessment licence and **2** hold a remediation licence. Another 181 are elsewhere in Suffolk County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=deer-park&st=ny) [All Deer Park listings](https://moldroster.com/ny/city/deer-park/)
+[Get quotes](https://moldroster.com/quotes/?city=deer-park&st=ny) [All Deer Park listings](https://moldroster.com/ny/city/deer-park/)
 
 ## How do I verify a mold pro's licence in Deer Park, NY?
 

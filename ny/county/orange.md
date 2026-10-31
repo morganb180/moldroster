@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/county/orange/
 
 **Quick answer:** 33 NYS DOL-licensed listings with an address of record in Orange County (20 mold assessment, 18 mold remediation): 33 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**33 NYS DOL-licensed listings** with an address of record in Orange County (20 mold assessment, 18 mold remediation): 33 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=orange&st=ny)
+**33 NYS DOL-licensed listings** with an address of record in Orange County (20 mold assessment, 18 mold remediation): 33 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=orange&st=ny)
 
 City pages: [Middletown](https://moldroster.com/ny/city/middletown/) · [Monroe](https://moldroster.com/ny/city/monroe/) · [Newburgh](https://moldroster.com/ny/city/newburgh/)
 
@@ -537,7 +537,7 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 20 listings with a NYS DOL mold assessment licence and 18 with a remediation licence have an address of record in Orange County. Pros from neighboring counties may also serve the area.
 
-**How do I check a Orange County mold company's licence?**
+**How do I check an Orange County mold company's licence?**
 
 Look it up with the New York State Department of Labor (NYS DOL). Each listing here shows the licence number and expiry date from the agency's records.
 

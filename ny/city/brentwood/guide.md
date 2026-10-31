@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/brentwood/guide/
 
 5 NYS DOL-licensed listings give an address in Brentwood: **1** hold an assessment licence and **5** hold a remediation licence. Another 180 are elsewhere in Suffolk County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=brentwood&st=ny) [All Brentwood listings](https://moldroster.com/ny/city/brentwood/)
+[Get quotes](https://moldroster.com/quotes/?city=brentwood&st=ny) [All Brentwood listings](https://moldroster.com/ny/city/brentwood/)
 
 ## What are New York's mold licensing rules?
 
@@ -119,7 +119,7 @@ Ask what clearance test will show the job is done, for the licence number and ty
 
 **How do I find a licensed mold inspector in Brentwood?**
 
-Start with the 1 listings in Brentwood that hold a NYS DOL assessment licence, then confirm the licence with the agency.
+Start with the 1 listing in Brentwood that hold a NYS DOL assessment licence, then confirm the licence with the agency.
 
 **How much does mold remediation cost in Brentwood?**
 

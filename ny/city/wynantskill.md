@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/wynantskill/
 
 [**Read the Wynantskill hiring guide →**](https://moldroster.com/ny/city/wynantskill/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Wynantskill](https://moldroster.com/get-quotes/?city=wynantskill&st=ny)
+[How to get quotes in Wynantskill](https://moldroster.com/quotes/?city=wynantskill&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Wynantskill, NY?
 

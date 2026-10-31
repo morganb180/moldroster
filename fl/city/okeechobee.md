@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/okeechobee/
 
 [**Read the Okeechobee hiring guide →**](https://moldroster.com/fl/city/okeechobee/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Okeechobee](https://moldroster.com/get-quotes/?city=okeechobee&st=fl)
+[How to get quotes in Okeechobee](https://moldroster.com/quotes/?city=okeechobee&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Okeechobee, FL?
 

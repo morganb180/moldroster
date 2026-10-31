@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/titusville/guide/
 
 5 DBPR-licensed listings give an address in Titusville: **3** hold an assessment licence and **5** hold a remediation licence. Another 88 are elsewhere in Brevard County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=titusville&st=fl) [All Titusville listings](https://moldroster.com/fl/city/titusville/)
+[Get quotes](https://moldroster.com/quotes/?city=titusville&st=fl) [All Titusville listings](https://moldroster.com/fl/city/titusville/)
 
 ## How much does mold inspection and remediation cost?
 

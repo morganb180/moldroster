@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/apopka/guide/
 
 11 DBPR-licensed listings give an address in Apopka: **7** hold an assessment licence and **9** hold a remediation licence. Another 183 are elsewhere in Orange County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=apopka&st=fl) [All Apopka listings](https://moldroster.com/fl/city/apopka/)
+[Get quotes](https://moldroster.com/quotes/?city=apopka&st=fl) [All Apopka listings](https://moldroster.com/fl/city/apopka/)
 
 ## What should I ask a mold pro before I sign?
 

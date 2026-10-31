@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/city/katy/
 
 [**Read the Katy hiring guide →**](https://moldroster.com/tx/city/katy/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Katy](https://moldroster.com/get-quotes/?city=katy&st=tx)
+[How to get quotes in Katy](https://moldroster.com/quotes/?city=katy&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Katy, TX?
 

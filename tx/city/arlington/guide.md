@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/arlington/guide/
 
 10 TDLR-licensed listings give an address in Arlington: **3** hold an assessment licence and **7** hold a remediation licence. Another 173 are elsewhere in Tarrant County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=arlington&st=tx) [All Arlington listings](https://moldroster.com/tx/city/arlington/)
+[Get quotes](https://moldroster.com/quotes/?city=arlington&st=tx) [All Arlington listings](https://moldroster.com/tx/city/arlington/)
 
 ## What should I ask a mold pro before I sign?
 

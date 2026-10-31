@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/monroe/
 
 [**Read the Monroe hiring guide →**](https://moldroster.com/ny/city/monroe/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Monroe](https://moldroster.com/get-quotes/?city=monroe&st=ny)
+[How to get quotes in Monroe](https://moldroster.com/quotes/?city=monroe&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Monroe, NY?
 

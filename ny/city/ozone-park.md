@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/ozone-park/
 
 [**Read the Ozone Park hiring guide →**](https://moldroster.com/ny/city/ozone-park/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Ozone Park](https://moldroster.com/get-quotes/?city=ozone-park&st=ny)
+[How to get quotes in Ozone Park](https://moldroster.com/quotes/?city=ozone-park&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Ozone Park, NY?
 

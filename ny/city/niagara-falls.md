@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/niagara-falls/
 
 [**Read the Niagara Falls hiring guide →**](https://moldroster.com/ny/city/niagara-falls/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Niagara Falls](https://moldroster.com/get-quotes/?city=niagara-falls&st=ny)
+[How to get quotes in Niagara Falls](https://moldroster.com/quotes/?city=niagara-falls&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Niagara Falls, NY?
 

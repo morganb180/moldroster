@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/deland/
 
 [**Read the Deland hiring guide →**](https://moldroster.com/fl/city/deland/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Deland](https://moldroster.com/get-quotes/?city=deland&st=fl)
+[How to get quotes in Deland](https://moldroster.com/quotes/?city=deland&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Deland, FL?
 

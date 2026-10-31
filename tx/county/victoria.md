@@ -8,9 +8,9 @@ canonical: https://moldroster.com/tx/county/victoria/
 
 # Licensed mold assessors & remediators in Victoria County, TX
 
-**Quick answer:** 1 TDLR-licensed listings with an address of record in Victoria County (1 mold assessment): 0 firms and 1 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+**Quick answer:** 1 TDLR-licensed listing with an address of record in Victoria County (1 mold assessment): 0 firms and 1 individual licensee. Licensed pros often travel, so ask whether they cover your address.
 
-**1 TDLR-licensed listings** with an address of record in Victoria County (1 mold assessment): 0 firms and 1 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=victoria&st=tx)
+**1 TDLR-licensed listing** with an address of record in Victoria County (1 mold assessment): 0 firms and 1 individual licensee. [How to get quotes](https://moldroster.com/quotes/?county=victoria&st=tx)
 
 ## Which licensed mold assessors are in Victoria County, TX? (1)
 
@@ -49,7 +49,7 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 **How many licensed mold assessors are in Victoria County?**
 
-1 listings with a TDLR mold assessment licence and 0 with a remediation licence have an address of record in Victoria County. Pros from neighboring counties may also serve the area.
+1 listing with a TDLR mold assessment licence and 0 with a remediation licence have an address of record in Victoria County. Pros from neighboring counties may also serve the area.
 
 **How do I check a Victoria County mold company's licence?**
 

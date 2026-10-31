@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/apopka/
 
 [**Read the Apopka hiring guide →**](https://moldroster.com/fl/city/apopka/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Apopka](https://moldroster.com/get-quotes/?city=apopka&st=fl)
+[How to get quotes in Apopka](https://moldroster.com/quotes/?city=apopka&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Apopka, FL?
 

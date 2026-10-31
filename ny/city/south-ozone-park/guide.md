@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/south-ozone-park/guide/
 
 7 NYS DOL-licensed listings give an address in South Ozone Park: **1** hold an assessment licence and **6** hold a remediation licence. Another 147 are elsewhere in Queens County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=south-ozone-park&st=ny) [All South Ozone Park listings](https://moldroster.com/ny/city/south-ozone-park/)
+[Get quotes](https://moldroster.com/quotes/?city=south-ozone-park&st=ny) [All South Ozone Park listings](https://moldroster.com/ny/city/south-ozone-park/)
 
 ## What should I ask a mold pro before I sign?
 
@@ -120,7 +120,7 @@ Look the name up in the NYS DOL records and check the licence is still current. 
 
 **How do I find a licensed mold inspector in South Ozone Park?**
 
-Start with the 1 listings in South Ozone Park that hold a NYS DOL assessment licence, then confirm the licence with the agency.
+Start with the 1 listing in South Ozone Park that hold a NYS DOL assessment licence, then confirm the licence with the agency.
 
 **How much does mold remediation cost in South Ozone Park?**
 

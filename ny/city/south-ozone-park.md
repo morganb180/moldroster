@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/south-ozone-park/
 
 [**Read the South Ozone Park hiring guide →**](https://moldroster.com/ny/city/south-ozone-park/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in South Ozone Park](https://moldroster.com/get-quotes/?city=south-ozone-park&st=ny)
+[How to get quotes in South Ozone Park](https://moldroster.com/quotes/?city=south-ozone-park&st=ny)
 
 ## Which licensed mold assessors and remediators are based in South Ozone Park, NY?
 

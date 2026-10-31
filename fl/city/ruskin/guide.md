@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/ruskin/guide/
 
 9 DBPR-licensed listings give an address in Ruskin: **5** hold an assessment licence and **8** hold a remediation licence. Another 226 are elsewhere in Hillsborough County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=ruskin&st=fl) [All Ruskin listings](https://moldroster.com/fl/city/ruskin/)
+[Get quotes](https://moldroster.com/quotes/?city=ruskin&st=fl) [All Ruskin listings](https://moldroster.com/fl/city/ruskin/)
 
 ## Do I need a mold assessment before remediation?
 

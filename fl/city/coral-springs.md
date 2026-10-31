@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/coral-springs/
 
 [**Read the Coral Springs hiring guide →**](https://moldroster.com/fl/city/coral-springs/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Coral Springs](https://moldroster.com/get-quotes/?city=coral-springs&st=fl)
+[How to get quotes in Coral Springs](https://moldroster.com/quotes/?city=coral-springs&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Coral Springs, FL?
 

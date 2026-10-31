@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/spring-hill/
 
 [**Read the Spring Hill hiring guide →**](https://moldroster.com/fl/city/spring-hill/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Spring Hill](https://moldroster.com/get-quotes/?city=spring-hill&st=fl)
+[How to get quotes in Spring Hill](https://moldroster.com/quotes/?city=spring-hill&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Spring Hill, FL?
 

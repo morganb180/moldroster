@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/plattsburgh/guide/
 
 4 NYS DOL-licensed listings give an address in Plattsburgh: **1** hold an assessment licence and **3** hold a remediation licence. Another 4 are elsewhere in Clinton County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=plattsburgh&st=ny) [All Plattsburgh listings](https://moldroster.com/ny/city/plattsburgh/)
+[Get quotes](https://moldroster.com/quotes/?city=plattsburgh&st=ny) [All Plattsburgh listings](https://moldroster.com/ny/city/plattsburgh/)
 
 ## How do I verify a mold pro's licence in Plattsburgh, NY?
 
@@ -133,7 +133,7 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 
 **How do I find a licensed mold inspector in Plattsburgh?**
 
-Start with the 1 listings in Plattsburgh that hold a NYS DOL assessment licence, then confirm the licence with the agency.
+Start with the 1 listing in Plattsburgh that hold a NYS DOL assessment licence, then confirm the licence with the agency.
 
 **How much does mold remediation cost in Plattsburgh?**
 

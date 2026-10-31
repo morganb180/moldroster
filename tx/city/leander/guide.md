@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/leander/guide/
 
 4 TDLR-licensed listings give an address in Leander: **0** hold an assessment licence and **4** hold a remediation licence. Another 79 are elsewhere in Williamson County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=leander&st=tx) [All Leander listings](https://moldroster.com/tx/city/leander/)
+[Get quotes](https://moldroster.com/quotes/?city=leander&st=tx) [All Leander listings](https://moldroster.com/tx/city/leander/)
 
 ## How much does mold inspection and remediation cost?
 

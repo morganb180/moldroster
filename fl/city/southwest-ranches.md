@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/southwest-ranches/
 
 [**Read the Southwest Ranches hiring guide →**](https://moldroster.com/fl/city/southwest-ranches/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Southwest Ranches](https://moldroster.com/get-quotes/?city=southwest-ranches&st=fl)
+[How to get quotes in Southwest Ranches](https://moldroster.com/quotes/?city=southwest-ranches&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Southwest Ranches, FL?
 

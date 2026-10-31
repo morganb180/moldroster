@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/milton/
 
 [**Read the Milton hiring guide →**](https://moldroster.com/fl/city/milton/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Milton](https://moldroster.com/get-quotes/?city=milton&st=fl)
+[How to get quotes in Milton](https://moldroster.com/quotes/?city=milton&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Milton, FL?
 

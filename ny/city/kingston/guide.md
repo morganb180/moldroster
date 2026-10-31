@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/kingston/guide/
 
 6 NYS DOL-licensed listings give an address in Kingston: **3** hold an assessment licence and **3** hold a remediation licence. Another 12 are elsewhere in Ulster County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=kingston&st=ny) [All Kingston listings](https://moldroster.com/ny/city/kingston/)
+[Get quotes](https://moldroster.com/quotes/?city=kingston&st=ny) [All Kingston listings](https://moldroster.com/ny/city/kingston/)
 
 ## What should I ask a mold pro before I sign?
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/odessa/guide/
 
 9 DBPR-licensed listings give an address in Odessa: **6** hold an assessment licence and **6** hold a remediation licence. Another 226 are elsewhere in Hillsborough County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=odessa&st=fl) [All Odessa listings](https://moldroster.com/fl/city/odessa/)
+[Get quotes](https://moldroster.com/quotes/?city=odessa&st=fl) [All Odessa listings](https://moldroster.com/fl/city/odessa/)
 
 ## Do I need a mold assessment before remediation?
 

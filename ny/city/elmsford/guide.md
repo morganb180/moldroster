@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/elmsford/guide/
 
 5 NYS DOL-licensed listings give an address in Elmsford: **0** hold an assessment licence and **5** hold a remediation licence. Another 97 are elsewhere in Westchester County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=elmsford&st=ny) [All Elmsford listings](https://moldroster.com/ny/city/elmsford/)
+[Get quotes](https://moldroster.com/quotes/?city=elmsford&st=ny) [All Elmsford listings](https://moldroster.com/ny/city/elmsford/)
 
 ## What should I ask a mold pro before I sign?
 

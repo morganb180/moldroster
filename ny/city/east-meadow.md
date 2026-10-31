@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/east-meadow/
 
 [**Read the East Meadow hiring guide →**](https://moldroster.com/ny/city/east-meadow/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in East Meadow](https://moldroster.com/get-quotes/?city=east-meadow&st=ny)
+[How to get quotes in East Meadow](https://moldroster.com/quotes/?city=east-meadow&st=ny)
 
 ## Which licensed mold assessors and remediators are based in East Meadow, NY?
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/county/gillespie/
 
 **Quick answer:** 2 TDLR-licensed listings with an address of record in Gillespie County (2 mold assessment): 0 firms and 2 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**2 TDLR-licensed listings** with an address of record in Gillespie County (2 mold assessment): 0 firms and 2 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=gillespie&st=tx)
+**2 TDLR-licensed listings** with an address of record in Gillespie County (2 mold assessment): 0 firms and 2 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=gillespie&st=tx)
 
 ## Which licensed mold assessors are in Gillespie County, TX? (2)
 

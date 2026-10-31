@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/lindenhurst/
 
 [**Read the Lindenhurst hiring guide →**](https://moldroster.com/ny/city/lindenhurst/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Lindenhurst](https://moldroster.com/get-quotes/?city=lindenhurst&st=ny)
+[How to get quotes in Lindenhurst](https://moldroster.com/quotes/?city=lindenhurst&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Lindenhurst, NY?
 

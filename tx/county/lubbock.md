@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/county/lubbock/
 
 **Quick answer:** 26 TDLR-licensed listings with an address of record in Lubbock County (14 mold assessment, 12 mold remediation): 8 firms and 18 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**26 TDLR-licensed listings** with an address of record in Lubbock County (14 mold assessment, 12 mold remediation): 8 firms and 18 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=lubbock&st=tx)
+**26 TDLR-licensed listings** with an address of record in Lubbock County (14 mold assessment, 12 mold remediation): 8 firms and 18 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=lubbock&st=tx)
 
 City pages: [Lubbock](https://moldroster.com/tx/city/lubbock/)
 

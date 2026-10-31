@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/oakland-park/
 
 [**Read the Oakland Park hiring guide →**](https://moldroster.com/fl/city/oakland-park/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Oakland Park](https://moldroster.com/get-quotes/?city=oakland-park&st=fl)
+[How to get quotes in Oakland Park](https://moldroster.com/quotes/?city=oakland-park&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Oakland Park, FL?
 

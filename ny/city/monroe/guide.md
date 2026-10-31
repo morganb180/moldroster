@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/monroe/guide/
 
 4 NYS DOL-licensed listings give an address in Monroe: **3** hold an assessment licence and **2** hold a remediation licence. Another 29 are elsewhere in Orange County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=monroe&st=ny) [All Monroe listings](https://moldroster.com/ny/city/monroe/)
+[Get quotes](https://moldroster.com/quotes/?city=monroe&st=ny) [All Monroe listings](https://moldroster.com/ny/city/monroe/)
 
 ## How much does mold inspection and remediation cost?
 

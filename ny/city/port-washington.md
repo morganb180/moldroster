@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/port-washington/
 
 [**Read the Port Washington hiring guide →**](https://moldroster.com/ny/city/port-washington/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Port Washington](https://moldroster.com/get-quotes/?city=port-washington&st=ny)
+[How to get quotes in Port Washington](https://moldroster.com/quotes/?city=port-washington&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Port Washington, NY?
 

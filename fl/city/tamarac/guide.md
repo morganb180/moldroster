@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/tamarac/guide/
 
 26 DBPR-licensed listings give an address in Tamarac: **18** hold an assessment licence and **15** hold a remediation licence. Another 563 are elsewhere in Broward County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=tamarac&st=fl) [All Tamarac listings](https://moldroster.com/fl/city/tamarac/)
+[Get quotes](https://moldroster.com/quotes/?city=tamarac&st=fl) [All Tamarac listings](https://moldroster.com/fl/city/tamarac/)
 
 ## What should I ask a mold pro before I sign?
 

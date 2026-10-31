@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/east-meadow/guide/
 
 5 NYS DOL-licensed listings give an address in East Meadow: **5** hold an assessment licence and **0** hold a remediation licence. Another 148 are elsewhere in Nassau County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=east-meadow&st=ny) [All East Meadow listings](https://moldroster.com/ny/city/east-meadow/)
+[Get quotes](https://moldroster.com/quotes/?city=east-meadow&st=ny) [All East Meadow listings](https://moldroster.com/ny/city/east-meadow/)
 
 ## How much does mold inspection and remediation cost?
 

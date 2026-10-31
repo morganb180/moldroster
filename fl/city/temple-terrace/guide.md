@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/temple-terrace/guide/
 
 4 DBPR-licensed listings give an address in Temple Terrace: **3** hold an assessment licence and **3** hold a remediation licence. Another 231 are elsewhere in Hillsborough County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=temple-terrace&st=fl) [All Temple Terrace listings](https://moldroster.com/fl/city/temple-terrace/)
+[Get quotes](https://moldroster.com/quotes/?city=temple-terrace&st=fl) [All Temple Terrace listings](https://moldroster.com/fl/city/temple-terrace/)
 
 ## How do I verify a mold pro's licence in Temple Terrace, FL?
 

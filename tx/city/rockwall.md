@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/city/rockwall/
 
 [**Read the Rockwall hiring guide →**](https://moldroster.com/tx/city/rockwall/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Rockwall](https://moldroster.com/get-quotes/?city=rockwall&st=tx)
+[How to get quotes in Rockwall](https://moldroster.com/quotes/?city=rockwall&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Rockwall, TX?
 

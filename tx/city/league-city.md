@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/city/league-city/
 
 [**Read the League City hiring guide →**](https://moldroster.com/tx/city/league-city/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in League City](https://moldroster.com/get-quotes/?city=league-city&st=tx)
+[How to get quotes in League City](https://moldroster.com/quotes/?city=league-city&st=tx)
 
 ## Which licensed mold assessors and remediators are based in League City, TX?
 

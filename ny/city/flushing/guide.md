@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/flushing/guide/
 
 8 NYS DOL-licensed listings give an address in Flushing: **5** hold an assessment licence and **3** hold a remediation licence. Another 146 are elsewhere in Queens County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=flushing&st=ny) [All Flushing listings](https://moldroster.com/ny/city/flushing/)
+[Get quotes](https://moldroster.com/quotes/?city=flushing&st=ny) [All Flushing listings](https://moldroster.com/ny/city/flushing/)
 
 ## How do I verify a mold pro's licence in Flushing, NY?
 

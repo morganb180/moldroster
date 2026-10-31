@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/hollywood/
 
 [**Read the Hollywood hiring guide →**](https://moldroster.com/fl/city/hollywood/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Hollywood](https://moldroster.com/get-quotes/?city=hollywood&st=fl)
+[How to get quotes in Hollywood](https://moldroster.com/quotes/?city=hollywood&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Hollywood, FL?
 

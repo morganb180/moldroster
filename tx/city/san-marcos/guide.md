@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/san-marcos/guide/
 
 5 TDLR-licensed listings give an address in San Marcos: **1** hold an assessment licence and **4** hold a remediation licence. Another 32 are elsewhere in Hays County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=san-marcos&st=tx) [All San Marcos listings](https://moldroster.com/tx/city/san-marcos/)
+[Get quotes](https://moldroster.com/quotes/?city=san-marcos&st=tx) [All San Marcos listings](https://moldroster.com/tx/city/san-marcos/)
 
 ## How do I verify a mold pro's licence in San Marcos, TX?
 
@@ -124,7 +124,7 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 
 **How do I find a licensed mold inspector in San Marcos?**
 
-Start with the 1 listings in San Marcos that hold a TDLR assessment licence, then confirm the licence with the agency.
+Start with the 1 listing in San Marcos that hold a TDLR assessment licence, then confirm the licence with the agency.
 
 **How much does mold remediation cost in San Marcos?**
 

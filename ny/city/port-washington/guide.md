@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/port-washington/guide/
 
 5 NYS DOL-licensed listings give an address in Port Washington: **4** hold an assessment licence and **2** hold a remediation licence. Another 148 are elsewhere in Nassau County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=port-washington&st=ny) [All Port Washington listings](https://moldroster.com/ny/city/port-washington/)
+[Get quotes](https://moldroster.com/quotes/?city=port-washington&st=ny) [All Port Washington listings](https://moldroster.com/ny/city/port-washington/)
 
 ## What are New York's mold licensing rules?
 

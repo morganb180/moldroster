@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/orlando/
 
 [**Read the Orlando hiring guide →**](https://moldroster.com/fl/city/orlando/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Orlando](https://moldroster.com/get-quotes/?city=orlando&st=fl)
+[How to get quotes in Orlando](https://moldroster.com/quotes/?city=orlando&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Orlando, FL?
 

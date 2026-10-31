@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/latham/
 
 [**Read the Latham hiring guide →**](https://moldroster.com/ny/city/latham/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Latham](https://moldroster.com/get-quotes/?city=latham&st=ny)
+[How to get quotes in Latham](https://moldroster.com/quotes/?city=latham&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Latham, NY?
 

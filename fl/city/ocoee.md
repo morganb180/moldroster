@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/ocoee/
 
 [**Read the Ocoee hiring guide →**](https://moldroster.com/fl/city/ocoee/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Ocoee](https://moldroster.com/get-quotes/?city=ocoee&st=fl)
+[How to get quotes in Ocoee](https://moldroster.com/quotes/?city=ocoee&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Ocoee, FL?
 

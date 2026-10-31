@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/county/tompkins/
 
 **Quick answer:** 3 NYS DOL-licensed listings with an address of record in Tompkins County (3 mold assessment): 3 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**3 NYS DOL-licensed listings** with an address of record in Tompkins County (3 mold assessment): 3 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=tompkins&st=ny)
+**3 NYS DOL-licensed listings** with an address of record in Tompkins County (3 mold assessment): 3 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=tompkins&st=ny)
 
 ## Which licensed mold assessors are in Tompkins County, NY? (3)
 

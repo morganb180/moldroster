@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/county/ellis/
 
 **Quick answer:** 18 TDLR-licensed listings with an address of record in Ellis County (10 mold assessment, 11 mold remediation): 5 firms and 13 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**18 TDLR-licensed listings** with an address of record in Ellis County (10 mold assessment, 11 mold remediation): 5 firms and 13 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=ellis&st=tx)
+**18 TDLR-licensed listings** with an address of record in Ellis County (10 mold assessment, 11 mold remediation): 5 firms and 13 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=ellis&st=tx)
 
 ## Which licensed mold assessors are in Ellis County, TX? (10)
 
@@ -291,7 +291,7 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 10 listings with a TDLR mold assessment licence and 11 with a remediation licence have an address of record in Ellis County. Pros from neighboring counties may also serve the area.
 
-**How do I check a Ellis County mold company's licence?**
+**How do I check an Ellis County mold company's licence?**
 
 Look it up with the Texas Department of Licensing and Regulation (TDLR). Each listing here shows the licence number and expiry date from the agency's records.
 

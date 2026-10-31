@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/county/richmond/
 
 **Quick answer:** 53 NYS DOL-licensed listings with an address of record in Richmond County (23 mold assessment, 35 mold remediation): 53 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**53 NYS DOL-licensed listings** with an address of record in Richmond County (23 mold assessment, 35 mold remediation): 53 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=richmond&st=ny)
+**53 NYS DOL-licensed listings** with an address of record in Richmond County (23 mold assessment, 35 mold remediation): 53 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=richmond&st=ny)
 
 City pages: [Staten Island](https://moldroster.com/ny/city/staten-island/)
 

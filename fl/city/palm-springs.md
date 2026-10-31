@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/palm-springs/
 
 [**Read the Palm Springs hiring guide →**](https://moldroster.com/fl/city/palm-springs/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Palm Springs](https://moldroster.com/get-quotes/?city=palm-springs&st=fl)
+[How to get quotes in Palm Springs](https://moldroster.com/quotes/?city=palm-springs&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Palm Springs, FL?
 

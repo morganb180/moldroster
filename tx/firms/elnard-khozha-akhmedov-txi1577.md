@@ -1,0 +1,13 @@
+---
+title: "Elnard Khozha-Akhmedov, TX | Mold Roster"
+description: "Elnard Khozha-Akhmedov: mold remediation in TX. TDLR licence details, contact and free quotes."
+canonical: https://moldroster.com/tx/firms/elnard-khozha-akhmedov-txi1577/
+---
+
+# Elnard Khozha-Akhmedov
+
+* Mold remediation
+* Licensed by TDLR (Texas Department of Licensing and Regulation)
+* TX (Collin County)
+
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TXI1577

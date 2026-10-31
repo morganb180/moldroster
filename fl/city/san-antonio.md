@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/san-antonio/
 
 [**Read the San Antonio hiring guide →**](https://moldroster.com/fl/city/san-antonio/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in San Antonio](https://moldroster.com/get-quotes/?city=san-antonio&st=fl)
+[How to get quotes in San Antonio](https://moldroster.com/quotes/?city=san-antonio&st=fl)
 
 ## Which licensed mold assessors and remediators are based in San Antonio, FL?
 

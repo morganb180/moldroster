@@ -1,0 +1,14 @@
+---
+title: "Angel Manuel Roman, Cape Coral, FL | Mold Roster"
+description: "Angel Manuel Roman: mold assessment in Cape Coral, FL. FL DBPR licence details, contact."
+canonical: https://moldroster.com/fl/firms/angel-manuel-roman-fl3420/
+---
+
+# Angel Manuel Roman
+
+* Mold assessment
+* Licensed by FL DBPR (Florida Department of Business and Professional Regulation)
+* Cape Coral, FL (Lee County)
+* Address: 174 Shadroe Cove Cir 1004, Cape Coral, FL
+
+Source: https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv, retrieved 2026-10-12. Verify: https://www2.myfloridalicense.com/mold-related-services/. Claim / correct: https://moldroster.com/claim-listing/?id=FL3420

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/county/travis/
 
 **Quick answer:** 124 TDLR-licensed listings with an address of record in Travis County (64 mold assessment, 64 mold remediation): 36 firms and 88 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**124 TDLR-licensed listings** with an address of record in Travis County (64 mold assessment, 64 mold remediation): 36 firms and 88 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=travis&st=tx)
+**124 TDLR-licensed listings** with an address of record in Travis County (64 mold assessment, 64 mold remediation): 36 firms and 88 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=travis&st=tx)
 
 City pages: [Austin](https://moldroster.com/tx/city/austin/) · [Pflugerville](https://moldroster.com/tx/city/pflugerville/)
 

@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/city/harlingen/
 
 [**Read the Harlingen hiring guide →**](https://moldroster.com/tx/city/harlingen/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Harlingen](https://moldroster.com/get-quotes/?city=harlingen&st=tx)
+[How to get quotes in Harlingen](https://moldroster.com/quotes/?city=harlingen&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Harlingen, TX?
 

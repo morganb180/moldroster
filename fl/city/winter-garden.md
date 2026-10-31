@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/winter-garden/
 
 [**Read the Winter Garden hiring guide →**](https://moldroster.com/fl/city/winter-garden/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Winter Garden](https://moldroster.com/get-quotes/?city=winter-garden&st=fl)
+[How to get quotes in Winter Garden](https://moldroster.com/quotes/?city=winter-garden&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Winter Garden, FL?
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/dade-city/guide/
 
 7 DBPR-licensed listings give an address in Dade City: **5** hold an assessment licence and **3** hold a remediation licence. Another 120 are elsewhere in Pasco County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=dade-city&st=fl) [All Dade City listings](https://moldroster.com/fl/city/dade-city/)
+[Get quotes](https://moldroster.com/quotes/?city=dade-city&st=fl) [All Dade City listings](https://moldroster.com/fl/city/dade-city/)
 
 ## Do I need a mold assessment before remediation?
 

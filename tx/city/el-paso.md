@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/city/el-paso/
 
 [**Read the El Paso hiring guide →**](https://moldroster.com/tx/city/el-paso/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in El Paso](https://moldroster.com/get-quotes/?city=el-paso&st=tx)
+[How to get quotes in El Paso](https://moldroster.com/quotes/?city=el-paso&st=tx)
 
 ## Which licensed mold assessors and remediators are based in El Paso, TX?
 

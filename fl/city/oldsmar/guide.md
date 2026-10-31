@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/oldsmar/guide/
 
 9 DBPR-licensed listings give an address in Oldsmar: **6** hold an assessment licence and **8** hold a remediation licence. Another 174 are elsewhere in Pinellas County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=oldsmar&st=fl) [All Oldsmar listings](https://moldroster.com/fl/city/oldsmar/)
+[Get quotes](https://moldroster.com/quotes/?city=oldsmar&st=fl) [All Oldsmar listings](https://moldroster.com/fl/city/oldsmar/)
 
 ## How much does mold inspection and remediation cost?
 

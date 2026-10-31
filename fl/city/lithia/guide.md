@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/lithia/guide/
 
 6 DBPR-licensed listings give an address in Lithia: **6** hold an assessment licence and **2** hold a remediation licence. Another 229 are elsewhere in Hillsborough County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=lithia&st=fl) [All Lithia listings](https://moldroster.com/fl/city/lithia/)
+[Get quotes](https://moldroster.com/quotes/?city=lithia&st=fl) [All Lithia listings](https://moldroster.com/fl/city/lithia/)
 
 ## What should I ask a mold pro before I sign?
 

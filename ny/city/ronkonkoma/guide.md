@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/ronkonkoma/guide/
 
 17 NYS DOL-licensed listings give an address in Ronkonkoma: **8** hold an assessment licence and **12** hold a remediation licence. Another 168 are elsewhere in Suffolk County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=ronkonkoma&st=ny) [All Ronkonkoma listings](https://moldroster.com/ny/city/ronkonkoma/)
+[Get quotes](https://moldroster.com/quotes/?city=ronkonkoma&st=ny) [All Ronkonkoma listings](https://moldroster.com/ny/city/ronkonkoma/)
 
 ## What should I ask a mold pro before I sign?
 

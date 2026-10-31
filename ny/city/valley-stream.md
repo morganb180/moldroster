@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/valley-stream/
 
 [**Read the Valley Stream hiring guide →**](https://moldroster.com/ny/city/valley-stream/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Valley Stream](https://moldroster.com/get-quotes/?city=valley-stream&st=ny)
+[How to get quotes in Valley Stream](https://moldroster.com/quotes/?city=valley-stream&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Valley Stream, NY?
 

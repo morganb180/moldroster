@@ -10,12 +10,18 @@ Mold Roster is for homeowners, tenants, landlords, buyers and insurance claimant
 - [New York](https://moldroster.com/ny/): New York State Department of Labor licence records
 - [Washington, DC](https://moldroster.com/dc/): DC Department of Energy & Environment licence records
 
+## Get free quotes
+
+- https://moldroster.com/quotes/: send one request to up to 3 licensed mold pros near a Texas, New York or Washington, DC ZIP. From a pro's profile, "Get a quote" sends it to that pro plus the 2 nearest other licensed pros that offer the service. Free, no obligation. Florida isn't covered (DBPR records have no phone or email).
+- Every listing has a profile page under /tx/firms/, /fl/firms/, /ny/firms/ and /dc/firms/ (A–Z indexes at those URLs).
+- Guides hub: https://moldroster.com/guides/
+
 ## Guides
 - [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/)
 - [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/)
 - [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/)
 - [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
-- [How to get quotes](https://moldroster.com/get-quotes/): find 2-3 licensed pros near you and what to ask
+- [How to get quotes](https://moldroster.com/quotes/): find 2-3 licensed pros near you and what to ask
 
 ## For professionals
 - [For professionals](https://moldroster.com/for-pros/): free listings and planned advertising

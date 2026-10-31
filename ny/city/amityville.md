@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/amityville/
 
 [**Read the Amityville hiring guide →**](https://moldroster.com/ny/city/amityville/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Amityville](https://moldroster.com/get-quotes/?city=amityville&st=ny)
+[How to get quotes in Amityville](https://moldroster.com/quotes/?city=amityville&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Amityville, NY?
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/albany/guide/
 
 25 NYS DOL-licensed listings give an address in Albany: **14** hold an assessment licence and **12** hold a remediation licence. Another 20 are elsewhere in Albany County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=albany&st=ny) [All Albany listings](https://moldroster.com/ny/city/albany/)
+[Get quotes](https://moldroster.com/quotes/?city=albany&st=ny) [All Albany listings](https://moldroster.com/ny/city/albany/)
 
 ## What should I ask a mold pro before I sign?
 

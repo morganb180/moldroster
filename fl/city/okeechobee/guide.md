@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/okeechobee/guide/
 
 7 DBPR-licensed listings give an address in Okeechobee: **3** hold an assessment licence and **6** hold a remediation licence. Another 0 are elsewhere in Okeechobee County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=okeechobee&st=fl) [All Okeechobee listings](https://moldroster.com/fl/city/okeechobee/)
+[Get quotes](https://moldroster.com/quotes/?city=okeechobee&st=fl) [All Okeechobee listings](https://moldroster.com/fl/city/okeechobee/)
 
 ## What are Florida's mold licensing rules?
 

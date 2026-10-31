@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/lindenhurst/guide/
 
 5 NYS DOL-licensed listings give an address in Lindenhurst: **2** hold an assessment licence and **3** hold a remediation licence. Another 180 are elsewhere in Suffolk County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=lindenhurst&st=ny) [All Lindenhurst listings](https://moldroster.com/ny/city/lindenhurst/)
+[Get quotes](https://moldroster.com/quotes/?city=lindenhurst&st=ny) [All Lindenhurst listings](https://moldroster.com/ny/city/lindenhurst/)
 
 ## How do I verify a mold pro's licence in Lindenhurst, NY?
 

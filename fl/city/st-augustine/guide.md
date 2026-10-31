@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/st-augustine/guide/
 
 11 DBPR-licensed listings give an address in St Augustine: **9** hold an assessment licence and **7** hold a remediation licence. Another 41 are elsewhere in St. Johns County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=st-augustine&st=fl) [All St Augustine listings](https://moldroster.com/fl/city/st-augustine/)
+[Get quotes](https://moldroster.com/quotes/?city=st-augustine&st=fl) [All St Augustine listings](https://moldroster.com/fl/city/st-augustine/)
 
 ## How much does mold inspection and remediation cost?
 

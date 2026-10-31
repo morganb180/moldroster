@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/st-cloud/
 
 [**Read the St Cloud hiring guide →**](https://moldroster.com/fl/city/st-cloud/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in St Cloud](https://moldroster.com/get-quotes/?city=st-cloud&st=fl)
+[How to get quotes in St Cloud](https://moldroster.com/quotes/?city=st-cloud&st=fl)
 
 ## Which licensed mold assessors and remediators are based in St Cloud, FL?
 

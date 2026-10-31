@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/coral-gables/guide/
 
 10 DBPR-licensed listings give an address in Coral Gables: **8** hold an assessment licence and **6** hold a remediation licence. Another 536 are elsewhere in Miami-Dade County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=coral-gables&st=fl) [All Coral Gables listings](https://moldroster.com/fl/city/coral-gables/)
+[Get quotes](https://moldroster.com/quotes/?city=coral-gables&st=fl) [All Coral Gables listings](https://moldroster.com/fl/city/coral-gables/)
 
 ## How do I verify a mold pro's licence in Coral Gables, FL?
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/sebring/guide/
 
 7 DBPR-licensed listings give an address in Sebring: **4** hold an assessment licence and **3** hold a remediation licence. Another 4 are elsewhere in Highlands County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=sebring&st=fl) [All Sebring listings](https://moldroster.com/fl/city/sebring/)
+[Get quotes](https://moldroster.com/quotes/?city=sebring&st=fl) [All Sebring listings](https://moldroster.com/fl/city/sebring/)
 
 ## What are Florida's mold licensing rules?
 

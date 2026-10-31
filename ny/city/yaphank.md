@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/yaphank/
 
 [**Read the Yaphank hiring guide →**](https://moldroster.com/ny/city/yaphank/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Yaphank](https://moldroster.com/get-quotes/?city=yaphank&st=ny)
+[How to get quotes in Yaphank](https://moldroster.com/quotes/?city=yaphank&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Yaphank, NY?
 

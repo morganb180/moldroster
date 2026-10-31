@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/new-hyde-park/guide/
 
 5 NYS DOL-licensed listings give an address in New Hyde Park: **2** hold an assessment licence and **3** hold a remediation licence. Another 148 are elsewhere in Nassau County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=new-hyde-park&st=ny) [All New Hyde Park listings](https://moldroster.com/ny/city/new-hyde-park/)
+[Get quotes](https://moldroster.com/quotes/?city=new-hyde-park&st=ny) [All New Hyde Park listings](https://moldroster.com/ny/city/new-hyde-park/)
 
 ## How do I verify a mold pro's licence in New Hyde Park, NY?
 

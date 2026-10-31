@@ -8,9 +8,9 @@ canonical: https://moldroster.com/tx/county/bowie/
 
 # Licensed mold assessors & remediators in Bowie County, TX
 
-**Quick answer:** 3 TDLR-licensed listings with an address of record in Bowie County (2 mold assessment, 1 mold remediation): 1 firms and 2 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+**Quick answer:** 3 TDLR-licensed listings with an address of record in Bowie County (2 mold assessment, 1 mold remediation): 1 firm and 2 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**3 TDLR-licensed listings** with an address of record in Bowie County (2 mold assessment, 1 mold remediation): 1 firms and 2 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=bowie&st=tx)
+**3 TDLR-licensed listings** with an address of record in Bowie County (2 mold assessment, 1 mold remediation): 1 firm and 2 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=bowie&st=tx)
 
 ## Which licensed mold assessors are in Bowie County, TX? (2)
 

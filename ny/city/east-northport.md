@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/east-northport/
 
 [**Read the East Northport hiring guide →**](https://moldroster.com/ny/city/east-northport/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in East Northport](https://moldroster.com/get-quotes/?city=east-northport&st=ny)
+[How to get quotes in East Northport](https://moldroster.com/quotes/?city=east-northport&st=ny)
 
 ## Which licensed mold assessors and remediators are based in East Northport, NY?
 

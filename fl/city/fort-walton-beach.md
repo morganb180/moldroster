@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/fort-walton-beach/
 
 [**Read the Fort Walton Beach hiring guide →**](https://moldroster.com/fl/city/fort-walton-beach/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Fort Walton Beach](https://moldroster.com/get-quotes/?city=fort-walton-beach&st=fl)
+[How to get quotes in Fort Walton Beach](https://moldroster.com/quotes/?city=fort-walton-beach&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Fort Walton Beach, FL?
 

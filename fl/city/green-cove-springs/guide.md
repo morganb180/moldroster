@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/green-cove-springs/guide/
 
 7 DBPR-licensed listings give an address in Green Cove Springs: **5** hold an assessment licence and **3** hold a remediation licence. Another 19 are elsewhere in Clay County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=green-cove-springs&st=fl) [All Green Cove Springs listings](https://moldroster.com/fl/city/green-cove-springs/)
+[Get quotes](https://moldroster.com/quotes/?city=green-cove-springs&st=fl) [All Green Cove Springs listings](https://moldroster.com/fl/city/green-cove-springs/)
 
 ## What should I ask a mold pro before I sign?
 

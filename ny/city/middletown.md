@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/middletown/
 
 [**Read the Middletown hiring guide →**](https://moldroster.com/ny/city/middletown/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Middletown](https://moldroster.com/get-quotes/?city=middletown&st=ny)
+[How to get quotes in Middletown](https://moldroster.com/quotes/?city=middletown&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Middletown, NY?
 

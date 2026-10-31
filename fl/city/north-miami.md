@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/north-miami/
 
 [**Read the North Miami hiring guide →**](https://moldroster.com/fl/city/north-miami/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in North Miami](https://moldroster.com/get-quotes/?city=north-miami&st=fl)
+[How to get quotes in North Miami](https://moldroster.com/quotes/?city=north-miami&st=fl)
 
 ## Which licensed mold assessors and remediators are based in North Miami, FL?
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/bonita-springs/guide/
 
 7 DBPR-licensed listings give an address in Bonita Springs: **3** hold an assessment licence and **5** hold a remediation licence. Another 182 are elsewhere in Lee County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=bonita-springs&st=fl) [All Bonita Springs listings](https://moldroster.com/fl/city/bonita-springs/)
+[Get quotes](https://moldroster.com/quotes/?city=bonita-springs&st=fl) [All Bonita Springs listings](https://moldroster.com/fl/city/bonita-springs/)
 
 ## Do I need a mold assessment before remediation?
 

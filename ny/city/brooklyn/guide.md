@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/brooklyn/guide/
 
 124 NYS DOL-licensed listings give an address in Brooklyn: **70** hold an assessment licence and **96** hold a remediation licence. Another 2 are elsewhere in Kings County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=brooklyn&st=ny) [All Brooklyn listings](https://moldroster.com/ny/city/brooklyn/)
+[Get quotes](https://moldroster.com/quotes/?city=brooklyn&st=ny) [All Brooklyn listings](https://moldroster.com/ny/city/brooklyn/)
 
 ## How do I verify a mold pro's licence in Brooklyn, NY?
 

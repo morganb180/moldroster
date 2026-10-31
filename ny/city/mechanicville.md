@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/mechanicville/
 
 [**Read the Mechanicville hiring guide →**](https://moldroster.com/ny/city/mechanicville/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Mechanicville](https://moldroster.com/get-quotes/?city=mechanicville&st=ny)
+[How to get quotes in Mechanicville](https://moldroster.com/quotes/?city=mechanicville&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Mechanicville, NY?
 

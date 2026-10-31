@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/conroe/guide/
 
 6 TDLR-licensed listings give an address in Conroe: **2** hold an assessment licence and **4** hold a remediation licence. Another 110 are elsewhere in Montgomery County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=conroe&st=tx) [All Conroe listings](https://moldroster.com/tx/city/conroe/)
+[Get quotes](https://moldroster.com/quotes/?city=conroe&st=tx) [All Conroe listings](https://moldroster.com/tx/city/conroe/)
 
 ## What should I ask a mold pro before I sign?
 

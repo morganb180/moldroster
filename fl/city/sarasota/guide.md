@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/sarasota/guide/
 
 42 DBPR-licensed listings give an address in Sarasota: **25** hold an assessment licence and **29** hold a remediation licence. Another 36 are elsewhere in Sarasota County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=sarasota&st=fl) [All Sarasota listings](https://moldroster.com/fl/city/sarasota/)
+[Get quotes](https://moldroster.com/quotes/?city=sarasota&st=fl) [All Sarasota listings](https://moldroster.com/fl/city/sarasota/)
 
 ## How do I verify a mold pro's licence in Sarasota, FL?
 

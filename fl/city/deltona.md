@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/deltona/
 
 [**Read the Deltona hiring guide →**](https://moldroster.com/fl/city/deltona/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Deltona](https://moldroster.com/get-quotes/?city=deltona&st=fl)
+[How to get quotes in Deltona](https://moldroster.com/quotes/?city=deltona&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Deltona, FL?
 

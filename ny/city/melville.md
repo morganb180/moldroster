@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/melville/
 
 [**Read the Melville hiring guide →**](https://moldroster.com/ny/city/melville/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Melville](https://moldroster.com/get-quotes/?city=melville&st=ny)
+[How to get quotes in Melville](https://moldroster.com/quotes/?city=melville&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Melville, NY?
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/tavernier/guide/
 
 4 DBPR-licensed listings give an address in Tavernier: **3** hold an assessment licence and **3** hold a remediation licence. Another 8 are elsewhere in Monroe County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=tavernier&st=fl) [All Tavernier listings](https://moldroster.com/fl/city/tavernier/)
+[Get quotes](https://moldroster.com/quotes/?city=tavernier&st=fl) [All Tavernier listings](https://moldroster.com/fl/city/tavernier/)
 
 ## How much does mold inspection and remediation cost?
 

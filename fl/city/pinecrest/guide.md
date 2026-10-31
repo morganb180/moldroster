@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/pinecrest/guide/
 
 4 DBPR-licensed listings give an address in Pinecrest: **3** hold an assessment licence and **2** hold a remediation licence. Another 542 are elsewhere in Miami-Dade County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=pinecrest&st=fl) [All Pinecrest listings](https://moldroster.com/fl/city/pinecrest/)
+[Get quotes](https://moldroster.com/quotes/?city=pinecrest&st=fl) [All Pinecrest listings](https://moldroster.com/fl/city/pinecrest/)
 
 ## How much does mold inspection and remediation cost?
 

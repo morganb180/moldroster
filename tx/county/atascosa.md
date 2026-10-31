@@ -8,9 +8,9 @@ canonical: https://moldroster.com/tx/county/atascosa/
 
 # Licensed mold assessors & remediators in Atascosa County, TX
 
-**Quick answer:** 4 TDLR-licensed listings with an address of record in Atascosa County (1 mold assessment, 4 mold remediation): 3 firms and 1 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+**Quick answer:** 4 TDLR-licensed listings with an address of record in Atascosa County (1 mold assessment, 4 mold remediation): 3 firms and 1 individual licensee. Licensed pros often travel, so ask whether they cover your address.
 
-**4 TDLR-licensed listings** with an address of record in Atascosa County (1 mold assessment, 4 mold remediation): 3 firms and 1 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=atascosa&st=tx)
+**4 TDLR-licensed listings** with an address of record in Atascosa County (1 mold assessment, 4 mold remediation): 3 firms and 1 individual licensee. [How to get quotes](https://moldroster.com/quotes/?county=atascosa&st=tx)
 
 ## Which licensed mold assessors are in Atascosa County, TX? (1)
 
@@ -102,9 +102,9 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 **How many licensed mold assessors are in Atascosa County?**
 
-1 listings with a TDLR mold assessment licence and 4 with a remediation licence have an address of record in Atascosa County. Pros from neighboring counties may also serve the area.
+1 listing with a TDLR mold assessment licence and 4 with a remediation licence have an address of record in Atascosa County. Pros from neighboring counties may also serve the area.
 
-**How do I check a Atascosa County mold company's licence?**
+**How do I check an Atascosa County mold company's licence?**
 
 Look it up with the Texas Department of Licensing and Regulation (TDLR). Each listing here shows the licence number and expiry date from the agency's records.
 

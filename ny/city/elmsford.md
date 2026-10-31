@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/elmsford/
 
 [**Read the Elmsford hiring guide →**](https://moldroster.com/ny/city/elmsford/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Elmsford](https://moldroster.com/get-quotes/?city=elmsford&st=ny)
+[How to get quotes in Elmsford](https://moldroster.com/quotes/?city=elmsford&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Elmsford, NY?
 

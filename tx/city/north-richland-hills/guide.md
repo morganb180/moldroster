@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/north-richland-hills/guide/
 
 5 TDLR-licensed listings give an address in North Richland Hills: **2** hold an assessment licence and **3** hold a remediation licence. Another 178 are elsewhere in Tarrant County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=north-richland-hills&st=tx) [All North Richland Hills listings](https://moldroster.com/tx/city/north-richland-hills/)
+[Get quotes](https://moldroster.com/quotes/?city=north-richland-hills&st=tx) [All North Richland Hills listings](https://moldroster.com/tx/city/north-richland-hills/)
 
 ## What are Texas' mold licensing rules?
 

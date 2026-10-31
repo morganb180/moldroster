@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/county/steuben/
 
 **Quick answer:** 2 NYS DOL-licensed listings with an address of record in Steuben County (2 mold assessment, 1 mold remediation): 2 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**2 NYS DOL-licensed listings** with an address of record in Steuben County (2 mold assessment, 1 mold remediation): 2 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=steuben&st=ny)
+**2 NYS DOL-licensed listings** with an address of record in Steuben County (2 mold assessment, 1 mold remediation): 2 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=steuben&st=ny)
 
 ## Which licensed mold assessors are in Steuben County, NY? (2)
 

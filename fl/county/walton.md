@@ -8,9 +8,9 @@ canonical: https://moldroster.com/fl/county/walton/
 
 # Licensed mold assessors & remediators in Walton County, FL
 
-**Quick answer:** 24 DBPR-licensed listings with an address of record in Walton County (13 mold assessment, 21 mold remediation): 1 firms and 23 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+**Quick answer:** 24 DBPR-licensed listings with an address of record in Walton County (13 mold assessment, 21 mold remediation): 1 firm and 23 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**24 DBPR-licensed listings** with an address of record in Walton County (13 mold assessment, 21 mold remediation): 1 firms and 23 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=walton&st=fl)
+**24 DBPR-licensed listings** with an address of record in Walton County (13 mold assessment, 21 mold remediation): 1 firm and 23 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=walton&st=fl)
 
 City pages: [Freeport](https://moldroster.com/fl/city/freeport/) · [Miramar Beach](https://moldroster.com/fl/city/miramar-beach/) · [Santa Rosa Beach](https://moldroster.com/fl/city/santa-rosa-beach/)
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/valley-stream/guide/
 
 10 NYS DOL-licensed listings give an address in Valley Stream: **3** hold an assessment licence and **9** hold a remediation licence. Another 143 are elsewhere in Nassau County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=valley-stream&st=ny) [All Valley Stream listings](https://moldroster.com/ny/city/valley-stream/)
+[Get quotes](https://moldroster.com/quotes/?city=valley-stream&st=ny) [All Valley Stream listings](https://moldroster.com/ny/city/valley-stream/)
 
 ## How do I verify a mold pro's licence in Valley Stream, NY?
 

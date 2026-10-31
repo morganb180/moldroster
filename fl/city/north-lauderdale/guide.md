@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/north-lauderdale/guide/
 
 4 DBPR-licensed listings give an address in North Lauderdale: **2** hold an assessment licence and **4** hold a remediation licence. Another 585 are elsewhere in Broward County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=north-lauderdale&st=fl) [All North Lauderdale listings](https://moldroster.com/fl/city/north-lauderdale/)
+[Get quotes](https://moldroster.com/quotes/?city=north-lauderdale&st=fl) [All North Lauderdale listings](https://moldroster.com/fl/city/north-lauderdale/)
 
 ## What are Florida's mold licensing rules?
 

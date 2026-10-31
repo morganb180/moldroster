@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/jacksonville/guide/
 
 97 DBPR-licensed listings give an address in Jacksonville: **72** hold an assessment licence and **69** hold a remediation licence. Another 9 are elsewhere in Duval County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=jacksonville&st=fl) [All Jacksonville listings](https://moldroster.com/fl/city/jacksonville/)
+[Get quotes](https://moldroster.com/quotes/?city=jacksonville&st=fl) [All Jacksonville listings](https://moldroster.com/fl/city/jacksonville/)
 
 ## How much does mold inspection and remediation cost?
 

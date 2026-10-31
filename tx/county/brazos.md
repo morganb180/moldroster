@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/county/brazos/
 
 **Quick answer:** 26 TDLR-licensed listings with an address of record in Brazos County (14 mold assessment, 12 mold remediation): 7 firms and 19 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**26 TDLR-licensed listings** with an address of record in Brazos County (14 mold assessment, 12 mold remediation): 7 firms and 19 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=brazos&st=tx)
+**26 TDLR-licensed listings** with an address of record in Brazos County (14 mold assessment, 12 mold remediation): 7 firms and 19 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=brazos&st=tx)
 
 City pages: [College Station](https://moldroster.com/tx/city/college-station/)
 

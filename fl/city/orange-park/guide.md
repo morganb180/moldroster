@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/orange-park/guide/
 
 7 DBPR-licensed listings give an address in Orange Park: **7** hold an assessment licence and **5** hold a remediation licence. Another 19 are elsewhere in Clay County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=orange-park&st=fl) [All Orange Park listings](https://moldroster.com/fl/city/orange-park/)
+[Get quotes](https://moldroster.com/quotes/?city=orange-park&st=fl) [All Orange Park listings](https://moldroster.com/fl/city/orange-park/)
 
 ## How much does mold inspection and remediation cost?
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/carrollton/guide/
 
 10 TDLR-licensed listings give an address in Carrollton: **4** hold an assessment licence and **6** hold a remediation licence. Another 179 are elsewhere in Dallas County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=carrollton&st=tx) [All Carrollton listings](https://moldroster.com/tx/city/carrollton/)
+[Get quotes](https://moldroster.com/quotes/?city=carrollton&st=tx) [All Carrollton listings](https://moldroster.com/tx/city/carrollton/)
 
 ## What are Texas' mold licensing rules?
 

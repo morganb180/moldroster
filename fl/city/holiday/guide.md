@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/holiday/guide/
 
 7 DBPR-licensed listings give an address in Holiday: **6** hold an assessment licence and **5** hold a remediation licence. Another 120 are elsewhere in Pasco County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=holiday&st=fl) [All Holiday listings](https://moldroster.com/fl/city/holiday/)
+[Get quotes](https://moldroster.com/quotes/?city=holiday&st=fl) [All Holiday listings](https://moldroster.com/fl/city/holiday/)
 
 ## What should I ask a mold pro before I sign?
 

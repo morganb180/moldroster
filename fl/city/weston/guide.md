@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/weston/guide/
 
 24 DBPR-licensed listings give an address in Weston: **19** hold an assessment licence and **18** hold a remediation licence. Another 565 are elsewhere in Broward County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=weston&st=fl) [All Weston listings](https://moldroster.com/fl/city/weston/)
+[Get quotes](https://moldroster.com/quotes/?city=weston&st=fl) [All Weston listings](https://moldroster.com/fl/city/weston/)
 
 ## How much does mold inspection and remediation cost?
 

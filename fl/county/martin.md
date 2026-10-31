@@ -8,9 +8,9 @@ canonical: https://moldroster.com/fl/county/martin/
 
 # Licensed mold assessors & remediators in Martin County, FL
 
-**Quick answer:** 38 DBPR-licensed listings with an address of record in Martin County (24 mold assessment, 26 mold remediation): 1 firms and 37 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+**Quick answer:** 38 DBPR-licensed listings with an address of record in Martin County (24 mold assessment, 26 mold remediation): 1 firm and 37 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**38 DBPR-licensed listings** with an address of record in Martin County (24 mold assessment, 26 mold remediation): 1 firms and 37 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=martin&st=fl)
+**38 DBPR-licensed listings** with an address of record in Martin County (24 mold assessment, 26 mold remediation): 1 firm and 37 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=martin&st=fl)
 
 City pages: [Jensen Beach](https://moldroster.com/fl/city/jensen-beach/) · [Palm City](https://moldroster.com/fl/city/palm-city/) · [Stuart](https://moldroster.com/fl/city/stuart/)
 

@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/merritt-island/
 
 [**Read the Merritt Island hiring guide →**](https://moldroster.com/fl/city/merritt-island/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Merritt Island](https://moldroster.com/get-quotes/?city=merritt-island&st=fl)
+[How to get quotes in Merritt Island](https://moldroster.com/quotes/?city=merritt-island&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Merritt Island, FL?
 

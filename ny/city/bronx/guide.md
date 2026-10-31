@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/bronx/guide/
 
 51 NYS DOL-licensed listings give an address in Bronx: **28** hold an assessment licence and **36** hold a remediation licence. Another 2 are elsewhere in Bronx County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=bronx&st=ny) [All Bronx listings](https://moldroster.com/ny/city/bronx/)
+[Get quotes](https://moldroster.com/quotes/?city=bronx&st=ny) [All Bronx listings](https://moldroster.com/ny/city/bronx/)
 
 ## How much does mold inspection and remediation cost?
 

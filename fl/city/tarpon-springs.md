@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/tarpon-springs/
 
 [**Read the Tarpon Springs hiring guide →**](https://moldroster.com/fl/city/tarpon-springs/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Tarpon Springs](https://moldroster.com/get-quotes/?city=tarpon-springs&st=fl)
+[How to get quotes in Tarpon Springs](https://moldroster.com/quotes/?city=tarpon-springs&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Tarpon Springs, FL?
 

@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/pensacola/
 
 [**Read the Pensacola hiring guide →**](https://moldroster.com/fl/city/pensacola/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Pensacola](https://moldroster.com/get-quotes/?city=pensacola&st=fl)
+[How to get quotes in Pensacola](https://moldroster.com/quotes/?city=pensacola&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Pensacola, FL?
 

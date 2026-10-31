@@ -8,9 +8,9 @@ canonical: https://moldroster.com/tx/county/bell/
 
 # Licensed mold assessors & remediators in Bell County, TX
 
-**Quick answer:** 14 TDLR-licensed listings with an address of record in Bell County (4 mold assessment, 10 mold remediation): 1 firms and 13 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+**Quick answer:** 14 TDLR-licensed listings with an address of record in Bell County (4 mold assessment, 10 mold remediation): 1 firm and 13 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**14 TDLR-licensed listings** with an address of record in Bell County (4 mold assessment, 10 mold remediation): 1 firms and 13 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=bell&st=tx)
+**14 TDLR-licensed listings** with an address of record in Bell County (4 mold assessment, 10 mold remediation): 1 firm and 13 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=bell&st=tx)
 
 ## Which licensed mold assessors are in Bell County, TX? (4)
 

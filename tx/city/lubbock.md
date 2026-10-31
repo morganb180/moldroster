@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/city/lubbock/
 
 [**Read the Lubbock hiring guide →**](https://moldroster.com/tx/city/lubbock/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Lubbock](https://moldroster.com/get-quotes/?city=lubbock&st=tx)
+[How to get quotes in Lubbock](https://moldroster.com/quotes/?city=lubbock&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Lubbock, TX?
 

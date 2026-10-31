@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/coconut-creek/
 
 [**Read the Coconut Creek hiring guide →**](https://moldroster.com/fl/city/coconut-creek/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Coconut Creek](https://moldroster.com/get-quotes/?city=coconut-creek&st=fl)
+[How to get quotes in Coconut Creek](https://moldroster.com/quotes/?city=coconut-creek&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Coconut Creek, FL?
 

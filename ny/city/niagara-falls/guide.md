@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/niagara-falls/guide/
 
 4 NYS DOL-licensed listings give an address in Niagara Falls: **1** hold an assessment licence and **3** hold a remediation licence. Another 3 are elsewhere in Niagara County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=niagara-falls&st=ny) [All Niagara Falls listings](https://moldroster.com/ny/city/niagara-falls/)
+[Get quotes](https://moldroster.com/quotes/?city=niagara-falls&st=ny) [All Niagara Falls listings](https://moldroster.com/ny/city/niagara-falls/)
 
 ## What should I ask a mold pro before I sign?
 
@@ -131,7 +131,7 @@ Look the name up in the NYS DOL records and check the licence is still current. 
 
 **How do I find a licensed mold inspector in Niagara Falls?**
 
-Start with the 1 listings in Niagara Falls that hold a NYS DOL assessment licence, then confirm the licence with the agency.
+Start with the 1 listing in Niagara Falls that hold a NYS DOL assessment licence, then confirm the licence with the agency.
 
 **How much does mold remediation cost in Niagara Falls?**
 

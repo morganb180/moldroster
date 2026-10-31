@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/miami-lakes/
 
 [**Read the Miami Lakes hiring guide →**](https://moldroster.com/fl/city/miami-lakes/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Miami Lakes](https://moldroster.com/get-quotes/?city=miami-lakes&st=fl)
+[How to get quotes in Miami Lakes](https://moldroster.com/quotes/?city=miami-lakes&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Miami Lakes, FL?
 

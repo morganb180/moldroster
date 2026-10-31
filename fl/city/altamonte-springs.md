@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/altamonte-springs/
 
 [**Read the Altamonte Springs hiring guide →**](https://moldroster.com/fl/city/altamonte-springs/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Altamonte Springs](https://moldroster.com/get-quotes/?city=altamonte-springs&st=fl)
+[How to get quotes in Altamonte Springs](https://moldroster.com/quotes/?city=altamonte-springs&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Altamonte Springs, FL?
 

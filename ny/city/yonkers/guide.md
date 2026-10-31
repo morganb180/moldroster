@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/yonkers/guide/
 
 23 NYS DOL-licensed listings give an address in Yonkers: **8** hold an assessment licence and **19** hold a remediation licence. Another 79 are elsewhere in Westchester County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=yonkers&st=ny) [All Yonkers listings](https://moldroster.com/ny/city/yonkers/)
+[Get quotes](https://moldroster.com/quotes/?city=yonkers&st=ny) [All Yonkers listings](https://moldroster.com/ny/city/yonkers/)
 
 ## Do I need a mold assessment before remediation?
 

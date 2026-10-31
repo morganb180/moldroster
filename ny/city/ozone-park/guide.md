@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/ozone-park/guide/
 
 4 NYS DOL-licensed listings give an address in Ozone Park: **0** hold an assessment licence and **4** hold a remediation licence. Another 150 are elsewhere in Queens County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=ozone-park&st=ny) [All Ozone Park listings](https://moldroster.com/ny/city/ozone-park/)
+[Get quotes](https://moldroster.com/quotes/?city=ozone-park&st=ny) [All Ozone Park listings](https://moldroster.com/ny/city/ozone-park/)
 
 ## What are New York's mold licensing rules?
 

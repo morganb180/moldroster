@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/homestead/
 
 [**Read the Homestead hiring guide →**](https://moldroster.com/fl/city/homestead/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Homestead](https://moldroster.com/get-quotes/?city=homestead&st=fl)
+[How to get quotes in Homestead](https://moldroster.com/quotes/?city=homestead&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Homestead, FL?
 

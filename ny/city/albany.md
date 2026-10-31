@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/albany/
 
 [**Read the Albany hiring guide →**](https://moldroster.com/ny/city/albany/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Albany](https://moldroster.com/get-quotes/?city=albany&st=ny)
+[How to get quotes in Albany](https://moldroster.com/quotes/?city=albany&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Albany, NY?
 

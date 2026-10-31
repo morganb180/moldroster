@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/stuart/guide/
 
 23 DBPR-licensed listings give an address in Stuart: **14** hold an assessment licence and **16** hold a remediation licence. Another 15 are elsewhere in Martin County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=stuart&st=fl) [All Stuart listings](https://moldroster.com/fl/city/stuart/)
+[Get quotes](https://moldroster.com/quotes/?city=stuart&st=fl) [All Stuart listings](https://moldroster.com/fl/city/stuart/)
 
 ## How do I verify a mold pro's licence in Stuart, FL?
 

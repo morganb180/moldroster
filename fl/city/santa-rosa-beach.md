@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/santa-rosa-beach/
 
 [**Read the Santa Rosa Beach hiring guide →**](https://moldroster.com/fl/city/santa-rosa-beach/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Santa Rosa Beach](https://moldroster.com/get-quotes/?city=santa-rosa-beach&st=fl)
+[How to get quotes in Santa Rosa Beach](https://moldroster.com/quotes/?city=santa-rosa-beach&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Santa Rosa Beach, FL?
 

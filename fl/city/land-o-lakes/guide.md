@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/land-o-lakes/guide/
 
 19 DBPR-licensed listings give an address in Land O' Lakes: **17** hold an assessment licence and **10** hold a remediation licence. Another 108 are elsewhere in Pasco County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=land-o-lakes&st=fl) [All Land O' Lakes listings](https://moldroster.com/fl/city/land-o-lakes/)
+[Get quotes](https://moldroster.com/quotes/?city=land-o-lakes&st=fl) [All Land O' Lakes listings](https://moldroster.com/fl/city/land-o-lakes/)
 
 ## How much does mold inspection and remediation cost?
 

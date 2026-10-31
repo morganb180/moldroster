@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/haines-city/guide/
 
 4 DBPR-licensed listings give an address in Haines City: **3** hold an assessment licence and **1** hold a remediation licence. Another 74 are elsewhere in Polk County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=haines-city&st=fl) [All Haines City listings](https://moldroster.com/fl/city/haines-city/)
+[Get quotes](https://moldroster.com/quotes/?city=haines-city&st=fl) [All Haines City listings](https://moldroster.com/fl/city/haines-city/)
 
 ## How do I verify a mold pro's licence in Haines City, FL?
 

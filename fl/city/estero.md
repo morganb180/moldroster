@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/estero/
 
 [**Read the Estero hiring guide →**](https://moldroster.com/fl/city/estero/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Estero](https://moldroster.com/get-quotes/?city=estero&st=fl)
+[How to get quotes in Estero](https://moldroster.com/quotes/?city=estero&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Estero, FL?
 

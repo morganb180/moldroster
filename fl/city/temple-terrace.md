@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/temple-terrace/
 
 [**Read the Temple Terrace hiring guide →**](https://moldroster.com/fl/city/temple-terrace/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Temple Terrace](https://moldroster.com/get-quotes/?city=temple-terrace&st=fl)
+[How to get quotes in Temple Terrace](https://moldroster.com/quotes/?city=temple-terrace&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Temple Terrace, FL?
 

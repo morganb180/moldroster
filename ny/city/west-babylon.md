@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/west-babylon/
 
 [**Read the West Babylon hiring guide →**](https://moldroster.com/ny/city/west-babylon/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in West Babylon](https://moldroster.com/get-quotes/?city=west-babylon&st=ny)
+[How to get quotes in West Babylon](https://moldroster.com/quotes/?city=west-babylon&st=ny)
 
 ## Which licensed mold assessors and remediators are based in West Babylon, NY?
 

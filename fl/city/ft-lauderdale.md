@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/ft-lauderdale/
 
 [**Read the Ft. Lauderdale hiring guide →**](https://moldroster.com/fl/city/ft-lauderdale/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Ft. Lauderdale](https://moldroster.com/get-quotes/?city=ft-lauderdale&st=fl)
+[How to get quotes in Ft. Lauderdale](https://moldroster.com/quotes/?city=ft-lauderdale&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Ft. Lauderdale, FL?
 

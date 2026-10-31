@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/palm-springs/guide/
 
 5 DBPR-licensed listings give an address in Palm Springs: **1** hold an assessment licence and **5** hold a remediation licence. Another 365 are elsewhere in Palm Beach County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=palm-springs&st=fl) [All Palm Springs listings](https://moldroster.com/fl/city/palm-springs/)
+[Get quotes](https://moldroster.com/quotes/?city=palm-springs&st=fl) [All Palm Springs listings](https://moldroster.com/fl/city/palm-springs/)
 
 ## What should I ask a mold pro before I sign?
 
@@ -117,7 +117,7 @@ Look the name up in the DBPR records and check the licence is still current. Ask
 
 **How do I find a licensed mold inspector in Palm Springs?**
 
-Start with the 1 listings in Palm Springs that hold a DBPR assessment licence, then confirm the licence with the agency.
+Start with the 1 listing in Palm Springs that hold a DBPR assessment licence, then confirm the licence with the agency.
 
 **How much does mold remediation cost in Palm Springs?**
 

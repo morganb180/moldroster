@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/holbrook/
 
 [**Read the Holbrook hiring guide →**](https://moldroster.com/ny/city/holbrook/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Holbrook](https://moldroster.com/get-quotes/?city=holbrook&st=ny)
+[How to get quotes in Holbrook](https://moldroster.com/quotes/?city=holbrook&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Holbrook, NY?
 

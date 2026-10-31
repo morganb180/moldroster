@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/cape-coral/guide/
 
 84 DBPR-licensed listings give an address in Cape Coral: **63** hold an assessment licence and **61** hold a remediation licence. Another 105 are elsewhere in Lee County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=cape-coral&st=fl) [All Cape Coral listings](https://moldroster.com/fl/city/cape-coral/)
+[Get quotes](https://moldroster.com/quotes/?city=cape-coral&st=fl) [All Cape Coral listings](https://moldroster.com/fl/city/cape-coral/)
 
 ## How much does mold inspection and remediation cost?
 

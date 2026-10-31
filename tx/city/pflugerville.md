@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/city/pflugerville/
 
 [**Read the Pflugerville hiring guide →**](https://moldroster.com/tx/city/pflugerville/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Pflugerville](https://moldroster.com/get-quotes/?city=pflugerville&st=tx)
+[How to get quotes in Pflugerville](https://moldroster.com/quotes/?city=pflugerville&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Pflugerville, TX?
 

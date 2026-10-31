@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/county/desoto/
 
 **Quick answer:** 3 DBPR-licensed listings with an address of record in DeSoto County (2 mold assessment, 2 mold remediation): 0 firms and 3 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**3 DBPR-licensed listings** with an address of record in DeSoto County (2 mold assessment, 2 mold remediation): 0 firms and 3 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=desoto&st=fl)
+**3 DBPR-licensed listings** with an address of record in DeSoto County (2 mold assessment, 2 mold remediation): 0 firms and 3 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=desoto&st=fl)
 
 ## Which licensed mold assessors are in DeSoto County, FL? (2)
 

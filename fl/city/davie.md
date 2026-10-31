@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/davie/
 
 [**Read the Davie hiring guide →**](https://moldroster.com/fl/city/davie/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Davie](https://moldroster.com/get-quotes/?city=davie&st=fl)
+[How to get quotes in Davie](https://moldroster.com/quotes/?city=davie&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Davie, FL?
 

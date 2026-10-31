@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/yorktown-heights/
 
 [**Read the Yorktown Heights hiring guide →**](https://moldroster.com/ny/city/yorktown-heights/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Yorktown Heights](https://moldroster.com/get-quotes/?city=yorktown-heights&st=ny)
+[How to get quotes in Yorktown Heights](https://moldroster.com/quotes/?city=yorktown-heights&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Yorktown Heights, NY?
 

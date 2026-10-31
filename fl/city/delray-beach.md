@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/delray-beach/
 
 [**Read the Delray Beach hiring guide →**](https://moldroster.com/fl/city/delray-beach/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Delray Beach](https://moldroster.com/get-quotes/?city=delray-beach&st=fl)
+[How to get quotes in Delray Beach](https://moldroster.com/quotes/?city=delray-beach&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Delray Beach, FL?
 

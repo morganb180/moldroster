@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/st-johns/
 
 [**Read the St. Johns hiring guide →**](https://moldroster.com/fl/city/st-johns/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in St. Johns](https://moldroster.com/get-quotes/?city=st-johns&st=fl)
+[How to get quotes in St. Johns](https://moldroster.com/quotes/?city=st-johns&st=fl)
 
 ## Which licensed mold assessors and remediators are based in St. Johns, FL?
 

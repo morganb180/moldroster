@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/city/haltom-city/
 
 [**Read the Haltom City hiring guide →**](https://moldroster.com/tx/city/haltom-city/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Haltom City](https://moldroster.com/get-quotes/?city=haltom-city&st=tx)
+[How to get quotes in Haltom City](https://moldroster.com/quotes/?city=haltom-city&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Haltom City, TX?
 

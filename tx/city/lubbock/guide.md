@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/lubbock/guide/
 
 8 TDLR-licensed listings give an address in Lubbock: **4** hold an assessment licence and **4** hold a remediation licence. Another 18 are elsewhere in Lubbock County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=lubbock&st=tx) [All Lubbock listings](https://moldroster.com/tx/city/lubbock/)
+[Get quotes](https://moldroster.com/quotes/?city=lubbock&st=tx) [All Lubbock listings](https://moldroster.com/tx/city/lubbock/)
 
 ## Do I need a mold assessment before remediation?
 

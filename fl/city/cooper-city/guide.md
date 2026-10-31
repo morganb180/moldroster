@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/cooper-city/guide/
 
 12 DBPR-licensed listings give an address in Cooper City: **12** hold an assessment licence and **11** hold a remediation licence. Another 577 are elsewhere in Broward County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=cooper-city&st=fl) [All Cooper City listings](https://moldroster.com/fl/city/cooper-city/)
+[Get quotes](https://moldroster.com/quotes/?city=cooper-city&st=fl) [All Cooper City listings](https://moldroster.com/fl/city/cooper-city/)
 
 ## What are Florida's mold licensing rules?
 

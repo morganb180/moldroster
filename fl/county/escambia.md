@@ -8,9 +8,9 @@ canonical: https://moldroster.com/fl/county/escambia/
 
 # Licensed mold assessors & remediators in Escambia County, FL
 
-**Quick answer:** 23 DBPR-licensed listings with an address of record in Escambia County (19 mold assessment, 16 mold remediation): 1 firms and 22 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+**Quick answer:** 23 DBPR-licensed listings with an address of record in Escambia County (19 mold assessment, 16 mold remediation): 1 firm and 22 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**23 DBPR-licensed listings** with an address of record in Escambia County (19 mold assessment, 16 mold remediation): 1 firms and 22 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=escambia&st=fl)
+**23 DBPR-licensed listings** with an address of record in Escambia County (19 mold assessment, 16 mold remediation): 1 firm and 22 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=escambia&st=fl)
 
 City pages: [Pensacola](https://moldroster.com/fl/city/pensacola/)
 
@@ -334,7 +334,7 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 19 listings with a DBPR mold assessment licence and 16 with a remediation licence have an address of record in Escambia County. Pros from neighboring counties may also serve the area.
 
-**How do I check a Escambia County mold company's licence?**
+**How do I check an Escambia County mold company's licence?**
 
 Look it up with the Florida Department of Business and Professional Regulation (DBPR). Each listing here shows the licence number and expiry date from the agency's records.
 

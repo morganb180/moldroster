@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/county/cortland/
 
 **Quick answer:** 2 NYS DOL-licensed listings with an address of record in Cortland County (2 mold assessment): 2 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**2 NYS DOL-licensed listings** with an address of record in Cortland County (2 mold assessment): 2 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=cortland&st=ny)
+**2 NYS DOL-licensed listings** with an address of record in Cortland County (2 mold assessment): 2 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=cortland&st=ny)
 
 ## Which licensed mold assessors are in Cortland County, NY? (2)
 

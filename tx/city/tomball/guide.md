@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/tomball/guide/
 
 4 TDLR-licensed listings give an address in Tomball: **0** hold an assessment licence and **4** hold a remediation licence. Another 441 are elsewhere in Harris County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=tomball&st=tx) [All Tomball listings](https://moldroster.com/tx/city/tomball/)
+[Get quotes](https://moldroster.com/quotes/?city=tomball&st=tx) [All Tomball listings](https://moldroster.com/tx/city/tomball/)
 
 ## Do I need a mold assessment before remediation?
 

@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/suffern/
 
 [**Read the Suffern hiring guide →**](https://moldroster.com/ny/city/suffern/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Suffern](https://moldroster.com/get-quotes/?city=suffern&st=ny)
+[How to get quotes in Suffern](https://moldroster.com/quotes/?city=suffern&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Suffern, NY?
 

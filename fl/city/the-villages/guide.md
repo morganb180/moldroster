@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/the-villages/guide/
 
 5 DBPR-licensed listings give an address in The Villages: **4** hold an assessment licence and **2** hold a remediation licence. Another 6 are elsewhere in Sumter County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=the-villages&st=fl) [All The Villages listings](https://moldroster.com/fl/city/the-villages/)
+[Get quotes](https://moldroster.com/quotes/?city=the-villages&st=fl) [All The Villages listings](https://moldroster.com/fl/city/the-villages/)
 
 ## How do I verify a mold pro's licence in The Villages, FL?
 

@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/gainesville/
 
 [**Read the Gainesville hiring guide →**](https://moldroster.com/fl/city/gainesville/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Gainesville](https://moldroster.com/get-quotes/?city=gainesville&st=fl)
+[How to get quotes in Gainesville](https://moldroster.com/quotes/?city=gainesville&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Gainesville, FL?
 

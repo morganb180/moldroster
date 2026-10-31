@@ -8,9 +8,9 @@ canonical: https://moldroster.com/tx/county/lampasas/
 
 # Licensed mold assessors & remediators in Lampasas County, TX
 
-**Quick answer:** 2 TDLR-licensed listings with an address of record in Lampasas County (2 mold assessment, 2 mold remediation): 1 firms and 1 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+**Quick answer:** 2 TDLR-licensed listings with an address of record in Lampasas County (2 mold assessment, 2 mold remediation): 1 firm and 1 individual licensee. Licensed pros often travel, so ask whether they cover your address.
 
-**2 TDLR-licensed listings** with an address of record in Lampasas County (2 mold assessment, 2 mold remediation): 1 firms and 1 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=lampasas&st=tx)
+**2 TDLR-licensed listings** with an address of record in Lampasas County (2 mold assessment, 2 mold remediation): 1 firm and 1 individual licensee. [How to get quotes](https://moldroster.com/quotes/?county=lampasas&st=tx)
 
 ## Which licensed mold assessors are in Lampasas County, TX? (2)
 

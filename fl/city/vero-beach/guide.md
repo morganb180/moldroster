@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/vero-beach/guide/
 
 17 DBPR-licensed listings give an address in Vero Beach: **10** hold an assessment licence and **11** hold a remediation licence. Another 7 are elsewhere in Indian River County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=vero-beach&st=fl) [All Vero Beach listings](https://moldroster.com/fl/city/vero-beach/)
+[Get quotes](https://moldroster.com/quotes/?city=vero-beach&st=fl) [All Vero Beach listings](https://moldroster.com/fl/city/vero-beach/)
 
 ## How much does mold inspection and remediation cost?
 

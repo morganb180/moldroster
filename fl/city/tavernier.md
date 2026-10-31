@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/tavernier/
 
 [**Read the Tavernier hiring guide →**](https://moldroster.com/fl/city/tavernier/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Tavernier](https://moldroster.com/get-quotes/?city=tavernier&st=fl)
+[How to get quotes in Tavernier](https://moldroster.com/quotes/?city=tavernier&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Tavernier, FL?
 

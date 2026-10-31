@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/saugerties/
 
 [**Read the Saugerties hiring guide →**](https://moldroster.com/ny/city/saugerties/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Saugerties](https://moldroster.com/get-quotes/?city=saugerties&st=ny)
+[How to get quotes in Saugerties](https://moldroster.com/quotes/?city=saugerties&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Saugerties, NY?
 

@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/buffalo/
 
 [**Read the Buffalo hiring guide →**](https://moldroster.com/ny/city/buffalo/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Buffalo](https://moldroster.com/get-quotes/?city=buffalo&st=ny)
+[How to get quotes in Buffalo](https://moldroster.com/quotes/?city=buffalo&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Buffalo, NY?
 

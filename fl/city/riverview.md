@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/riverview/
 
 [**Read the Riverview hiring guide →**](https://moldroster.com/fl/city/riverview/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Riverview](https://moldroster.com/get-quotes/?city=riverview&st=fl)
+[How to get quotes in Riverview](https://moldroster.com/quotes/?city=riverview&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Riverview, FL?
 

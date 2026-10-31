@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/north-miami-beach/guide/
 
 7 DBPR-licensed listings give an address in North Miami Beach: **3** hold an assessment licence and **7** hold a remediation licence. Another 539 are elsewhere in Miami-Dade County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=north-miami-beach&st=fl) [All North Miami Beach listings](https://moldroster.com/fl/city/north-miami-beach/)
+[Get quotes](https://moldroster.com/quotes/?city=north-miami-beach&st=fl) [All North Miami Beach listings](https://moldroster.com/fl/city/north-miami-beach/)
 
 ## Do I need a mold assessment before remediation?
 

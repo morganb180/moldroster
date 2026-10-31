@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/palmetto-bay/guide/
 
 7 DBPR-licensed listings give an address in Palmetto Bay: **7** hold an assessment licence and **5** hold a remediation licence. Another 539 are elsewhere in Miami-Dade County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=palmetto-bay&st=fl) [All Palmetto Bay listings](https://moldroster.com/fl/city/palmetto-bay/)
+[Get quotes](https://moldroster.com/quotes/?city=palmetto-bay&st=fl) [All Palmetto Bay listings](https://moldroster.com/fl/city/palmetto-bay/)
 
 ## How much does mold inspection and remediation cost?
 

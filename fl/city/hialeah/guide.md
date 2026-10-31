@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/hialeah/guide/
 
 40 DBPR-licensed listings give an address in Hialeah: **33** hold an assessment licence and **27** hold a remediation licence. Another 506 are elsewhere in Miami-Dade County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=hialeah&st=fl) [All Hialeah listings](https://moldroster.com/fl/city/hialeah/)
+[Get quotes](https://moldroster.com/quotes/?city=hialeah&st=fl) [All Hialeah listings](https://moldroster.com/fl/city/hialeah/)
 
 ## How do I verify a mold pro's licence in Hialeah, FL?
 

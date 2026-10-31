@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/ocoee/guide/
 
 4 DBPR-licensed listings give an address in Ocoee: **3** hold an assessment licence and **2** hold a remediation licence. Another 190 are elsewhere in Orange County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=ocoee&st=fl) [All Ocoee listings](https://moldroster.com/fl/city/ocoee/)
+[Get quotes](https://moldroster.com/quotes/?city=ocoee&st=fl) [All Ocoee listings](https://moldroster.com/fl/city/ocoee/)
 
 ## What are Florida's mold licensing rules?
 

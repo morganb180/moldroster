@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/county/ector/
 
 **Quick answer:** 5 TDLR-licensed listings with an address of record in Ector County (1 mold assessment, 4 mold remediation): 2 firms and 3 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**5 TDLR-licensed listings** with an address of record in Ector County (1 mold assessment, 4 mold remediation): 2 firms and 3 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=ector&st=tx)
+**5 TDLR-licensed listings** with an address of record in Ector County (1 mold assessment, 4 mold remediation): 2 firms and 3 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=ector&st=tx)
 
 ## Which licensed mold assessors are in Ector County, TX? (1)
 
@@ -107,9 +107,9 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 **How many licensed mold assessors are in Ector County?**
 
-1 listings with a TDLR mold assessment licence and 4 with a remediation licence have an address of record in Ector County. Pros from neighboring counties may also serve the area.
+1 listing with a TDLR mold assessment licence and 4 with a remediation licence have an address of record in Ector County. Pros from neighboring counties may also serve the area.
 
-**How do I check a Ector County mold company's licence?**
+**How do I check an Ector County mold company's licence?**
 
 Look it up with the Texas Department of Licensing and Regulation (TDLR). Each listing here shows the licence number and expiry date from the agency's records.
 

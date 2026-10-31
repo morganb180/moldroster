@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/massapequa/
 
 [**Read the Massapequa hiring guide →**](https://moldroster.com/ny/city/massapequa/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Massapequa](https://moldroster.com/get-quotes/?city=massapequa&st=ny)
+[How to get quotes in Massapequa](https://moldroster.com/quotes/?city=massapequa&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Massapequa, NY?
 

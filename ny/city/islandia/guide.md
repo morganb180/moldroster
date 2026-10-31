@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/islandia/guide/
 
 4 NYS DOL-licensed listings give an address in Islandia: **2** hold an assessment licence and **2** hold a remediation licence. Another 181 are elsewhere in Suffolk County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=islandia&st=ny) [All Islandia listings](https://moldroster.com/ny/city/islandia/)
+[Get quotes](https://moldroster.com/quotes/?city=islandia&st=ny) [All Islandia listings](https://moldroster.com/ny/city/islandia/)
 
 ## How much does mold inspection and remediation cost?
 

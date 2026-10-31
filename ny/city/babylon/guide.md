@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/babylon/guide/
 
 5 NYS DOL-licensed listings give an address in Babylon: **4** hold an assessment licence and **2** hold a remediation licence. Another 180 are elsewhere in Suffolk County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=babylon&st=ny) [All Babylon listings](https://moldroster.com/ny/city/babylon/)
+[Get quotes](https://moldroster.com/quotes/?city=babylon&st=ny) [All Babylon listings](https://moldroster.com/ny/city/babylon/)
 
 ## What are New York's mold licensing rules?
 

@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/centereach/
 
 [**Read the Centereach hiring guide →**](https://moldroster.com/ny/city/centereach/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Centereach](https://moldroster.com/get-quotes/?city=centereach&st=ny)
+[How to get quotes in Centereach](https://moldroster.com/quotes/?city=centereach&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Centereach, NY?
 

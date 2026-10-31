@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/farmingdale/
 
 [**Read the Farmingdale hiring guide →**](https://moldroster.com/ny/city/farmingdale/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Farmingdale](https://moldroster.com/get-quotes/?city=farmingdale&st=ny)
+[How to get quotes in Farmingdale](https://moldroster.com/quotes/?city=farmingdale&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Farmingdale, NY?
 

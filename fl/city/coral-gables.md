@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/coral-gables/
 
 [**Read the Coral Gables hiring guide →**](https://moldroster.com/fl/city/coral-gables/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Coral Gables](https://moldroster.com/get-quotes/?city=coral-gables&st=fl)
+[How to get quotes in Coral Gables](https://moldroster.com/quotes/?city=coral-gables&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Coral Gables, FL?
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/lake-worth/guide/
 
 37 DBPR-licensed listings give an address in Lake Worth: **27** hold an assessment licence and **26** hold a remediation licence. Another 333 are elsewhere in Palm Beach County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=lake-worth&st=fl) [All Lake Worth listings](https://moldroster.com/fl/city/lake-worth/)
+[Get quotes](https://moldroster.com/quotes/?city=lake-worth&st=fl) [All Lake Worth listings](https://moldroster.com/fl/city/lake-worth/)
 
 ## What should I ask a mold pro before I sign?
 

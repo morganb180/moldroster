@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/county/parker/
 
 **Quick answer:** 10 TDLR-licensed listings with an address of record in Parker County (3 mold assessment, 7 mold remediation): 2 firms and 8 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**10 TDLR-licensed listings** with an address of record in Parker County (3 mold assessment, 7 mold remediation): 2 firms and 8 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=parker&st=tx)
+**10 TDLR-licensed listings** with an address of record in Parker County (3 mold assessment, 7 mold remediation): 2 firms and 8 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=parker&st=tx)
 
 ## Which licensed mold assessors are in Parker County, TX? (3)
 

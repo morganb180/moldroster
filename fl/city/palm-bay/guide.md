@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/palm-bay/guide/
 
 12 DBPR-licensed listings give an address in Palm Bay: **9** hold an assessment licence and **6** hold a remediation licence. Another 81 are elsewhere in Brevard County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=palm-bay&st=fl) [All Palm Bay listings](https://moldroster.com/fl/city/palm-bay/)
+[Get quotes](https://moldroster.com/quotes/?city=palm-bay&st=fl) [All Palm Bay listings](https://moldroster.com/fl/city/palm-bay/)
 
 ## How do I verify a mold pro's licence in Palm Bay, FL?
 

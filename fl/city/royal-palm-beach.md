@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/royal-palm-beach/
 
 [**Read the Royal Palm Beach hiring guide →**](https://moldroster.com/fl/city/royal-palm-beach/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Royal Palm Beach](https://moldroster.com/get-quotes/?city=royal-palm-beach&st=fl)
+[How to get quotes in Royal Palm Beach](https://moldroster.com/quotes/?city=royal-palm-beach&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Royal Palm Beach, FL?
 

@@ -8,9 +8,9 @@ canonical: https://moldroster.com/fl/county/sarasota/
 
 # Licensed mold assessors & remediators in Sarasota County, FL
 
-**Quick answer:** 70 DBPR-licensed listings with an address of record in Sarasota County (46 mold assessment, 45 mold remediation): 1 firms and 69 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+**Quick answer:** 70 DBPR-licensed listings with an address of record in Sarasota County (46 mold assessment, 45 mold remediation): 1 firm and 69 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**70 DBPR-licensed listings** with an address of record in Sarasota County (46 mold assessment, 45 mold remediation): 1 firms and 69 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=sarasota&st=fl)
+**70 DBPR-licensed listings** with an address of record in Sarasota County (46 mold assessment, 45 mold remediation): 1 firm and 69 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=sarasota&st=fl)
 
 City pages: [Nokomis](https://moldroster.com/fl/city/nokomis/) · [North Port](https://moldroster.com/fl/city/north-port/) · [Sarasota](https://moldroster.com/fl/city/sarasota/) · [Venice](https://moldroster.com/fl/city/venice/)
 

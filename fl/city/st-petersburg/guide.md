@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/st-petersburg/guide/
 
 48 DBPR-licensed listings give an address in St. Petersburg: **32** hold an assessment licence and **34** hold a remediation licence. Another 135 are elsewhere in Pinellas County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=st-petersburg&st=fl) [All St. Petersburg listings](https://moldroster.com/fl/city/st-petersburg/)
+[Get quotes](https://moldroster.com/quotes/?city=st-petersburg&st=fl) [All St. Petersburg listings](https://moldroster.com/fl/city/st-petersburg/)
 
 ## What are Florida's mold licensing rules?
 

@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/bradenton/
 
 [**Read the Bradenton hiring guide →**](https://moldroster.com/fl/city/bradenton/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Bradenton](https://moldroster.com/get-quotes/?city=bradenton&st=fl)
+[How to get quotes in Bradenton](https://moldroster.com/quotes/?city=bradenton&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Bradenton, FL?
 

@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/city/conroe/
 
 [**Read the Conroe hiring guide →**](https://moldroster.com/tx/city/conroe/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Conroe](https://moldroster.com/get-quotes/?city=conroe&st=tx)
+[How to get quotes in Conroe](https://moldroster.com/quotes/?city=conroe&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Conroe, TX?
 

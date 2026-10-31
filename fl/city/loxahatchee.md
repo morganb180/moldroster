@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/loxahatchee/
 
 [**Read the Loxahatchee hiring guide →**](https://moldroster.com/fl/city/loxahatchee/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Loxahatchee](https://moldroster.com/get-quotes/?city=loxahatchee&st=fl)
+[How to get quotes in Loxahatchee](https://moldroster.com/quotes/?city=loxahatchee&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Loxahatchee, FL?
 

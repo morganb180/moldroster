@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/mount-vernon/
 
 [**Read the Mount Vernon hiring guide →**](https://moldroster.com/ny/city/mount-vernon/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Mount Vernon](https://moldroster.com/get-quotes/?city=mount-vernon&st=ny)
+[How to get quotes in Mount Vernon](https://moldroster.com/quotes/?city=mount-vernon&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Mount Vernon, NY?
 

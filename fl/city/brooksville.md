@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/brooksville/
 
 [**Read the Brooksville hiring guide →**](https://moldroster.com/fl/city/brooksville/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Brooksville](https://moldroster.com/get-quotes/?city=brooksville&st=fl)
+[How to get quotes in Brooksville](https://moldroster.com/quotes/?city=brooksville&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Brooksville, FL?
 

@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/city/mansfield/
 
 [**Read the Mansfield hiring guide →**](https://moldroster.com/tx/city/mansfield/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Mansfield](https://moldroster.com/get-quotes/?city=mansfield&st=tx)
+[How to get quotes in Mansfield](https://moldroster.com/quotes/?city=mansfield&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Mansfield, TX?
 

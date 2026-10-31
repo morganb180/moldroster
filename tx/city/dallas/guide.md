@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/dallas/guide/
 
 25 TDLR-licensed listings give an address in Dallas: **12** hold an assessment licence and **13** hold a remediation licence. Another 161 are elsewhere in Dallas County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=dallas&st=tx) [All Dallas listings](https://moldroster.com/tx/city/dallas/)
+[Get quotes](https://moldroster.com/quotes/?city=dallas&st=tx) [All Dallas listings](https://moldroster.com/tx/city/dallas/)
 
 ## How much does mold inspection and remediation cost?
 

@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/ocala/
 
 [**Read the Ocala hiring guide →**](https://moldroster.com/fl/city/ocala/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Ocala](https://moldroster.com/get-quotes/?city=ocala&st=fl)
+[How to get quotes in Ocala](https://moldroster.com/quotes/?city=ocala&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Ocala, FL?
 

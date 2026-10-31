@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/brooklyn/
 
 [**Read the Brooklyn hiring guide →**](https://moldroster.com/ny/city/brooklyn/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Brooklyn](https://moldroster.com/get-quotes/?city=brooklyn&st=ny)
+[How to get quotes in Brooklyn](https://moldroster.com/quotes/?city=brooklyn&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Brooklyn, NY?
 

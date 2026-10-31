@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/county/kendall/
 
 **Quick answer:** 10 TDLR-licensed listings with an address of record in Kendall County (3 mold assessment, 7 mold remediation): 6 firms and 4 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**10 TDLR-licensed listings** with an address of record in Kendall County (3 mold assessment, 7 mold remediation): 6 firms and 4 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=kendall&st=tx)
+**10 TDLR-licensed listings** with an address of record in Kendall County (3 mold assessment, 7 mold remediation): 6 firms and 4 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=kendall&st=tx)
 
 City pages: [Boerne](https://moldroster.com/tx/city/boerne/)
 

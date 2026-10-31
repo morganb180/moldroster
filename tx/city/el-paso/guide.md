@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/el-paso/guide/
 
 10 TDLR-licensed listings give an address in El Paso: **3** hold an assessment licence and **7** hold a remediation licence. Another 29 are elsewhere in El Paso County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=el-paso&st=tx) [All El Paso listings](https://moldroster.com/tx/city/el-paso/)
+[Get quotes](https://moldroster.com/quotes/?city=el-paso&st=tx) [All El Paso listings](https://moldroster.com/tx/city/el-paso/)
 
 ## What should I ask a mold pro before I sign?
 

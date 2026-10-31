@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/city/humble/
 
 [**Read the Humble hiring guide →**](https://moldroster.com/tx/city/humble/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Humble](https://moldroster.com/get-quotes/?city=humble&st=tx)
+[How to get quotes in Humble](https://moldroster.com/quotes/?city=humble&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Humble, TX?
 

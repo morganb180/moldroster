@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/green-cove-springs/
 
 [**Read the Green Cove Springs hiring guide →**](https://moldroster.com/fl/city/green-cove-springs/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Green Cove Springs](https://moldroster.com/get-quotes/?city=green-cove-springs&st=fl)
+[How to get quotes in Green Cove Springs](https://moldroster.com/quotes/?city=green-cove-springs&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Green Cove Springs, FL?
 

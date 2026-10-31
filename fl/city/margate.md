@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/margate/
 
 [**Read the Margate hiring guide →**](https://moldroster.com/fl/city/margate/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Margate](https://moldroster.com/get-quotes/?city=margate&st=fl)
+[How to get quotes in Margate](https://moldroster.com/quotes/?city=margate&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Margate, FL?
 

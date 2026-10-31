@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/rotonda-west/guide/
 
 5 DBPR-licensed listings give an address in Rotonda West: **5** hold an assessment licence and **2** hold a remediation licence. Another 37 are elsewhere in Charlotte County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=rotonda-west&st=fl) [All Rotonda West listings](https://moldroster.com/fl/city/rotonda-west/)
+[Get quotes](https://moldroster.com/quotes/?city=rotonda-west&st=fl) [All Rotonda West listings](https://moldroster.com/fl/city/rotonda-west/)
 
 ## How much does mold inspection and remediation cost?
 

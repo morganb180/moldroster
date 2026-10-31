@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/county/harrison/
 
 **Quick answer:** 3 TDLR-licensed listings with an address of record in Harrison County (2 mold assessment, 1 mold remediation): 0 firms and 3 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**3 TDLR-licensed listings** with an address of record in Harrison County (2 mold assessment, 1 mold remediation): 0 firms and 3 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=harrison&st=tx)
+**3 TDLR-licensed listings** with an address of record in Harrison County (2 mold assessment, 1 mold remediation): 0 firms and 3 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=harrison&st=tx)
 
 ## Which licensed mold assessors are in Harrison County, TX? (2)
 

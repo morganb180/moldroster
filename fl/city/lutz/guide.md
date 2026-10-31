@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/lutz/guide/
 
 16 DBPR-licensed listings give an address in Lutz: **14** hold an assessment licence and **10** hold a remediation licence. Another 223 are elsewhere in Hillsborough County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=lutz&st=fl) [All Lutz listings](https://moldroster.com/fl/city/lutz/)
+[Get quotes](https://moldroster.com/quotes/?city=lutz&st=fl) [All Lutz listings](https://moldroster.com/fl/city/lutz/)
 
 ## How do I verify a mold pro's licence in Lutz, FL?
 

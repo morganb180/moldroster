@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/plant-city/
 
 [**Read the Plant City hiring guide →**](https://moldroster.com/fl/city/plant-city/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Plant City](https://moldroster.com/get-quotes/?city=plant-city&st=fl)
+[How to get quotes in Plant City](https://moldroster.com/quotes/?city=plant-city&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Plant City, FL?
 

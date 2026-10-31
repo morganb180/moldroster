@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/royse-city/guide/
 
 4 TDLR-licensed listings give an address in Royse City: **1** hold an assessment licence and **3** hold a remediation licence. Another 22 are elsewhere in Rockwall County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=royse-city&st=tx) [All Royse City listings](https://moldroster.com/tx/city/royse-city/)
+[Get quotes](https://moldroster.com/quotes/?city=royse-city&st=tx) [All Royse City listings](https://moldroster.com/tx/city/royse-city/)
 
 ## How much does mold inspection and remediation cost?
 
@@ -130,7 +130,7 @@ Summary of 16 Texas Administrative Code Chapter 78 (Texas Mold Assessment and Re
 
 **How do I find a licensed mold inspector in Royse City?**
 
-Start with the 1 listings in Royse City that hold a TDLR assessment licence, then confirm the licence with the agency.
+Start with the 1 listing in Royse City that hold a TDLR assessment licence, then confirm the licence with the agency.
 
 **How much does mold remediation cost in Royse City?**
 

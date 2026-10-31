@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/levittown/
 
 [**Read the Levittown hiring guide →**](https://moldroster.com/ny/city/levittown/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Levittown](https://moldroster.com/get-quotes/?city=levittown&st=ny)
+[How to get quotes in Levittown](https://moldroster.com/quotes/?city=levittown&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Levittown, NY?
 

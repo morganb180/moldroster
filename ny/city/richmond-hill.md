@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/richmond-hill/
 
 [**Read the Richmond Hill hiring guide →**](https://moldroster.com/ny/city/richmond-hill/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Richmond Hill](https://moldroster.com/get-quotes/?city=richmond-hill&st=ny)
+[How to get quotes in Richmond Hill](https://moldroster.com/quotes/?city=richmond-hill&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Richmond Hill, NY?
 

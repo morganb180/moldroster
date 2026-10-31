@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/san-antonio/guide/
 
 5 DBPR-licensed listings give an address in San Antonio: **1** hold an assessment licence and **4** hold a remediation licence. Another 123 are elsewhere in Pasco County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=san-antonio&st=fl) [All San Antonio listings](https://moldroster.com/fl/city/san-antonio/)
+[Get quotes](https://moldroster.com/quotes/?city=san-antonio&st=fl) [All San Antonio listings](https://moldroster.com/fl/city/san-antonio/)
 
 ## How much does mold inspection and remediation cost?
 
@@ -115,7 +115,7 @@ Summary of Florida Statutes Chapter 468, Part XVI (Mold-Related Services). See t
 
 **How do I find a licensed mold inspector in San Antonio?**
 
-Start with the 1 listings in San Antonio that hold a DBPR assessment licence, then confirm the licence with the agency.
+Start with the 1 listing in San Antonio that hold a DBPR assessment licence, then confirm the licence with the agency.
 
 **How much does mold remediation cost in San Antonio?**
 

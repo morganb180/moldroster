@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/miramar/
 
 [**Read the Miramar hiring guide →**](https://moldroster.com/fl/city/miramar/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Miramar](https://moldroster.com/get-quotes/?city=miramar&st=fl)
+[How to get quotes in Miramar](https://moldroster.com/quotes/?city=miramar&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Miramar, FL?
 

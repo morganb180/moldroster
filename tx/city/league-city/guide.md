@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/league-city/guide/
 
 5 TDLR-licensed listings give an address in League City: **2** hold an assessment licence and **3** hold a remediation licence. Another 29 are elsewhere in Galveston County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=league-city&st=tx) [All League City listings](https://moldroster.com/tx/city/league-city/)
+[Get quotes](https://moldroster.com/quotes/?city=league-city&st=tx) [All League City listings](https://moldroster.com/tx/city/league-city/)
 
 ## How much does mold inspection and remediation cost?
 

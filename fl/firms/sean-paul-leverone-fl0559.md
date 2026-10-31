@@ -1,0 +1,14 @@
+---
+title: "Sean Paul Leverone, Cape Coral, FL | Mold Roster"
+description: "Sean Paul Leverone: mold assessment and mold remediation in Cape Coral, FL. FL DBPR licence details, contact."
+canonical: https://moldroster.com/fl/firms/sean-paul-leverone-fl0559/
+---
+
+# Sean Paul Leverone
+
+* Mold assessment, Mold remediation
+* Licensed by FL DBPR (Florida Department of Business and Professional Regulation)
+* Cape Coral, FL (Lee County)
+* Address: 310 NW 1st Pl, Cape Coral, FL
+
+Source: https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv, retrieved 2026-10-12. Verify: https://www2.myfloridalicense.com/mold-related-services/. Claim / correct: https://moldroster.com/claim-listing/?id=FL0559

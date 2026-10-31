@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/white-plains/
 
 [**Read the White Plains hiring guide →**](https://moldroster.com/ny/city/white-plains/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in White Plains](https://moldroster.com/get-quotes/?city=white-plains&st=ny)
+[How to get quotes in White Plains](https://moldroster.com/quotes/?city=white-plains&st=ny)
 
 ## Which licensed mold assessors and remediators are based in White Plains, NY?
 

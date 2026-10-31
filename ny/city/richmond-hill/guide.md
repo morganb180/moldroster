@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/richmond-hill/guide/
 
 6 NYS DOL-licensed listings give an address in Richmond Hill: **1** hold an assessment licence and **6** hold a remediation licence. Another 148 are elsewhere in Queens County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=richmond-hill&st=ny) [All Richmond Hill listings](https://moldroster.com/ny/city/richmond-hill/)
+[Get quotes](https://moldroster.com/quotes/?city=richmond-hill&st=ny) [All Richmond Hill listings](https://moldroster.com/ny/city/richmond-hill/)
 
 ## What should I ask a mold pro before I sign?
 
@@ -123,7 +123,7 @@ Look the name up in the NYS DOL records and check the licence is still current. 
 
 **How do I find a licensed mold inspector in Richmond Hill?**
 
-Start with the 1 listings in Richmond Hill that hold a NYS DOL assessment licence, then confirm the licence with the agency.
+Start with the 1 listing in Richmond Hill that hold a NYS DOL assessment licence, then confirm the licence with the agency.
 
 **How much does mold remediation cost in Richmond Hill?**
 

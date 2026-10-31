@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/city/tyler/
 
 [**Read the Tyler hiring guide →**](https://moldroster.com/tx/city/tyler/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Tyler](https://moldroster.com/get-quotes/?city=tyler&st=tx)
+[How to get quotes in Tyler](https://moldroster.com/quotes/?city=tyler&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Tyler, TX?
 

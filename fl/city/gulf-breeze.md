@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/gulf-breeze/
 
 [**Read the Gulf Breeze hiring guide →**](https://moldroster.com/fl/city/gulf-breeze/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Gulf Breeze](https://moldroster.com/get-quotes/?city=gulf-breeze&st=fl)
+[How to get quotes in Gulf Breeze](https://moldroster.com/quotes/?city=gulf-breeze&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Gulf Breeze, FL?
 

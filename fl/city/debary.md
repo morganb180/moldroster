@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/debary/
 
 [**Read the Debary hiring guide →**](https://moldroster.com/fl/city/debary/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Debary](https://moldroster.com/get-quotes/?city=debary&st=fl)
+[How to get quotes in Debary](https://moldroster.com/quotes/?city=debary&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Debary, FL?
 

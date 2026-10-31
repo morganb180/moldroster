@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/st-cloud/guide/
 
 8 DBPR-licensed listings give an address in St Cloud: **6** hold an assessment licence and **5** hold a remediation licence. Another 53 are elsewhere in Osceola County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=st-cloud&st=fl) [All St Cloud listings](https://moldroster.com/fl/city/st-cloud/)
+[Get quotes](https://moldroster.com/quotes/?city=st-cloud&st=fl) [All St Cloud listings](https://moldroster.com/fl/city/st-cloud/)
 
 ## What should I ask a mold pro before I sign?
 

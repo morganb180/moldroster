@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/delray-beach/guide/
 
 27 DBPR-licensed listings give an address in Delray Beach: **20** hold an assessment licence and **17** hold a remediation licence. Another 343 are elsewhere in Palm Beach County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=delray-beach&st=fl) [All Delray Beach listings](https://moldroster.com/fl/city/delray-beach/)
+[Get quotes](https://moldroster.com/quotes/?city=delray-beach&st=fl) [All Delray Beach listings](https://moldroster.com/fl/city/delray-beach/)
 
 ## How much does mold inspection and remediation cost?
 

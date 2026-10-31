@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/county/taylor/
 
 **Quick answer:** 18 TDLR-licensed listings with an address of record in Taylor County (6 mold assessment, 13 mold remediation): 5 firms and 13 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**18 TDLR-licensed listings** with an address of record in Taylor County (6 mold assessment, 13 mold remediation): 5 firms and 13 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=taylor&st=tx)
+**18 TDLR-licensed listings** with an address of record in Taylor County (6 mold assessment, 13 mold remediation): 5 firms and 13 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=taylor&st=tx)
 
 City pages: [Abilene](https://moldroster.com/tx/city/abilene/)
 

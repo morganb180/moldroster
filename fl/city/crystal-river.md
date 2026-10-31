@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/crystal-river/
 
 [**Read the Crystal River hiring guide →**](https://moldroster.com/fl/city/crystal-river/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Crystal River](https://moldroster.com/get-quotes/?city=crystal-river&st=fl)
+[How to get quotes in Crystal River](https://moldroster.com/quotes/?city=crystal-river&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Crystal River, FL?
 

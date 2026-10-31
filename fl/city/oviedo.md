@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/oviedo/
 
 [**Read the Oviedo hiring guide →**](https://moldroster.com/fl/city/oviedo/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Oviedo](https://moldroster.com/get-quotes/?city=oviedo&st=fl)
+[How to get quotes in Oviedo](https://moldroster.com/quotes/?city=oviedo&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Oviedo, FL?
 

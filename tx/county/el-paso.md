@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/county/el-paso/
 
 **Quick answer:** 39 TDLR-licensed listings with an address of record in El Paso County (19 mold assessment, 20 mold remediation): 10 firms and 29 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**39 TDLR-licensed listings** with an address of record in El Paso County (19 mold assessment, 20 mold remediation): 10 firms and 29 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=el-paso&st=tx)
+**39 TDLR-licensed listings** with an address of record in El Paso County (19 mold assessment, 20 mold remediation): 10 firms and 29 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=el-paso&st=tx)
 
 City pages: [El Paso](https://moldroster.com/tx/city/el-paso/)
 
@@ -613,7 +613,7 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 19 listings with a TDLR mold assessment licence and 20 with a remediation licence have an address of record in El Paso County. Pros from neighboring counties may also serve the area.
 
-**How do I check a El Paso County mold company's licence?**
+**How do I check an El Paso County mold company's licence?**
 
 Look it up with the Texas Department of Licensing and Regulation (TDLR). Each listing here shows the licence number and expiry date from the agency's records.
 

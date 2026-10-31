@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/county/san-patricio/
 
 **Quick answer:** 2 TDLR-licensed listings with an address of record in San Patricio County (2 mold remediation): 0 firms and 2 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**2 TDLR-licensed listings** with an address of record in San Patricio County (2 mold remediation): 0 firms and 2 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=san-patricio&st=tx)
+**2 TDLR-licensed listings** with an address of record in San Patricio County (2 mold remediation): 0 firms and 2 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=san-patricio&st=tx)
 
 ## Which licensed mold remediators are in San Patricio County, TX? (2)
 

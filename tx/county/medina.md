@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/county/medina/
 
 **Quick answer:** 3 TDLR-licensed listings with an address of record in Medina County (2 mold assessment, 1 mold remediation): 0 firms and 3 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**3 TDLR-licensed listings** with an address of record in Medina County (2 mold assessment, 1 mold remediation): 0 firms and 3 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=medina&st=tx)
+**3 TDLR-licensed listings** with an address of record in Medina County (2 mold assessment, 1 mold remediation): 0 firms and 3 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=medina&st=tx)
 
 ## Which licensed mold assessors are in Medina County, TX? (2)
 

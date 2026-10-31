@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/county/waller/
 
 **Quick answer:** 16 TDLR-licensed listings with an address of record in Waller County (10 mold assessment, 6 mold remediation): 3 firms and 13 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**16 TDLR-licensed listings** with an address of record in Waller County (10 mold assessment, 6 mold remediation): 3 firms and 13 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=waller&st=tx)
+**16 TDLR-licensed listings** with an address of record in Waller County (10 mold assessment, 6 mold remediation): 3 firms and 13 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=waller&st=tx)
 
 ## Which licensed mold assessors are in Waller County, TX? (10)
 

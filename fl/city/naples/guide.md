@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/naples/guide/
 
 71 DBPR-licensed listings give an address in Naples: **48** hold an assessment licence and **51** hold a remediation licence. Another 6 are elsewhere in Collier County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=naples&st=fl) [All Naples listings](https://moldroster.com/fl/city/naples/)
+[Get quotes](https://moldroster.com/quotes/?city=naples&st=fl) [All Naples listings](https://moldroster.com/fl/city/naples/)
 
 ## How much does mold inspection and remediation cost?
 

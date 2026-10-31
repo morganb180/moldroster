@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/glen-head/
 
 [**Read the Glen Head hiring guide →**](https://moldroster.com/ny/city/glen-head/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Glen Head](https://moldroster.com/get-quotes/?city=glen-head&st=ny)
+[How to get quotes in Glen Head](https://moldroster.com/quotes/?city=glen-head&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Glen Head, NY?
 

@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/whitestone/
 
 [**Read the Whitestone hiring guide →**](https://moldroster.com/ny/city/whitestone/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Whitestone](https://moldroster.com/get-quotes/?city=whitestone&st=ny)
+[How to get quotes in Whitestone](https://moldroster.com/quotes/?city=whitestone&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Whitestone, NY?
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/county/denton/
 
 **Quick answer:** 88 TDLR-licensed listings with an address of record in Denton County (54 mold assessment, 38 mold remediation): 23 firms and 65 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**88 TDLR-licensed listings** with an address of record in Denton County (54 mold assessment, 38 mold remediation): 23 firms and 65 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=denton&st=tx)
+**88 TDLR-licensed listings** with an address of record in Denton County (54 mold assessment, 38 mold remediation): 23 firms and 65 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=denton&st=tx)
 
 City pages: [Argyle](https://moldroster.com/tx/city/argyle/) · [Lewisville](https://moldroster.com/tx/city/lewisville/)
 

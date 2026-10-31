@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/nesconset/
 
 [**Read the Nesconset hiring guide →**](https://moldroster.com/ny/city/nesconset/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Nesconset](https://moldroster.com/get-quotes/?city=nesconset&st=ny)
+[How to get quotes in Nesconset](https://moldroster.com/quotes/?city=nesconset&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Nesconset, NY?
 

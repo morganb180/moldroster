@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/port-orange/guide/
 
 8 DBPR-licensed listings give an address in Port Orange: **6** hold an assessment licence and **5** hold a remediation licence. Another 58 are elsewhere in Volusia County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=port-orange&st=fl) [All Port Orange listings](https://moldroster.com/fl/city/port-orange/)
+[Get quotes](https://moldroster.com/quotes/?city=port-orange&st=fl) [All Port Orange listings](https://moldroster.com/fl/city/port-orange/)
 
 ## How much does mold inspection and remediation cost?
 

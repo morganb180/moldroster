@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/county/suwannee/
 
 **Quick answer:** 3 DBPR-licensed listings with an address of record in Suwannee County (1 mold assessment, 3 mold remediation): 0 firms and 3 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**3 DBPR-licensed listings** with an address of record in Suwannee County (1 mold assessment, 3 mold remediation): 0 firms and 3 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=suwannee&st=fl)
+**3 DBPR-licensed listings** with an address of record in Suwannee County (1 mold assessment, 3 mold remediation): 0 firms and 3 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=suwannee&st=fl)
 
 ## Which licensed mold assessors are in Suwannee County, FL? (1)
 
@@ -76,7 +76,7 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 **How many licensed mold assessors are in Suwannee County?**
 
-1 listings with a DBPR mold assessment licence and 3 with a remediation licence have an address of record in Suwannee County. Pros from neighboring counties may also serve the area.
+1 listing with a DBPR mold assessment licence and 3 with a remediation licence have an address of record in Suwannee County. Pros from neighboring counties may also serve the area.
 
 **How do I check a Suwannee County mold company's licence?**
 

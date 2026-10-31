@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/port-richey/
 
 [**Read the Port Richey hiring guide →**](https://moldroster.com/fl/city/port-richey/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Port Richey](https://moldroster.com/get-quotes/?city=port-richey&st=fl)
+[How to get quotes in Port Richey](https://moldroster.com/quotes/?city=port-richey&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Port Richey, FL?
 

@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/patchogue/
 
 [**Read the Patchogue hiring guide →**](https://moldroster.com/ny/city/patchogue/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Patchogue](https://moldroster.com/get-quotes/?city=patchogue&st=ny)
+[How to get quotes in Patchogue](https://moldroster.com/quotes/?city=patchogue&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Patchogue, NY?
 

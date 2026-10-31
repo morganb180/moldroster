@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/cooper-city/
 
 [**Read the Cooper City hiring guide →**](https://moldroster.com/fl/city/cooper-city/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Cooper City](https://moldroster.com/get-quotes/?city=cooper-city&st=fl)
+[How to get quotes in Cooper City](https://moldroster.com/quotes/?city=cooper-city&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Cooper City, FL?
 

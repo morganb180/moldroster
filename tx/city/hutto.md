@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/city/hutto/
 
 [**Read the Hutto hiring guide →**](https://moldroster.com/tx/city/hutto/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Hutto](https://moldroster.com/get-quotes/?city=hutto&st=tx)
+[How to get quotes in Hutto](https://moldroster.com/quotes/?city=hutto&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Hutto, TX?
 

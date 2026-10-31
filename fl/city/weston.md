@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/weston/
 
 [**Read the Weston hiring guide →**](https://moldroster.com/fl/city/weston/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Weston](https://moldroster.com/get-quotes/?city=weston&st=fl)
+[How to get quotes in Weston](https://moldroster.com/quotes/?city=weston&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Weston, FL?
 

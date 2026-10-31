@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/orchard-park/guide/
 
 5 NYS DOL-licensed listings give an address in Orchard Park: **2** hold an assessment licence and **3** hold a remediation licence. Another 37 are elsewhere in Erie County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=orchard-park&st=ny) [All Orchard Park listings](https://moldroster.com/ny/city/orchard-park/)
+[Get quotes](https://moldroster.com/quotes/?city=orchard-park&st=ny) [All Orchard Park listings](https://moldroster.com/ny/city/orchard-park/)
 
 ## What should I ask a mold pro before I sign?
 

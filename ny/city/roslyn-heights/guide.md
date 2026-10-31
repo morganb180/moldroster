@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/roslyn-heights/guide/
 
 4 NYS DOL-licensed listings give an address in Roslyn Heights: **3** hold an assessment licence and **3** hold a remediation licence. Another 149 are elsewhere in Nassau County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=roslyn-heights&st=ny) [All Roslyn Heights listings](https://moldroster.com/ny/city/roslyn-heights/)
+[Get quotes](https://moldroster.com/quotes/?city=roslyn-heights&st=ny) [All Roslyn Heights listings](https://moldroster.com/ny/city/roslyn-heights/)
 
 ## How do I verify a mold pro's licence in Roslyn Heights, NY?
 

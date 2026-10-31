@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/massapequa/guide/
 
 5 NYS DOL-licensed listings give an address in Massapequa: **4** hold an assessment licence and **2** hold a remediation licence. Another 148 are elsewhere in Nassau County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=massapequa&st=ny) [All Massapequa listings](https://moldroster.com/ny/city/massapequa/)
+[Get quotes](https://moldroster.com/quotes/?city=massapequa&st=ny) [All Massapequa listings](https://moldroster.com/ny/city/massapequa/)
 
 ## What are New York's mold licensing rules?
 

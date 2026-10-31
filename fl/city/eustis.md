@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/eustis/
 
 [**Read the Eustis hiring guide →**](https://moldroster.com/fl/city/eustis/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Eustis](https://moldroster.com/get-quotes/?city=eustis&st=fl)
+[How to get quotes in Eustis](https://moldroster.com/quotes/?city=eustis&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Eustis, FL?
 

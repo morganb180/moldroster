@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/city/carrollton/
 
 [**Read the Carrollton hiring guide →**](https://moldroster.com/tx/city/carrollton/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Carrollton](https://moldroster.com/get-quotes/?city=carrollton&st=tx)
+[How to get quotes in Carrollton](https://moldroster.com/quotes/?city=carrollton&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Carrollton, TX?
 

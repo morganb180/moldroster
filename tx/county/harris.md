@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/county/harris/
 
 **Quick answer:** 445 TDLR-licensed listings with an address of record in Harris County (242 mold assessment, 226 mold remediation): 122 firms and 323 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**445 TDLR-licensed listings** with an address of record in Harris County (242 mold assessment, 226 mold remediation): 122 firms and 323 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=harris&st=tx)
+**445 TDLR-licensed listings** with an address of record in Harris County (242 mold assessment, 226 mold remediation): 122 firms and 323 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=harris&st=tx)
 
 City pages: [Cypress](https://moldroster.com/tx/city/cypress/) · [Houston](https://moldroster.com/tx/city/houston/) · [Humble](https://moldroster.com/tx/city/humble/) · [Katy](https://moldroster.com/tx/city/katy/) · [Spring](https://moldroster.com/tx/city/spring/) · [Tomball](https://moldroster.com/tx/city/tomball/)
 

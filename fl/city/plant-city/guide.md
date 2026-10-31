@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/plant-city/guide/
 
 9 DBPR-licensed listings give an address in Plant City: **6** hold an assessment licence and **7** hold a remediation licence. Another 226 are elsewhere in Hillsborough County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=plant-city&st=fl) [All Plant City listings](https://moldroster.com/fl/city/plant-city/)
+[Get quotes](https://moldroster.com/quotes/?city=plant-city&st=fl) [All Plant City listings](https://moldroster.com/fl/city/plant-city/)
 
 ## Do I need a mold assessment before remediation?
 

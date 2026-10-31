@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/hudson/guide/
 
 12 DBPR-licensed listings give an address in Hudson: **9** hold an assessment licence and **9** hold a remediation licence. Another 115 are elsewhere in Pasco County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=hudson&st=fl) [All Hudson listings](https://moldroster.com/fl/city/hudson/)
+[Get quotes](https://moldroster.com/quotes/?city=hudson&st=fl) [All Hudson listings](https://moldroster.com/fl/city/hudson/)
 
 ## How do I verify a mold pro's licence in Hudson, FL?
 

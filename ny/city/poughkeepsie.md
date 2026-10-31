@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/poughkeepsie/
 
 [**Read the Poughkeepsie hiring guide →**](https://moldroster.com/ny/city/poughkeepsie/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Poughkeepsie](https://moldroster.com/get-quotes/?city=poughkeepsie&st=ny)
+[How to get quotes in Poughkeepsie](https://moldroster.com/quotes/?city=poughkeepsie&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Poughkeepsie, NY?
 

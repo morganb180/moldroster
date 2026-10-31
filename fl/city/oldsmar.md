@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/oldsmar/
 
 [**Read the Oldsmar hiring guide →**](https://moldroster.com/fl/city/oldsmar/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Oldsmar](https://moldroster.com/get-quotes/?city=oldsmar&st=fl)
+[How to get quotes in Oldsmar](https://moldroster.com/quotes/?city=oldsmar&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Oldsmar, FL?
 

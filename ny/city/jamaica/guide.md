@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/jamaica/guide/
 
 8 NYS DOL-licensed listings give an address in Jamaica: **4** hold an assessment licence and **6** hold a remediation licence. Another 146 are elsewhere in Queens County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=jamaica&st=ny) [All Jamaica listings](https://moldroster.com/ny/city/jamaica/)
+[Get quotes](https://moldroster.com/quotes/?city=jamaica&st=ny) [All Jamaica listings](https://moldroster.com/ny/city/jamaica/)
 
 ## How much does mold inspection and remediation cost?
 

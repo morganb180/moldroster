@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/navarre/
 
 [**Read the Navarre hiring guide →**](https://moldroster.com/fl/city/navarre/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Navarre](https://moldroster.com/get-quotes/?city=navarre&st=fl)
+[How to get quotes in Navarre](https://moldroster.com/quotes/?city=navarre&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Navarre, FL?
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/county/marion/
 
 **Quick answer:** 36 DBPR-licensed listings with an address of record in Marion County (29 mold assessment, 22 mold remediation): 6 firms and 30 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**36 DBPR-licensed listings** with an address of record in Marion County (29 mold assessment, 22 mold remediation): 6 firms and 30 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=marion&st=fl)
+**36 DBPR-licensed listings** with an address of record in Marion County (29 mold assessment, 22 mold remediation): 6 firms and 30 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=marion&st=fl)
 
 City pages: [Ocala](https://moldroster.com/fl/city/ocala/)
 

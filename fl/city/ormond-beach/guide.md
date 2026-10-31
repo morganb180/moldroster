@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/ormond-beach/guide/
 
 10 DBPR-licensed listings give an address in Ormond Beach: **7** hold an assessment licence and **9** hold a remediation licence. Another 56 are elsewhere in Volusia County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=ormond-beach&st=fl) [All Ormond Beach listings](https://moldroster.com/fl/city/ormond-beach/)
+[Get quotes](https://moldroster.com/quotes/?city=ormond-beach&st=fl) [All Ormond Beach listings](https://moldroster.com/fl/city/ormond-beach/)
 
 ## How much does mold inspection and remediation cost?
 

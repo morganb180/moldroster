@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/county/tarrant/
 
 **Quick answer:** 183 TDLR-licensed listings with an address of record in Tarrant County (55 mold assessment, 129 mold remediation): 61 firms and 122 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**183 TDLR-licensed listings** with an address of record in Tarrant County (55 mold assessment, 129 mold remediation): 61 firms and 122 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=tarrant&st=tx)
+**183 TDLR-licensed listings** with an address of record in Tarrant County (55 mold assessment, 129 mold remediation): 61 firms and 122 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=tarrant&st=tx)
 
 City pages: [Arlington](https://moldroster.com/tx/city/arlington/) · [Fort Worth](https://moldroster.com/tx/city/fort-worth/) · [Haltom City](https://moldroster.com/tx/city/haltom-city/) · [Mansfield](https://moldroster.com/tx/city/mansfield/) · [North Richland Hills](https://moldroster.com/tx/city/north-richland-hills/)
 

@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/city/leander/
 
 [**Read the Leander hiring guide →**](https://moldroster.com/tx/city/leander/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Leander](https://moldroster.com/get-quotes/?city=leander&st=tx)
+[How to get quotes in Leander](https://moldroster.com/quotes/?city=leander&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Leander, TX?
 

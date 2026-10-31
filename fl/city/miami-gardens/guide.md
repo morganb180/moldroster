@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/miami-gardens/guide/
 
 5 DBPR-licensed listings give an address in Miami Gardens: **5** hold an assessment licence and **3** hold a remediation licence. Another 541 are elsewhere in Miami-Dade County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=miami-gardens&st=fl) [All Miami Gardens listings](https://moldroster.com/fl/city/miami-gardens/)
+[Get quotes](https://moldroster.com/quotes/?city=miami-gardens&st=fl) [All Miami Gardens listings](https://moldroster.com/fl/city/miami-gardens/)
 
 ## What should I ask a mold pro before I sign?
 

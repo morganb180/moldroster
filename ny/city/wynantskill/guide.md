@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/wynantskill/guide/
 
 4 NYS DOL-licensed listings give an address in Wynantskill: **2** hold an assessment licence and **2** hold a remediation licence. Another 20 are elsewhere in Rensselaer County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=wynantskill&st=ny) [All Wynantskill listings](https://moldroster.com/ny/city/wynantskill/)
+[Get quotes](https://moldroster.com/quotes/?city=wynantskill&st=ny) [All Wynantskill listings](https://moldroster.com/ny/city/wynantskill/)
 
 ## How do I verify a mold pro's licence in Wynantskill, NY?
 

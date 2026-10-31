@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/aventura/
 
 [**Read the Aventura hiring guide →**](https://moldroster.com/fl/city/aventura/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Aventura](https://moldroster.com/get-quotes/?city=aventura&st=fl)
+[How to get quotes in Aventura](https://moldroster.com/quotes/?city=aventura&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Aventura, FL?
 

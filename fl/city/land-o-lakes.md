@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/land-o-lakes/
 
 [**Read the Land O' Lakes hiring guide →**](https://moldroster.com/fl/city/land-o-lakes/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Land O' Lakes](https://moldroster.com/get-quotes/?city=land-o-lakes&st=fl)
+[How to get quotes in Land O' Lakes](https://moldroster.com/quotes/?city=land-o-lakes&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Land O' Lakes, FL?
 

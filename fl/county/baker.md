@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/county/baker/
 
 **Quick answer:** 4 DBPR-licensed listings with an address of record in Baker County (3 mold assessment, 2 mold remediation): 0 firms and 4 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**4 DBPR-licensed listings** with an address of record in Baker County (3 mold assessment, 2 mold remediation): 0 firms and 4 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=baker&st=fl)
+**4 DBPR-licensed listings** with an address of record in Baker County (3 mold assessment, 2 mold remediation): 0 firms and 4 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=baker&st=fl)
 
 ## Which licensed mold assessors are in Baker County, FL? (3)
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/jacksonville-beach/guide/
 
 5 DBPR-licensed listings give an address in Jacksonville Beach: **4** hold an assessment licence and **5** hold a remediation licence. Another 100 are elsewhere in Duval County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=jacksonville-beach&st=fl) [All Jacksonville Beach listings](https://moldroster.com/fl/city/jacksonville-beach/)
+[Get quotes](https://moldroster.com/quotes/?city=jacksonville-beach&st=fl) [All Jacksonville Beach listings](https://moldroster.com/fl/city/jacksonville-beach/)
 
 ## What are Florida's mold licensing rules?
 

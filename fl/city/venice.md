@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/venice/
 
 [**Read the Venice hiring guide →**](https://moldroster.com/fl/city/venice/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Venice](https://moldroster.com/get-quotes/?city=venice&st=fl)
+[How to get quotes in Venice](https://moldroster.com/quotes/?city=venice&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Venice, FL?
 

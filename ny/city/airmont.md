@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/airmont/
 
 [**Read the Airmont hiring guide →**](https://moldroster.com/ny/city/airmont/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Airmont](https://moldroster.com/get-quotes/?city=airmont&st=ny)
+[How to get quotes in Airmont](https://moldroster.com/quotes/?city=airmont&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Airmont, NY?
 

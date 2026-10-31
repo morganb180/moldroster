@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/riverview/guide/
 
 23 DBPR-licensed listings give an address in Riverview: **15** hold an assessment licence and **15** hold a remediation licence. Another 221 are elsewhere in Hillsborough County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=riverview&st=fl) [All Riverview listings](https://moldroster.com/fl/city/riverview/)
+[Get quotes](https://moldroster.com/quotes/?city=riverview&st=fl) [All Riverview listings](https://moldroster.com/fl/city/riverview/)
 
 ## What should I ask a mold pro before I sign?
 

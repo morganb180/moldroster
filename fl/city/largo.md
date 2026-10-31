@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/largo/
 
 [**Read the Largo hiring guide →**](https://moldroster.com/fl/city/largo/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Largo](https://moldroster.com/get-quotes/?city=largo&st=fl)
+[How to get quotes in Largo](https://moldroster.com/quotes/?city=largo&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Largo, FL?
 

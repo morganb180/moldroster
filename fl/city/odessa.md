@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/odessa/
 
 [**Read the Odessa hiring guide →**](https://moldroster.com/fl/city/odessa/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Odessa](https://moldroster.com/get-quotes/?city=odessa&st=fl)
+[How to get quotes in Odessa](https://moldroster.com/quotes/?city=odessa&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Odessa, FL?
 

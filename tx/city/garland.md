@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/city/garland/
 
 [**Read the Garland hiring guide →**](https://moldroster.com/tx/city/garland/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Garland](https://moldroster.com/get-quotes/?city=garland&st=tx)
+[How to get quotes in Garland](https://moldroster.com/quotes/?city=garland&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Garland, TX?
 

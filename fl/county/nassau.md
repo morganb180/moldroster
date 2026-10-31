@@ -8,9 +8,9 @@ canonical: https://moldroster.com/fl/county/nassau/
 
 # Licensed mold assessors & remediators in Nassau County, FL
 
-**Quick answer:** 12 DBPR-licensed listings with an address of record in Nassau County (8 mold assessment, 11 mold remediation): 1 firms and 11 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+**Quick answer:** 12 DBPR-licensed listings with an address of record in Nassau County (8 mold assessment, 11 mold remediation): 1 firm and 11 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**12 DBPR-licensed listings** with an address of record in Nassau County (8 mold assessment, 11 mold remediation): 1 firms and 11 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=nassau&st=fl)
+**12 DBPR-licensed listings** with an address of record in Nassau County (8 mold assessment, 11 mold remediation): 1 firm and 11 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=nassau&st=fl)
 
 City pages: [Fernandina Beach](https://moldroster.com/fl/city/fernandina-beach/) · [Yulee](https://moldroster.com/fl/city/yulee/)
 

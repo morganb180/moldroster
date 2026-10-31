@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/city/houston/
 
 [**Read the Houston hiring guide →**](https://moldroster.com/tx/city/houston/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Houston](https://moldroster.com/get-quotes/?city=houston&st=tx)
+[How to get quotes in Houston](https://moldroster.com/quotes/?city=houston&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Houston, TX?
 

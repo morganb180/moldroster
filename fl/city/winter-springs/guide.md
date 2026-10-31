@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/winter-springs/guide/
 
 9 DBPR-licensed listings give an address in Winter Springs: **6** hold an assessment licence and **7** hold a remediation licence. Another 74 are elsewhere in Seminole County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=winter-springs&st=fl) [All Winter Springs listings](https://moldroster.com/fl/city/winter-springs/)
+[Get quotes](https://moldroster.com/quotes/?city=winter-springs&st=fl) [All Winter Springs listings](https://moldroster.com/fl/city/winter-springs/)
 
 ## What should I ask a mold pro before I sign?
 

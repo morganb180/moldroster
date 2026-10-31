@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/lauderhill/guide/
 
 7 DBPR-licensed listings give an address in Lauderhill: **6** hold an assessment licence and **5** hold a remediation licence. Another 582 are elsewhere in Broward County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=lauderhill&st=fl) [All Lauderhill listings](https://moldroster.com/fl/city/lauderhill/)
+[Get quotes](https://moldroster.com/quotes/?city=lauderhill&st=fl) [All Lauderhill listings](https://moldroster.com/fl/city/lauderhill/)
 
 ## How do I verify a mold pro's licence in Lauderhill, FL?
 

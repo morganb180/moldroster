@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/plano/guide/
 
 16 TDLR-licensed listings give an address in Plano: **6** hold an assessment licence and **10** hold a remediation licence. Another 91 are elsewhere in Collin County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=plano&st=tx) [All Plano listings](https://moldroster.com/tx/city/plano/)
+[Get quotes](https://moldroster.com/quotes/?city=plano&st=tx) [All Plano listings](https://moldroster.com/tx/city/plano/)
 
 ## What are Texas' mold licensing rules?
 

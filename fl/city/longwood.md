@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/longwood/
 
 [**Read the Longwood hiring guide →**](https://moldroster.com/fl/city/longwood/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Longwood](https://moldroster.com/get-quotes/?city=longwood&st=fl)
+[How to get quotes in Longwood](https://moldroster.com/quotes/?city=longwood&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Longwood, FL?
 

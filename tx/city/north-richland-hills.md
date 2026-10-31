@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/city/north-richland-hills/
 
 [**Read the North Richland Hills hiring guide →**](https://moldroster.com/tx/city/north-richland-hills/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in North Richland Hills](https://moldroster.com/get-quotes/?city=north-richland-hills&st=tx)
+[How to get quotes in North Richland Hills](https://moldroster.com/quotes/?city=north-richland-hills&st=tx)
 
 ## Which licensed mold assessors and remediators are based in North Richland Hills, TX?
 

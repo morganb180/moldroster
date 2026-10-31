@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/county/polk/
 
 **Quick answer:** 78 DBPR-licensed listings with an address of record in Polk County (53 mold assessment, 55 mold remediation): 6 firms and 72 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**78 DBPR-licensed listings** with an address of record in Polk County (53 mold assessment, 55 mold remediation): 6 firms and 72 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=polk&st=fl)
+**78 DBPR-licensed listings** with an address of record in Polk County (53 mold assessment, 55 mold remediation): 6 firms and 72 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=polk&st=fl)
 
 City pages: [Davenport](https://moldroster.com/fl/city/davenport/) · [Haines City](https://moldroster.com/fl/city/haines-city/) · [Lake Wales](https://moldroster.com/fl/city/lake-wales/) · [Lakeland](https://moldroster.com/fl/city/lakeland/) · [Winter Haven](https://moldroster.com/fl/city/winter-haven/)
 

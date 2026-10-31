@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/lake-mary/
 
 [**Read the Lake Mary hiring guide →**](https://moldroster.com/fl/city/lake-mary/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Lake Mary](https://moldroster.com/get-quotes/?city=lake-mary&st=fl)
+[How to get quotes in Lake Mary](https://moldroster.com/quotes/?city=lake-mary&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Lake Mary, FL?
 

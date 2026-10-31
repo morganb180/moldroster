@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/winter-park/guide/
 
 11 DBPR-licensed listings give an address in Winter Park: **8** hold an assessment licence and **9** hold a remediation licence. Another 183 are elsewhere in Orange County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=winter-park&st=fl) [All Winter Park listings](https://moldroster.com/fl/city/winter-park/)
+[Get quotes](https://moldroster.com/quotes/?city=winter-park&st=fl) [All Winter Park listings](https://moldroster.com/fl/city/winter-park/)
 
 ## What are Florida's mold licensing rules?
 

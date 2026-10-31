@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/maspeth/
 
 [**Read the Maspeth hiring guide →**](https://moldroster.com/ny/city/maspeth/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Maspeth](https://moldroster.com/get-quotes/?city=maspeth&st=ny)
+[How to get quotes in Maspeth](https://moldroster.com/quotes/?city=maspeth&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Maspeth, NY?
 

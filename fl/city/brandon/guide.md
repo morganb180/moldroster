@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/brandon/guide/
 
 10 DBPR-licensed listings give an address in Brandon: **6** hold an assessment licence and **6** hold a remediation licence. Another 225 are elsewhere in Hillsborough County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=brandon&st=fl) [All Brandon listings](https://moldroster.com/fl/city/brandon/)
+[Get quotes](https://moldroster.com/quotes/?city=brandon&st=fl) [All Brandon listings](https://moldroster.com/fl/city/brandon/)
 
 ## What should I ask a mold pro before I sign?
 

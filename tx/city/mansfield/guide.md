@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/mansfield/guide/
 
 6 TDLR-licensed listings give an address in Mansfield: **1** hold an assessment licence and **5** hold a remediation licence. Another 177 are elsewhere in Tarrant County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=mansfield&st=tx) [All Mansfield listings](https://moldroster.com/tx/city/mansfield/)
+[Get quotes](https://moldroster.com/quotes/?city=mansfield&st=tx) [All Mansfield listings](https://moldroster.com/tx/city/mansfield/)
 
 ## How do I verify a mold pro's licence in Mansfield, TX?
 
@@ -124,7 +124,7 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 
 **How do I find a licensed mold inspector in Mansfield?**
 
-Start with the 1 listings in Mansfield that hold a TDLR assessment licence, then confirm the licence with the agency.
+Start with the 1 listing in Mansfield that hold a TDLR assessment licence, then confirm the licence with the agency.
 
 **How much does mold remediation cost in Mansfield?**
 

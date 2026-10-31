@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/miami/
 
 [**Read the Miami hiring guide →**](https://moldroster.com/fl/city/miami/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Miami](https://moldroster.com/get-quotes/?city=miami&st=fl)
+[How to get quotes in Miami](https://moldroster.com/quotes/?city=miami&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Miami, FL?
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/coral-springs/guide/
 
 59 DBPR-licensed listings give an address in Coral Springs: **41** hold an assessment licence and **47** hold a remediation licence. Another 531 are elsewhere in Broward County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=coral-springs&st=fl) [All Coral Springs listings](https://moldroster.com/fl/city/coral-springs/)
+[Get quotes](https://moldroster.com/quotes/?city=coral-springs&st=fl) [All Coral Springs listings](https://moldroster.com/fl/city/coral-springs/)
 
 ## What are Florida's mold licensing rules?
 

@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/new-rochelle/
 
 [**Read the New Rochelle hiring guide →**](https://moldroster.com/ny/city/new-rochelle/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in New Rochelle](https://moldroster.com/get-quotes/?city=new-rochelle&st=ny)
+[How to get quotes in New Rochelle](https://moldroster.com/quotes/?city=new-rochelle&st=ny)
 
 ## Which licensed mold assessors and remediators are based in New Rochelle, NY?
 

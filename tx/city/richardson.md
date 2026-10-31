@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/city/richardson/
 
 [**Read the Richardson hiring guide →**](https://moldroster.com/tx/city/richardson/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Richardson](https://moldroster.com/get-quotes/?city=richardson&st=tx)
+[How to get quotes in Richardson](https://moldroster.com/quotes/?city=richardson&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Richardson, TX?
 

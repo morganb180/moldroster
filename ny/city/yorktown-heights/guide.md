@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/yorktown-heights/guide/
 
 5 NYS DOL-licensed listings give an address in Yorktown Heights: **5** hold an assessment licence and **0** hold a remediation licence. Another 97 are elsewhere in Westchester County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=yorktown-heights&st=ny) [All Yorktown Heights listings](https://moldroster.com/ny/city/yorktown-heights/)
+[Get quotes](https://moldroster.com/quotes/?city=yorktown-heights&st=ny) [All Yorktown Heights listings](https://moldroster.com/ny/city/yorktown-heights/)
 
 ## Do I need a mold assessment before remediation?
 

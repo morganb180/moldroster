@@ -15,7 +15,14 @@ Mold Roster is for homeowners, tenants, landlords, buyers and insurance claimant
 - [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/)
 - [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/)
 - [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
-- [How to get quotes](https://moldroster.com/get-quotes/): find 2-3 licensed pros near you and what to ask
+- [All guides](https://moldroster.com/guides/): guides hub plus local hiring guides
+- [Get free quotes](https://moldroster.com/quotes/): one request to up to 3 licensed mold pros near a Texas, New York or Washington, DC ZIP (or a chosen pro plus the 2 nearest others); free, no obligation. Florida requests aren't available because DBPR publishes no contact details.
+
+## Listings A–Z
+- [Texas listings A–Z](https://moldroster.com/tx/firms/): every TDLR-licensed listing with a profile page
+- [Florida listings A–Z](https://moldroster.com/fl/firms/): every FL DBPR-licensed listing with a profile page
+- [New York listings A–Z](https://moldroster.com/ny/firms/): every NYS DOL-licensed listing with a profile page
+- [Washington, DC listings A–Z](https://moldroster.com/dc/firms/): every DC DOEE-licensed listing with a profile page
 
 ## For professionals
 - [For professionals](https://moldroster.com/for-pros/): free listings and planned advertising

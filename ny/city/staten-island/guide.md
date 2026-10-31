@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/staten-island/guide/
 
 53 NYS DOL-licensed listings give an address in Staten Island: **23** hold an assessment licence and **35** hold a remediation licence. Another 0 are elsewhere in Richmond County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=staten-island&st=ny) [All Staten Island listings](https://moldroster.com/ny/city/staten-island/)
+[Get quotes](https://moldroster.com/quotes/?city=staten-island&st=ny) [All Staten Island listings](https://moldroster.com/ny/city/staten-island/)
 
 ## How do I verify a mold pro's licence in Staten Island, NY?
 

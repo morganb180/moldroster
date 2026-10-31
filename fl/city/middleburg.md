@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/middleburg/
 
 [**Read the Middleburg hiring guide →**](https://moldroster.com/fl/city/middleburg/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Middleburg](https://moldroster.com/get-quotes/?city=middleburg&st=fl)
+[How to get quotes in Middleburg](https://moldroster.com/quotes/?city=middleburg&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Middleburg, FL?
 

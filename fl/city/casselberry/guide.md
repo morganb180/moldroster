@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/casselberry/guide/
 
 4 DBPR-licensed listings give an address in Casselberry: **2** hold an assessment licence and **4** hold a remediation licence. Another 79 are elsewhere in Seminole County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=casselberry&st=fl) [All Casselberry listings](https://moldroster.com/fl/city/casselberry/)
+[Get quotes](https://moldroster.com/quotes/?city=casselberry&st=fl) [All Casselberry listings](https://moldroster.com/fl/city/casselberry/)
 
 ## Do I need a mold assessment before remediation?
 

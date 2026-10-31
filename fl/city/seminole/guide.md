@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/seminole/guide/
 
 8 DBPR-licensed listings give an address in Seminole: **4** hold an assessment licence and **6** hold a remediation licence. Another 175 are elsewhere in Pinellas County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=seminole&st=fl) [All Seminole listings](https://moldroster.com/fl/city/seminole/)
+[Get quotes](https://moldroster.com/quotes/?city=seminole&st=fl) [All Seminole listings](https://moldroster.com/fl/city/seminole/)
 
 ## Do I need a mold assessment before remediation?
 

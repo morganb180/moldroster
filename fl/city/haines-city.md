@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/haines-city/
 
 [**Read the Haines City hiring guide →**](https://moldroster.com/fl/city/haines-city/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Haines City](https://moldroster.com/get-quotes/?city=haines-city&st=fl)
+[How to get quotes in Haines City](https://moldroster.com/quotes/?city=haines-city&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Haines City, FL?
 

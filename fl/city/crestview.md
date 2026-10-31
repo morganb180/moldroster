@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/crestview/
 
 [**Read the Crestview hiring guide →**](https://moldroster.com/fl/city/crestview/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Crestview](https://moldroster.com/get-quotes/?city=crestview&st=fl)
+[How to get quotes in Crestview](https://moldroster.com/quotes/?city=crestview&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Crestview, FL?
 

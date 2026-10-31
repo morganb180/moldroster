@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/rockledge/
 
 [**Read the Rockledge hiring guide →**](https://moldroster.com/fl/city/rockledge/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Rockledge](https://moldroster.com/get-quotes/?city=rockledge&st=fl)
+[How to get quotes in Rockledge](https://moldroster.com/quotes/?city=rockledge&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Rockledge, FL?
 

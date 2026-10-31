@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/bohemia/
 
 [**Read the Bohemia hiring guide →**](https://moldroster.com/ny/city/bohemia/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Bohemia](https://moldroster.com/get-quotes/?city=bohemia&st=ny)
+[How to get quotes in Bohemia](https://moldroster.com/quotes/?city=bohemia&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Bohemia, NY?
 

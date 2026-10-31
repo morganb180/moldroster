@@ -8,9 +8,9 @@ canonical: https://moldroster.com/fl/county/franklin/
 
 # Licensed mold assessors & remediators in Franklin County, FL
 
-**Quick answer:** 1 DBPR-licensed listings with an address of record in Franklin County (1 mold assessment): 0 firms and 1 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+**Quick answer:** 1 DBPR-licensed listing with an address of record in Franklin County (1 mold assessment): 0 firms and 1 individual licensee. Licensed pros often travel, so ask whether they cover your address.
 
-**1 DBPR-licensed listings** with an address of record in Franklin County (1 mold assessment): 0 firms and 1 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=franklin&st=fl)
+**1 DBPR-licensed listing** with an address of record in Franklin County (1 mold assessment): 0 firms and 1 individual licensee. [How to get quotes](https://moldroster.com/quotes/?county=franklin&st=fl)
 
 ## Which licensed mold assessors are in Franklin County, FL? (1)
 
@@ -47,7 +47,7 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 **How many licensed mold assessors are in Franklin County?**
 
-1 listings with a DBPR mold assessment licence and 0 with a remediation licence have an address of record in Franklin County. Pros from neighboring counties may also serve the area.
+1 listing with a DBPR mold assessment licence and 0 with a remediation licence have an address of record in Franklin County. Pros from neighboring counties may also serve the area.
 
 **How do I check a Franklin County mold company's licence?**
 

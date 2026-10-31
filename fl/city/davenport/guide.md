@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/davenport/guide/
 
 13 DBPR-licensed listings give an address in Davenport: **9** hold an assessment licence and **12** hold a remediation licence. Another 65 are elsewhere in Polk County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=davenport&st=fl) [All Davenport listings](https://moldroster.com/fl/city/davenport/)
+[Get quotes](https://moldroster.com/quotes/?city=davenport&st=fl) [All Davenport listings](https://moldroster.com/fl/city/davenport/)
 
 ## How do I verify a mold pro's licence in Davenport, FL?
 

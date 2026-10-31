@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/indian-harbour-beach/guide/
 
 4 DBPR-licensed listings give an address in Indian Harbour Beach: **3** hold an assessment licence and **4** hold a remediation licence. Another 89 are elsewhere in Brevard County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=indian-harbour-beach&st=fl) [All Indian Harbour Beach listings](https://moldroster.com/fl/city/indian-harbour-beach/)
+[Get quotes](https://moldroster.com/quotes/?city=indian-harbour-beach&st=fl) [All Indian Harbour Beach listings](https://moldroster.com/fl/city/indian-harbour-beach/)
 
 ## What should I ask a mold pro before I sign?
 

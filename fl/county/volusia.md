@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/county/volusia/
 
 **Quick answer:** 66 DBPR-licensed listings with an address of record in Volusia County (49 mold assessment, 48 mold remediation): 5 firms and 61 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**66 DBPR-licensed listings** with an address of record in Volusia County (49 mold assessment, 48 mold remediation): 5 firms and 61 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=volusia&st=fl)
+**66 DBPR-licensed listings** with an address of record in Volusia County (49 mold assessment, 48 mold remediation): 5 firms and 61 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=volusia&st=fl)
 
 City pages: [Debary](https://moldroster.com/fl/city/debary/) · [Deland](https://moldroster.com/fl/city/deland/) · [Deltona](https://moldroster.com/fl/city/deltona/) · [New Smyrna Beach](https://moldroster.com/fl/city/new-smyrna-beach/) · [Orange City](https://moldroster.com/fl/city/orange-city/) · [Ormond Beach](https://moldroster.com/fl/city/ormond-beach/) · [Port Orange](https://moldroster.com/fl/city/port-orange/)
 

@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/hicksville/
 
 [**Read the Hicksville hiring guide →**](https://moldroster.com/ny/city/hicksville/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Hicksville](https://moldroster.com/get-quotes/?city=hicksville&st=ny)
+[How to get quotes in Hicksville](https://moldroster.com/quotes/?city=hicksville&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Hicksville, NY?
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/lighthouse-point/guide/
 
 5 DBPR-licensed listings give an address in Lighthouse Point: **5** hold an assessment licence and **3** hold a remediation licence. Another 584 are elsewhere in Broward County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=lighthouse-point&st=fl) [All Lighthouse Point listings](https://moldroster.com/fl/city/lighthouse-point/)
+[Get quotes](https://moldroster.com/quotes/?city=lighthouse-point&st=fl) [All Lighthouse Point listings](https://moldroster.com/fl/city/lighthouse-point/)
 
 ## What should I ask a mold pro before I sign?
 

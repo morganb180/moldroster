@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/county/bastrop/
 
 **Quick answer:** 6 TDLR-licensed listings with an address of record in Bastrop County (3 mold assessment, 3 mold remediation): 0 firms and 6 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**6 TDLR-licensed listings** with an address of record in Bastrop County (3 mold assessment, 3 mold remediation): 0 firms and 6 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=bastrop&st=tx)
+**6 TDLR-licensed listings** with an address of record in Bastrop County (3 mold assessment, 3 mold remediation): 0 firms and 6 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=bastrop&st=tx)
 
 ## Which licensed mold assessors are in Bastrop County, TX? (3)
 

@@ -8,9 +8,9 @@ canonical: https://moldroster.com/tx/county/mcculloch/
 
 # Licensed mold assessors & remediators in McCulloch County, TX
 
-**Quick answer:** 5 TDLR-licensed listings with an address of record in McCulloch County (5 mold remediation): 1 firms and 4 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+**Quick answer:** 5 TDLR-licensed listings with an address of record in McCulloch County (5 mold remediation): 1 firm and 4 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**5 TDLR-licensed listings** with an address of record in McCulloch County (5 mold remediation): 1 firms and 4 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=mcculloch&st=tx)
+**5 TDLR-licensed listings** with an address of record in McCulloch County (5 mold remediation): 1 firm and 4 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=mcculloch&st=tx)
 
 ## Which licensed mold remediators are in McCulloch County, TX? (5)
 

@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/orange-city/
 
 [**Read the Orange City hiring guide →**](https://moldroster.com/fl/city/orange-city/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Orange City](https://moldroster.com/get-quotes/?city=orange-city&st=fl)
+[How to get quotes in Orange City](https://moldroster.com/quotes/?city=orange-city&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Orange City, FL?
 

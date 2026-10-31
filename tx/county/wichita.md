@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/county/wichita/
 
 **Quick answer:** 6 TDLR-licensed listings with an address of record in Wichita County (2 mold assessment, 4 mold remediation): 3 firms and 3 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**6 TDLR-licensed listings** with an address of record in Wichita County (2 mold assessment, 4 mold remediation): 3 firms and 3 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=wichita&st=tx)
+**6 TDLR-licensed listings** with an address of record in Wichita County (2 mold assessment, 4 mold remediation): 3 firms and 3 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=wichita&st=tx)
 
 ## Which licensed mold assessors are in Wichita County, TX? (2)
 

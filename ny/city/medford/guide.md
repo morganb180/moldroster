@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/medford/guide/
 
 9 NYS DOL-licensed listings give an address in Medford: **0** hold an assessment licence and **9** hold a remediation licence. Another 176 are elsewhere in Suffolk County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=medford&st=ny) [All Medford listings](https://moldroster.com/ny/city/medford/)
+[Get quotes](https://moldroster.com/quotes/?city=medford&st=ny) [All Medford listings](https://moldroster.com/ny/city/medford/)
 
 ## What are New York's mold licensing rules?
 

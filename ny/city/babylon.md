@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/babylon/
 
 [**Read the Babylon hiring guide →**](https://moldroster.com/ny/city/babylon/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Babylon](https://moldroster.com/get-quotes/?city=babylon&st=ny)
+[How to get quotes in Babylon](https://moldroster.com/quotes/?city=babylon&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Babylon, NY?
 

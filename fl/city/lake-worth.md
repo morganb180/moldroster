@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/lake-worth/
 
 [**Read the Lake Worth hiring guide →**](https://moldroster.com/fl/city/lake-worth/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Lake Worth](https://moldroster.com/get-quotes/?city=lake-worth&st=fl)
+[How to get quotes in Lake Worth](https://moldroster.com/quotes/?city=lake-worth&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Lake Worth, FL?
 

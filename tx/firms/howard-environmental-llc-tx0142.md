@@ -1,0 +1,23 @@
+---
+title: "Howard Environmental LLC, Austin, TX | Mold Roster"
+description: "Howard Environmental LLC: mold assessment in Austin, TX. TDLR licence details, contact and free quotes."
+canonical: https://moldroster.com/tx/firms/howard-environmental-llc-tx0142/
+---
+
+# Howard Environmental LLC
+
+* Mold assessment
+* Licensed by TDLR (Texas Department of Licensing and Regulation)
+* Austin, TX (Travis County)
+* Address: 3503 E K Ln, Austin, TX
+* Phone: (512) 560-2428
+* Email: william@howardenvironmental.com
+* Website: https://www.howardenvironmental.com/
+* Google rating: 5.0 from 138 reviews (as of Oct 30, 2026)
+* Mold Assessment Company #ACO1264 (exp. 2026-11-07)
+
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17174244956946302000&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [howardenvironmental.com](https://www.howardenvironmental.com/), retrieved 2026-10-30.
+
+Get a quote: https://moldroster.com/quotes/?firm=TX0142 (goes to Howard Environmental LLC and up to 2 other nearby licensed pros)
+
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0142

@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/city/waco/
 
 [**Read the Waco hiring guide →**](https://moldroster.com/tx/city/waco/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Waco](https://moldroster.com/get-quotes/?city=waco&st=tx)
+[How to get quotes in Waco](https://moldroster.com/quotes/?city=waco&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Waco, TX?
 

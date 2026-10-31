@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/county/santa-rosa/
 
 **Quick answer:** 25 DBPR-licensed listings with an address of record in Santa Rosa County (16 mold assessment, 19 mold remediation): 0 firms and 25 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**25 DBPR-licensed listings** with an address of record in Santa Rosa County (16 mold assessment, 19 mold remediation): 0 firms and 25 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=santa-rosa&st=fl)
+**25 DBPR-licensed listings** with an address of record in Santa Rosa County (16 mold assessment, 19 mold remediation): 0 firms and 25 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=santa-rosa&st=fl)
 
 City pages: [Gulf Breeze](https://moldroster.com/fl/city/gulf-breeze/) · [Milton](https://moldroster.com/fl/city/milton/) · [Navarre](https://moldroster.com/fl/city/navarre/)
 

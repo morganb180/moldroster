@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/doral/guide/
 
 28 DBPR-licensed listings give an address in Doral: **22** hold an assessment licence and **21** hold a remediation licence. Another 518 are elsewhere in Miami-Dade County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=doral&st=fl) [All Doral listings](https://moldroster.com/fl/city/doral/)
+[Get quotes](https://moldroster.com/quotes/?city=doral&st=fl) [All Doral listings](https://moldroster.com/fl/city/doral/)
 
 ## What should I ask a mold pro before I sign?
 

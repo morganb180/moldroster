@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/county/st-lawrence/
 
 **Quick answer:** 4 NYS DOL-licensed listings with an address of record in St. Licensed pros often travel, so ask whether they cover your address.
 
-**4 NYS DOL-licensed listings** with an address of record in St. Lawrence County (1 mold assessment, 3 mold remediation): 4 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=st-lawrence&st=ny)
+**4 NYS DOL-licensed listings** with an address of record in St. Lawrence County (1 mold assessment, 3 mold remediation): 4 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=st-lawrence&st=ny)
 
 ## Which licensed mold assessors are in St. Lawrence County, NY? (1)
 
@@ -104,7 +104,7 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 **How many licensed mold assessors are in St. Lawrence County?**
 
-1 listings with a NYS DOL mold assessment licence and 3 with a remediation licence have an address of record in St. Lawrence County. Pros from neighboring counties may also serve the area.
+1 listing with a NYS DOL mold assessment licence and 3 with a remediation licence have an address of record in St. Lawrence County. Pros from neighboring counties may also serve the area.
 
 **How do I check a St. Lawrence County mold company's licence?**
 

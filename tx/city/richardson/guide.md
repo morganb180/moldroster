@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/richardson/guide/
 
 6 TDLR-licensed listings give an address in Richardson: **2** hold an assessment licence and **4** hold a remediation licence. Another 180 are elsewhere in Dallas County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=richardson&st=tx) [All Richardson listings](https://moldroster.com/tx/city/richardson/)
+[Get quotes](https://moldroster.com/quotes/?city=richardson&st=tx) [All Richardson listings](https://moldroster.com/tx/city/richardson/)
 
 ## How much does mold inspection and remediation cost?
 

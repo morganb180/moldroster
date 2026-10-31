@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/schenectady/
 
 [**Read the Schenectady hiring guide →**](https://moldroster.com/ny/city/schenectady/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Schenectady](https://moldroster.com/get-quotes/?city=schenectady&st=ny)
+[How to get quotes in Schenectady](https://moldroster.com/quotes/?city=schenectady&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Schenectady, NY?
 

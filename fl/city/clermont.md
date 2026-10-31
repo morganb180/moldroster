@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/clermont/
 
 [**Read the Clermont hiring guide →**](https://moldroster.com/fl/city/clermont/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Clermont](https://moldroster.com/get-quotes/?city=clermont&st=fl)
+[How to get quotes in Clermont](https://moldroster.com/quotes/?city=clermont&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Clermont, FL?
 

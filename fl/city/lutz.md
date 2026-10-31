@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/lutz/
 
 [**Read the Lutz hiring guide →**](https://moldroster.com/fl/city/lutz/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Lutz](https://moldroster.com/get-quotes/?city=lutz&st=fl)
+[How to get quotes in Lutz](https://moldroster.com/quotes/?city=lutz&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Lutz, FL?
 

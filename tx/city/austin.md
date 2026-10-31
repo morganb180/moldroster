@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/city/austin/
 
 [**Read the Austin hiring guide →**](https://moldroster.com/tx/city/austin/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Austin](https://moldroster.com/get-quotes/?city=austin&st=tx)
+[How to get quotes in Austin](https://moldroster.com/quotes/?city=austin&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Austin, TX?
 

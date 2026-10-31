@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/magnolia/guide/
 
 8 TDLR-licensed listings give an address in Magnolia: **2** hold an assessment licence and **6** hold a remediation licence. Another 108 are elsewhere in Montgomery County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=magnolia&st=tx) [All Magnolia listings](https://moldroster.com/tx/city/magnolia/)
+[Get quotes](https://moldroster.com/quotes/?city=magnolia&st=tx) [All Magnolia listings](https://moldroster.com/tx/city/magnolia/)
 
 ## What are Texas' mold licensing rules?
 

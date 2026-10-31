@@ -8,9 +8,9 @@ canonical: https://moldroster.com/fl/county/alachua/
 
 # Licensed mold assessors & remediators in Alachua County, FL
 
-**Quick answer:** 34 DBPR-licensed listings with an address of record in Alachua County (19 mold assessment, 26 mold remediation): 1 firms and 33 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+**Quick answer:** 34 DBPR-licensed listings with an address of record in Alachua County (19 mold assessment, 26 mold remediation): 1 firm and 33 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**34 DBPR-licensed listings** with an address of record in Alachua County (19 mold assessment, 26 mold remediation): 1 firms and 33 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=alachua&st=fl)
+**34 DBPR-licensed listings** with an address of record in Alachua County (19 mold assessment, 26 mold remediation): 1 firm and 33 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=alachua&st=fl)
 
 City pages: [Alachua](https://moldroster.com/fl/city/alachua/) · [Gainesville](https://moldroster.com/fl/city/gainesville/) · [High Springs](https://moldroster.com/fl/city/high-springs/) · [Newberry](https://moldroster.com/fl/city/newberry/)
 
@@ -465,7 +465,7 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 19 listings with a DBPR mold assessment licence and 26 with a remediation licence have an address of record in Alachua County. Pros from neighboring counties may also serve the area.
 
-**How do I check a Alachua County mold company's licence?**
+**How do I check an Alachua County mold company's licence?**
 
 Look it up with the Florida Department of Business and Professional Regulation (DBPR). Each listing here shows the licence number and expiry date from the agency's records.
 

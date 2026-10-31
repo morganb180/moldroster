@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/ponte-vedra/
 
 [**Read the Ponte Vedra hiring guide →**](https://moldroster.com/fl/city/ponte-vedra/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Ponte Vedra](https://moldroster.com/get-quotes/?city=ponte-vedra&st=fl)
+[How to get quotes in Ponte Vedra](https://moldroster.com/quotes/?city=ponte-vedra&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Ponte Vedra, FL?
 

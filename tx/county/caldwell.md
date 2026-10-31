@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/county/caldwell/
 
 **Quick answer:** 9 TDLR-licensed listings with an address of record in Caldwell County (3 mold assessment, 7 mold remediation): 0 firms and 9 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**9 TDLR-licensed listings** with an address of record in Caldwell County (3 mold assessment, 7 mold remediation): 0 firms and 9 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=caldwell&st=tx)
+**9 TDLR-licensed listings** with an address of record in Caldwell County (3 mold assessment, 7 mold remediation): 0 firms and 9 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=caldwell&st=tx)
 
 ## Which licensed mold assessors are in Caldwell County, TX? (3)
 

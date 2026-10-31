@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/riviera-beach/
 
 [**Read the Riviera Beach hiring guide →**](https://moldroster.com/fl/city/riviera-beach/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Riviera Beach](https://moldroster.com/get-quotes/?city=riviera-beach&st=fl)
+[How to get quotes in Riviera Beach](https://moldroster.com/quotes/?city=riviera-beach&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Riviera Beach, FL?
 

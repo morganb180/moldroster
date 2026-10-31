@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/royal-palm-beach/guide/
 
 10 DBPR-licensed listings give an address in Royal Palm Beach: **8** hold an assessment licence and **5** hold a remediation licence. Another 360 are elsewhere in Palm Beach County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=royal-palm-beach&st=fl) [All Royal Palm Beach listings](https://moldroster.com/fl/city/royal-palm-beach/)
+[Get quotes](https://moldroster.com/quotes/?city=royal-palm-beach&st=fl) [All Royal Palm Beach listings](https://moldroster.com/fl/city/royal-palm-beach/)
 
 ## How much does mold inspection and remediation cost?
 

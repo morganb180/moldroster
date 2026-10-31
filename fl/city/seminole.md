@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/seminole/
 
 [**Read the Seminole hiring guide →**](https://moldroster.com/fl/city/seminole/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Seminole](https://moldroster.com/get-quotes/?city=seminole&st=fl)
+[How to get quotes in Seminole](https://moldroster.com/quotes/?city=seminole&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Seminole, FL?
 

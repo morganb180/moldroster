@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/new-port-richey/guide/
 
 34 DBPR-licensed listings give an address in New Port Richey: **19** hold an assessment licence and **24** hold a remediation licence. Another 93 are elsewhere in Pasco County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=new-port-richey&st=fl) [All New Port Richey listings](https://moldroster.com/fl/city/new-port-richey/)
+[Get quotes](https://moldroster.com/quotes/?city=new-port-richey&st=fl) [All New Port Richey listings](https://moldroster.com/fl/city/new-port-richey/)
 
 ## How much does mold inspection and remediation cost?
 

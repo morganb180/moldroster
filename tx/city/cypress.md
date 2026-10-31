@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/city/cypress/
 
 [**Read the Cypress hiring guide →**](https://moldroster.com/tx/city/cypress/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Cypress](https://moldroster.com/get-quotes/?city=cypress&st=tx)
+[How to get quotes in Cypress](https://moldroster.com/quotes/?city=cypress&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Cypress, TX?
 

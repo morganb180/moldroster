@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/tampa/
 
 [**Read the Tampa hiring guide →**](https://moldroster.com/fl/city/tampa/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Tampa](https://moldroster.com/get-quotes/?city=tampa&st=fl)
+[How to get quotes in Tampa](https://moldroster.com/quotes/?city=tampa&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Tampa, FL?
 

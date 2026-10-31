@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/gainesville/guide/
 
 19 DBPR-licensed listings give an address in Gainesville: **10** hold an assessment licence and **16** hold a remediation licence. Another 15 are elsewhere in Alachua County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=gainesville&st=fl) [All Gainesville listings](https://moldroster.com/fl/city/gainesville/)
+[Get quotes](https://moldroster.com/quotes/?city=gainesville&st=fl) [All Gainesville listings](https://moldroster.com/fl/city/gainesville/)
 
 ## How do I verify a mold pro's licence in Gainesville, FL?
 

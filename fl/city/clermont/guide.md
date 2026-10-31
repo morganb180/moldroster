@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/clermont/guide/
 
 13 DBPR-licensed listings give an address in Clermont: **11** hold an assessment licence and **6** hold a remediation licence. Another 53 are elsewhere in Lake County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=clermont&st=fl) [All Clermont listings](https://moldroster.com/fl/city/clermont/)
+[Get quotes](https://moldroster.com/quotes/?city=clermont&st=fl) [All Clermont listings](https://moldroster.com/fl/city/clermont/)
 
 ## What should I ask a mold pro before I sign?
 

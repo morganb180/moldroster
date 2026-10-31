@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/county/oneida/
 
 **Quick answer:** 16 NYS DOL-licensed listings with an address of record in Oneida County (8 mold assessment, 11 mold remediation): 16 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**16 NYS DOL-licensed listings** with an address of record in Oneida County (8 mold assessment, 11 mold remediation): 16 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=oneida&st=ny)
+**16 NYS DOL-licensed listings** with an address of record in Oneida County (8 mold assessment, 11 mold remediation): 16 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=oneida&st=ny)
 
 City pages: [New Hartford](https://moldroster.com/ny/city/new-hartford/)
 
@@ -292,7 +292,7 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 8 listings with a NYS DOL mold assessment licence and 11 with a remediation licence have an address of record in Oneida County. Pros from neighboring counties may also serve the area.
 
-**How do I check a Oneida County mold company's licence?**
+**How do I check an Oneida County mold company's licence?**
 
 Look it up with the New York State Department of Labor (NYS DOL). Each listing here shows the licence number and expiry date from the agency's records.
 

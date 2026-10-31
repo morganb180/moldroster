@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/latham/guide/
 
 8 NYS DOL-licensed listings give an address in Latham: **4** hold an assessment licence and **4** hold a remediation licence. Another 37 are elsewhere in Albany County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=latham&st=ny) [All Latham listings](https://moldroster.com/ny/city/latham/)
+[Get quotes](https://moldroster.com/quotes/?city=latham&st=ny) [All Latham listings](https://moldroster.com/ny/city/latham/)
 
 ## How much does mold inspection and remediation cost?
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/high-springs/guide/
 
 4 DBPR-licensed listings give an address in High Springs: **4** hold an assessment licence and **2** hold a remediation licence. Another 30 are elsewhere in Alachua County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=high-springs&st=fl) [All High Springs listings](https://moldroster.com/fl/city/high-springs/)
+[Get quotes](https://moldroster.com/quotes/?city=high-springs&st=fl) [All High Springs listings](https://moldroster.com/fl/city/high-springs/)
 
 ## What are Florida's mold licensing rules?
 

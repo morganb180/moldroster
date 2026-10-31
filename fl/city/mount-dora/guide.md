@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/mount-dora/guide/
 
 8 DBPR-licensed listings give an address in Mount Dora: **6** hold an assessment licence and **6** hold a remediation licence. Another 53 are elsewhere in Lake County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=mount-dora&st=fl) [All Mount Dora listings](https://moldroster.com/fl/city/mount-dora/)
+[Get quotes](https://moldroster.com/quotes/?city=mount-dora&st=fl) [All Mount Dora listings](https://moldroster.com/fl/city/mount-dora/)
 
 ## How do I verify a mold pro's licence in Mount Dora, FL?
 

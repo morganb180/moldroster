@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/sorrento/
 
 [**Read the Sorrento hiring guide →**](https://moldroster.com/fl/city/sorrento/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Sorrento](https://moldroster.com/get-quotes/?city=sorrento&st=fl)
+[How to get quotes in Sorrento](https://moldroster.com/quotes/?city=sorrento&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Sorrento, FL?
 

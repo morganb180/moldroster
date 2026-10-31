@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/county/williamson/
 
 **Quick answer:** 83 TDLR-licensed listings with an address of record in Williamson County (34 mold assessment, 52 mold remediation): 25 firms and 58 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**83 TDLR-licensed listings** with an address of record in Williamson County (34 mold assessment, 52 mold remediation): 25 firms and 58 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=williamson&st=tx)
+**83 TDLR-licensed listings** with an address of record in Williamson County (34 mold assessment, 52 mold remediation): 25 firms and 58 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=williamson&st=tx)
 
 City pages: [Cedar Park](https://moldroster.com/tx/city/cedar-park/) · [Georgetown](https://moldroster.com/tx/city/georgetown/) · [Hutto](https://moldroster.com/tx/city/hutto/) · [Leander](https://moldroster.com/tx/city/leander/)
 

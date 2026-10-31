@@ -14,7 +14,7 @@ canonical: https://moldroster.com/fl/city/rotonda-west/
 
 [**Read the Rotonda West hiring guide →**](https://moldroster.com/fl/city/rotonda-west/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Rotonda West](https://moldroster.com/get-quotes/?city=rotonda-west&st=fl)
+[How to get quotes in Rotonda West](https://moldroster.com/quotes/?city=rotonda-west&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Rotonda West, FL?
 

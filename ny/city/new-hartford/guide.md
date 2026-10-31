@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/new-hartford/guide/
 
 4 NYS DOL-licensed listings give an address in New Hartford: **3** hold an assessment licence and **3** hold a remediation licence. Another 12 are elsewhere in Oneida County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=new-hartford&st=ny) [All New Hartford listings](https://moldroster.com/ny/city/new-hartford/)
+[Get quotes](https://moldroster.com/quotes/?city=new-hartford&st=ny) [All New Hartford listings](https://moldroster.com/ny/city/new-hartford/)
 
 ## How much does mold inspection and remediation cost?
 

@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/city/queens/
 
 [**Read the Queens hiring guide →**](https://moldroster.com/ny/city/queens/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Queens](https://moldroster.com/get-quotes/?city=queens&st=ny)
+[How to get quotes in Queens](https://moldroster.com/quotes/?city=queens&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Queens, NY?
 
