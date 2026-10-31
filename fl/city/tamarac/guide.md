@@ -35,8 +35,6 @@ Summary of Florida Statutes Chapter 468, Part XVI (Mold-Related Services). See t
 
 ## Which licensed mold pros are based in Tamarac, FL?
 
-26 DBPR-licensed listings give an address in Tamarac: 18 hold an assessment licence and 15 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessment
 
 ### Adrian Gigel Ilie

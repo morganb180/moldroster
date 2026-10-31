@@ -10,13 +10,11 @@ canonical: https://moldroster.com/ny/county/livingston/
 
 **Quick answer:** 1 NYS DOL-licensed listing with an address of record in Livingston County (1 mold assessment, 1 mold remediation): 1 firm and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**1 NYS DOL-licensed listing** with an address of record in Livingston County (1 mold assessment, 1 mold remediation): 1 firm and 0 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=livingston&st=ny)
+[How to get quotes](https://moldroster.com/quotes/?county=livingston&st=ny)
 
 ## Which licensed mold assessors are in Livingston County, NY? (1)
 
 1 listing is shown in this section with an address of record in Livingston County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessmentMold remediation
 

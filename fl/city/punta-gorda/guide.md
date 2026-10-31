@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in Punta Gorda, FL?
 
-18 DBPR-licensed listings give an address in Punta Gorda: 11 hold an assessment licence and 14 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Eric Luis Garcia and colleagues

@@ -31,8 +31,6 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 
 ## Which licensed mold pros are based in Patchogue, NY?
 
-5 NYS DOL-licensed listings give an address in Patchogue: 3 hold an assessment licence and 2 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessment
 
 ### American Environmental Solutions of N.Y., Inc (dba American Environmental Solutions)

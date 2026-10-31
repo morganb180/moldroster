@@ -31,8 +31,6 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 
 ## Which licensed mold pros are based in Holbrook, NY?
 
-5 NYS DOL-licensed listings give an address in Holbrook: 2 hold an assessment licence and 3 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessment
 
 ### Epidemiology and Toxicology Institute, LLC

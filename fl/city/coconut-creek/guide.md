@@ -35,8 +35,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 
 ## Which licensed mold pros are based in Coconut Creek, FL?
 
-12 DBPR-licensed listings give an address in Coconut Creek: 9 hold an assessment licence and 9 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Matthew James Fossler and colleagues

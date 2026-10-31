@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/county/lavaca/
 
 **Quick answer:** 2 TDLR-licensed listings with an address of record in Lavaca County (2 mold remediation): 1 firm and 1 individual licensee. Licensed pros often travel, so ask whether they cover your address.
 
-**2 TDLR-licensed listings** with an address of record in Lavaca County (2 mold remediation): 1 firm and 1 individual licensee. [How to get quotes](https://moldroster.com/quotes/?county=lavaca&st=tx)
+[How to get quotes](https://moldroster.com/quotes/?county=lavaca&st=tx)
 
 ## Which licensed mold remediators are in Lavaca County, TX? (2)
 

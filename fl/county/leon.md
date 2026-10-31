@@ -10,15 +10,13 @@ canonical: https://moldroster.com/fl/county/leon/
 
 **Quick answer:** 29 DBPR-licensed listings with an address of record in Leon County (17 mold assessment, 20 mold remediation): 0 firms and 29 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**29 DBPR-licensed listings** with an address of record in Leon County (17 mold assessment, 20 mold remediation): 0 firms and 29 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=leon&st=fl)
+[How to get quotes](https://moldroster.com/quotes/?county=leon&st=fl)
 
 City pages: [Tallahassee](https://moldroster.com/fl/city/tallahassee/)
 
 ## Which licensed mold assessors are in Leon County, FL? (17)
 
 17 listings are shown in this section with an address of record in Leon County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessment
 
@@ -234,7 +232,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which licensed mold remediators are in Leon County, FL? (12)
 
-12 listings are shown in this section with an address of record in Leon County. Listings holding more than one licence type appear once, in the first matching section.
+12 listings are shown in this section with an address of record in Leon County.
 
 ✔ Licensed by FL DBPR Mold remediation
 

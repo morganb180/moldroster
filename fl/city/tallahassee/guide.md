@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in Tallahassee, FL?
 
-29 DBPR-licensed listings give an address in Tallahassee: 17 hold an assessment licence and 20 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessment
 
 ### Ajaykumar J Thakkar

@@ -218,8 +218,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 ### Licensed mold assessors (inspection & testing) (44)
 
-Listings holding more than one licence type are shown once, in the first matching section.
-
 ✔ Licensed by DC DOEE Mold assessment
 
 ### Apex Companies, LLC
@@ -1795,8 +1793,6 @@ Show all 50 listings
 
 ### Licensed mold assessors (inspection & testing) (1)
 
-Listings holding more than one licence type are shown once, in the first matching section.
-
 ✔ Licensed by DC DOEE Mold assessment
 
 ### Sussex Environmental Health Consultants LLC
@@ -1817,8 +1813,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 ## Based in MD (30)
 
 ### Licensed mold assessors (inspection & testing) (18)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by DC DOEE Mold assessmentMold remediation
 
@@ -2385,8 +2379,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 ## Based in VA (10)
 
 ### Licensed mold assessors (inspection & testing) (8)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by DC DOEE Mold assessment
 

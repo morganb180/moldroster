@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in Carrollton, TX?
 
-10 TDLR-licensed listings give an address in Carrollton: 4 hold an assessment licence and 6 hold a remediation licence.
-
 ✔ Licensed by TDLR Mold assessment
 
 ### Apex Titan Inc

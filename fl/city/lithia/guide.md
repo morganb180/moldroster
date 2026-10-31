@@ -36,8 +36,6 @@ Summary of Florida Statutes Chapter 468, Part XVI (Mold-Related Services). See t
 
 ## Which licensed mold pros are based in Lithia, FL?
 
-6 DBPR-licensed listings give an address in Lithia: 6 hold an assessment licence and 2 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessment
 
 ### Andrew Jason Nash

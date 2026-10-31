@@ -10,8 +10,6 @@ canonical: https://moldroster.com/fl/city/apollo-beach/
 
 **Quick answer:** 5 DBPR-licensed listings give an address in Apollo Beach (4 mold assessment, 2 mold remediation), and 230 more are elsewhere in Hillsborough County. Licensed pros often travel, so ask whether they cover your address.
 
-5 DBPR-licensed listings give an address in Apollo Beach (4 mold assessment, 2 mold remediation), and 230 more are elsewhere in Hillsborough County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Apollo Beach hiring guide →**](https://moldroster.com/fl/city/apollo-beach/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Apollo Beach](https://moldroster.com/quotes/?city=apollo-beach&st=fl)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/fl/city/apollo-beach/
 Listed below: 4 licensed mold assessors (inspection and testing) and 1 licensed mold remediator with an address in Apollo Beach. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (4)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessment
 
@@ -89,7 +85,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Hillsborough County, FL? (230)
 
-230 more DBPR-licensed listings are elsewhere in Hillsborough County. Licensed pros often travel, so ask whether they cover your address.
+230 more DBPR-licensed listings are elsewhere in Hillsborough County.
 
 [See all 235 Hillsborough County listings →](https://moldroster.com/fl/county/hillsborough/)
 

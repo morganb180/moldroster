@@ -31,8 +31,6 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 
 ## Which licensed mold pros are based in Latham, NY?
 
-8 NYS DOL-licensed listings give an address in Latham: 4 hold an assessment licence and 4 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessment
 
 ### C.T. Male Associates Engineering, Surveying, Architecture, Landscape Architecture & Geology, D.P.C.

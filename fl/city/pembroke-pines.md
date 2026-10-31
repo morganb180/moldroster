@@ -10,8 +10,6 @@ canonical: https://moldroster.com/fl/city/pembroke-pines/
 
 **Quick answer:** 41 DBPR-licensed listings give an address in Pembroke Pines (31 mold assessment, 29 mold remediation), and 548 more are elsewhere in Broward County. Licensed pros often travel, so ask whether they cover your address.
 
-41 DBPR-licensed listings give an address in Pembroke Pines (31 mold assessment, 29 mold remediation), and 548 more are elsewhere in Broward County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Pembroke Pines hiring guide →**](https://moldroster.com/fl/city/pembroke-pines/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Pembroke Pines](https://moldroster.com/quotes/?city=pembroke-pines&st=fl)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/fl/city/pembroke-pines/
 Listed below: 31 licensed mold assessors (inspection and testing) and 10 licensed mold remediators with an address in Pembroke Pines. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (31)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessment
 
@@ -541,7 +537,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Broward County, FL? (548)
 
-548 more DBPR-licensed listings are elsewhere in Broward County. Licensed pros often travel, so ask whether they cover your address.
+548 more DBPR-licensed listings are elsewhere in Broward County.
 
 [See all 589 Broward County listings →](https://moldroster.com/fl/county/broward/)
 

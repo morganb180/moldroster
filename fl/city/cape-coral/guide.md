@@ -31,8 +31,6 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 
 ## Which licensed mold pros are based in Cape Coral, FL?
 
-84 DBPR-licensed listings give an address in Cape Coral: 63 hold an assessment licence and 61 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessment
 
 ### Angel Manuel Roman

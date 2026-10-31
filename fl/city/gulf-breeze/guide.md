@@ -29,8 +29,6 @@ Look the name up in the DBPR records and check the licence is still current. Ask
 
 ## Which licensed mold pros are based in Gulf Breeze, FL?
 
-6 DBPR-licensed listings give an address in Gulf Breeze: 5 hold an assessment licence and 5 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### James Carl Kilgore Jr

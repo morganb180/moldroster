@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in Troy, NY?
 
-7 NYS DOL-licensed listings give an address in Troy: 6 hold an assessment licence and 1 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessment
 
 ### Icon Home Inspections, LLC

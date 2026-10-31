@@ -31,8 +31,6 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 
 ## Which licensed mold pros are based in Deltona, FL?
 
-9 DBPR-licensed listings give an address in Deltona: 7 hold an assessment licence and 7 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Arden Martine Corday

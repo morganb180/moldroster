@@ -36,8 +36,6 @@ Summary of Florida Statutes Chapter 468, Part XVI (Mold-Related Services). See t
 
 ## Which licensed mold pros are based in Palm Springs, FL?
 
-5 DBPR-licensed listings give an address in Palm Springs: 1 hold an assessment licence and 5 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Lauren Elizabeth Payne

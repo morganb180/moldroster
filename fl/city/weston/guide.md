@@ -31,8 +31,6 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 
 ## Which licensed mold pros are based in Weston, FL?
 
-24 DBPR-licensed listings give an address in Weston: 19 hold an assessment licence and 18 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Hernandez, C Andres

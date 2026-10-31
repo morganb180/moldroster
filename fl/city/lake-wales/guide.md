@@ -33,8 +33,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 
 ## Which licensed mold pros are based in Lake Wales, FL?
 
-6 DBPR-licensed listings give an address in Lake Wales: 4 hold an assessment licence and 5 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Ayan Gonzalez

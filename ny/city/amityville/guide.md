@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in Amityville, NY?
 
-4 NYS DOL-licensed listings give an address in Amityville: 1 hold an assessment licence and 3 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessment
 
 ### Enviro-Test, Inc.

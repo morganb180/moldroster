@@ -35,8 +35,6 @@ Summary of New York Labor Law Article 32 and 12 NYCRR Part 60. See the agency: [
 
 ## Which licensed mold pros are based in Albany, NY?
 
-25 NYS DOL-licensed listings give an address in Albany: 14 hold an assessment licence and 12 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessment
 
 ### All Clear Compliance LLC

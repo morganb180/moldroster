@@ -10,15 +10,13 @@ canonical: https://moldroster.com/tx/county/dallas/
 
 **Quick answer:** 186 TDLR-licensed listings with an address of record in Dallas County (103 mold assessment, 91 mold remediation): 65 firms and 121 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**186 TDLR-licensed listings** with an address of record in Dallas County (103 mold assessment, 91 mold remediation): 65 firms and 121 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=dallas&st=tx)
+[How to get quotes](https://moldroster.com/quotes/?county=dallas&st=tx)
 
 City pages: [Carrollton](https://moldroster.com/tx/city/carrollton/) · [Dallas](https://moldroster.com/tx/city/dallas/) · [Garland](https://moldroster.com/tx/city/garland/) · [Richardson](https://moldroster.com/tx/city/richardson/)
 
 ## Which licensed mold assessors are in Dallas County, TX? (103)
 
 103 listings are shown in this section with an address of record in Dallas County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by TDLR Mold assessment
 
@@ -1520,7 +1518,7 @@ Show all 103 listings
 
 ## Which licensed mold remediators are in Dallas County, TX? (83)
 
-83 listings are shown in this section with an address of record in Dallas County. Listings holding more than one licence type appear once, in the first matching section.
+83 listings are shown in this section with an address of record in Dallas County.
 
 ✔ Licensed by TDLR Mold remediation
 

@@ -31,8 +31,6 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 
 ## Which licensed mold pros are based in East Meadow, NY?
 
-5 NYS DOL-licensed listings give an address in East Meadow: 5 hold an assessment licence and 0 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessment
 
 ### 2SAFE Consulting Inc.

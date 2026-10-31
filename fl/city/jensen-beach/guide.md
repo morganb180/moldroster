@@ -36,8 +36,6 @@ Summary of Florida Statutes Chapter 468, Part XVI (Mold-Related Services). See t
 
 ## Which licensed mold pros are based in Jensen Beach, FL?
 
-6 DBPR-licensed listings give an address in Jensen Beach: 3 hold an assessment licence and 5 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessment
 
 ### Taylor, Kaitlyn

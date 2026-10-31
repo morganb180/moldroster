@@ -36,8 +36,6 @@ Summary of Florida Statutes Chapter 468, Part XVI (Mold-Related Services). See t
 
 ## Which licensed mold pros are based in Riverview, FL?
 
-23 DBPR-licensed listings give an address in Riverview: 15 hold an assessment licence and 15 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessment
 
 ### Adelmarie Bones

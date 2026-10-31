@@ -10,8 +10,6 @@ canonical: https://moldroster.com/fl/city/okeechobee/
 
 **Quick answer:** 7 DBPR-licensed listings give an address in Okeechobee (3 mold assessment, 6 mold remediation), and 0 more are elsewhere in Okeechobee County. Licensed pros often travel, so ask whether they cover your address.
 
-7 DBPR-licensed listings give an address in Okeechobee (3 mold assessment, 6 mold remediation), and 0 more are elsewhere in Okeechobee County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Okeechobee hiring guide →**](https://moldroster.com/fl/city/okeechobee/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Okeechobee](https://moldroster.com/quotes/?city=okeechobee&st=fl)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/fl/city/okeechobee/
 Listed below: 3 licensed mold assessors (inspection and testing) and 4 licensed mold remediators with an address in Okeechobee. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (3)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

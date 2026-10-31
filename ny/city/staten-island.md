@@ -10,8 +10,6 @@ canonical: https://moldroster.com/ny/city/staten-island/
 
 **Quick answer:** 53 NYS DOL-licensed listings give an address in Staten Island (23 mold assessment, 35 mold remediation), and 0 more are elsewhere in Richmond County. Licensed pros often travel, so ask whether they cover your address.
 
-53 NYS DOL-licensed listings give an address in Staten Island (23 mold assessment, 35 mold remediation), and 0 more are elsewhere in Richmond County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Staten Island hiring guide →**](https://moldroster.com/ny/city/staten-island/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Staten Island](https://moldroster.com/quotes/?city=staten-island&st=ny)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/ny/city/staten-island/
 Listed below: 23 licensed mold assessors (inspection and testing) and 30 licensed mold remediators with an address in Staten Island. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (23)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessment
 

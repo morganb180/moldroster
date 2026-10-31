@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in Palm City, FL?
 
-6 DBPR-licensed listings give an address in Palm City: 5 hold an assessment licence and 4 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Benjamin Joseph Travis IV

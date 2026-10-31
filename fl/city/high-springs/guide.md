@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in High Springs, FL?
 
-4 DBPR-licensed listings give an address in High Springs: 4 hold an assessment licence and 2 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Aaron Jacob Buffenmyer

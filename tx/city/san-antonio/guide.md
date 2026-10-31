@@ -31,8 +31,6 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 
 ## Which licensed mold pros are based in San Antonio, TX?
 
-41 TDLR-licensed listings give an address in San Antonio: 12 hold an assessment licence and 29 hold a remediation licence.
-
 ✔ Licensed by TDLR Mold assessment
 
 ### Aehs Inc

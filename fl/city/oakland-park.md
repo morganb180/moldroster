@@ -10,8 +10,6 @@ canonical: https://moldroster.com/fl/city/oakland-park/
 
 **Quick answer:** 10 DBPR-licensed listings give an address in Oakland Park (4 mold assessment, 8 mold remediation), and 579 more are elsewhere in Broward County. Licensed pros often travel, so ask whether they cover your address.
 
-10 DBPR-licensed listings give an address in Oakland Park (4 mold assessment, 8 mold remediation), and 579 more are elsewhere in Broward County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Oakland Park hiring guide →**](https://moldroster.com/fl/city/oakland-park/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Oakland Park](https://moldroster.com/quotes/?city=oakland-park&st=fl)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/fl/city/oakland-park/
 Listed below: 4 licensed mold assessors (inspection and testing) and 6 licensed mold remediators with an address in Oakland Park. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (4)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -150,7 +146,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Broward County, FL? (579)
 
-579 more DBPR-licensed listings are elsewhere in Broward County. Licensed pros often travel, so ask whether they cover your address.
+579 more DBPR-licensed listings are elsewhere in Broward County.
 
 [See all 589 Broward County listings →](https://moldroster.com/fl/county/broward/)
 

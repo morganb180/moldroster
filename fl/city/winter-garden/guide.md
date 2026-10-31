@@ -31,8 +31,6 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 
 ## Which licensed mold pros are based in Winter Garden, FL?
 
-16 DBPR-licensed listings give an address in Winter Garden: 13 hold an assessment licence and 11 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Annette Marie Medina and colleagues

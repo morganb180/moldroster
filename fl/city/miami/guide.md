@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in Miami, FL?
 
-336 DBPR-licensed listings give an address in Miami: 271 hold an assessment licence and 259 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessment
 
 ### Alvear, Carol

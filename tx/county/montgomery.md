@@ -10,15 +10,13 @@ canonical: https://moldroster.com/tx/county/montgomery/
 
 **Quick answer:** 116 TDLR-licensed listings with an address of record in Montgomery County (55 mold assessment, 63 mold remediation): 26 firms and 90 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**116 TDLR-licensed listings** with an address of record in Montgomery County (55 mold assessment, 63 mold remediation): 26 firms and 90 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=montgomery&st=tx)
+[How to get quotes](https://moldroster.com/quotes/?county=montgomery&st=tx)
 
 City pages: [Conroe](https://moldroster.com/tx/city/conroe/) · [Magnolia](https://moldroster.com/tx/city/magnolia/)
 
 ## Which licensed mold assessors are in Montgomery County, TX? (55)
 
 55 listings are shown in this section with an address of record in Montgomery County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by TDLR Mold assessment
 
@@ -802,7 +800,7 @@ Show all 55 listings
 
 ## Which licensed mold remediators are in Montgomery County, TX? (61)
 
-61 listings are shown in this section with an address of record in Montgomery County. Listings holding more than one licence type appear once, in the first matching section.
+61 listings are shown in this section with an address of record in Montgomery County.
 
 ✔ Licensed by TDLR Mold remediation
 

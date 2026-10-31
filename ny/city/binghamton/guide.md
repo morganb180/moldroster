@@ -34,8 +34,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 
 ## Which licensed mold pros are based in Binghamton, NY?
 
-9 NYS DOL-licensed listings give an address in Binghamton: 4 hold an assessment licence and 6 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessmentMold remediation
 
 ### All Things New Building & Restoration Corp. (dba Rainbow International Restoration of Binghamton)

@@ -31,8 +31,6 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 
 ## Which licensed mold pros are based in West Palm Beach, FL?
 
-43 DBPR-licensed listings give an address in West Palm Beach: 28 hold an assessment licence and 31 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Harry Fischer and colleagues

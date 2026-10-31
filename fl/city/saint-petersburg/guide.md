@@ -31,8 +31,6 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 
 ## Which licensed mold pros are based in Saint Petersburg, FL?
 
-8 DBPR-licensed listings give an address in Saint Petersburg: 8 hold an assessment licence and 2 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessment
 
 ### Alan Taft

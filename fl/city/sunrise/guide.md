@@ -29,8 +29,6 @@ Look the name up in the DBPR records and check the licence is still current. Ask
 
 ## Which licensed mold pros are based in Sunrise, FL?
 
-31 DBPR-licensed listings give an address in Sunrise: 20 hold an assessment licence and 26 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Adriana Pinheiro Sabag

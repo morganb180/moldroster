@@ -10,8 +10,6 @@ canonical: https://moldroster.com/tx/city/league-city/
 
 **Quick answer:** 5 TDLR-licensed listings give an address in League City (2 mold assessment, 3 mold remediation), and 29 more are elsewhere in Galveston County. Licensed pros often travel, so ask whether they cover your address.
 
-5 TDLR-licensed listings give an address in League City (2 mold assessment, 3 mold remediation), and 29 more are elsewhere in Galveston County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the League City hiring guide →**](https://moldroster.com/tx/city/league-city/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in League City](https://moldroster.com/quotes/?city=league-city&st=tx)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/tx/city/league-city/
 Listed below: 2 licensed mold assessors (inspection and testing) and 3 licensed mold remediators with an address in League City. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (2)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by TDLR Mold assessment
 
@@ -97,7 +93,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 ## Which other licensed mold pros are in Galveston County, TX? (29)
 
-29 more TDLR-licensed listings are elsewhere in Galveston County. Licensed pros often travel, so ask whether they cover your address.
+29 more TDLR-licensed listings are elsewhere in Galveston County.
 
 [See all 34 Galveston County listings →](https://moldroster.com/tx/county/galveston/)
 

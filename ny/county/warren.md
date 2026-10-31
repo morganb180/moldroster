@@ -10,15 +10,13 @@ canonical: https://moldroster.com/ny/county/warren/
 
 **Quick answer:** 9 NYS DOL-licensed listings with an address of record in Warren County (6 mold assessment, 3 mold remediation): 9 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**9 NYS DOL-licensed listings** with an address of record in Warren County (6 mold assessment, 3 mold remediation): 9 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=warren&st=ny)
+[How to get quotes](https://moldroster.com/quotes/?county=warren&st=ny)
 
 City pages: [Queensbury](https://moldroster.com/ny/city/queensbury/)
 
 ## Which licensed mold assessors are in Warren County, NY? (6)
 
 6 listings are shown in this section with an address of record in Warren County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessment
 
@@ -111,7 +109,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 ## Which licensed mold remediators are in Warren County, NY? (3)
 
-3 listings are shown in this section with an address of record in Warren County. Listings holding more than one licence type appear once, in the first matching section.
+3 listings are shown in this section with an address of record in Warren County.
 
 ✔ Licensed by NYS DOL Mold remediation
 

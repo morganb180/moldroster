@@ -10,15 +10,13 @@ canonical: https://moldroster.com/ny/county/monroe/
 
 **Quick answer:** 57 NYS DOL-licensed listings with an address of record in Monroe County (29 mold assessment, 35 mold remediation): 57 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**57 NYS DOL-licensed listings** with an address of record in Monroe County (29 mold assessment, 35 mold remediation): 57 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=monroe&st=ny)
+[How to get quotes](https://moldroster.com/quotes/?county=monroe&st=ny)
 
 City pages: [Rochester](https://moldroster.com/ny/city/rochester/)
 
 ## Which licensed mold assessors are in Monroe County, NY? (29)
 
 29 listings are shown in this section with an address of record in Monroe County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessment
 
@@ -476,7 +474,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 ## Which licensed mold remediators are in Monroe County, NY? (28)
 
-28 listings are shown in this section with an address of record in Monroe County. Listings holding more than one licence type appear once, in the first matching section.
+28 listings are shown in this section with an address of record in Monroe County.
 
 ✔ Licensed by NYS DOL Mold remediation
 

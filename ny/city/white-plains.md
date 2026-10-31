@@ -10,8 +10,6 @@ canonical: https://moldroster.com/ny/city/white-plains/
 
 **Quick answer:** 10 NYS DOL-licensed listings give an address in White Plains (6 mold assessment, 5 mold remediation), and 92 more are elsewhere in Westchester County. Licensed pros often travel, so ask whether they cover your address.
 
-10 NYS DOL-licensed listings give an address in White Plains (6 mold assessment, 5 mold remediation), and 92 more are elsewhere in Westchester County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the White Plains hiring guide →**](https://moldroster.com/ny/city/white-plains/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in White Plains](https://moldroster.com/quotes/?city=white-plains&st=ny)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/ny/city/white-plains/
 Listed below: 6 licensed mold assessors (inspection and testing) and 4 licensed mold remediators with an address in White Plains. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (6)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessmentMold remediation
 
@@ -179,7 +175,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 ## Which other licensed mold pros are in Westchester County, NY? (92)
 
-92 more NYS DOL-licensed listings are elsewhere in Westchester County. Licensed pros often travel, so ask whether they cover your address.
+92 more NYS DOL-licensed listings are elsewhere in Westchester County.
 
 [See all 102 Westchester County listings →](https://moldroster.com/ny/county/westchester/)
 

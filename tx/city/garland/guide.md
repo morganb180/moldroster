@@ -31,8 +31,6 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 
 ## Which licensed mold pros are based in Garland, TX?
 
-7 TDLR-licensed listings give an address in Garland: 1 hold an assessment licence and 7 hold a remediation licence.
-
 ✔ Licensed by TDLR Mold assessmentMold remediation
 
 ### Kj Integrated Services, LLC

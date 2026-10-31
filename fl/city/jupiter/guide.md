@@ -36,8 +36,6 @@ Summary of Florida Statutes Chapter 468, Part XVI (Mold-Related Services). See t
 
 ## Which licensed mold pros are based in Jupiter, FL?
 
-30 DBPR-licensed listings give an address in Jupiter: 22 hold an assessment licence and 23 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Mark Edward Fales and colleagues

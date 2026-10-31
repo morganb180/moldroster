@@ -35,8 +35,6 @@ Summary of 16 Texas Administrative Code Chapter 78 (Texas Mold Assessment and Re
 
 ## Which licensed mold pros are based in Humble, TX?
 
-5 TDLR-licensed listings give an address in Humble: 1 hold an assessment licence and 4 hold a remediation licence.
-
 ✔ Licensed by TDLR Mold assessment
 
 ### Ferkam Management Corporation

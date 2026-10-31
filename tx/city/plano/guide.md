@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in Plano, TX?
 
-16 TDLR-licensed listings give an address in Plano: 6 hold an assessment licence and 10 hold a remediation licence.
-
 ✔ Licensed by TDLR Mold assessment
 
 ### Envirocare Associates Inc

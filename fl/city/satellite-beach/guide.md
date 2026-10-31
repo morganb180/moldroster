@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in Satellite Beach, FL?
 
-8 DBPR-licensed listings give an address in Satellite Beach: 6 hold an assessment licence and 4 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Jason Gilstrap

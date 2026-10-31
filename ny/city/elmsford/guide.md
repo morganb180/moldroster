@@ -34,8 +34,6 @@ Summary of New York Labor Law Article 32 and 12 NYCRR Part 60. See the agency: [
 
 ## Which licensed mold pros are based in Elmsford, NY?
 
-5 NYS DOL-licensed listings give an address in Elmsford: 0 hold an assessment licence and 5 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold remediation
 
 ### ACA Environmental Services Inc

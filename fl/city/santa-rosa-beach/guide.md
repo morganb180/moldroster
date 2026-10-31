@@ -34,8 +34,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 
 ## Which licensed mold pros are based in Santa Rosa Beach, FL?
 
-10 DBPR-licensed listings give an address in Santa Rosa Beach: 6 hold an assessment licence and 9 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessment
 
 ### Benjamin Budd

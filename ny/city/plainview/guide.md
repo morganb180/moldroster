@@ -31,8 +31,6 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 
 ## Which licensed mold pros are based in Plainview, NY?
 
-6 NYS DOL-licensed listings give an address in Plainview: 2 hold an assessment licence and 4 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessment
 
 ### 3 Little Js LLC (dba Su Casa Home Inspections)

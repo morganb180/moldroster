@@ -10,13 +10,11 @@ canonical: https://moldroster.com/ny/county/ontario/
 
 **Quick answer:** 6 NYS DOL-licensed listings with an address of record in Ontario County (1 mold assessment, 5 mold remediation): 6 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**6 NYS DOL-licensed listings** with an address of record in Ontario County (1 mold assessment, 5 mold remediation): 6 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=ontario&st=ny)
+[How to get quotes](https://moldroster.com/quotes/?county=ontario&st=ny)
 
 ## Which licensed mold assessors are in Ontario County, NY? (1)
 
 1 listing is shown in this section with an address of record in Ontario County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessment
 
@@ -33,7 +31,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 ## Which licensed mold remediators are in Ontario County, NY? (5)
 
-5 listings are shown in this section with an address of record in Ontario County. Listings holding more than one licence type appear once, in the first matching section.
+5 listings are shown in this section with an address of record in Ontario County.
 
 ✔ Licensed by NYS DOL Mold remediation
 

@@ -10,8 +10,6 @@ canonical: https://moldroster.com/fl/city/fort-pierce/
 
 **Quick answer:** 12 DBPR-licensed listings give an address in Fort Pierce (10 mold assessment, 10 mold remediation), and 67 more are elsewhere in St. Lucie County. Licensed pros often travel, so ask whether they cover your address.
 
-12 DBPR-licensed listings give an address in Fort Pierce (10 mold assessment, 10 mold remediation), and 67 more are elsewhere in St. Lucie County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Fort Pierce hiring guide →**](https://moldroster.com/fl/city/fort-pierce/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Fort Pierce](https://moldroster.com/quotes/?city=fort-pierce&st=fl)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/fl/city/fort-pierce/
 Listed below: 10 licensed mold assessors (inspection and testing) and 2 licensed mold remediators with an address in Fort Pierce. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (10)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -180,7 +176,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in St. Lucie County, FL? (67)
 
-67 more DBPR-licensed listings are elsewhere in St. Lucie County. Licensed pros often travel, so ask whether they cover your address.
+67 more DBPR-licensed listings are elsewhere in St.
 
 [See all 79 St. Lucie County listings →](https://moldroster.com/fl/county/st-lucie/)
 

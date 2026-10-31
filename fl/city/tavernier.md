@@ -10,8 +10,6 @@ canonical: https://moldroster.com/fl/city/tavernier/
 
 **Quick answer:** 4 DBPR-licensed listings give an address in Tavernier (3 mold assessment, 3 mold remediation), and 8 more are elsewhere in Monroe County. Licensed pros often travel, so ask whether they cover your address.
 
-4 DBPR-licensed listings give an address in Tavernier (3 mold assessment, 3 mold remediation), and 8 more are elsewhere in Monroe County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Tavernier hiring guide →**](https://moldroster.com/fl/city/tavernier/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Tavernier](https://moldroster.com/quotes/?city=tavernier&st=fl)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/fl/city/tavernier/
 Listed below: 3 licensed mold assessors (inspection and testing) and 1 licensed mold remediator with an address in Tavernier. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (3)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -78,7 +74,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Monroe County, FL? (8)
 
-8 more DBPR-licensed listings are elsewhere in Monroe County. Licensed pros often travel, so ask whether they cover your address.
+8 more DBPR-licensed listings are elsewhere in Monroe County.
 
 [See all 12 Monroe County listings →](https://moldroster.com/fl/county/monroe/)
 

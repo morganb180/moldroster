@@ -10,8 +10,6 @@ canonical: https://moldroster.com/fl/city/wellington/
 
 **Quick answer:** 20 DBPR-licensed listings give an address in Wellington (14 mold assessment, 13 mold remediation), and 350 more are elsewhere in Palm Beach County. Licensed pros often travel, so ask whether they cover your address.
 
-20 DBPR-licensed listings give an address in Wellington (14 mold assessment, 13 mold remediation), and 350 more are elsewhere in Palm Beach County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Wellington hiring guide →**](https://moldroster.com/fl/city/wellington/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Wellington](https://moldroster.com/quotes/?city=wellington&st=fl)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/fl/city/wellington/
 Listed below: 14 licensed mold assessors (inspection and testing) and 6 licensed mold remediators with an address in Wellington. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (14)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -279,7 +275,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Palm Beach County, FL? (350)
 
-350 more DBPR-licensed listings are elsewhere in Palm Beach County. Licensed pros often travel, so ask whether they cover your address.
+350 more DBPR-licensed listings are elsewhere in Palm Beach County.
 
 [See all 370 Palm Beach County listings →](https://moldroster.com/fl/county/palm-beach/)
 

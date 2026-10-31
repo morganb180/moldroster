@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in Fort Pierce, FL?
 
-12 DBPR-licensed listings give an address in Fort Pierce: 10 hold an assessment licence and 10 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Carl Trevor Hughes

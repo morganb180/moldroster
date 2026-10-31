@@ -10,8 +10,6 @@ canonical: https://moldroster.com/fl/city/saint-augustine/
 
 **Quick answer:** 15 DBPR-licensed listings give an address in Saint Augustine (13 mold assessment, 11 mold remediation), and 37 more are elsewhere in St. Johns County. Licensed pros often travel, so ask whether they cover your address.
 
-15 DBPR-licensed listings give an address in Saint Augustine (13 mold assessment, 11 mold remediation), and 37 more are elsewhere in St. Johns County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Saint Augustine hiring guide →**](https://moldroster.com/fl/city/saint-augustine/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Saint Augustine](https://moldroster.com/quotes/?city=saint-augustine&st=fl)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/fl/city/saint-augustine/
 Listed below: 13 licensed mold assessors (inspection and testing) and 2 licensed mold remediators with an address in Saint Augustine. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (13)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -223,7 +219,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in St. Johns County, FL? (37)
 
-37 more DBPR-licensed listings are elsewhere in St. Johns County. Licensed pros often travel, so ask whether they cover your address.
+37 more DBPR-licensed listings are elsewhere in St.
 
 [See all 52 St. Johns County listings →](https://moldroster.com/fl/county/st-johns/)
 

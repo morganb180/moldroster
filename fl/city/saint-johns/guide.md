@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in Saint Johns, FL?
 
-4 DBPR-licensed listings give an address in Saint Johns: 3 hold an assessment licence and 3 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessment
 
 ### Austin Leland Gray

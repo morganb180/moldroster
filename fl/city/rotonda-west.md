@@ -10,8 +10,6 @@ canonical: https://moldroster.com/fl/city/rotonda-west/
 
 **Quick answer:** 5 DBPR-licensed listings give an address in Rotonda West (5 mold assessment, 2 mold remediation), and 37 more are elsewhere in Charlotte County. Licensed pros often travel, so ask whether they cover your address.
 
-5 DBPR-licensed listings give an address in Rotonda West (5 mold assessment, 2 mold remediation), and 37 more are elsewhere in Charlotte County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Rotonda West hiring guide →**](https://moldroster.com/fl/city/rotonda-west/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Rotonda West](https://moldroster.com/quotes/?city=rotonda-west&st=fl)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/fl/city/rotonda-west/
 Listed below: 5 licensed mold assessors (inspection and testing) with an address in Rotonda West. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (5)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -88,7 +84,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Charlotte County, FL? (37)
 
-37 more DBPR-licensed listings are elsewhere in Charlotte County. Licensed pros often travel, so ask whether they cover your address.
+37 more DBPR-licensed listings are elsewhere in Charlotte County.
 
 [See all 42 Charlotte County listings →](https://moldroster.com/fl/county/charlotte/)
 

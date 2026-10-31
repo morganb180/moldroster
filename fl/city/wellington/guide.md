@@ -35,8 +35,6 @@ Summary of Florida Statutes Chapter 468, Part XVI (Mold-Related Services). See t
 
 ## Which licensed mold pros are based in Wellington, FL?
 
-20 DBPR-licensed listings give an address in Wellington: 14 hold an assessment licence and 13 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Peter Matthew Rillo and colleagues

@@ -31,8 +31,6 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 
 ## Which licensed mold pros are based in Commack, NY?
 
-4 NYS DOL-licensed listings give an address in Commack: 4 hold an assessment licence and 1 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessment
 
 ### Family First Environmental, Corp.

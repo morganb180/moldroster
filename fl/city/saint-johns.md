@@ -10,8 +10,6 @@ canonical: https://moldroster.com/fl/city/saint-johns/
 
 **Quick answer:** 4 DBPR-licensed listings give an address in Saint Johns (3 mold assessment, 3 mold remediation), and 48 more are elsewhere in St. Johns County. Licensed pros often travel, so ask whether they cover your address.
 
-4 DBPR-licensed listings give an address in Saint Johns (3 mold assessment, 3 mold remediation), and 48 more are elsewhere in St. Johns County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Saint Johns hiring guide →**](https://moldroster.com/fl/city/saint-johns/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Saint Johns](https://moldroster.com/quotes/?city=saint-johns&st=fl)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/fl/city/saint-johns/
 Listed below: 3 licensed mold assessors (inspection and testing) and 1 licensed mold remediator with an address in Saint Johns. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (3)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessment
 
@@ -78,7 +74,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in St. Johns County, FL? (48)
 
-48 more DBPR-licensed listings are elsewhere in St. Johns County. Licensed pros often travel, so ask whether they cover your address.
+48 more DBPR-licensed listings are elsewhere in St.
 
 [See all 52 St. Johns County listings →](https://moldroster.com/fl/county/st-johns/)
 

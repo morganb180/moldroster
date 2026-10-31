@@ -34,8 +34,6 @@ Summary of New York Labor Law Article 32 and 12 NYCRR Part 60. See the agency: [
 
 ## Which licensed mold pros are based in Niagara Falls, NY?
 
-4 NYS DOL-licensed listings give an address in Niagara Falls: 1 hold an assessment licence and 3 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessment
 
 ### Allsatehome inspection and household environmental testing services of WNY (dba S)

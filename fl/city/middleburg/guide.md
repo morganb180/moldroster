@@ -29,8 +29,6 @@ Look the name up in the DBPR records and check the licence is still current. Ask
 
 ## Which licensed mold pros are based in Middleburg, FL?
 
-5 DBPR-licensed listings give an address in Middleburg: 4 hold an assessment licence and 2 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Brett Terry Moore

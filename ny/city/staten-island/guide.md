@@ -35,8 +35,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 
 ## Which licensed mold pros are based in Staten Island, NY?
 
-53 NYS DOL-licensed listings give an address in Staten Island: 23 hold an assessment licence and 35 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessment
 
 ### Alamo Environmental Consulting Inc

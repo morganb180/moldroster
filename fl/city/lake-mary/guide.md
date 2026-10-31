@@ -29,8 +29,6 @@ Look the name up in the DBPR records and check the licence is still current. Ask
 
 ## Which licensed mold pros are based in Lake Mary, FL?
 
-10 DBPR-licensed listings give an address in Lake Mary: 9 hold an assessment licence and 5 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessment
 
 ### Andrew Pinkerton

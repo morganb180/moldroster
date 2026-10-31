@@ -10,8 +10,6 @@ canonical: https://moldroster.com/ny/city/massapequa/
 
 **Quick answer:** 5 NYS DOL-licensed listings give an address in Massapequa (4 mold assessment, 2 mold remediation), and 148 more are elsewhere in Nassau County. Licensed pros often travel, so ask whether they cover your address.
 
-5 NYS DOL-licensed listings give an address in Massapequa (4 mold assessment, 2 mold remediation), and 148 more are elsewhere in Nassau County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Massapequa hiring guide →**](https://moldroster.com/ny/city/massapequa/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Massapequa](https://moldroster.com/quotes/?city=massapequa&st=ny)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/ny/city/massapequa/
 Listed below: 4 licensed mold assessors (inspection and testing) and 1 licensed mold remediator with an address in Massapequa. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (4)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessment
 
@@ -99,7 +95,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 ## Which other licensed mold pros are in Nassau County, NY? (148)
 
-148 more NYS DOL-licensed listings are elsewhere in Nassau County. Licensed pros often travel, so ask whether they cover your address.
+148 more NYS DOL-licensed listings are elsewhere in Nassau County.
 
 [See all 153 Nassau County listings →](https://moldroster.com/ny/county/nassau/)
 

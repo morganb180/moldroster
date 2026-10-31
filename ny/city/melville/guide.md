@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in Melville, NY?
 
-8 NYS DOL-licensed listings give an address in Melville: 3 hold an assessment licence and 6 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessment
 
 ### Groton Equities Associates, LLC (dba Fairfield Properties)

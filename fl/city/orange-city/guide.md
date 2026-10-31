@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in Orange City, FL?
 
-4 DBPR-licensed listings give an address in Orange City: 2 hold an assessment licence and 3 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Edward Grimes

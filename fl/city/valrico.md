@@ -10,8 +10,6 @@ canonical: https://moldroster.com/fl/city/valrico/
 
 **Quick answer:** 17 DBPR-licensed listings give an address in Valrico (13 mold assessment, 10 mold remediation), and 218 more are elsewhere in Hillsborough County. Licensed pros often travel, so ask whether they cover your address.
 
-17 DBPR-licensed listings give an address in Valrico (13 mold assessment, 10 mold remediation), and 218 more are elsewhere in Hillsborough County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Valrico hiring guide →**](https://moldroster.com/fl/city/valrico/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Valrico](https://moldroster.com/quotes/?city=valrico&st=fl)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/fl/city/valrico/
 Listed below: 13 licensed mold assessors (inspection and testing) and 4 licensed mold remediators with an address in Valrico. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (13)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -241,7 +237,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Hillsborough County, FL? (218)
 
-218 more DBPR-licensed listings are elsewhere in Hillsborough County. Licensed pros often travel, so ask whether they cover your address.
+218 more DBPR-licensed listings are elsewhere in Hillsborough County.
 
 [See all 235 Hillsborough County listings →](https://moldroster.com/fl/county/hillsborough/)
 

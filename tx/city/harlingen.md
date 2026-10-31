@@ -10,8 +10,6 @@ canonical: https://moldroster.com/tx/city/harlingen/
 
 **Quick answer:** 4 TDLR-licensed listings give an address in Harlingen (3 mold assessment, 1 mold remediation), and 10 more are elsewhere in Cameron County. Licensed pros often travel, so ask whether they cover your address.
 
-4 TDLR-licensed listings give an address in Harlingen (3 mold assessment, 1 mold remediation), and 10 more are elsewhere in Cameron County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Harlingen hiring guide →**](https://moldroster.com/tx/city/harlingen/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Harlingen](https://moldroster.com/quotes/?city=harlingen&st=tx)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/tx/city/harlingen/
 Listed below: 3 licensed mold assessors (inspection and testing) and 1 licensed mold remediator with an address in Harlingen. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (3)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by TDLR Mold assessment
 
@@ -84,7 +80,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 ## Which other licensed mold pros are in Cameron County, TX? (10)
 
-10 more TDLR-licensed listings are elsewhere in Cameron County. Licensed pros often travel, so ask whether they cover your address.
+10 more TDLR-licensed listings are elsewhere in Cameron County.
 
 [See all 14 Cameron County listings →](https://moldroster.com/tx/county/cameron/)
 

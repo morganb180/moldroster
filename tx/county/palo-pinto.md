@@ -10,13 +10,11 @@ canonical: https://moldroster.com/tx/county/palo-pinto/
 
 **Quick answer:** 1 TDLR-licensed listing with an address of record in Palo Pinto County (1 mold assessment): 0 firms and 1 individual licensee. Licensed pros often travel, so ask whether they cover your address.
 
-**1 TDLR-licensed listing** with an address of record in Palo Pinto County (1 mold assessment): 0 firms and 1 individual licensee. [How to get quotes](https://moldroster.com/quotes/?county=palo-pinto&st=tx)
+[How to get quotes](https://moldroster.com/quotes/?county=palo-pinto&st=tx)
 
 ## Which licensed mold assessors are in Palo Pinto County, TX? (1)
 
 1 listing is shown in this section with an address of record in Palo Pinto County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by TDLR Mold assessment
 

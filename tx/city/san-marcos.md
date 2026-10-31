@@ -10,8 +10,6 @@ canonical: https://moldroster.com/tx/city/san-marcos/
 
 **Quick answer:** 5 TDLR-licensed listings give an address in San Marcos (1 mold assessment, 4 mold remediation), and 32 more are elsewhere in Hays County. Licensed pros often travel, so ask whether they cover your address.
 
-5 TDLR-licensed listings give an address in San Marcos (1 mold assessment, 4 mold remediation), and 32 more are elsewhere in Hays County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the San Marcos hiring guide →**](https://moldroster.com/tx/city/san-marcos/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in San Marcos](https://moldroster.com/quotes/?city=san-marcos&st=tx)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/tx/city/san-marcos/
 Listed below: 1 licensed mold assessor (inspection and testing) and 4 licensed mold remediators with an address in San Marcos. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (1)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by TDLR Mold assessment
 
@@ -98,7 +94,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 ## Which other licensed mold pros are in Hays County, TX? (32)
 
-32 more TDLR-licensed listings are elsewhere in Hays County. Licensed pros often travel, so ask whether they cover your address.
+32 more TDLR-licensed listings are elsewhere in Hays County.
 
 [See all 37 Hays County listings →](https://moldroster.com/tx/county/hays/)
 

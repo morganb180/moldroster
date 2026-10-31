@@ -36,8 +36,6 @@ Summary of Florida Statutes Chapter 468, Part XVI (Mold-Related Services). See t
 
 ## Which licensed mold pros are based in North Miami, FL?
 
-8 DBPR-licensed listings give an address in North Miami: 7 hold an assessment licence and 7 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Cristina Loren Sanchez and colleagues

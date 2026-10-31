@@ -10,15 +10,13 @@ canonical: https://moldroster.com/ny/county/dutchess/
 
 **Quick answer:** 32 NYS DOL-licensed listings with an address of record in Dutchess County (19 mold assessment, 16 mold remediation): 32 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**32 NYS DOL-licensed listings** with an address of record in Dutchess County (19 mold assessment, 16 mold remediation): 32 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=dutchess&st=ny)
+[How to get quotes](https://moldroster.com/quotes/?county=dutchess&st=ny)
 
 City pages: [Pleasant Valley](https://moldroster.com/ny/city/pleasant-valley/) · [Poughkeepsie](https://moldroster.com/ny/city/poughkeepsie/)
 
 ## Which licensed mold assessors are in Dutchess County, NY? (19)
 
 19 listings are shown in this section with an address of record in Dutchess County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessment
 
@@ -299,7 +297,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 ## Which licensed mold remediators are in Dutchess County, NY? (13)
 
-13 listings are shown in this section with an address of record in Dutchess County. Listings holding more than one licence type appear once, in the first matching section.
+13 listings are shown in this section with an address of record in Dutchess County.
 
 ✔ Licensed by NYS DOL Mold remediation
 

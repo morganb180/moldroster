@@ -10,13 +10,11 @@ canonical: https://moldroster.com/tx/county/aransas/
 
 **Quick answer:** 3 TDLR-licensed listings with an address of record in Aransas County (3 mold assessment): 0 firms and 3 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**3 TDLR-licensed listings** with an address of record in Aransas County (3 mold assessment): 0 firms and 3 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=aransas&st=tx)
+[How to get quotes](https://moldroster.com/quotes/?county=aransas&st=tx)
 
 ## Which licensed mold assessors are in Aransas County, TX? (3)
 
 3 listings are shown in this section with an address of record in Aransas County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by TDLR Mold assessment
 

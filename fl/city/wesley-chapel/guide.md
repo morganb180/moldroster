@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in Wesley Chapel, FL?
 
-12 DBPR-licensed listings give an address in Wesley Chapel: 8 hold an assessment licence and 8 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Daniel Phillip Emmanuel

@@ -10,8 +10,6 @@ canonical: https://moldroster.com/fl/city/hollywood/
 
 **Quick answer:** 58 DBPR-licensed listings give an address in Hollywood (44 mold assessment, 42 mold remediation), and 531 more are elsewhere in Broward County. Licensed pros often travel, so ask whether they cover your address.
 
-58 DBPR-licensed listings give an address in Hollywood (44 mold assessment, 42 mold remediation), and 531 more are elsewhere in Broward County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Hollywood hiring guide →**](https://moldroster.com/fl/city/hollywood/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Hollywood](https://moldroster.com/quotes/?city=hollywood&st=fl)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/fl/city/hollywood/
 Listed below: 44 licensed mold assessors (inspection and testing) and 14 licensed mold remediators with an address in Hollywood. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (44)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessment
 
@@ -762,7 +758,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Broward County, FL? (531)
 
-531 more DBPR-licensed listings are elsewhere in Broward County. Licensed pros often travel, so ask whether they cover your address.
+531 more DBPR-licensed listings are elsewhere in Broward County.
 
 [See all 589 Broward County listings →](https://moldroster.com/fl/county/broward/)
 

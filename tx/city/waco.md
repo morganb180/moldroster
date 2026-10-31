@@ -10,8 +10,6 @@ canonical: https://moldroster.com/tx/city/waco/
 
 **Quick answer:** 4 TDLR-licensed listings give an address in Waco (1 mold assessment, 3 mold remediation), and 22 more are elsewhere in McLennan County. Licensed pros often travel, so ask whether they cover your address.
 
-4 TDLR-licensed listings give an address in Waco (1 mold assessment, 3 mold remediation), and 22 more are elsewhere in McLennan County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Waco hiring guide →**](https://moldroster.com/tx/city/waco/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Waco](https://moldroster.com/quotes/?city=waco&st=tx)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/tx/city/waco/
 Listed below: 1 licensed mold assessor (inspection and testing) and 3 licensed mold remediators with an address in Waco. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (1)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by TDLR Mold assessment
 
@@ -95,7 +91,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 ## Which other licensed mold pros are in McLennan County, TX? (22)
 
-22 more TDLR-licensed listings are elsewhere in McLennan County. Licensed pros often travel, so ask whether they cover your address.
+22 more TDLR-licensed listings are elsewhere in McLennan County.
 
 [See all 26 McLennan County listings →](https://moldroster.com/tx/county/mclennan/)
 

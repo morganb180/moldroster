@@ -10,8 +10,6 @@ canonical: https://moldroster.com/ny/city/yaphank/
 
 **Quick answer:** 4 NYS DOL-licensed listings give an address in Yaphank (1 mold assessment, 4 mold remediation), and 181 more are elsewhere in Suffolk County. Licensed pros often travel, so ask whether they cover your address.
 
-4 NYS DOL-licensed listings give an address in Yaphank (1 mold assessment, 4 mold remediation), and 181 more are elsewhere in Suffolk County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Yaphank hiring guide →**](https://moldroster.com/ny/city/yaphank/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Yaphank](https://moldroster.com/quotes/?city=yaphank&st=ny)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/ny/city/yaphank/
 Listed below: 1 licensed mold assessor (inspection and testing) and 3 licensed mold remediators with an address in Yaphank. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (1)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessmentMold remediation
 
@@ -93,7 +89,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 ## Which other licensed mold pros are in Suffolk County, NY? (181)
 
-181 more NYS DOL-licensed listings are elsewhere in Suffolk County. Licensed pros often travel, so ask whether they cover your address.
+181 more NYS DOL-licensed listings are elsewhere in Suffolk County.
 
 [See all 185 Suffolk County listings →](https://moldroster.com/ny/county/suffolk/)
 

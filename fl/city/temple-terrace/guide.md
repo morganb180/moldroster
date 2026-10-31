@@ -33,8 +33,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 
 ## Which licensed mold pros are based in Temple Terrace, FL?
 
-4 DBPR-licensed listings give an address in Temple Terrace: 3 hold an assessment licence and 3 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessment
 
 ### Donald Edward Nehrig Jr

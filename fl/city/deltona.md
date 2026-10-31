@@ -10,8 +10,6 @@ canonical: https://moldroster.com/fl/city/deltona/
 
 **Quick answer:** 9 DBPR-licensed listings give an address in Deltona (7 mold assessment, 7 mold remediation), and 57 more are elsewhere in Volusia County. Licensed pros often travel, so ask whether they cover your address.
 
-9 DBPR-licensed listings give an address in Deltona (7 mold assessment, 7 mold remediation), and 57 more are elsewhere in Volusia County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Deltona hiring guide →**](https://moldroster.com/fl/city/deltona/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Deltona](https://moldroster.com/quotes/?city=deltona&st=fl)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/fl/city/deltona/
 Listed below: 7 licensed mold assessors (inspection and testing) and 2 licensed mold remediators with an address in Deltona. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (7)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -141,7 +137,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Volusia County, FL? (57)
 
-57 more DBPR-licensed listings are elsewhere in Volusia County. Licensed pros often travel, so ask whether they cover your address.
+57 more DBPR-licensed listings are elsewhere in Volusia County.
 
 [See all 66 Volusia County listings →](https://moldroster.com/fl/county/volusia/)
 

@@ -10,8 +10,6 @@ canonical: https://moldroster.com/ny/city/roslyn-heights/
 
 **Quick answer:** 4 NYS DOL-licensed listings give an address in Roslyn Heights (3 mold assessment, 3 mold remediation), and 149 more are elsewhere in Nassau County. Licensed pros often travel, so ask whether they cover your address.
 
-4 NYS DOL-licensed listings give an address in Roslyn Heights (3 mold assessment, 3 mold remediation), and 149 more are elsewhere in Nassau County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Roslyn Heights hiring guide →**](https://moldroster.com/ny/city/roslyn-heights/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Roslyn Heights](https://moldroster.com/quotes/?city=roslyn-heights&st=ny)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/ny/city/roslyn-heights/
 Listed below: 3 licensed mold assessors (inspection and testing) and 1 licensed mold remediator with an address in Roslyn Heights. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (3)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessment
 
@@ -82,7 +78,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 ## Which other licensed mold pros are in Nassau County, NY? (149)
 
-149 more NYS DOL-licensed listings are elsewhere in Nassau County. Licensed pros often travel, so ask whether they cover your address.
+149 more NYS DOL-licensed listings are elsewhere in Nassau County.
 
 [See all 153 Nassau County listings →](https://moldroster.com/ny/county/nassau/)
 

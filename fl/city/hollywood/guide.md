@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in Hollywood, FL?
 
-58 DBPR-licensed listings give an address in Hollywood: 44 hold an assessment licence and 42 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessment
 
 ### Deborah Fisher Middleton and colleagues

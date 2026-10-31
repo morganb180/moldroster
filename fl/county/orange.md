@@ -10,15 +10,13 @@ canonical: https://moldroster.com/fl/county/orange/
 
 **Quick answer:** 194 DBPR-licensed listings with an address of record in Orange County (140 mold assessment, 133 mold remediation): 15 firms and 179 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**194 DBPR-licensed listings** with an address of record in Orange County (140 mold assessment, 133 mold remediation): 15 firms and 179 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=orange&st=fl)
+[How to get quotes](https://moldroster.com/quotes/?county=orange&st=fl)
 
 City pages: [Apopka](https://moldroster.com/fl/city/apopka/) · [Maitland](https://moldroster.com/fl/city/maitland/) · [Ocoee](https://moldroster.com/fl/city/ocoee/) · [Orlando](https://moldroster.com/fl/city/orlando/) · [Windermere](https://moldroster.com/fl/city/windermere/) · [Winter Garden](https://moldroster.com/fl/city/winter-garden/) · [Winter Park](https://moldroster.com/fl/city/winter-park/)
 
 ## Which licensed mold assessors are in Orange County, FL? (140)
 
 140 listings are shown in this section with an address of record in Orange County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -1832,7 +1830,7 @@ Show all 140 listings
 
 ## Which licensed mold remediators are in Orange County, FL? (54)
 
-54 listings are shown in this section with an address of record in Orange County. Listings holding more than one licence type appear once, in the first matching section.
+54 listings are shown in this section with an address of record in Orange County.
 
 ✔ Licensed by FL DBPR Mold remediation
 

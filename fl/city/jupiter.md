@@ -10,8 +10,6 @@ canonical: https://moldroster.com/fl/city/jupiter/
 
 **Quick answer:** 30 DBPR-licensed listings give an address in Jupiter (22 mold assessment, 23 mold remediation), and 340 more are elsewhere in Palm Beach County. Licensed pros often travel, so ask whether they cover your address.
 
-30 DBPR-licensed listings give an address in Jupiter (22 mold assessment, 23 mold remediation), and 340 more are elsewhere in Palm Beach County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Jupiter hiring guide →**](https://moldroster.com/fl/city/jupiter/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Jupiter](https://moldroster.com/quotes/?city=jupiter&st=fl)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/fl/city/jupiter/
 Listed below: 22 licensed mold assessors (inspection and testing) and 8 licensed mold remediators with an address in Jupiter. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (22)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -409,7 +405,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Palm Beach County, FL? (340)
 
-340 more DBPR-licensed listings are elsewhere in Palm Beach County. Licensed pros often travel, so ask whether they cover your address.
+340 more DBPR-licensed listings are elsewhere in Palm Beach County.
 
 [See all 370 Palm Beach County listings →](https://moldroster.com/fl/county/palm-beach/)
 

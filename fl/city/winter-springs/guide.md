@@ -36,8 +36,6 @@ Summary of Florida Statutes Chapter 468, Part XVI (Mold-Related Services). See t
 
 ## Which licensed mold pros are based in Winter Springs, FL?
 
-9 DBPR-licensed listings give an address in Winter Springs: 6 hold an assessment licence and 7 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Edward Alberto Nunez and colleagues

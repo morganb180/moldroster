@@ -29,8 +29,6 @@ Look the name up in the DBPR records and check the licence is still current. Ask
 
 ## Which licensed mold pros are based in Winter Haven, FL?
 
-12 DBPR-licensed listings give an address in Winter Haven: 8 hold an assessment licence and 10 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Michael Glen Mays and colleagues

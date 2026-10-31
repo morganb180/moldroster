@@ -10,8 +10,6 @@ canonical: https://moldroster.com/ny/city/ozone-park/
 
 **Quick answer:** 4 NYS DOL-licensed listings give an address in Ozone Park (4 mold remediation), and 150 more are elsewhere in Queens County. Licensed pros often travel, so ask whether they cover your address.
 
-4 NYS DOL-licensed listings give an address in Ozone Park (4 mold remediation), and 150 more are elsewhere in Queens County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Ozone Park hiring guide →**](https://moldroster.com/ny/city/ozone-park/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Ozone Park](https://moldroster.com/quotes/?city=ozone-park&st=ny)
@@ -80,7 +78,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 ## Which other licensed mold pros are in Queens County, NY? (150)
 
-150 more NYS DOL-licensed listings are elsewhere in Queens County. Licensed pros often travel, so ask whether they cover your address.
+150 more NYS DOL-licensed listings are elsewhere in Queens County.
 
 [See all 154 Queens County listings →](https://moldroster.com/ny/county/queens/)
 

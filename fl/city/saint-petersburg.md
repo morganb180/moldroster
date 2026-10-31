@@ -10,8 +10,6 @@ canonical: https://moldroster.com/fl/city/saint-petersburg/
 
 **Quick answer:** 8 DBPR-licensed listings give an address in Saint Petersburg (8 mold assessment, 2 mold remediation), and 175 more are elsewhere in Pinellas County. Licensed pros often travel, so ask whether they cover your address.
 
-8 DBPR-licensed listings give an address in Saint Petersburg (8 mold assessment, 2 mold remediation), and 175 more are elsewhere in Pinellas County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Saint Petersburg hiring guide →**](https://moldroster.com/fl/city/saint-petersburg/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Saint Petersburg](https://moldroster.com/quotes/?city=saint-petersburg&st=fl)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/fl/city/saint-petersburg/
 Listed below: 8 licensed mold assessors (inspection and testing) with an address in Saint Petersburg. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (8)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessment
 
@@ -124,7 +120,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Pinellas County, FL? (175)
 
-175 more DBPR-licensed listings are elsewhere in Pinellas County. Licensed pros often travel, so ask whether they cover your address.
+175 more DBPR-licensed listings are elsewhere in Pinellas County.
 
 [See all 183 Pinellas County listings →](https://moldroster.com/fl/county/pinellas/)
 

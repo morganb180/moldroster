@@ -10,8 +10,6 @@ canonical: https://moldroster.com/fl/city/west-palm-beach/
 
 **Quick answer:** 43 DBPR-licensed listings give an address in West Palm Beach (28 mold assessment, 31 mold remediation), and 327 more are elsewhere in Palm Beach County. Licensed pros often travel, so ask whether they cover your address.
 
-43 DBPR-licensed listings give an address in West Palm Beach (28 mold assessment, 31 mold remediation), and 327 more are elsewhere in Palm Beach County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the West Palm Beach hiring guide →**](https://moldroster.com/fl/city/west-palm-beach/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in West Palm Beach](https://moldroster.com/quotes/?city=west-palm-beach&st=fl)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/fl/city/west-palm-beach/
 Listed below: 28 licensed mold assessors (inspection and testing) and 15 licensed mold remediators with an address in West Palm Beach. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (28)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -571,7 +567,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Palm Beach County, FL? (327)
 
-327 more DBPR-licensed listings are elsewhere in Palm Beach County. Licensed pros often travel, so ask whether they cover your address.
+327 more DBPR-licensed listings are elsewhere in Palm Beach County.
 
 [See all 370 Palm Beach County listings →](https://moldroster.com/fl/county/palm-beach/)
 

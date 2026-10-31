@@ -35,8 +35,6 @@ Summary of New York Labor Law Article 32 and 12 NYCRR Part 60. See the agency: [
 
 ## Which licensed mold pros are based in Whitestone, NY?
 
-8 NYS DOL-licensed listings give an address in Whitestone: 3 hold an assessment licence and 6 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessmentMold remediation
 
 ### AMG Environmental Services Corp

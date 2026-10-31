@@ -31,8 +31,6 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 
 ## Which licensed mold pros are based in Tyler, TX?
 
-5 TDLR-licensed listings give an address in Tyler: 1 hold an assessment licence and 4 hold a remediation licence.
-
 ✔ Licensed by TDLR Mold assessment
 
 ### Eri Consulting Inc

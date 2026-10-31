@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/county/san-jacinto/
 
 **Quick answer:** 1 TDLR-licensed listing with an address of record in San Jacinto County (1 mold remediation): 0 firms and 1 individual licensee. Licensed pros often travel, so ask whether they cover your address.
 
-**1 TDLR-licensed listing** with an address of record in San Jacinto County (1 mold remediation): 0 firms and 1 individual licensee. [How to get quotes](https://moldroster.com/quotes/?county=san-jacinto&st=tx)
+[How to get quotes](https://moldroster.com/quotes/?county=san-jacinto&st=tx)
 
 ## Which licensed mold remediators are in San Jacinto County, TX? (1)
 

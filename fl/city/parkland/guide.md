@@ -29,8 +29,6 @@ Look the name up in the DBPR records and check the licence is still current. Ask
 
 ## Which licensed mold pros are based in Parkland, FL?
 
-17 DBPR-licensed listings give an address in Parkland: 13 hold an assessment licence and 13 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Dina Robyn Harris-Rodriguez

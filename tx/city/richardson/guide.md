@@ -31,8 +31,6 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 
 ## Which licensed mold pros are based in Richardson, TX?
 
-6 TDLR-licensed listings give an address in Richardson: 2 hold an assessment licence and 4 hold a remediation licence.
-
 ✔ Licensed by TDLR Mold assessment
 
 ### Indoor Environmental Safe Space Network, Corp

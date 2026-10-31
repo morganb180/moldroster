@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in Bradenton, FL?
 
-35 DBPR-licensed listings give an address in Bradenton: 27 hold an assessment licence and 22 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Haley Ross and colleagues

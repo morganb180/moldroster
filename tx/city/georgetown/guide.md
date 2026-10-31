@@ -35,8 +35,6 @@ Summary of 16 Texas Administrative Code Chapter 78 (Texas Mold Assessment and Re
 
 ## Which licensed mold pros are based in Georgetown, TX?
 
-4 TDLR-licensed listings give an address in Georgetown: 1 hold an assessment licence and 3 hold a remediation licence.
-
 ✔ Licensed by TDLR Mold assessment
 
 ### Champion Environmental Consulting, Inc.

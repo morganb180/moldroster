@@ -35,8 +35,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 
 ## Which licensed mold pros are based in Waco, TX?
 
-4 TDLR-licensed listings give an address in Waco: 1 hold an assessment licence and 3 hold a remediation licence.
-
 ✔ Licensed by TDLR Mold assessment
 
 ### Brazos Environmental & Engineering Services Inc

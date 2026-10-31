@@ -29,8 +29,6 @@ Look the name up in the NYS DOL records and check the licence is still current. 
 
 ## Which licensed mold pros are based in Queens, NY?
 
-5 NYS DOL-licensed listings give an address in Queens: 4 hold an assessment licence and 1 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessment
 
 ### Atech Home Ispections Inc (dba 461620493)

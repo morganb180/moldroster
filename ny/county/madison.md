@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/county/madison/
 
 **Quick answer:** 1 NYS DOL-licensed listing with an address of record in Madison County (1 mold remediation): 1 firm and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**1 NYS DOL-licensed listing** with an address of record in Madison County (1 mold remediation): 1 firm and 0 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=madison&st=ny)
+[How to get quotes](https://moldroster.com/quotes/?county=madison&st=ny)
 
 ## Which licensed mold remediators are in Madison County, NY? (1)
 

@@ -29,8 +29,6 @@ Look the name up in the NYS DOL records and check the licence is still current. 
 
 ## Which licensed mold pros are based in Astoria, NY?
 
-16 NYS DOL-licensed listings give an address in Astoria: 9 hold an assessment licence and 8 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessment
 
 ### Alpha Labs, LLC

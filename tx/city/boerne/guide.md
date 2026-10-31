@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in Boerne, TX?
 
-4 TDLR-licensed listings give an address in Boerne: 1 hold an assessment licence and 3 hold a remediation licence.
-
 ✔ Licensed by TDLR Mold assessment
 
 ### Broadbent & Associates

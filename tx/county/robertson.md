@@ -10,13 +10,11 @@ canonical: https://moldroster.com/tx/county/robertson/
 
 **Quick answer:** 3 TDLR-licensed listings with an address of record in Robertson County (1 mold assessment, 2 mold remediation): 0 firms and 3 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**3 TDLR-licensed listings** with an address of record in Robertson County (1 mold assessment, 2 mold remediation): 0 firms and 3 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=robertson&st=tx)
+[How to get quotes](https://moldroster.com/quotes/?county=robertson&st=tx)
 
 ## Which licensed mold assessors are in Robertson County, TX? (1)
 
 1 listing is shown in this section with an address of record in Robertson County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by TDLR Mold assessment
 
@@ -34,7 +32,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 ## Which licensed mold remediators are in Robertson County, TX? (2)
 
-2 listings are shown in this section with an address of record in Robertson County. Listings holding more than one licence type appear once, in the first matching section.
+2 listings are shown in this section with an address of record in Robertson County.
 
 ✔ Licensed by TDLR Mold remediation
 

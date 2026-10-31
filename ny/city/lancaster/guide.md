@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in Lancaster, NY?
 
-4 NYS DOL-licensed listings give an address in Lancaster: 1 hold an assessment licence and 4 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessmentMold remediation
 
 ### Indoor Air Professionals Inc

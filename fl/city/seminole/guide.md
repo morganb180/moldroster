@@ -29,8 +29,6 @@ Look the name up in the DBPR records and check the licence is still current. Ask
 
 ## Which licensed mold pros are based in Seminole, FL?
 
-8 DBPR-licensed listings give an address in Seminole: 4 hold an assessment licence and 6 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessment
 
 ### Erich V Paltian

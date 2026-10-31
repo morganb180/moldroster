@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in Cooper City, FL?
 
-12 DBPR-licensed listings give an address in Cooper City: 12 hold an assessment licence and 11 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessment
 
 ### Bryan Scott Walker

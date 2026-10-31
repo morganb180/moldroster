@@ -10,8 +10,6 @@ canonical: https://moldroster.com/fl/city/ocala/
 
 **Quick answer:** 27 DBPR-licensed listings give an address in Ocala (22 mold assessment, 16 mold remediation), and 9 more are elsewhere in Marion County. Licensed pros often travel, so ask whether they cover your address.
 
-27 DBPR-licensed listings give an address in Ocala (22 mold assessment, 16 mold remediation), and 9 more are elsewhere in Marion County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Ocala hiring guide →**](https://moldroster.com/fl/city/ocala/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Ocala](https://moldroster.com/quotes/?city=ocala&st=fl)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/fl/city/ocala/
 Listed below: 22 licensed mold assessors (inspection and testing) and 5 licensed mold remediators with an address in Ocala. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (22)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -378,7 +374,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Marion County, FL? (9)
 
-9 more DBPR-licensed listings are elsewhere in Marion County. Licensed pros often travel, so ask whether they cover your address.
+9 more DBPR-licensed listings are elsewhere in Marion County.
 
 [See all 36 Marion County listings →](https://moldroster.com/fl/county/marion/)
 

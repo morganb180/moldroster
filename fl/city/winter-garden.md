@@ -10,8 +10,6 @@ canonical: https://moldroster.com/fl/city/winter-garden/
 
 **Quick answer:** 16 DBPR-licensed listings give an address in Winter Garden (13 mold assessment, 11 mold remediation), and 178 more are elsewhere in Orange County. Licensed pros often travel, so ask whether they cover your address.
 
-16 DBPR-licensed listings give an address in Winter Garden (13 mold assessment, 11 mold remediation), and 178 more are elsewhere in Orange County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Winter Garden hiring guide →**](https://moldroster.com/fl/city/winter-garden/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Winter Garden](https://moldroster.com/quotes/?city=winter-garden&st=fl)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/fl/city/winter-garden/
 Listed below: 13 licensed mold assessors (inspection and testing) and 3 licensed mold remediators with an address in Winter Garden. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (13)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -235,7 +231,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Orange County, FL? (178)
 
-178 more DBPR-licensed listings are elsewhere in Orange County. Licensed pros often travel, so ask whether they cover your address.
+178 more DBPR-licensed listings are elsewhere in Orange County.
 
 [See all 194 Orange County listings →](https://moldroster.com/fl/county/orange/)
 

@@ -35,8 +35,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 
 ## Which licensed mold pros are based in Schenectady, NY?
 
-11 NYS DOL-licensed listings give an address in Schenectady: 8 hold an assessment licence and 4 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessment
 
 ### A-Pro Home Inspections (Upstate NY), LLC

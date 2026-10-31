@@ -29,8 +29,6 @@ Look the name up in the TDLR records and check the licence is still current. Ask
 
 ## Which licensed mold pros are based in Houston, TX?
 
-87 TDLR-licensed listings give an address in Houston: 35 hold an assessment licence and 54 hold a remediation licence.
-
 ✔ Licensed by TDLR Mold assessment
 
 ### ATC Group Services LLC

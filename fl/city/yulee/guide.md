@@ -34,8 +34,6 @@ Summary of Florida Statutes Chapter 468, Part XVI (Mold-Related Services). See t
 
 ## Which licensed mold pros are based in Yulee, FL?
 
-5 DBPR-licensed listings give an address in Yulee: 4 hold an assessment licence and 5 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Snell, Cliff

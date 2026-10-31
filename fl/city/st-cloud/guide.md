@@ -35,8 +35,6 @@ Summary of Florida Statutes Chapter 468, Part XVI (Mold-Related Services). See t
 
 ## Which licensed mold pros are based in St Cloud, FL?
 
-8 DBPR-licensed listings give an address in St Cloud: 6 hold an assessment licence and 5 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Carlos Gomez

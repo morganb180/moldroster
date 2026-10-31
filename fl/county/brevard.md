@@ -10,15 +10,13 @@ canonical: https://moldroster.com/fl/county/brevard/
 
 **Quick answer:** 93 DBPR-licensed listings with an address of record in Brevard County (73 mold assessment, 61 mold remediation): 4 firms and 89 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**93 DBPR-licensed listings** with an address of record in Brevard County (73 mold assessment, 61 mold remediation): 4 firms and 89 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=brevard&st=fl)
+[How to get quotes](https://moldroster.com/quotes/?county=brevard&st=fl)
 
 City pages: [Cocoa](https://moldroster.com/fl/city/cocoa/) · [Indian Harbour Beach](https://moldroster.com/fl/city/indian-harbour-beach/) · [Melbourne](https://moldroster.com/fl/city/melbourne/) · [Merritt Island](https://moldroster.com/fl/city/merritt-island/) · [Palm Bay](https://moldroster.com/fl/city/palm-bay/) · [Rockledge](https://moldroster.com/fl/city/rockledge/) · [Satellite Beach](https://moldroster.com/fl/city/satellite-beach/) · [Titusville](https://moldroster.com/fl/city/titusville/)
 
 ## Which licensed mold assessors are in Brevard County, FL? (73)
 
 73 listings are shown in this section with an address of record in Brevard County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -951,7 +949,7 @@ Show all 73 listings
 
 ## Which licensed mold remediators are in Brevard County, FL? (20)
 
-20 listings are shown in this section with an address of record in Brevard County. Listings holding more than one licence type appear once, in the first matching section.
+20 listings are shown in this section with an address of record in Brevard County.
 
 ✔ Licensed by FL DBPR Mold remediation
 

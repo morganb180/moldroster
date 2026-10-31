@@ -29,8 +29,6 @@ Look the name up in the NYS DOL records and check the licence is still current. 
 
 ## Which licensed mold pros are based in Queensbury, NY?
 
-5 NYS DOL-licensed listings give an address in Queensbury: 5 hold an assessment licence and 0 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessment
 
 ### 87 Home Inspection Services LLC

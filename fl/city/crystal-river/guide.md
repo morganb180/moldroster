@@ -31,8 +31,6 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 
 ## Which licensed mold pros are based in Crystal River, FL?
 
-4 DBPR-licensed listings give an address in Crystal River: 2 hold an assessment licence and 2 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessment
 
 ### Patrick A Baker

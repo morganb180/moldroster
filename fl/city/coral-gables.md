@@ -10,8 +10,6 @@ canonical: https://moldroster.com/fl/city/coral-gables/
 
 **Quick answer:** 10 DBPR-licensed listings give an address in Coral Gables (8 mold assessment, 6 mold remediation), and 536 more are elsewhere in Miami-Dade County. Licensed pros often travel, so ask whether they cover your address.
 
-10 DBPR-licensed listings give an address in Coral Gables (8 mold assessment, 6 mold remediation), and 536 more are elsewhere in Miami-Dade County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Coral Gables hiring guide →**](https://moldroster.com/fl/city/coral-gables/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Coral Gables](https://moldroster.com/quotes/?city=coral-gables&st=fl)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/fl/city/coral-gables/
 Listed below: 8 licensed mold assessors (inspection and testing) and 2 licensed mold remediators with an address in Coral Gables. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (8)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -161,7 +157,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Miami-Dade County, FL? (536)
 
-536 more DBPR-licensed listings are elsewhere in Miami-Dade County. Licensed pros often travel, so ask whether they cover your address.
+536 more DBPR-licensed listings are elsewhere in Miami-Dade County.
 
 [See all 546 Miami-Dade County listings →](https://moldroster.com/fl/county/miami-dade/)
 

@@ -35,8 +35,6 @@ Summary of Florida Statutes Chapter 468, Part XVI (Mold-Related Services). See t
 
 ## Which licensed mold pros are based in Panama City Beach, FL?
 
-8 DBPR-licensed listings give an address in Panama City Beach: 6 hold an assessment licence and 7 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### James Daniel Giles II and colleagues

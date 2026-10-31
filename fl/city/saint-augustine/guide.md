@@ -29,8 +29,6 @@ Look the name up in the DBPR records and check the licence is still current. Ask
 
 ## Which licensed mold pros are based in Saint Augustine, FL?
 
-15 DBPR-licensed listings give an address in Saint Augustine: 13 hold an assessment licence and 11 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Alan Douglas Ehmke and colleagues

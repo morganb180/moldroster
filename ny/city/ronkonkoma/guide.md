@@ -35,8 +35,6 @@ Summary of New York Labor Law Article 32 and 12 NYCRR Part 60. See the agency: [
 
 ## Which licensed mold pros are based in Ronkonkoma, NY?
 
-17 NYS DOL-licensed listings give an address in Ronkonkoma: 8 hold an assessment licence and 12 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessment
 
 ### AmeriHome Property Inspections, LLC

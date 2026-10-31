@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in North Richland Hills, TX?
 
-5 TDLR-licensed listings give an address in North Richland Hills: 2 hold an assessment licence and 3 hold a remediation licence.
-
 ✔ Licensed by TDLR Mold assessment
 
 ### Protean Services LLC

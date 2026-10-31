@@ -10,8 +10,6 @@ canonical: https://moldroster.com/fl/city/sanford/
 
 **Quick answer:** 11 DBPR-licensed listings give an address in Sanford (9 mold assessment, 6 mold remediation), and 72 more are elsewhere in Seminole County. Licensed pros often travel, so ask whether they cover your address.
 
-11 DBPR-licensed listings give an address in Sanford (9 mold assessment, 6 mold remediation), and 72 more are elsewhere in Seminole County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Sanford hiring guide →**](https://moldroster.com/fl/city/sanford/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Sanford](https://moldroster.com/quotes/?city=sanford&st=fl)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/fl/city/sanford/
 Listed below: 9 licensed mold assessors (inspection and testing) and 2 licensed mold remediators with an address in Sanford. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (9)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessment
 
@@ -169,7 +165,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Seminole County, FL? (72)
 
-72 more DBPR-licensed listings are elsewhere in Seminole County. Licensed pros often travel, so ask whether they cover your address.
+72 more DBPR-licensed listings are elsewhere in Seminole County.
 
 [See all 83 Seminole County listings →](https://moldroster.com/fl/county/seminole/)
 

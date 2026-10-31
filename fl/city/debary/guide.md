@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in Debary, FL?
 
-10 DBPR-licensed listings give an address in Debary: 7 hold an assessment licence and 7 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessment
 
 ### Alexander Richard Bowers

@@ -10,8 +10,6 @@ canonical: https://moldroster.com/fl/city/largo/
 
 **Quick answer:** 19 DBPR-licensed listings give an address in Largo (12 mold assessment, 16 mold remediation), and 164 more are elsewhere in Pinellas County. Licensed pros often travel, so ask whether they cover your address.
 
-19 DBPR-licensed listings give an address in Largo (12 mold assessment, 16 mold remediation), and 164 more are elsewhere in Pinellas County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Largo hiring guide →**](https://moldroster.com/fl/city/largo/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Largo](https://moldroster.com/quotes/?city=largo&st=fl)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/fl/city/largo/
 Listed below: 12 licensed mold assessors (inspection and testing) and 7 licensed mold remediators with an address in Largo. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (12)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -267,7 +263,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Pinellas County, FL? (164)
 
-164 more DBPR-licensed listings are elsewhere in Pinellas County. Licensed pros often travel, so ask whether they cover your address.
+164 more DBPR-licensed listings are elsewhere in Pinellas County.
 
 [See all 183 Pinellas County listings →](https://moldroster.com/fl/county/pinellas/)
 

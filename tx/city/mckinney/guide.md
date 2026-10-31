@@ -34,8 +34,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 
 ## Which licensed mold pros are based in McKinney, TX?
 
-5 TDLR-licensed listings give an address in McKinney: 3 hold an assessment licence and 2 hold a remediation licence.
-
 ✔ Licensed by TDLR Mold assessment
 
 ### All Environmental, Inc.

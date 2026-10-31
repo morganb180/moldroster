@@ -29,8 +29,6 @@ Look the name up in the DBPR records and check the licence is still current. Ask
 
 ## Which licensed mold pros are based in Ponte Vedra, FL?
 
-5 DBPR-licensed listings give an address in Ponte Vedra: 3 hold an assessment licence and 4 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Hannah Susan Addington

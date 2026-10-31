@@ -10,8 +10,6 @@ canonical: https://moldroster.com/fl/city/punta-gorda/
 
 **Quick answer:** 18 DBPR-licensed listings give an address in Punta Gorda (11 mold assessment, 14 mold remediation), and 24 more are elsewhere in Charlotte County. Licensed pros often travel, so ask whether they cover your address.
 
-18 DBPR-licensed listings give an address in Punta Gorda (11 mold assessment, 14 mold remediation), and 24 more are elsewhere in Charlotte County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Punta Gorda hiring guide →**](https://moldroster.com/fl/city/punta-gorda/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Punta Gorda](https://moldroster.com/quotes/?city=punta-gorda&st=fl)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/fl/city/punta-gorda/
 Listed below: 11 licensed mold assessors (inspection and testing) and 7 licensed mold remediators with an address in Punta Gorda. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (11)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -254,7 +250,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Charlotte County, FL? (24)
 
-24 more DBPR-licensed listings are elsewhere in Charlotte County. Licensed pros often travel, so ask whether they cover your address.
+24 more DBPR-licensed listings are elsewhere in Charlotte County.
 
 [See all 42 Charlotte County listings →](https://moldroster.com/fl/county/charlotte/)
 

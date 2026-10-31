@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in St. Petersburg, FL?
 
-48 DBPR-licensed listings give an address in St.
-
 ✔ Licensed by FL DBPR Mold assessment
 
 ### James E Greenfield and colleagues

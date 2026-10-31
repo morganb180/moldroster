@@ -34,8 +34,6 @@ Summary of New York Labor Law Article 32 and 12 NYCRR Part 60. See the agency: [
 
 ## Which licensed mold pros are based in Richmond Hill, NY?
 
-6 NYS DOL-licensed listings give an address in Richmond Hill: 1 hold an assessment licence and 6 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessmentMold remediation
 
 ### Painting Guy Inc

@@ -29,8 +29,6 @@ Look the name up in the DBPR records and check the licence is still current. Ask
 
 ## Which licensed mold pros are based in Deerfield Beach, FL?
 
-23 DBPR-licensed listings give an address in Deerfield Beach: 14 hold an assessment licence and 18 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Brian Andrew Shilt

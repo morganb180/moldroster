@@ -35,8 +35,6 @@ Summary of 16 Texas Administrative Code Chapter 78 (Texas Mold Assessment and Re
 
 ## Which licensed mold pros are based in Cypress, TX?
 
-10 TDLR-licensed listings give an address in Cypress: 2 hold an assessment licence and 8 hold a remediation licence.
-
 ✔ Licensed by TDLR Mold assessment
 
 ### 1ST Rate Inspections

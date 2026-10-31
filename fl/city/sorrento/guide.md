@@ -33,8 +33,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 
 ## Which licensed mold pros are based in Sorrento, FL?
 
-7 DBPR-licensed listings give an address in Sorrento: 5 hold an assessment licence and 5 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Deana Kalakay

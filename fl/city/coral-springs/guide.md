@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in Coral Springs, FL?
 
-59 DBPR-licensed listings give an address in Coral Springs: 41 hold an assessment licence and 47 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessment
 
 ### Darren Baldeo and colleagues

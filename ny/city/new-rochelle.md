@@ -10,8 +10,6 @@ canonical: https://moldroster.com/ny/city/new-rochelle/
 
 **Quick answer:** 8 NYS DOL-licensed listings give an address in New Rochelle (4 mold assessment, 6 mold remediation), and 94 more are elsewhere in Westchester County. Licensed pros often travel, so ask whether they cover your address.
 
-8 NYS DOL-licensed listings give an address in New Rochelle (4 mold assessment, 6 mold remediation), and 94 more are elsewhere in Westchester County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the New Rochelle hiring guide →**](https://moldroster.com/ny/city/new-rochelle/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in New Rochelle](https://moldroster.com/quotes/?city=new-rochelle&st=ny)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/ny/city/new-rochelle/
 Listed below: 4 licensed mold assessors (inspection and testing) and 4 licensed mold remediators with an address in New Rochelle. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (4)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessmentMold remediation
 
@@ -153,7 +149,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 ## Which other licensed mold pros are in Westchester County, NY? (94)
 
-94 more NYS DOL-licensed listings are elsewhere in Westchester County. Licensed pros often travel, so ask whether they cover your address.
+94 more NYS DOL-licensed listings are elsewhere in Westchester County.
 
 [See all 102 Westchester County listings →](https://moldroster.com/ny/county/westchester/)
 

@@ -10,13 +10,11 @@ canonical: https://moldroster.com/ny/county/jefferson/
 
 **Quick answer:** 4 NYS DOL-licensed listings with an address of record in Jefferson County (3 mold assessment, 2 mold remediation): 4 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**4 NYS DOL-licensed listings** with an address of record in Jefferson County (3 mold assessment, 2 mold remediation): 4 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=jefferson&st=ny)
+[How to get quotes](https://moldroster.com/quotes/?county=jefferson&st=ny)
 
 ## Which licensed mold assessors are in Jefferson County, NY? (3)
 
 3 listings are shown in this section with an address of record in Jefferson County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessment
 
@@ -74,7 +72,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 ## Which licensed mold remediators are in Jefferson County, NY? (1)
 
-1 listing is shown in this section with an address of record in Jefferson County. Listings holding more than one licence type appear once, in the first matching section.
+1 listing is shown in this section with an address of record in Jefferson County.
 
 ✔ Licensed by NYS DOL Mold remediation
 

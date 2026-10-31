@@ -10,13 +10,11 @@ canonical: https://moldroster.com/tx/county/bandera/
 
 **Quick answer:** 3 TDLR-licensed listings with an address of record in Bandera County (3 mold assessment): 1 firm and 2 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**3 TDLR-licensed listings** with an address of record in Bandera County (3 mold assessment): 1 firm and 2 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=bandera&st=tx)
+[How to get quotes](https://moldroster.com/quotes/?county=bandera&st=tx)
 
 ## Which licensed mold assessors are in Bandera County, TX? (3)
 
 3 listings are shown in this section with an address of record in Bandera County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by TDLR Mold assessment
 

@@ -29,8 +29,6 @@ Look the name up in the DBPR records and check the licence is still current. Ask
 
 ## Which licensed mold pros are based in North Miami Beach, FL?
 
-7 DBPR-licensed listings give an address in North Miami Beach: 3 hold an assessment licence and 7 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Goel Yehuda Gretah

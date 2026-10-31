@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in Sebring, FL?
 
-7 DBPR-licensed listings give an address in Sebring: 4 hold an assessment licence and 3 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessment
 
 ### Brandee Lynn Chapman

@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in Massapequa, NY?
 
-5 NYS DOL-licensed listings give an address in Massapequa: 4 hold an assessment licence and 2 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessment
 
 ### Breathe clean llc

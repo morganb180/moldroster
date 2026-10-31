@@ -10,15 +10,13 @@ canonical: https://moldroster.com/fl/county/st-lucie/
 
 **Quick answer:** 79 DBPR-licensed listings with an address of record in St. Licensed pros often travel, so ask whether they cover your address.
 
-**79 DBPR-licensed listings** with an address of record in St. Lucie County (60 mold assessment, 60 mold remediation): 6 firms and 73 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=st-lucie&st=fl)
+[How to get quotes](https://moldroster.com/quotes/?county=st-lucie&st=fl)
 
 City pages: [Fort Pierce](https://moldroster.com/fl/city/fort-pierce/) · [Port Saint Lucie](https://moldroster.com/fl/city/port-saint-lucie/) · [Port St Lucie](https://moldroster.com/fl/city/port-st-lucie/)
 
 ## Which licensed mold assessors are in St. Lucie County, FL? (60)
 
 60 listings are shown in this section with an address of record in St. Lucie County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -800,7 +798,7 @@ Show all 60 listings
 
 ## Which licensed mold remediators are in St. Lucie County, FL? (19)
 
-19 listings are shown in this section with an address of record in St. Lucie County. Listings holding more than one licence type appear once, in the first matching section.
+19 listings are shown in this section with an address of record in St.
 
 ✔ Licensed by FL DBPR Mold remediation
 

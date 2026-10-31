@@ -29,8 +29,6 @@ Look the name up in the DBPR records and check the licence is still current. Ask
 
 ## Which licensed mold pros are based in Ruskin, FL?
 
-9 DBPR-licensed listings give an address in Ruskin: 5 hold an assessment licence and 8 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessment
 
 ### Crystal Kae Sallee

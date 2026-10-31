@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in Okeechobee, FL?
 
-7 DBPR-licensed listings give an address in Okeechobee: 3 hold an assessment licence and 6 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Lori Lynn Blair Williams

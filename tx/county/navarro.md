@@ -10,13 +10,11 @@ canonical: https://moldroster.com/tx/county/navarro/
 
 **Quick answer:** 2 TDLR-licensed listings with an address of record in Navarro County (1 mold assessment, 1 mold remediation): 0 firms and 2 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**2 TDLR-licensed listings** with an address of record in Navarro County (1 mold assessment, 1 mold remediation): 0 firms and 2 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=navarro&st=tx)
+[How to get quotes](https://moldroster.com/quotes/?county=navarro&st=tx)
 
 ## Which licensed mold assessors are in Navarro County, TX? (1)
 
 1 listing is shown in this section with an address of record in Navarro County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by TDLR Mold assessment
 
@@ -33,8 +31,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TXI0386)
 
 ## Which licensed mold remediators are in Navarro County, TX? (1)
-
-1 listing is shown in this section with an address of record in Navarro County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by TDLR Mold remediation
 

@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in West Babylon, NY?
 
-6 NYS DOL-licensed listings give an address in West Babylon: 2 hold an assessment licence and 5 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessmentMold remediation
 
 ### First Response Home Services LLC

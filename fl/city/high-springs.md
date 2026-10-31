@@ -10,8 +10,6 @@ canonical: https://moldroster.com/fl/city/high-springs/
 
 **Quick answer:** 4 DBPR-licensed listings give an address in High Springs (4 mold assessment, 2 mold remediation), and 30 more are elsewhere in Alachua County. Licensed pros often travel, so ask whether they cover your address.
 
-4 DBPR-licensed listings give an address in High Springs (4 mold assessment, 2 mold remediation), and 30 more are elsewhere in Alachua County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the High Springs hiring guide →**](https://moldroster.com/fl/city/high-springs/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in High Springs](https://moldroster.com/quotes/?city=high-springs&st=fl)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/fl/city/high-springs/
 Listed below: 4 licensed mold assessors (inspection and testing) with an address in High Springs. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (4)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -76,7 +72,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Alachua County, FL? (30)
 
-30 more DBPR-licensed listings are elsewhere in Alachua County. Licensed pros often travel, so ask whether they cover your address.
+30 more DBPR-licensed listings are elsewhere in Alachua County.
 
 [See all 34 Alachua County listings →](https://moldroster.com/fl/county/alachua/)
 

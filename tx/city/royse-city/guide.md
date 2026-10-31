@@ -31,8 +31,6 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 
 ## Which licensed mold pros are based in Royse City, TX?
 
-4 TDLR-licensed listings give an address in Royse City: 1 hold an assessment licence and 3 hold a remediation licence.
-
 ✔ Licensed by TDLR Mold assessment
 
 ### Dnh Property Inspections PLLC

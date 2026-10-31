@@ -10,8 +10,6 @@ canonical: https://moldroster.com/fl/city/deerfield-beach/
 
 **Quick answer:** 23 DBPR-licensed listings give an address in Deerfield Beach (14 mold assessment, 18 mold remediation), and 566 more are elsewhere in Broward County. Licensed pros often travel, so ask whether they cover your address.
 
-23 DBPR-licensed listings give an address in Deerfield Beach (14 mold assessment, 18 mold remediation), and 566 more are elsewhere in Broward County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Deerfield Beach hiring guide →**](https://moldroster.com/fl/city/deerfield-beach/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Deerfield Beach](https://moldroster.com/quotes/?city=deerfield-beach&st=fl)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/fl/city/deerfield-beach/
 Listed below: 14 licensed mold assessors (inspection and testing) and 9 licensed mold remediators with an address in Deerfield Beach. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (14)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -313,7 +309,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Broward County, FL? (566)
 
-566 more DBPR-licensed listings are elsewhere in Broward County. Licensed pros often travel, so ask whether they cover your address.
+566 more DBPR-licensed listings are elsewhere in Broward County.
 
 [See all 589 Broward County listings →](https://moldroster.com/fl/county/broward/)
 

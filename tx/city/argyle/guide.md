@@ -35,8 +35,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 
 ## Which licensed mold pros are based in Argyle, TX?
 
-4 TDLR-licensed listings give an address in Argyle: 2 hold an assessment licence and 2 hold a remediation licence.
-
 ✔ Licensed by TDLR Mold assessment
 
 ### 3DN Enterprises LLC

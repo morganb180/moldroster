@@ -31,8 +31,6 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 
 ## Which licensed mold pros are based in Jamaica, NY?
 
-8 NYS DOL-licensed listings give an address in Jamaica: 4 hold an assessment licence and 6 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessmentMold remediation
 
 ### AI & I Links Inc. (dba N/A)

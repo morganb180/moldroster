@@ -34,8 +34,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 
 ## Which licensed mold pros are based in Stuart, FL?
 
-23 DBPR-licensed listings give an address in Stuart: 14 hold an assessment licence and 16 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessment
 
 ### Byron Richard Wood

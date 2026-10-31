@@ -29,8 +29,6 @@ Look the name up in the DBPR records and check the licence is still current. Ask
 
 ## Which licensed mold pros are based in Dade City, FL?
 
-7 DBPR-licensed listings give an address in Dade City: 5 hold an assessment licence and 3 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Daniel Richard Angel

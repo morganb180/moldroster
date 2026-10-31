@@ -10,13 +10,11 @@ canonical: https://moldroster.com/tx/county/comal/
 
 **Quick answer:** 24 TDLR-licensed listings with an address of record in Comal County (11 mold assessment, 13 mold remediation): 4 firms and 20 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**24 TDLR-licensed listings** with an address of record in Comal County (11 mold assessment, 13 mold remediation): 4 firms and 20 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=comal&st=tx)
+[How to get quotes](https://moldroster.com/quotes/?county=comal&st=tx)
 
 ## Which licensed mold assessors are in Comal County, TX? (11)
 
 11 listings are shown in this section with an address of record in Comal County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by TDLR Mold assessment
 
@@ -177,7 +175,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 ## Which licensed mold remediators are in Comal County, TX? (13)
 
-13 listings are shown in this section with an address of record in Comal County. Listings holding more than one licence type appear once, in the first matching section.
+13 listings are shown in this section with an address of record in Comal County.
 
 ✔ Licensed by TDLR Mold remediation
 

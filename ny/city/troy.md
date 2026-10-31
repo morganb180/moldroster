@@ -10,8 +10,6 @@ canonical: https://moldroster.com/ny/city/troy/
 
 **Quick answer:** 7 NYS DOL-licensed listings give an address in Troy (6 mold assessment, 1 mold remediation), and 17 more are elsewhere in Rensselaer County. Licensed pros often travel, so ask whether they cover your address.
 
-7 NYS DOL-licensed listings give an address in Troy (6 mold assessment, 1 mold remediation), and 17 more are elsewhere in Rensselaer County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Troy hiring guide →**](https://moldroster.com/ny/city/troy/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Troy](https://moldroster.com/quotes/?city=troy&st=ny)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/ny/city/troy/
 Listed below: 6 licensed mold assessors (inspection and testing) and 1 licensed mold remediator with an address in Troy. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (6)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessment
 
@@ -139,7 +135,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 ## Which other licensed mold pros are in Rensselaer County, NY? (17)
 
-17 more NYS DOL-licensed listings are elsewhere in Rensselaer County. Licensed pros often travel, so ask whether they cover your address.
+17 more NYS DOL-licensed listings are elsewhere in Rensselaer County.
 
 [See all 24 Rensselaer County listings →](https://moldroster.com/ny/county/rensselaer/)
 

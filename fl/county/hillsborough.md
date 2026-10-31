@@ -10,15 +10,13 @@ canonical: https://moldroster.com/fl/county/hillsborough/
 
 **Quick answer:** 235 DBPR-licensed listings with an address of record in Hillsborough County (175 mold assessment, 155 mold remediation): 8 firms and 227 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**235 DBPR-licensed listings** with an address of record in Hillsborough County (175 mold assessment, 155 mold remediation): 8 firms and 227 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=hillsborough&st=fl)
+[How to get quotes](https://moldroster.com/quotes/?county=hillsborough&st=fl)
 
 City pages: [Apollo Beach](https://moldroster.com/fl/city/apollo-beach/) · [Brandon](https://moldroster.com/fl/city/brandon/) · [Lithia](https://moldroster.com/fl/city/lithia/) · [Lutz](https://moldroster.com/fl/city/lutz/) · [Odessa](https://moldroster.com/fl/city/odessa/) · [Plant City](https://moldroster.com/fl/city/plant-city/) · [Riverview](https://moldroster.com/fl/city/riverview/) · [Ruskin](https://moldroster.com/fl/city/ruskin/) · [Seffner](https://moldroster.com/fl/city/seffner/) · [Tampa](https://moldroster.com/fl/city/tampa/) · [Temple Terrace](https://moldroster.com/fl/city/temple-terrace/) · [Valrico](https://moldroster.com/fl/city/valrico/)
 
 ## Which licensed mold assessors are in Hillsborough County, FL? (175)
 
 175 listings are shown in this section with an address of record in Hillsborough County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -2250,7 +2248,7 @@ Show all 175 listings
 
 ## Which licensed mold remediators are in Hillsborough County, FL? (60)
 
-60 listings are shown in this section with an address of record in Hillsborough County. Listings holding more than one licence type appear once, in the first matching section.
+60 listings are shown in this section with an address of record in Hillsborough County.
 
 ✔ Licensed by FL DBPR Mold remediation
 

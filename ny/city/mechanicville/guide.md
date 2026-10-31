@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in Mechanicville, NY?
 
-4 NYS DOL-licensed listings give an address in Mechanicville: 2 hold an assessment licence and 2 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessment
 
 ### JCM Home Inspections LLC

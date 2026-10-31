@@ -29,8 +29,6 @@ Look the name up in the NYS DOL records and check the licence is still current. 
 
 ## Which licensed mold pros are based in Elmont, NY?
 
-5 NYS DOL-licensed listings give an address in Elmont: 4 hold an assessment licence and 2 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessmentMold remediation
 
 ### Cross Island Field Services Inc

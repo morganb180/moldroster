@@ -35,8 +35,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 
 ## Which licensed mold pros are based in Hialeah, FL?
 
-40 DBPR-licensed listings give an address in Hialeah: 33 hold an assessment licence and 27 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessment
 
 ### Eduardo Taurinan and colleagues

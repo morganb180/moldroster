@@ -10,15 +10,13 @@ canonical: https://moldroster.com/fl/county/sumter/
 
 **Quick answer:** 10 DBPR-licensed listings with an address of record in Sumter County (8 mold assessment, 5 mold remediation): 0 firms and 10 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**10 DBPR-licensed listings** with an address of record in Sumter County (8 mold assessment, 5 mold remediation): 0 firms and 10 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=sumter&st=fl)
+[How to get quotes](https://moldroster.com/quotes/?county=sumter&st=fl)
 
 City pages: [The Villages](https://moldroster.com/fl/city/the-villages/)
 
 ## Which licensed mold assessors are in Sumter County, FL? (8)
 
 8 listings are shown in this section with an address of record in Sumter County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessment
 
@@ -121,7 +119,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which licensed mold remediators are in Sumter County, FL? (2)
 
-2 listings are shown in this section with an address of record in Sumter County. Listings holding more than one licence type appear once, in the first matching section.
+2 listings are shown in this section with an address of record in Sumter County.
 
 ✔ Licensed by FL DBPR Mold remediation
 

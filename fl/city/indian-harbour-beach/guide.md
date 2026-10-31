@@ -35,8 +35,6 @@ Summary of Florida Statutes Chapter 468, Part XVI (Mold-Related Services). See t
 
 ## Which licensed mold pros are based in Indian Harbour Beach, FL?
 
-4 DBPR-licensed listings give an address in Indian Harbour Beach: 3 hold an assessment licence and 4 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Bradley Steven Dalton

@@ -10,13 +10,11 @@ canonical: https://moldroster.com/tx/county/webb/
 
 **Quick answer:** 2 TDLR-licensed listings with an address of record in Webb County (1 mold assessment, 2 mold remediation): 1 firm and 1 individual licensee. Licensed pros often travel, so ask whether they cover your address.
 
-**2 TDLR-licensed listings** with an address of record in Webb County (1 mold assessment, 2 mold remediation): 1 firm and 1 individual licensee. [How to get quotes](https://moldroster.com/quotes/?county=webb&st=tx)
+[How to get quotes](https://moldroster.com/quotes/?county=webb&st=tx)
 
 ## Which licensed mold assessors are in Webb County, TX? (1)
 
 1 listing is shown in this section with an address of record in Webb County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by TDLR Mold assessmentMold remediation
 
@@ -34,8 +32,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TXI0457)
 
 ## Which licensed mold remediators are in Webb County, TX? (1)
-
-1 listing is shown in this section with an address of record in Webb County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by TDLR Mold remediation
 

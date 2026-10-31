@@ -31,8 +31,6 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 
 ## Which licensed mold pros are based in Orange Park, FL?
 
-7 DBPR-licensed listings give an address in Orange Park: 7 hold an assessment licence and 5 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessment
 
 ### Bryan Seber Pettitt

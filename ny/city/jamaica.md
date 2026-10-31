@@ -10,8 +10,6 @@ canonical: https://moldroster.com/ny/city/jamaica/
 
 **Quick answer:** 8 NYS DOL-licensed listings give an address in Jamaica (4 mold assessment, 6 mold remediation), and 146 more are elsewhere in Queens County. Licensed pros often travel, so ask whether they cover your address.
 
-8 NYS DOL-licensed listings give an address in Jamaica (4 mold assessment, 6 mold remediation), and 146 more are elsewhere in Queens County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Jamaica hiring guide →**](https://moldroster.com/ny/city/jamaica/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Jamaica](https://moldroster.com/quotes/?city=jamaica&st=ny)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/ny/city/jamaica/
 Listed below: 4 licensed mold assessors (inspection and testing) and 4 licensed mold remediators with an address in Jamaica. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (4)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessmentMold remediation
 
@@ -143,7 +139,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 ## Which other licensed mold pros are in Queens County, NY? (146)
 
-146 more NYS DOL-licensed listings are elsewhere in Queens County. Licensed pros often travel, so ask whether they cover your address.
+146 more NYS DOL-licensed listings are elsewhere in Queens County.
 
 [See all 154 Queens County listings →](https://moldroster.com/ny/county/queens/)
 

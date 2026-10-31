@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in Austin, TX?
 
-31 TDLR-licensed listings give an address in Austin: 10 hold an assessment licence and 22 hold a remediation licence.
-
 ✔ Licensed by TDLR Mold assessmentMold remediation
 
 ### Austin Independent School District

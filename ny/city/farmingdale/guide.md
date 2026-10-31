@@ -34,8 +34,6 @@ Summary of New York Labor Law Article 32 and 12 NYCRR Part 60. See the agency: [
 
 ## Which licensed mold pros are based in Farmingdale, NY?
 
-8 NYS DOL-licensed listings give an address in Farmingdale: 1 hold an assessment licence and 7 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessment
 
 ### Chrishanna Home & Life Safety Inspections LLC

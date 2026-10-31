@@ -36,8 +36,6 @@ Summary of Florida Statutes Chapter 468, Part XVI (Mold-Related Services). See t
 
 ## Which licensed mold pros are based in Freeport, FL?
 
-7 DBPR-licensed listings give an address in Freeport: 4 hold an assessment licence and 6 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Mark Kevin Wichern and colleagues

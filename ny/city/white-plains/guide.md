@@ -29,8 +29,6 @@ Look the name up in the NYS DOL records and check the licence is still current. 
 
 ## Which licensed mold pros are based in White Plains, NY?
 
-10 NYS DOL-licensed listings give an address in White Plains: 6 hold an assessment licence and 5 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessmentMold remediation
 
 ### Deluca Maintenance Company, LLC

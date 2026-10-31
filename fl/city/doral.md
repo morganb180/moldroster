@@ -10,8 +10,6 @@ canonical: https://moldroster.com/fl/city/doral/
 
 **Quick answer:** 28 DBPR-licensed listings give an address in Doral (22 mold assessment, 21 mold remediation), and 518 more are elsewhere in Miami-Dade County. Licensed pros often travel, so ask whether they cover your address.
 
-28 DBPR-licensed listings give an address in Doral (22 mold assessment, 21 mold remediation), and 518 more are elsewhere in Miami-Dade County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Doral hiring guide →**](https://moldroster.com/fl/city/doral/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Doral](https://moldroster.com/quotes/?city=doral&st=fl)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/fl/city/doral/
 Listed below: 22 licensed mold assessors (inspection and testing) and 6 licensed mold remediators with an address in Doral. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (22)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessment
 
@@ -382,7 +378,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Miami-Dade County, FL? (518)
 
-518 more DBPR-licensed listings are elsewhere in Miami-Dade County. Licensed pros often travel, so ask whether they cover your address.
+518 more DBPR-licensed listings are elsewhere in Miami-Dade County.
 
 [See all 546 Miami-Dade County listings →](https://moldroster.com/fl/county/miami-dade/)
 

@@ -10,8 +10,6 @@ canonical: https://moldroster.com/fl/city/santa-rosa-beach/
 
 **Quick answer:** 10 DBPR-licensed listings give an address in Santa Rosa Beach (6 mold assessment, 9 mold remediation), and 14 more are elsewhere in Walton County. Licensed pros often travel, so ask whether they cover your address.
 
-10 DBPR-licensed listings give an address in Santa Rosa Beach (6 mold assessment, 9 mold remediation), and 14 more are elsewhere in Walton County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Santa Rosa Beach hiring guide →**](https://moldroster.com/fl/city/santa-rosa-beach/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Santa Rosa Beach](https://moldroster.com/quotes/?city=santa-rosa-beach&st=fl)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/fl/city/santa-rosa-beach/
 Listed below: 6 licensed mold assessors (inspection and testing) and 4 licensed mold remediators with an address in Santa Rosa Beach. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (6)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessment
 
@@ -153,7 +149,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Walton County, FL? (14)
 
-14 more DBPR-licensed listings are elsewhere in Walton County. Licensed pros often travel, so ask whether they cover your address.
+14 more DBPR-licensed listings are elsewhere in Walton County.
 
 [See all 24 Walton County listings →](https://moldroster.com/fl/county/walton/)
 

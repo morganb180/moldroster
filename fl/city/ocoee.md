@@ -10,8 +10,6 @@ canonical: https://moldroster.com/fl/city/ocoee/
 
 **Quick answer:** 4 DBPR-licensed listings give an address in Ocoee (3 mold assessment, 2 mold remediation), and 190 more are elsewhere in Orange County. Licensed pros often travel, so ask whether they cover your address.
 
-4 DBPR-licensed listings give an address in Ocoee (3 mold assessment, 2 mold remediation), and 190 more are elsewhere in Orange County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Ocoee hiring guide →**](https://moldroster.com/fl/city/ocoee/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Ocoee](https://moldroster.com/quotes/?city=ocoee&st=fl)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/fl/city/ocoee/
 Listed below: 3 licensed mold assessors (inspection and testing) and 1 licensed mold remediator with an address in Ocoee. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (3)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessment
 
@@ -77,7 +73,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Orange County, FL? (190)
 
-190 more DBPR-licensed listings are elsewhere in Orange County. Licensed pros often travel, so ask whether they cover your address.
+190 more DBPR-licensed listings are elsewhere in Orange County.
 
 [See all 194 Orange County listings →](https://moldroster.com/fl/county/orange/)
 

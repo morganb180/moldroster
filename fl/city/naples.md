@@ -10,8 +10,6 @@ canonical: https://moldroster.com/fl/city/naples/
 
 **Quick answer:** 71 DBPR-licensed listings give an address in Naples (48 mold assessment, 51 mold remediation), and 6 more are elsewhere in Collier County. Licensed pros often travel, so ask whether they cover your address.
 
-71 DBPR-licensed listings give an address in Naples (48 mold assessment, 51 mold remediation), and 6 more are elsewhere in Collier County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Naples hiring guide →**](https://moldroster.com/fl/city/naples/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Naples](https://moldroster.com/quotes/?city=naples&st=fl)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/fl/city/naples/
 Listed below: 48 licensed mold assessors (inspection and testing) and 23 licensed mold remediators with an address in Naples. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (48)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessment
 
@@ -921,7 +917,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Collier County, FL? (6)
 
-6 more DBPR-licensed listings are elsewhere in Collier County. Licensed pros often travel, so ask whether they cover your address.
+6 more DBPR-licensed listings are elsewhere in Collier County.
 
 [See all 77 Collier County listings →](https://moldroster.com/fl/county/collier/)
 

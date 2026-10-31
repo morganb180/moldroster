@@ -31,8 +31,6 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 
 ## Which licensed mold pros are based in New York, NY?
 
-65 NYS DOL-licensed listings give an address in New York: 42 hold an assessment licence and 28 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessment
 
 ### ATC Group Services LLC

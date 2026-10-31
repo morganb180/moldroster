@@ -10,8 +10,6 @@ canonical: https://moldroster.com/fl/city/fort-myers/
 
 **Quick answer:** 63 DBPR-licensed listings give an address in Fort Myers (46 mold assessment, 36 mold remediation), and 133 more are elsewhere in Lee County. Licensed pros often travel, so ask whether they cover your address.
 
-63 DBPR-licensed listings give an address in Fort Myers (46 mold assessment, 36 mold remediation), and 133 more are elsewhere in Lee County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Fort Myers hiring guide →**](https://moldroster.com/fl/city/fort-myers/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Fort Myers](https://moldroster.com/quotes/?city=fort-myers&st=fl)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/fl/city/fort-myers/
 Listed below: 46 licensed mold assessors (inspection and testing) and 17 licensed mold remediators with an address in Fort Myers. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (46)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -814,7 +810,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Lee County, FL? (133)
 
-133 more DBPR-licensed listings are elsewhere in Lee County. Licensed pros often travel, so ask whether they cover your address.
+133 more DBPR-licensed listings are elsewhere in Lee County.
 
 [See all 196 Lee County listings →](https://moldroster.com/fl/county/lee/)
 

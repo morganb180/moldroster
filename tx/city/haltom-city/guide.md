@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in Haltom City, TX?
 
-9 TDLR-licensed listings give an address in Haltom City: 0 hold an assessment licence and 9 hold a remediation licence.
-
 ✔ Licensed by TDLR Mold remediation
 
 ### Asbestos Technical Management Services

@@ -10,15 +10,13 @@ canonical: https://moldroster.com/ny/county/clinton/
 
 **Quick answer:** 8 NYS DOL-licensed listings with an address of record in Clinton County (4 mold assessment, 4 mold remediation): 8 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**8 NYS DOL-licensed listings** with an address of record in Clinton County (4 mold assessment, 4 mold remediation): 8 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=clinton&st=ny)
+[How to get quotes](https://moldroster.com/quotes/?county=clinton&st=ny)
 
 City pages: [Plattsburgh](https://moldroster.com/ny/city/plattsburgh/)
 
 ## Which licensed mold assessors are in Clinton County, NY? (4)
 
 4 listings are shown in this section with an address of record in Clinton County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessment
 
@@ -78,8 +76,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0895)
 
 ## Which licensed mold remediators are in Clinton County, NY? (4)
-
-4 listings are shown in this section with an address of record in Clinton County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold remediation
 

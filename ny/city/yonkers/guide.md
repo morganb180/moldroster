@@ -29,8 +29,6 @@ Look the name up in the NYS DOL records and check the licence is still current. 
 
 ## Which licensed mold pros are based in Yonkers, NY?
 
-23 NYS DOL-licensed listings give an address in Yonkers: 8 hold an assessment licence and 19 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessment
 
 ### Blue Skies Home Inspections LLC

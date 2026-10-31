@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in Lewisville, TX?
 
-5 TDLR-licensed listings give an address in Lewisville: 3 hold an assessment licence and 2 hold a remediation licence.
-
 ✔ Licensed by TDLR Mold assessment
 
 ### Enviroquest Inc

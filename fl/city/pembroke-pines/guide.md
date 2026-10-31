@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in Pembroke Pines, FL?
 
-41 DBPR-licensed listings give an address in Pembroke Pines: 31 hold an assessment licence and 29 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessment
 
 ### Alessandra Miller

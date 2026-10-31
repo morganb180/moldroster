@@ -31,8 +31,6 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 
 ## Which licensed mold pros are based in Naples, FL?
 
-71 DBPR-licensed listings give an address in Naples: 48 hold an assessment licence and 51 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessment
 
 ### Kathleen Megan Peduzzi and colleagues

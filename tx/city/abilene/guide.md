@@ -29,8 +29,6 @@ Look the name up in the TDLR records and check the licence is still current. Ask
 
 ## Which licensed mold pros are based in Abilene, TX?
 
-5 TDLR-licensed listings give an address in Abilene: 1 hold an assessment licence and 4 hold a remediation licence.
-
 ✔ Licensed by TDLR Mold assessment
 
 ### Enprotec / Hibbs & Todd, Inc.

@@ -29,8 +29,6 @@ Look the name up in the NYS DOL records and check the licence is still current. 
 
 ## Which licensed mold pros are based in Long Island City, NY?
 
-19 NYS DOL-licensed listings give an address in Long Island City: 9 hold an assessment licence and 13 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessmentMold remediation
 
 ### Green Orchard Group LLC

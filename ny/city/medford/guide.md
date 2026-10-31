@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in Medford, NY?
 
-9 NYS DOL-licensed listings give an address in Medford: 0 hold an assessment licence and 9 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold remediation
 
 ### All Island Cleaning Corp.

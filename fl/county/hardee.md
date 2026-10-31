@@ -10,13 +10,11 @@ canonical: https://moldroster.com/fl/county/hardee/
 
 **Quick answer:** 1 DBPR-licensed listing with an address of record in Hardee County (1 mold assessment, 1 mold remediation): 0 firms and 1 individual licensee. Licensed pros often travel, so ask whether they cover your address.
 
-**1 DBPR-licensed listing** with an address of record in Hardee County (1 mold assessment, 1 mold remediation): 0 firms and 1 individual licensee. [How to get quotes](https://moldroster.com/quotes/?county=hardee&st=fl)
+[How to get quotes](https://moldroster.com/quotes/?county=hardee&st=fl)
 
 ## Which licensed mold assessors are in Hardee County, FL? (1)
 
 1 listing is shown in this section with an address of record in Hardee County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

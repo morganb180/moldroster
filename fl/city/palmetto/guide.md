@@ -29,8 +29,6 @@ Look the name up in the DBPR records and check the licence is still current. Ask
 
 ## Which licensed mold pros are based in Palmetto, FL?
 
-8 DBPR-licensed listings give an address in Palmetto: 6 hold an assessment licence and 4 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Andres A Belen and colleagues

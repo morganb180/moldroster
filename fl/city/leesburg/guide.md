@@ -34,8 +34,6 @@ Summary of Florida Statutes Chapter 468, Part XVI (Mold-Related Services). See t
 
 ## Which licensed mold pros are based in Leesburg, FL?
 
-5 DBPR-licensed listings give an address in Leesburg: 3 hold an assessment licence and 3 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Forrest Chase Branam

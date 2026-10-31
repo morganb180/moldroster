@@ -10,8 +10,6 @@ canonical: https://moldroster.com/fl/city/ponte-vedra/
 
 **Quick answer:** 5 DBPR-licensed listings give an address in Ponte Vedra (3 mold assessment, 4 mold remediation), and 47 more are elsewhere in St. Johns County. Licensed pros often travel, so ask whether they cover your address.
 
-5 DBPR-licensed listings give an address in Ponte Vedra (3 mold assessment, 4 mold remediation), and 47 more are elsewhere in St. Johns County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Ponte Vedra hiring guide →**](https://moldroster.com/fl/city/ponte-vedra/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Ponte Vedra](https://moldroster.com/quotes/?city=ponte-vedra&st=fl)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/fl/city/ponte-vedra/
 Listed below: 3 licensed mold assessors (inspection and testing) and 2 licensed mold remediators with an address in Ponte Vedra. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (3)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -90,7 +86,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in St. Johns County, FL? (47)
 
-47 more DBPR-licensed listings are elsewhere in St. Johns County. Licensed pros often travel, so ask whether they cover your address.
+47 more DBPR-licensed listings are elsewhere in St.
 
 [See all 52 St. Johns County listings →](https://moldroster.com/fl/county/st-johns/)
 

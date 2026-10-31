@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in Syosset, NY?
 
-4 NYS DOL-licensed listings give an address in Syosset: 3 hold an assessment licence and 1 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessment
 
 ### Future Environment Designs, Inc.

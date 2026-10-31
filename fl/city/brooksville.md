@@ -10,8 +10,6 @@ canonical: https://moldroster.com/fl/city/brooksville/
 
 **Quick answer:** 9 DBPR-licensed listings give an address in Brooksville (8 mold assessment, 6 mold remediation), and 19 more are elsewhere in Hernando County. Licensed pros often travel, so ask whether they cover your address.
 
-9 DBPR-licensed listings give an address in Brooksville (8 mold assessment, 6 mold remediation), and 19 more are elsewhere in Hernando County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Brooksville hiring guide →**](https://moldroster.com/fl/city/brooksville/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Brooksville](https://moldroster.com/quotes/?city=brooksville&st=fl)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/fl/city/brooksville/
 Listed below: 8 licensed mold assessors (inspection and testing) and 1 licensed mold remediator with an address in Brooksville. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (8)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -143,7 +139,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Hernando County, FL? (19)
 
-19 more DBPR-licensed listings are elsewhere in Hernando County. Licensed pros often travel, so ask whether they cover your address.
+19 more DBPR-licensed listings are elsewhere in Hernando County.
 
 [See all 28 Hernando County listings →](https://moldroster.com/fl/county/hernando/)
 

@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in Centereach, NY?
 
-6 NYS DOL-licensed listings give an address in Centereach: 4 hold an assessment licence and 3 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessment
 
 ### Blue Sky Inspections Inc

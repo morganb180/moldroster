@@ -36,8 +36,6 @@ Summary of Florida Statutes Chapter 468, Part XVI (Mold-Related Services). See t
 
 ## Which licensed mold pros are based in Boynton Beach, FL?
 
-44 DBPR-licensed listings give an address in Boynton Beach: 33 hold an assessment licence and 31 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Enus, Cassey

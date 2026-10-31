@@ -35,8 +35,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 
 ## Which licensed mold pros are based in Sarasota, FL?
 
-42 DBPR-licensed listings give an address in Sarasota: 25 hold an assessment licence and 29 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Alan Samuels

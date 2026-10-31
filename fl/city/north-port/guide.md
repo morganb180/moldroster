@@ -31,8 +31,6 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 
 ## Which licensed mold pros are based in North Port, FL?
 
-16 DBPR-licensed listings give an address in North Port: 14 hold an assessment licence and 10 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessment
 
 ### Frederick C Rizzo and colleagues

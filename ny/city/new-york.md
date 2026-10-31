@@ -10,8 +10,6 @@ canonical: https://moldroster.com/ny/city/new-york/
 
 **Quick answer:** 65 NYS DOL-licensed listings give an address in New York (42 mold assessment, 28 mold remediation), and 2 more are elsewhere in New York County. Licensed pros often travel, so ask whether they cover your address.
 
-65 NYS DOL-licensed listings give an address in New York (42 mold assessment, 28 mold remediation), and 2 more are elsewhere in New York County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the New York hiring guide →**](https://moldroster.com/ny/city/new-york/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in New York](https://moldroster.com/quotes/?city=new-york&st=ny)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/ny/city/new-york/
 Listed below: 42 licensed mold assessors (inspection and testing) and 23 licensed mold remediators with an address in New York. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (42)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessment
 
@@ -1042,7 +1038,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 ## Which other licensed mold pros are in New York County, NY? (2)
 
-2 more NYS DOL-licensed listings are elsewhere in New York County. Licensed pros often travel, so ask whether they cover your address.
+2 more NYS DOL-licensed listings are elsewhere in New York County.
 
 [See all 67 New York County listings →](https://moldroster.com/ny/county/new-york/)
 

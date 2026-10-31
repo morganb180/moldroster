@@ -34,8 +34,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 
 ## Which licensed mold pros are based in Tarpon Springs, FL?
 
-9 DBPR-licensed listings give an address in Tarpon Springs: 7 hold an assessment licence and 6 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Christiaan D Shallo

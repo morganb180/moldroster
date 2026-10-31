@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in Fort Worth, TX?
 
-15 TDLR-licensed listings give an address in Fort Worth: 3 hold an assessment licence and 12 hold a remediation licence.
-
 ✔ Licensed by TDLR Mold assessment
 
 ### Culley Enviro LLC

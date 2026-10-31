@@ -10,15 +10,13 @@ canonical: https://moldroster.com/tx/county/smith/
 
 **Quick answer:** 16 TDLR-licensed listings with an address of record in Smith County (8 mold assessment, 8 mold remediation): 6 firms and 10 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**16 TDLR-licensed listings** with an address of record in Smith County (8 mold assessment, 8 mold remediation): 6 firms and 10 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=smith&st=tx)
+[How to get quotes](https://moldroster.com/quotes/?county=smith&st=tx)
 
 City pages: [Tyler](https://moldroster.com/tx/city/tyler/)
 
 ## Which licensed mold assessors are in Smith County, TX? (8)
 
 8 listings are shown in this section with an address of record in Smith County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by TDLR Mold assessment
 
@@ -140,8 +138,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TXI0699)
 
 ## Which licensed mold remediators are in Smith County, TX? (8)
-
-8 listings are shown in this section with an address of record in Smith County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by TDLR Mold remediation
 

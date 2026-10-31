@@ -29,8 +29,6 @@ Look the name up in the DBPR records and check the licence is still current. Ask
 
 ## Which licensed mold pros are based in Fort Lauderdale, FL?
 
-60 DBPR-licensed listings give an address in Fort Lauderdale: 45 hold an assessment licence and 42 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessment
 
 ### Kathryn Lynn Pascale and colleagues

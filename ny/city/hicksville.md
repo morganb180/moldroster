@@ -10,8 +10,6 @@ canonical: https://moldroster.com/ny/city/hicksville/
 
 **Quick answer:** 6 NYS DOL-licensed listings give an address in Hicksville (6 mold remediation), and 147 more are elsewhere in Nassau County. Licensed pros often travel, so ask whether they cover your address.
 
-6 NYS DOL-licensed listings give an address in Hicksville (6 mold remediation), and 147 more are elsewhere in Nassau County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Hicksville hiring guide →**](https://moldroster.com/ny/city/hicksville/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Hicksville](https://moldroster.com/quotes/?city=hicksville&st=ny)
@@ -107,7 +105,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 ## Which other licensed mold pros are in Nassau County, NY? (147)
 
-147 more NYS DOL-licensed listings are elsewhere in Nassau County. Licensed pros often travel, so ask whether they cover your address.
+147 more NYS DOL-licensed listings are elsewhere in Nassau County.
 
 [See all 153 Nassau County listings →](https://moldroster.com/ny/county/nassau/)
 

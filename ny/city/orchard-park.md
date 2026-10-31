@@ -10,8 +10,6 @@ canonical: https://moldroster.com/ny/city/orchard-park/
 
 **Quick answer:** 5 NYS DOL-licensed listings give an address in Orchard Park (2 mold assessment, 3 mold remediation), and 37 more are elsewhere in Erie County. Licensed pros often travel, so ask whether they cover your address.
 
-5 NYS DOL-licensed listings give an address in Orchard Park (2 mold assessment, 3 mold remediation), and 37 more are elsewhere in Erie County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Orchard Park hiring guide →**](https://moldroster.com/ny/city/orchard-park/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Orchard Park](https://moldroster.com/quotes/?city=orchard-park&st=ny)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/ny/city/orchard-park/
 Listed below: 2 licensed mold assessors (inspection and testing) and 3 licensed mold remediators with an address in Orchard Park. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (2)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessment
 
@@ -110,7 +106,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 ## Which other licensed mold pros are in Erie County, NY? (37)
 
-37 more NYS DOL-licensed listings are elsewhere in Erie County. Licensed pros often travel, so ask whether they cover your address.
+37 more NYS DOL-licensed listings are elsewhere in Erie County.
 
 [See all 42 Erie County listings →](https://moldroster.com/ny/county/erie/)
 

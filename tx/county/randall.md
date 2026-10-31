@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/county/randall/
 
 **Quick answer:** 4 TDLR-licensed listings with an address of record in Randall County (4 mold remediation): 2 firms and 2 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**4 TDLR-licensed listings** with an address of record in Randall County (4 mold remediation): 2 firms and 2 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=randall&st=tx)
+[How to get quotes](https://moldroster.com/quotes/?county=randall&st=tx)
 
 ## Which licensed mold remediators are in Randall County, TX? (4)
 

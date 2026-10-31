@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in Ozone Park, NY?
 
-4 NYS DOL-licensed listings give an address in Ozone Park: 0 hold an assessment licence and 4 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold remediation
 
 ### M.H. Construction Inc.

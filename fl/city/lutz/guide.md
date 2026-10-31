@@ -33,8 +33,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 
 ## Which licensed mold pros are based in Lutz, FL?
 
-16 DBPR-licensed listings give an address in Lutz: 14 hold an assessment licence and 10 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessment
 
 ### Alan Howard Rabin

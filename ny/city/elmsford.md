@@ -10,8 +10,6 @@ canonical: https://moldroster.com/ny/city/elmsford/
 
 **Quick answer:** 5 NYS DOL-licensed listings give an address in Elmsford (5 mold remediation), and 97 more are elsewhere in Westchester County. Licensed pros often travel, so ask whether they cover your address.
 
-5 NYS DOL-licensed listings give an address in Elmsford (5 mold remediation), and 97 more are elsewhere in Westchester County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Elmsford hiring guide →**](https://moldroster.com/ny/city/elmsford/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Elmsford](https://moldroster.com/quotes/?city=elmsford&st=ny)
@@ -108,7 +106,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 ## Which other licensed mold pros are in Westchester County, NY? (97)
 
-97 more NYS DOL-licensed listings are elsewhere in Westchester County. Licensed pros often travel, so ask whether they cover your address.
+97 more NYS DOL-licensed listings are elsewhere in Westchester County.
 
 [See all 102 Westchester County listings →](https://moldroster.com/ny/county/westchester/)
 

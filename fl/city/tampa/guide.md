@@ -31,8 +31,6 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 
 ## Which licensed mold pros are based in Tampa, FL?
 
-127 DBPR-licensed listings give an address in Tampa: 98 hold an assessment licence and 84 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessment
 
 ### Francis Recupero and colleagues

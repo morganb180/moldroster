@@ -10,8 +10,6 @@ canonical: https://moldroster.com/tx/city/tomball/
 
 **Quick answer:** 4 TDLR-licensed listings give an address in Tomball (4 mold remediation), and 441 more are elsewhere in Harris County. Licensed pros often travel, so ask whether they cover your address.
 
-4 TDLR-licensed listings give an address in Tomball (4 mold remediation), and 441 more are elsewhere in Harris County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Tomball hiring guide →**](https://moldroster.com/tx/city/tomball/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Tomball](https://moldroster.com/quotes/?city=tomball&st=tx)
@@ -76,7 +74,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 ## Which other licensed mold pros are in Harris County, TX? (441)
 
-441 more TDLR-licensed listings are elsewhere in Harris County. Licensed pros often travel, so ask whether they cover your address.
+441 more TDLR-licensed listings are elsewhere in Harris County.
 
 [See all 445 Harris County listings →](https://moldroster.com/tx/county/harris/)
 

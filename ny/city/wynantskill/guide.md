@@ -35,8 +35,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 
 ## Which licensed mold pros are based in Wynantskill, NY?
 
-4 NYS DOL-licensed listings give an address in Wynantskill: 2 hold an assessment licence and 2 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessment
 
 ### RSP Home Inspections & Related Services, LLC

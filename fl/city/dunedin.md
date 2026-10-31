@@ -10,8 +10,6 @@ canonical: https://moldroster.com/fl/city/dunedin/
 
 **Quick answer:** 10 DBPR-licensed listings give an address in Dunedin (8 mold assessment, 5 mold remediation), and 173 more are elsewhere in Pinellas County. Licensed pros often travel, so ask whether they cover your address.
 
-10 DBPR-licensed listings give an address in Dunedin (8 mold assessment, 5 mold remediation), and 173 more are elsewhere in Pinellas County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Dunedin hiring guide →**](https://moldroster.com/fl/city/dunedin/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Dunedin](https://moldroster.com/quotes/?city=dunedin&st=fl)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/fl/city/dunedin/
 Listed below: 8 licensed mold assessors (inspection and testing) and 2 licensed mold remediators with an address in Dunedin. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (8)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessment
 
@@ -151,7 +147,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Pinellas County, FL? (173)
 
-173 more DBPR-licensed listings are elsewhere in Pinellas County. Licensed pros often travel, so ask whether they cover your address.
+173 more DBPR-licensed listings are elsewhere in Pinellas County.
 
 [See all 183 Pinellas County listings →](https://moldroster.com/fl/county/pinellas/)
 

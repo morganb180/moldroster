@@ -31,8 +31,6 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 
 ## Which licensed mold pros are based in Maspeth, NY?
 
-7 NYS DOL-licensed listings give an address in Maspeth: 2 hold an assessment licence and 7 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessmentMold remediation
 
 ### A.S.P. Housing Enterprise Inc.

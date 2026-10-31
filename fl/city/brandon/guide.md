@@ -36,8 +36,6 @@ Summary of Florida Statutes Chapter 468, Part XVI (Mold-Related Services). See t
 
 ## Which licensed mold pros are based in Brandon, FL?
 
-10 DBPR-licensed listings give an address in Brandon: 6 hold an assessment licence and 6 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessment
 
 ### Carlos Antonio Lopez Sanchez

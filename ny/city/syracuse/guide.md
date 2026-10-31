@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in Syracuse, NY?
 
-15 NYS DOL-licensed listings give an address in Syracuse: 6 hold an assessment licence and 11 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessment
 
 ### Arcadis of New York, Inc

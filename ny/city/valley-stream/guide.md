@@ -35,8 +35,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 
 ## Which licensed mold pros are based in Valley Stream, NY?
 
-10 NYS DOL-licensed listings give an address in Valley Stream: 3 hold an assessment licence and 9 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessmentMold remediation
 
 ### Jp Handa Construction Inc

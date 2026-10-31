@@ -29,8 +29,6 @@ Look the name up in the TDLR records and check the licence is still current. Ask
 
 ## Which licensed mold pros are based in Katy, TX?
 
-6 TDLR-licensed listings give an address in Katy: 4 hold an assessment licence and 2 hold a remediation licence.
-
 ✔ Licensed by TDLR Mold assessment
 
 ### Aq Testing Services, LLC

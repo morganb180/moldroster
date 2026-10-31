@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in Winter Park, FL?
 
-11 DBPR-licensed listings give an address in Winter Park: 8 hold an assessment licence and 9 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessment
 
 ### Antonio Emmanuel Hernandez

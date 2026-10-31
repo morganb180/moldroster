@@ -33,8 +33,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 
 ## Which licensed mold pros are based in Cutler Bay, FL?
 
-18 DBPR-licensed listings give an address in Cutler Bay: 18 hold an assessment licence and 8 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Anastasi, Rick

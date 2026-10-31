@@ -31,8 +31,6 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 
 ## Which licensed mold pros are based in Buffalo, NY?
 
-19 NYS DOL-licensed listings give an address in Buffalo: 11 hold an assessment licence and 10 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessment
 
 ### 56 Services, Inc.

@@ -31,8 +31,6 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 
 ## Which licensed mold pros are based in Leander, TX?
 
-4 TDLR-licensed listings give an address in Leander: 0 hold an assessment licence and 4 hold a remediation licence.
-
 ✔ Licensed by TDLR Mold remediation
 
 ### Building Abatement Demolition Company Inc

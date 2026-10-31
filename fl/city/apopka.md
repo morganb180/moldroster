@@ -10,8 +10,6 @@ canonical: https://moldroster.com/fl/city/apopka/
 
 **Quick answer:** 11 DBPR-licensed listings give an address in Apopka (7 mold assessment, 9 mold remediation), and 183 more are elsewhere in Orange County. Licensed pros often travel, so ask whether they cover your address.
 
-11 DBPR-licensed listings give an address in Apopka (7 mold assessment, 9 mold remediation), and 183 more are elsewhere in Orange County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Apopka hiring guide →**](https://moldroster.com/fl/city/apopka/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Apopka](https://moldroster.com/quotes/?city=apopka&st=fl)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/fl/city/apopka/
 Listed below: 7 licensed mold assessors (inspection and testing) and 4 licensed mold remediators with an address in Apopka. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (7)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessment
 
@@ -165,7 +161,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Orange County, FL? (183)
 
-183 more DBPR-licensed listings are elsewhere in Orange County. Licensed pros often travel, so ask whether they cover your address.
+183 more DBPR-licensed listings are elsewhere in Orange County.
 
 [See all 194 Orange County listings →](https://moldroster.com/fl/county/orange/)
 

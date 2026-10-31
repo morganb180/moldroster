@@ -10,8 +10,6 @@ canonical: https://moldroster.com/fl/city/tallahassee/
 
 **Quick answer:** 29 DBPR-licensed listings give an address in Tallahassee (17 mold assessment, 20 mold remediation), and 0 more are elsewhere in Leon County. Licensed pros often travel, so ask whether they cover your address.
 
-29 DBPR-licensed listings give an address in Tallahassee (17 mold assessment, 20 mold remediation), and 0 more are elsewhere in Leon County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Tallahassee hiring guide →**](https://moldroster.com/fl/city/tallahassee/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Tallahassee](https://moldroster.com/quotes/?city=tallahassee&st=fl)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/fl/city/tallahassee/
 Listed below: 17 licensed mold assessors (inspection and testing) and 12 licensed mold remediators with an address in Tallahassee. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (17)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessment
 

@@ -29,8 +29,6 @@ Look the name up in the DBPR records and check the licence is still current. Ask
 
 ## Which licensed mold pros are based in Miami Lakes, FL?
 
-18 DBPR-licensed listings give an address in Miami Lakes: 13 hold an assessment licence and 11 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Gutierrez, Billy

@@ -29,8 +29,6 @@ Look the name up in the TDLR records and check the licence is still current. Ask
 
 ## Which licensed mold pros are based in Tomball, TX?
 
-4 TDLR-licensed listings give an address in Tomball: 0 hold an assessment licence and 4 hold a remediation licence.
-
 ✔ Licensed by TDLR Mold remediation
 
 ### Clean Air Restoration LLC

@@ -29,8 +29,6 @@ Look the name up in the DBPR records and check the licence is still current. Ask
 
 ## Which licensed mold pros are based in Palm Harbor, FL?
 
-13 DBPR-licensed listings give an address in Palm Harbor: 6 hold an assessment licence and 10 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Christopher Taylor Robbins

@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in Davie, FL?
 
-46 DBPR-licensed listings give an address in Davie: 36 hold an assessment licence and 35 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Gary Rosen and colleagues

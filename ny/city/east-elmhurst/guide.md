@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in East Elmhurst, NY?
 
-5 NYS DOL-licensed listings give an address in East Elmhurst: 2 hold an assessment licence and 4 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessmentMold remediation
 
 ### Aegean Environmental Services Corp.

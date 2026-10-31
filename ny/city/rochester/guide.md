@@ -29,8 +29,6 @@ Look the name up in the NYS DOL records and check the licence is still current. 
 
 ## Which licensed mold pros are based in Rochester, NY?
 
-37 NYS DOL-licensed listings give an address in Rochester: 20 hold an assessment licence and 23 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessment
 
 ### Comfort Living Home Inspection LLC

@@ -10,15 +10,13 @@ canonical: https://moldroster.com/fl/county/collier/
 
 **Quick answer:** 77 DBPR-licensed listings with an address of record in Collier County (54 mold assessment, 54 mold remediation): 2 firms and 75 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**77 DBPR-licensed listings** with an address of record in Collier County (54 mold assessment, 54 mold remediation): 2 firms and 75 individual licensees. [How to get quotes](https://moldroster.com/quotes/?county=collier&st=fl)
+[How to get quotes](https://moldroster.com/quotes/?county=collier&st=fl)
 
 City pages: [Naples](https://moldroster.com/fl/city/naples/)
 
 ## Which licensed mold assessors are in Collier County, FL? (54)
 
 54 listings are shown in this section with an address of record in Collier County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessment
 
@@ -707,7 +705,7 @@ Show all 54 listings
 
 ## Which licensed mold remediators are in Collier County, FL? (23)
 
-23 listings are shown in this section with an address of record in Collier County. Listings holding more than one licence type appear once, in the first matching section.
+23 listings are shown in this section with an address of record in Collier County.
 
 ✔ Licensed by FL DBPR Mold remediation
 

@@ -34,8 +34,6 @@ Summary of New York Labor Law Article 32 and 12 NYCRR Part 60. See the agency: [
 
 ## Which licensed mold pros are based in Kingston, NY?
 
-6 NYS DOL-licensed listings give an address in Kingston: 3 hold an assessment licence and 3 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessment
 
 ### Arlene Puentes (dba October Home Inspections)

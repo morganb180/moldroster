@@ -29,8 +29,6 @@ Look the name up in the DBPR records and check the licence is still current. Ask
 
 ## Which licensed mold pros are based in Lynn Haven, FL?
 
-9 DBPR-licensed listings give an address in Lynn Haven: 4 hold an assessment licence and 7 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessment
 
 ### Benjamin James Livingston

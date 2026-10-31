@@ -31,8 +31,6 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 
 ## Which licensed mold pros are based in Delray Beach, FL?
 
-27 DBPR-licensed listings give an address in Delray Beach: 20 hold an assessment licence and 17 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Sean Michael Toffey and colleagues

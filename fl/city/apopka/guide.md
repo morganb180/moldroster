@@ -36,8 +36,6 @@ Summary of Florida Statutes Chapter 468, Part XVI (Mold-Related Services). See t
 
 ## Which licensed mold pros are based in Apopka, FL?
 
-11 DBPR-licensed listings give an address in Apopka: 7 hold an assessment licence and 9 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessment
 
 ### Bruce White

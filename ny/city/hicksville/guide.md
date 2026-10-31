@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in Hicksville, NY?
 
-6 NYS DOL-licensed listings give an address in Hicksville: 0 hold an assessment licence and 6 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold remediation
 
 ### CWD of Hicksville, Inc.

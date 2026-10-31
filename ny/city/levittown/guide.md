@@ -35,8 +35,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 ## Which licensed mold pros are based in Levittown, NY?
 
-6 NYS DOL-licensed listings give an address in Levittown: 1 hold an assessment licence and 5 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessment
 
 ### Verdantgarde LLC

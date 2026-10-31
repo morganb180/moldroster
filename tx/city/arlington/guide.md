@@ -35,8 +35,6 @@ Summary of 16 Texas Administrative Code Chapter 78 (Texas Mold Assessment and Re
 
 ## Which licensed mold pros are based in Arlington, TX?
 
-10 TDLR-licensed listings give an address in Arlington: 3 hold an assessment licence and 7 hold a remediation licence.
-
 ✔ Licensed by TDLR Mold assessment
 
 ### Armstrong Forensic Laboratory, Inc.

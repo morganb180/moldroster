@@ -29,8 +29,6 @@ Look the name up in the NYS DOL records and check the licence is still current. 
 
 ## Which licensed mold pros are based in Bohemia, NY?
 
-14 NYS DOL-licensed listings give an address in Bohemia: 5 hold an assessment licence and 10 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessmentMold remediation
 
 ### Mecca Home Improvement Inc. (dba Target Restoration)

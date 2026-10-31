@@ -36,8 +36,6 @@ Summary of Florida Statutes Chapter 468, Part XVI (Mold-Related Services). See t
 
 ## Which licensed mold pros are based in Doral, FL?
 
-28 DBPR-licensed listings give an address in Doral: 22 hold an assessment licence and 21 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessment
 
 ### Vega, Adriana

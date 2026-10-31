@@ -33,8 +33,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 
 ## Which licensed mold pros are based in Spring, TX?
 
-7 TDLR-licensed listings give an address in Spring: 2 hold an assessment licence and 5 hold a remediation licence.
-
 ✔ Licensed by TDLR Mold assessment
 
 ### Point Alliance Solutions LLC

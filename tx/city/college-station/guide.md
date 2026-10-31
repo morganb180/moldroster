@@ -29,8 +29,6 @@ Look the name up in the TDLR records and check the licence is still current. Ask
 
 ## Which licensed mold pros are based in College Station, TX?
 
-4 TDLR-licensed listings give an address in College Station: 2 hold an assessment licence and 2 hold a remediation licence.
-
 ✔ Licensed by TDLR Mold assessment
 
 ### Choice Consulting, LLC

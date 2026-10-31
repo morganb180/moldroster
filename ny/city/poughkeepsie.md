@@ -10,8 +10,6 @@ canonical: https://moldroster.com/ny/city/poughkeepsie/
 
 **Quick answer:** 11 NYS DOL-licensed listings give an address in Poughkeepsie (7 mold assessment, 5 mold remediation), and 21 more are elsewhere in Dutchess County. Licensed pros often travel, so ask whether they cover your address.
 
-11 NYS DOL-licensed listings give an address in Poughkeepsie (7 mold assessment, 5 mold remediation), and 21 more are elsewhere in Dutchess County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Poughkeepsie hiring guide →**](https://moldroster.com/ny/city/poughkeepsie/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Poughkeepsie](https://moldroster.com/quotes/?city=poughkeepsie&st=ny)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/ny/city/poughkeepsie/
 Listed below: 7 licensed mold assessors (inspection and testing) and 4 licensed mold remediators with an address in Poughkeepsie. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (7)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessment
 
@@ -205,7 +201,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 ## Which other licensed mold pros are in Dutchess County, NY? (21)
 
-21 more NYS DOL-licensed listings are elsewhere in Dutchess County. Licensed pros often travel, so ask whether they cover your address.
+21 more NYS DOL-licensed listings are elsewhere in Dutchess County.
 
 [See all 32 Dutchess County listings →](https://moldroster.com/ny/county/dutchess/)
 

@@ -10,8 +10,6 @@ canonical: https://moldroster.com/tx/city/humble/
 
 **Quick answer:** 5 TDLR-licensed listings give an address in Humble (1 mold assessment, 4 mold remediation), and 440 more are elsewhere in Harris County. Licensed pros often travel, so ask whether they cover your address.
 
-5 TDLR-licensed listings give an address in Humble (1 mold assessment, 4 mold remediation), and 440 more are elsewhere in Harris County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Humble hiring guide →**](https://moldroster.com/tx/city/humble/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Humble](https://moldroster.com/quotes/?city=humble&st=tx)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/tx/city/humble/
 Listed below: 1 licensed mold assessor (inspection and testing) and 4 licensed mold remediators with an address in Humble. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (1)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by TDLR Mold assessment
 
@@ -98,7 +94,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 ## Which other licensed mold pros are in Harris County, TX? (440)
 
-440 more TDLR-licensed listings are elsewhere in Harris County. Licensed pros often travel, so ask whether they cover your address.
+440 more TDLR-licensed listings are elsewhere in Harris County.
 
 [See all 445 Harris County listings →](https://moldroster.com/tx/county/harris/)
 

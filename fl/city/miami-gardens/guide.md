@@ -34,8 +34,6 @@ Summary of Florida Statutes Chapter 468, Part XVI (Mold-Related Services). See t
 
 ## Which licensed mold pros are based in Miami Gardens, FL?
 
-5 DBPR-licensed listings give an address in Miami Gardens: 5 hold an assessment licence and 3 hold a remediation licence.
-
 ✔ Licensed by FL DBPR Mold assessment
 
 ### Antonella Berroteran

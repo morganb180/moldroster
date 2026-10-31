@@ -31,8 +31,6 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 
 ## Which licensed mold pros are based in Wantagh, NY?
 
-5 NYS DOL-licensed listings give an address in Wantagh: 1 hold an assessment licence and 5 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessmentMold remediation
 
 ### Phase 1 Restoration, Inc.

@@ -35,8 +35,6 @@ Summary of 16 Texas Administrative Code Chapter 78 (Texas Mold Assessment and Re
 
 ## Which licensed mold pros are based in El Paso, TX?
 
-10 TDLR-licensed listings give an address in El Paso: 3 hold an assessment licence and 7 hold a remediation licence.
-
 ✔ Licensed by TDLR Mold assessment
 
 ### Ane Consulting, Inc

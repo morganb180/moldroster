@@ -31,8 +31,6 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 
 ## Which licensed mold pros are based in Ft. Lauderdale, FL?
 
-6 DBPR-licensed listings give an address in Ft.
-
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
 ### Adam Alexander Valiente

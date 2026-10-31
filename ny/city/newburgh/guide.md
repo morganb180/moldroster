@@ -36,8 +36,6 @@ Summary of New York Labor Law Article 32 and 12 NYCRR Part 60. See the agency: [
 
 ## Which licensed mold pros are based in Newburgh, NY?
 
-6 NYS DOL-licensed listings give an address in Newburgh: 5 hold an assessment licence and 4 hold a remediation licence.
-
 ✔ Licensed by NYS DOL Mold assessmentMold remediation
 
 ### AirCare Environmental, LLC

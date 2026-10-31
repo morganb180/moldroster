@@ -10,8 +10,6 @@ canonical: https://moldroster.com/ny/city/albany/
 
 **Quick answer:** 25 NYS DOL-licensed listings give an address in Albany (14 mold assessment, 12 mold remediation), and 20 more are elsewhere in Albany County. Licensed pros often travel, so ask whether they cover your address.
 
-25 NYS DOL-licensed listings give an address in Albany (14 mold assessment, 12 mold remediation), and 20 more are elsewhere in Albany County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Albany hiring guide →**](https://moldroster.com/ny/city/albany/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Albany](https://moldroster.com/quotes/?city=albany&st=ny)
@@ -21,8 +19,6 @@ canonical: https://moldroster.com/ny/city/albany/
 Listed below: 14 licensed mold assessors (inspection and testing) and 11 licensed mold remediators with an address in Albany. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (14)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessment
 
@@ -416,7 +412,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 ## Which other licensed mold pros are in Albany County, NY? (20)
 
-20 more NYS DOL-licensed listings are elsewhere in Albany County. Licensed pros often travel, so ask whether they cover your address.
+20 more NYS DOL-licensed listings are elsewhere in Albany County.
 
 [See all 45 Albany County listings →](https://moldroster.com/ny/county/albany/)
 
