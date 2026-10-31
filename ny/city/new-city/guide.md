@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/new-city/guide/
 
 6 NYS DOL-licensed listings give an address in New City: **5** hold an assessment licence and **2** hold a remediation licence. Another 27 are elsewhere in Rockland County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=new-city&st=ny) [All New City listings](https://moldroster.com/ny/city/new-city/)
+[Get quotes](https://moldroster.com/quotes/?city=new-city&st=ny) [All New City listings](https://moldroster.com/ny/city/new-city/)
 
 ## What should I ask a mold pro before I sign?
 
@@ -33,8 +33,6 @@ A NYS DOL licence is required for mold assessment or remediation of areas over 1
 Summary of New York Labor Law Article 32 and 12 NYCRR Part 60. See the agency: [New York State Department of Labor](https://dol.ny.gov/mold-program). Plain-language summary, not legal advice; confirm details with the agency.
 
 ## Which licensed mold pros are based in New City, NY?
-
-6 NYS DOL-licensed listings give an address in New City: 5 hold an assessment licence and 2 hold a remediation licence.
 
 ✔ Licensed by NYS DOL Mold assessment
 

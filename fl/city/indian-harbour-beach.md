@@ -10,19 +10,15 @@ canonical: https://moldroster.com/fl/city/indian-harbour-beach/
 
 **Quick answer:** 4 DBPR-licensed listings give an address in Indian Harbour Beach (3 mold assessment, 4 mold remediation), and 89 more are elsewhere in Brevard County. Licensed pros often travel, so ask whether they cover your address.
 
-4 DBPR-licensed listings give an address in Indian Harbour Beach (3 mold assessment, 4 mold remediation), and 89 more are elsewhere in Brevard County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Indian Harbour Beach hiring guide →**](https://moldroster.com/fl/city/indian-harbour-beach/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Indian Harbour Beach](https://moldroster.com/get-quotes/?city=indian-harbour-beach&st=fl)
+[How to get quotes in Indian Harbour Beach](https://moldroster.com/quotes/?city=indian-harbour-beach&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Indian Harbour Beach, FL?
 
 Listed below: 3 licensed mold assessors (inspection and testing) and 1 licensed mold remediator with an address in Indian Harbour Beach. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (3)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -79,7 +75,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Brevard County, FL? (89)
 
-89 more DBPR-licensed listings are elsewhere in Brevard County. Licensed pros often travel, so ask whether they cover your address.
+89 more DBPR-licensed listings are elsewhere in Brevard County.
 
 [See all 93 Brevard County listings →](https://moldroster.com/fl/county/brevard/)
 

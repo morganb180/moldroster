@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/new-rochelle/guide/
 
 8 NYS DOL-licensed listings give an address in New Rochelle: **4** hold an assessment licence and **6** hold a remediation licence. Another 94 are elsewhere in Westchester County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=new-rochelle&st=ny) [All New Rochelle listings](https://moldroster.com/ny/city/new-rochelle/)
+[Get quotes](https://moldroster.com/quotes/?city=new-rochelle&st=ny) [All New Rochelle listings](https://moldroster.com/ny/city/new-rochelle/)
 
 ## What should I ask a mold pro before I sign?
 
@@ -35,8 +35,6 @@ A NYS DOL licence is required for mold assessment or remediation of areas over 1
 Summary of New York Labor Law Article 32 and 12 NYCRR Part 60. See the agency: [New York State Department of Labor](https://dol.ny.gov/mold-program). Plain-language summary, not legal advice; confirm details with the agency.
 
 ## Which licensed mold pros are based in New Rochelle, NY?
-
-8 NYS DOL-licensed listings give an address in New Rochelle: 4 hold an assessment licence and 6 hold a remediation licence.
 
 ✔ Licensed by NYS DOL Mold assessmentMold remediation
 

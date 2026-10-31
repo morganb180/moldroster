@@ -8,17 +8,15 @@ canonical: https://moldroster.com/fl/county/okaloosa/
 
 # Licensed mold assessors & remediators in Okaloosa County, FL
 
-**Quick answer:** 18 DBPR-licensed listings with an address of record in Okaloosa County (10 mold assessment, 15 mold remediation): 1 firms and 17 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+**Quick answer:** 18 DBPR-licensed listings with an address of record in Okaloosa County (10 mold assessment, 15 mold remediation): 1 firm and 17 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**18 DBPR-licensed listings** with an address of record in Okaloosa County (10 mold assessment, 15 mold remediation): 1 firms and 17 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=okaloosa&st=fl)
+[How to get quotes](https://moldroster.com/quotes/?county=okaloosa&st=fl)
 
 City pages: [Crestview](https://moldroster.com/fl/city/crestview/) · [Destin](https://moldroster.com/fl/city/destin/) · [Fort Walton Beach](https://moldroster.com/fl/city/fort-walton-beach/)
 
 ## Which licensed mold assessors are in Okaloosa County, FL? (10)
 
 10 listings are shown in this section with an address of record in Okaloosa County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -151,7 +149,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which licensed mold remediators are in Okaloosa County, FL? (8)
 
-8 listings are shown in this section with an address of record in Okaloosa County. Listings holding more than one licence type appear once, in the first matching section.
+8 listings are shown in this section with an address of record in Okaloosa County.
 
 ✔ Licensed by FL DBPR Mold remediation
 
@@ -268,7 +266,7 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 10 listings with a DBPR mold assessment licence and 15 with a remediation licence have an address of record in Okaloosa County. Pros from neighboring counties may also serve the area.
 
-**How do I check a Okaloosa County mold company's licence?**
+**How do I check an Okaloosa County mold company's licence?**
 
 Look it up with the Florida Department of Business and Professional Regulation (DBPR). Each listing here shows the licence number and expiry date from the agency's records.
 

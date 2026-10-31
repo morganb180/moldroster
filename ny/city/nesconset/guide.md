@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/nesconset/guide/
 
 4 NYS DOL-licensed listings give an address in Nesconset: **1** hold an assessment licence and **3** hold a remediation licence. Another 181 are elsewhere in Suffolk County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=nesconset&st=ny) [All Nesconset listings](https://moldroster.com/ny/city/nesconset/)
+[Get quotes](https://moldroster.com/quotes/?city=nesconset&st=ny) [All Nesconset listings](https://moldroster.com/ny/city/nesconset/)
 
 ## How do I verify a mold pro's licence in Nesconset, NY?
 
@@ -33,8 +33,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 * Will an independent licensed assessor write the protocol and do the clearance check?
 
 ## Which licensed mold pros are based in Nesconset, NY?
-
-4 NYS DOL-licensed listings give an address in Nesconset: 1 hold an assessment licence and 3 hold a remediation licence.
 
 ✔ Licensed by NYS DOL Mold assessment
 
@@ -128,7 +126,7 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 
 **How do I find a licensed mold inspector in Nesconset?**
 
-Start with the 1 listings in Nesconset that hold a NYS DOL assessment licence, then confirm the licence with the agency.
+Start with the 1 listing in Nesconset that hold a NYS DOL assessment licence, then confirm the licence with the agency.
 
 **How much does mold remediation cost in Nesconset?**
 

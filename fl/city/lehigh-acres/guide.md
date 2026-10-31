@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/lehigh-acres/guide/
 
 17 DBPR-licensed listings give an address in Lehigh Acres: **12** hold an assessment licence and **14** hold a remediation licence. Another 173 are elsewhere in Lee County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=lehigh-acres&st=fl) [All Lehigh Acres listings](https://moldroster.com/fl/city/lehigh-acres/)
+[Get quotes](https://moldroster.com/quotes/?city=lehigh-acres&st=fl) [All Lehigh Acres listings](https://moldroster.com/fl/city/lehigh-acres/)
 
 ## Do I need a mold assessment before remediation?
 
@@ -28,8 +28,6 @@ Look the name up in the DBPR records and check the licence is still current. Ask
 4. Ask for proof of insurance and a written scope before work starts.
 
 ## Which licensed mold pros are based in Lehigh Acres, FL?
-
-17 DBPR-licensed listings give an address in Lehigh Acres: 12 hold an assessment licence and 14 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

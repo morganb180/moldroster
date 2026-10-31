@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/albany/guide/
 
 25 NYS DOL-licensed listings give an address in Albany: **14** hold an assessment licence and **12** hold a remediation licence. Another 20 are elsewhere in Albany County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=albany&st=ny) [All Albany listings](https://moldroster.com/ny/city/albany/)
+[Get quotes](https://moldroster.com/quotes/?city=albany&st=ny) [All Albany listings](https://moldroster.com/ny/city/albany/)
 
 ## What should I ask a mold pro before I sign?
 
@@ -34,8 +34,6 @@ A NYS DOL licence is required for mold assessment or remediation of areas over 1
 Summary of New York Labor Law Article 32 and 12 NYCRR Part 60. See the agency: [New York State Department of Labor](https://dol.ny.gov/mold-program). Plain-language summary, not legal advice; confirm details with the agency.
 
 ## Which licensed mold pros are based in Albany, NY?
-
-25 NYS DOL-licensed listings give an address in Albany: 14 hold an assessment licence and 12 hold a remediation licence.
 
 ✔ Licensed by NYS DOL Mold assessment
 

@@ -1,0 +1,13 @@
+---
+title: "Timothy Francis Hedderman, TX | Mold Roster"
+description: "Timothy Francis Hedderman: mold assessment in TX. TDLR licence details, contact and free quotes."
+canonical: https://moldroster.com/tx/firms/timothy-francis-hedderman-txi0460/
+---
+
+# Timothy Francis Hedderman
+
+* Mold assessment
+* Licensed by TDLR (Texas Department of Licensing and Regulation)
+* TX (Montgomery County)
+
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TXI0460

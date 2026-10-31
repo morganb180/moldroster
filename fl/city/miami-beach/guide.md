@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/miami-beach/guide/
 
 14 DBPR-licensed listings give an address in Miami Beach: **12** hold an assessment licence and **11** hold a remediation licence. Another 532 are elsewhere in Miami-Dade County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=miami-beach&st=fl) [All Miami Beach listings](https://moldroster.com/fl/city/miami-beach/)
+[Get quotes](https://moldroster.com/quotes/?city=miami-beach&st=fl) [All Miami Beach listings](https://moldroster.com/fl/city/miami-beach/)
 
 ## How do I verify a mold pro's licence in Miami Beach, FL?
 
@@ -33,8 +33,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 * What clearance standard or test will show the job is done?
 
 ## Which licensed mold pros are based in Miami Beach, FL?
-
-14 DBPR-licensed listings give an address in Miami Beach: 12 hold an assessment licence and 11 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

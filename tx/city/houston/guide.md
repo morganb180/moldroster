@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/houston/guide/
 
 87 TDLR-licensed listings give an address in Houston: **35** hold an assessment licence and **54** hold a remediation licence. Another 358 are elsewhere in Harris County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=houston&st=tx) [All Houston listings](https://moldroster.com/tx/city/houston/)
+[Get quotes](https://moldroster.com/quotes/?city=houston&st=tx) [All Houston listings](https://moldroster.com/tx/city/houston/)
 
 ## Do I need a mold assessment before remediation?
 
@@ -28,8 +28,6 @@ Look the name up in the TDLR records and check the licence is still current. Ask
 4. Ask for proof of insurance and a written scope before work starts.
 
 ## Which licensed mold pros are based in Houston, TX?
-
-87 TDLR-licensed listings give an address in Houston: 35 hold an assessment licence and 54 hold a remediation licence.
 
 ✔ Licensed by TDLR Mold assessment
 

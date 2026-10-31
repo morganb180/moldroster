@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/glen-head/guide/
 
 4 NYS DOL-licensed listings give an address in Glen Head: **2** hold an assessment licence and **3** hold a remediation licence. Another 149 are elsewhere in Nassau County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=glen-head&st=ny) [All Glen Head listings](https://moldroster.com/ny/city/glen-head/)
+[Get quotes](https://moldroster.com/quotes/?city=glen-head&st=ny) [All Glen Head listings](https://moldroster.com/ny/city/glen-head/)
 
 ## What are New York's mold licensing rules?
 
@@ -34,8 +34,6 @@ National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
 ## Which licensed mold pros are based in Glen Head, NY?
-
-4 NYS DOL-licensed listings give an address in Glen Head: 2 hold an assessment licence and 3 hold a remediation licence.
 
 ✔ Licensed by NYS DOL Mold assessment
 

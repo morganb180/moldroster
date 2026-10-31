@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/east-meadow/guide/
 
 5 NYS DOL-licensed listings give an address in East Meadow: **5** hold an assessment licence and **0** hold a remediation licence. Another 148 are elsewhere in Nassau County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=east-meadow&st=ny) [All East Meadow listings](https://moldroster.com/ny/city/east-meadow/)
+[Get quotes](https://moldroster.com/quotes/?city=east-meadow&st=ny) [All East Meadow listings](https://moldroster.com/ny/city/east-meadow/)
 
 ## How much does mold inspection and remediation cost?
 
@@ -30,8 +30,6 @@ For larger jobs, yes: a licensed assessor inspects, samples if needed and writes
 For larger jobs, a licensed assessor inspects, samples if needed, and writes a protocol. A separate licensed remediator does the work, and the assessor confirms the result. Fixing the moisture source is the key step ([EPA: A Brief Guide to Mold, Moisture and Your Home](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home)).
 
 ## Which licensed mold pros are based in East Meadow, NY?
-
-5 NYS DOL-licensed listings give an address in East Meadow: 5 hold an assessment licence and 0 hold a remediation licence.
 
 ✔ Licensed by NYS DOL Mold assessment
 

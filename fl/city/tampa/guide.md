@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/tampa/guide/
 
 127 DBPR-licensed listings give an address in Tampa: **98** hold an assessment licence and **84** hold a remediation licence. Another 108 are elsewhere in Hillsborough County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=tampa&st=fl) [All Tampa listings](https://moldroster.com/fl/city/tampa/)
+[Get quotes](https://moldroster.com/quotes/?city=tampa&st=fl) [All Tampa listings](https://moldroster.com/fl/city/tampa/)
 
 ## How much does mold inspection and remediation cost?
 
@@ -30,8 +30,6 @@ For larger jobs, yes: a licensed assessor inspects, samples if needed and writes
 For larger jobs, a licensed assessor inspects, samples if needed, and writes a protocol. A separate licensed remediator does the work, and the assessor confirms the result. Fixing the moisture source is the key step ([EPA: A Brief Guide to Mold, Moisture and Your Home](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home)).
 
 ## Which licensed mold pros are based in Tampa, FL?
-
-127 DBPR-licensed listings give an address in Tampa: 98 hold an assessment licence and 84 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessment
 

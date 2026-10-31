@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/san-antonio/guide/
 
 41 TDLR-licensed listings give an address in San Antonio: **12** hold an assessment licence and **29** hold a remediation licence. Another 110 are elsewhere in Bexar County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=san-antonio&st=tx) [All San Antonio listings](https://moldroster.com/tx/city/san-antonio/)
+[Get quotes](https://moldroster.com/quotes/?city=san-antonio&st=tx) [All San Antonio listings](https://moldroster.com/tx/city/san-antonio/)
 
 ## How much does mold inspection and remediation cost?
 
@@ -30,8 +30,6 @@ For larger jobs, yes: a licensed assessor inspects, samples if needed and writes
 For larger jobs, a licensed assessor inspects, samples if needed, and writes a protocol. A separate licensed remediator does the work, and the assessor confirms the result. Fixing the moisture source is the key step ([EPA: A Brief Guide to Mold, Moisture and Your Home](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home)).
 
 ## Which licensed mold pros are based in San Antonio, TX?
-
-41 TDLR-licensed listings give an address in San Antonio: 12 hold an assessment licence and 29 hold a remediation licence.
 
 ✔ Licensed by TDLR Mold assessment
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/county/herkimer/
 
 **Quick answer:** 2 NYS DOL-licensed listings with an address of record in Herkimer County (2 mold remediation): 2 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**2 NYS DOL-licensed listings** with an address of record in Herkimer County (2 mold remediation): 2 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=herkimer&st=ny)
+[How to get quotes](https://moldroster.com/quotes/?county=herkimer&st=ny)
 
 ## Which licensed mold remediators are in Herkimer County, NY? (2)
 

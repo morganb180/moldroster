@@ -10,19 +10,15 @@ canonical: https://moldroster.com/ny/city/suffern/
 
 **Quick answer:** 4 NYS DOL-licensed listings give an address in Suffern (1 mold assessment, 3 mold remediation), and 29 more are elsewhere in Rockland County. Licensed pros often travel, so ask whether they cover your address.
 
-4 NYS DOL-licensed listings give an address in Suffern (1 mold assessment, 3 mold remediation), and 29 more are elsewhere in Rockland County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Suffern hiring guide →**](https://moldroster.com/ny/city/suffern/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Suffern](https://moldroster.com/get-quotes/?city=suffern&st=ny)
+[How to get quotes in Suffern](https://moldroster.com/quotes/?city=suffern&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Suffern, NY?
 
 Listed below: 1 licensed mold assessor (inspection and testing) and 3 licensed mold remediators with an address in Suffern. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (1)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessment
 
@@ -93,7 +89,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 ## Which other licensed mold pros are in Rockland County, NY? (29)
 
-29 more NYS DOL-licensed listings are elsewhere in Rockland County. Licensed pros often travel, so ask whether they cover your address.
+29 more NYS DOL-licensed listings are elsewhere in Rockland County.
 
 [See all 33 Rockland County listings →](https://moldroster.com/ny/county/rockland/)
 

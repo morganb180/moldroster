@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/long-island-city/guide/
 
 19 NYS DOL-licensed listings give an address in Long Island City: **9** hold an assessment licence and **13** hold a remediation licence. Another 135 are elsewhere in Queens County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=long-island-city&st=ny) [All Long Island City listings](https://moldroster.com/ny/city/long-island-city/)
+[Get quotes](https://moldroster.com/quotes/?city=long-island-city&st=ny) [All Long Island City listings](https://moldroster.com/ny/city/long-island-city/)
 
 ## Do I need a mold assessment before remediation?
 
@@ -28,8 +28,6 @@ Look the name up in the NYS DOL records and check the licence is still current. 
 4. Ask for proof of insurance and a written scope before work starts.
 
 ## Which licensed mold pros are based in Long Island City, NY?
-
-19 NYS DOL-licensed listings give an address in Long Island City: 9 hold an assessment licence and 13 hold a remediation licence.
 
 ✔ Licensed by NYS DOL Mold assessmentMold remediation
 

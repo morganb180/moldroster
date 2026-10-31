@@ -10,19 +10,15 @@ canonical: https://moldroster.com/tx/city/austin/
 
 **Quick answer:** 31 TDLR-licensed listings give an address in Austin (10 mold assessment, 22 mold remediation), and 94 more are elsewhere in Travis County. Licensed pros often travel, so ask whether they cover your address.
 
-31 TDLR-licensed listings give an address in Austin (10 mold assessment, 22 mold remediation), and 94 more are elsewhere in Travis County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Austin hiring guide →**](https://moldroster.com/tx/city/austin/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Austin](https://moldroster.com/get-quotes/?city=austin&st=tx)
+[How to get quotes in Austin](https://moldroster.com/quotes/?city=austin&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Austin, TX?
 
 Listed below: 10 licensed mold assessors (inspection and testing) and 21 licensed mold remediators with an address in Austin. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (10)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by TDLR Mold assessmentMold remediation
 
@@ -482,7 +478,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 ## Which other licensed mold pros are in Travis County, TX? (94)
 
-94 more TDLR-licensed listings are elsewhere in Travis County. Licensed pros often travel, so ask whether they cover your address.
+94 more TDLR-licensed listings are elsewhere in Travis County.
 
 [See all 125 Travis County listings →](https://moldroster.com/tx/county/travis/)
 

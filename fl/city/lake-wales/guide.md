@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/lake-wales/guide/
 
 6 DBPR-licensed listings give an address in Lake Wales: **4** hold an assessment licence and **5** hold a remediation licence. Another 72 are elsewhere in Polk County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=lake-wales&st=fl) [All Lake Wales listings](https://moldroster.com/fl/city/lake-wales/)
+[Get quotes](https://moldroster.com/quotes/?city=lake-wales&st=fl) [All Lake Wales listings](https://moldroster.com/fl/city/lake-wales/)
 
 ## How do I verify a mold pro's licence in Lake Wales, FL?
 
@@ -32,8 +32,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 * What clearance standard or test will show the job is done?
 
 ## Which licensed mold pros are based in Lake Wales, FL?
-
-6 DBPR-licensed listings give an address in Lake Wales: 4 hold an assessment licence and 5 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

@@ -10,19 +10,15 @@ canonical: https://moldroster.com/tx/city/plano/
 
 **Quick answer:** 16 TDLR-licensed listings give an address in Plano (6 mold assessment, 10 mold remediation), and 91 more are elsewhere in Collin County. Licensed pros often travel, so ask whether they cover your address.
 
-16 TDLR-licensed listings give an address in Plano (6 mold assessment, 10 mold remediation), and 91 more are elsewhere in Collin County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Plano hiring guide →**](https://moldroster.com/tx/city/plano/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Plano](https://moldroster.com/get-quotes/?city=plano&st=tx)
+[How to get quotes in Plano](https://moldroster.com/quotes/?city=plano&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Plano, TX?
 
 Listed below: 6 licensed mold assessors (inspection and testing) and 10 licensed mold remediators with an address in Plano. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (6)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by TDLR Mold assessment
 
@@ -258,7 +254,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 ## Which other licensed mold pros are in Collin County, TX? (91)
 
-91 more TDLR-licensed listings are elsewhere in Collin County. Licensed pros often travel, so ask whether they cover your address.
+91 more TDLR-licensed listings are elsewhere in Collin County.
 
 [See all 107 Collin County listings →](https://moldroster.com/tx/county/collin/)
 

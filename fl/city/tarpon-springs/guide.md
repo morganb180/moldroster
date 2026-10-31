@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/tarpon-springs/guide/
 
 9 DBPR-licensed listings give an address in Tarpon Springs: **7** hold an assessment licence and **6** hold a remediation licence. Another 174 are elsewhere in Pinellas County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=tarpon-springs&st=fl) [All Tarpon Springs listings](https://moldroster.com/fl/city/tarpon-springs/)
+[Get quotes](https://moldroster.com/quotes/?city=tarpon-springs&st=fl) [All Tarpon Springs listings](https://moldroster.com/fl/city/tarpon-springs/)
 
 ## How do I verify a mold pro's licence in Tarpon Springs, FL?
 
@@ -33,8 +33,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 * How will you contain the work area and protect the rest of the house?
 
 ## Which licensed mold pros are based in Tarpon Springs, FL?
-
-9 DBPR-licensed listings give an address in Tarpon Springs: 7 hold an assessment licence and 6 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

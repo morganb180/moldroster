@@ -10,19 +10,15 @@ canonical: https://moldroster.com/fl/city/tampa/
 
 **Quick answer:** 127 DBPR-licensed listings give an address in Tampa (98 mold assessment, 84 mold remediation), and 108 more are elsewhere in Hillsborough County. Licensed pros often travel, so ask whether they cover your address.
 
-127 DBPR-licensed listings give an address in Tampa (98 mold assessment, 84 mold remediation), and 108 more are elsewhere in Hillsborough County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Tampa hiring guide →**](https://moldroster.com/fl/city/tampa/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Tampa](https://moldroster.com/get-quotes/?city=tampa&st=fl)
+[How to get quotes in Tampa](https://moldroster.com/quotes/?city=tampa&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Tampa, FL?
 
 Listed below: 98 licensed mold assessors (inspection and testing) and 29 licensed mold remediators with an address in Tampa. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (98)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessment
 
@@ -1634,7 +1630,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Hillsborough County, FL? (108)
 
-108 more DBPR-licensed listings are elsewhere in Hillsborough County. Licensed pros often travel, so ask whether they cover your address.
+108 more DBPR-licensed listings are elsewhere in Hillsborough County.
 
 [See all 235 Hillsborough County listings →](https://moldroster.com/fl/county/hillsborough/)
 

@@ -10,15 +10,13 @@ canonical: https://moldroster.com/ny/county/saratoga/
 
 **Quick answer:** 25 NYS DOL-licensed listings with an address of record in Saratoga County (13 mold assessment, 12 mold remediation): 25 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**25 NYS DOL-licensed listings** with an address of record in Saratoga County (13 mold assessment, 12 mold remediation): 25 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=saratoga&st=ny)
+[How to get quotes](https://moldroster.com/quotes/?county=saratoga&st=ny)
 
 City pages: [Clifton Park](https://moldroster.com/ny/city/clifton-park/) · [Mechanicville](https://moldroster.com/ny/city/mechanicville/)
 
 ## Which licensed mold assessors are in Saratoga County, NY? (13)
 
 13 listings are shown in this section with an address of record in Saratoga County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessment
 
@@ -206,7 +204,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 ## Which licensed mold remediators are in Saratoga County, NY? (12)
 
-12 listings are shown in this section with an address of record in Saratoga County. Listings holding more than one licence type appear once, in the first matching section.
+12 listings are shown in this section with an address of record in Saratoga County.
 
 ✔ Licensed by NYS DOL Mold remediation
 

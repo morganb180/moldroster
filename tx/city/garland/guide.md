@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/garland/guide/
 
 7 TDLR-licensed listings give an address in Garland: **1** hold an assessment licence and **7** hold a remediation licence. Another 179 are elsewhere in Dallas County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=garland&st=tx) [All Garland listings](https://moldroster.com/tx/city/garland/)
+[Get quotes](https://moldroster.com/quotes/?city=garland&st=tx) [All Garland listings](https://moldroster.com/tx/city/garland/)
 
 ## How much does mold inspection and remediation cost?
 
@@ -30,8 +30,6 @@ For larger jobs, yes: a licensed assessor inspects, samples if needed and writes
 For larger jobs, a licensed assessor inspects, samples if needed, and writes a protocol. A separate licensed remediator does the work, and the assessor confirms the result. Fixing the moisture source is the key step ([EPA: A Brief Guide to Mold, Moisture and Your Home](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home)).
 
 ## Which licensed mold pros are based in Garland, TX?
-
-7 TDLR-licensed listings give an address in Garland: 1 hold an assessment licence and 7 hold a remediation licence.
 
 ✔ Licensed by TDLR Mold assessmentMold remediation
 
@@ -125,7 +123,7 @@ Summary of 16 Texas Administrative Code Chapter 78 (Texas Mold Assessment and Re
 
 **How do I find a licensed mold inspector in Garland?**
 
-Start with the 1 listings in Garland that hold a TDLR assessment licence, then confirm the licence with the agency.
+Start with the 1 listing in Garland that hold a TDLR assessment licence, then confirm the licence with the agency.
 
 **How much does mold remediation cost in Garland?**
 

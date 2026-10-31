@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/gulf-breeze/guide/
 
 6 DBPR-licensed listings give an address in Gulf Breeze: **5** hold an assessment licence and **5** hold a remediation licence. Another 19 are elsewhere in Santa Rosa County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=gulf-breeze&st=fl) [All Gulf Breeze listings](https://moldroster.com/fl/city/gulf-breeze/)
+[Get quotes](https://moldroster.com/quotes/?city=gulf-breeze&st=fl) [All Gulf Breeze listings](https://moldroster.com/fl/city/gulf-breeze/)
 
 ## Do I need a mold assessment before remediation?
 
@@ -28,8 +28,6 @@ Look the name up in the DBPR records and check the licence is still current. Ask
 4. Ask for proof of insurance and a written scope before work starts.
 
 ## Which licensed mold pros are based in Gulf Breeze, FL?
-
-6 DBPR-licensed listings give an address in Gulf Breeze: 5 hold an assessment licence and 5 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

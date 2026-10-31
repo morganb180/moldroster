@@ -10,13 +10,11 @@ canonical: https://moldroster.com/tx/county/brazoria/
 
 **Quick answer:** 9 TDLR-licensed listings with an address of record in Brazoria County (5 mold assessment, 4 mold remediation): 3 firms and 6 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**9 TDLR-licensed listings** with an address of record in Brazoria County (5 mold assessment, 4 mold remediation): 3 firms and 6 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=brazoria&st=tx)
+[How to get quotes](https://moldroster.com/quotes/?county=brazoria&st=tx)
 
 ## Which licensed mold assessors are in Brazoria County, TX? (5)
 
 5 listings are shown in this section with an address of record in Brazoria County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by TDLR Mold assessment
 
@@ -89,7 +87,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 ## Which licensed mold remediators are in Brazoria County, TX? (4)
 
-4 listings are shown in this section with an address of record in Brazoria County. Listings holding more than one licence type appear once, in the first matching section.
+4 listings are shown in this section with an address of record in Brazoria County.
 
 ✔ Licensed by TDLR Mold remediation
 

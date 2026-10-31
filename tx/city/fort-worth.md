@@ -10,19 +10,15 @@ canonical: https://moldroster.com/tx/city/fort-worth/
 
 **Quick answer:** 15 TDLR-licensed listings give an address in Fort Worth (3 mold assessment, 12 mold remediation), and 168 more are elsewhere in Tarrant County. Licensed pros often travel, so ask whether they cover your address.
 
-15 TDLR-licensed listings give an address in Fort Worth (3 mold assessment, 12 mold remediation), and 168 more are elsewhere in Tarrant County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Fort Worth hiring guide →**](https://moldroster.com/tx/city/fort-worth/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Fort Worth](https://moldroster.com/get-quotes/?city=fort-worth&st=tx)
+[How to get quotes in Fort Worth](https://moldroster.com/quotes/?city=fort-worth&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Fort Worth, TX?
 
 Listed below: 3 licensed mold assessors (inspection and testing) and 12 licensed mold remediators with an address in Fort Worth. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (3)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by TDLR Mold assessment
 
@@ -235,7 +231,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 ## Which other licensed mold pros are in Tarrant County, TX? (168)
 
-168 more TDLR-licensed listings are elsewhere in Tarrant County. Licensed pros often travel, so ask whether they cover your address.
+168 more TDLR-licensed listings are elsewhere in Tarrant County.
 
 [See all 183 Tarrant County listings →](https://moldroster.com/tx/county/tarrant/)
 

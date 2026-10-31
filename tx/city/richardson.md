@@ -10,19 +10,15 @@ canonical: https://moldroster.com/tx/city/richardson/
 
 **Quick answer:** 6 TDLR-licensed listings give an address in Richardson (2 mold assessment, 4 mold remediation), and 180 more are elsewhere in Dallas County. Licensed pros often travel, so ask whether they cover your address.
 
-6 TDLR-licensed listings give an address in Richardson (2 mold assessment, 4 mold remediation), and 180 more are elsewhere in Dallas County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Richardson hiring guide →**](https://moldroster.com/tx/city/richardson/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Richardson](https://moldroster.com/get-quotes/?city=richardson&st=tx)
+[How to get quotes in Richardson](https://moldroster.com/quotes/?city=richardson&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Richardson, TX?
 
 Listed below: 2 licensed mold assessors (inspection and testing) and 4 licensed mold remediators with an address in Richardson. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (2)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by TDLR Mold assessment
 
@@ -124,7 +120,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 ## Which other licensed mold pros are in Dallas County, TX? (180)
 
-180 more TDLR-licensed listings are elsewhere in Dallas County. Licensed pros often travel, so ask whether they cover your address.
+180 more TDLR-licensed listings are elsewhere in Dallas County.
 
 [See all 186 Dallas County listings →](https://moldroster.com/tx/county/dallas/)
 

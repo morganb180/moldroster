@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/syosset/guide/
 
 4 NYS DOL-licensed listings give an address in Syosset: **3** hold an assessment licence and **1** hold a remediation licence. Another 149 are elsewhere in Nassau County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=syosset&st=ny) [All Syosset listings](https://moldroster.com/ny/city/syosset/)
+[Get quotes](https://moldroster.com/quotes/?city=syosset&st=ny) [All Syosset listings](https://moldroster.com/ny/city/syosset/)
 
 ## What are New York's mold licensing rules?
 
@@ -34,8 +34,6 @@ National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
 ## Which licensed mold pros are based in Syosset, NY?
-
-4 NYS DOL-licensed listings give an address in Syosset: 3 hold an assessment licence and 1 hold a remediation licence.
 
 ✔ Licensed by NYS DOL Mold assessment
 

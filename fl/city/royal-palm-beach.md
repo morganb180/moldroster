@@ -10,19 +10,15 @@ canonical: https://moldroster.com/fl/city/royal-palm-beach/
 
 **Quick answer:** 10 DBPR-licensed listings give an address in Royal Palm Beach (8 mold assessment, 5 mold remediation), and 360 more are elsewhere in Palm Beach County. Licensed pros often travel, so ask whether they cover your address.
 
-10 DBPR-licensed listings give an address in Royal Palm Beach (8 mold assessment, 5 mold remediation), and 360 more are elsewhere in Palm Beach County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Royal Palm Beach hiring guide →**](https://moldroster.com/fl/city/royal-palm-beach/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Royal Palm Beach](https://moldroster.com/get-quotes/?city=royal-palm-beach&st=fl)
+[How to get quotes in Royal Palm Beach](https://moldroster.com/quotes/?city=royal-palm-beach&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Royal Palm Beach, FL?
 
 Listed below: 8 licensed mold assessors (inspection and testing) and 2 licensed mold remediators with an address in Royal Palm Beach. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (8)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessment
 
@@ -154,7 +150,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Palm Beach County, FL? (360)
 
-360 more DBPR-licensed listings are elsewhere in Palm Beach County. Licensed pros often travel, so ask whether they cover your address.
+360 more DBPR-licensed listings are elsewhere in Palm Beach County.
 
 [See all 370 Palm Beach County listings →](https://moldroster.com/fl/county/palm-beach/)
 

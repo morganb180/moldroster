@@ -10,19 +10,15 @@ canonical: https://moldroster.com/ny/city/latham/
 
 **Quick answer:** 8 NYS DOL-licensed listings give an address in Latham (4 mold assessment, 4 mold remediation), and 37 more are elsewhere in Albany County. Licensed pros often travel, so ask whether they cover your address.
 
-8 NYS DOL-licensed listings give an address in Latham (4 mold assessment, 4 mold remediation), and 37 more are elsewhere in Albany County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Latham hiring guide →**](https://moldroster.com/ny/city/latham/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Latham](https://moldroster.com/get-quotes/?city=latham&st=ny)
+[How to get quotes in Latham](https://moldroster.com/quotes/?city=latham&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Latham, NY?
 
 Listed below: 4 licensed mold assessors (inspection and testing) and 4 licensed mold remediators with an address in Latham. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (4)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessment
 
@@ -149,7 +145,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 ## Which other licensed mold pros are in Albany County, NY? (37)
 
-37 more NYS DOL-licensed listings are elsewhere in Albany County. Licensed pros often travel, so ask whether they cover your address.
+37 more NYS DOL-licensed listings are elsewhere in Albany County.
 
 [See all 45 Albany County listings →](https://moldroster.com/ny/county/albany/)
 

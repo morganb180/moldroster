@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/bohemia/guide/
 
 14 NYS DOL-licensed listings give an address in Bohemia: **5** hold an assessment licence and **10** hold a remediation licence. Another 171 are elsewhere in Suffolk County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=bohemia&st=ny) [All Bohemia listings](https://moldroster.com/ny/city/bohemia/)
+[Get quotes](https://moldroster.com/quotes/?city=bohemia&st=ny) [All Bohemia listings](https://moldroster.com/ny/city/bohemia/)
 
 ## Do I need a mold assessment before remediation?
 
@@ -28,8 +28,6 @@ Look the name up in the NYS DOL records and check the licence is still current. 
 4. Ask for proof of insurance and a written scope before work starts.
 
 ## Which licensed mold pros are based in Bohemia, NY?
-
-14 NYS DOL-licensed listings give an address in Bohemia: 5 hold an assessment licence and 10 hold a remediation licence.
 
 ✔ Licensed by NYS DOL Mold assessmentMold remediation
 

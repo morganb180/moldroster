@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/sanford/guide/
 
 11 DBPR-licensed listings give an address in Sanford: **9** hold an assessment licence and **6** hold a remediation licence. Another 72 are elsewhere in Seminole County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=sanford&st=fl) [All Sanford listings](https://moldroster.com/fl/city/sanford/)
+[Get quotes](https://moldroster.com/quotes/?city=sanford&st=fl) [All Sanford listings](https://moldroster.com/fl/city/sanford/)
 
 ## How do I verify a mold pro's licence in Sanford, FL?
 
@@ -32,8 +32,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 * What does the written scope include: demolition, HEPA cleaning, disposal, rebuild?
 
 ## Which licensed mold pros are based in Sanford, FL?
-
-11 DBPR-licensed listings give an address in Sanford: 9 hold an assessment licence and 6 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessment
 

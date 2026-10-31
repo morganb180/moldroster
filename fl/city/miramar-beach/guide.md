@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/miramar-beach/guide/
 
 4 DBPR-licensed listings give an address in Miramar Beach: **1** hold an assessment licence and **4** hold a remediation licence. Another 20 are elsewhere in Walton County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=miramar-beach&st=fl) [All Miramar Beach listings](https://moldroster.com/fl/city/miramar-beach/)
+[Get quotes](https://moldroster.com/quotes/?city=miramar-beach&st=fl) [All Miramar Beach listings](https://moldroster.com/fl/city/miramar-beach/)
 
 ## What should I ask a mold pro before I sign?
 
@@ -33,8 +33,6 @@ A DBPR licence is generally required to perform mold assessment or remediation f
 Summary of Florida Statutes Chapter 468, Part XVI (Mold-Related Services). See the agency: [Florida Department of Business and Professional Regulation](https://www2.myfloridalicense.com/mold-related-services/). Plain-language summary, not legal advice; confirm details with the agency.
 
 ## Which licensed mold pros are based in Miramar Beach, FL?
-
-4 DBPR-licensed listings give an address in Miramar Beach: 1 hold an assessment licence and 4 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -103,7 +101,7 @@ Look the name up in the DBPR records and check the licence is still current. Ask
 
 **How do I find a licensed mold inspector in Miramar Beach?**
 
-Start with the 1 listings in Miramar Beach that hold a DBPR assessment licence, then confirm the licence with the agency.
+Start with the 1 listing in Miramar Beach that hold a DBPR assessment licence, then confirm the licence with the agency.
 
 **How much does mold remediation cost in Miramar Beach?**
 

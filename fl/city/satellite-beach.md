@@ -10,19 +10,15 @@ canonical: https://moldroster.com/fl/city/satellite-beach/
 
 **Quick answer:** 8 DBPR-licensed listings give an address in Satellite Beach (6 mold assessment, 4 mold remediation), and 85 more are elsewhere in Brevard County. Licensed pros often travel, so ask whether they cover your address.
 
-8 DBPR-licensed listings give an address in Satellite Beach (6 mold assessment, 4 mold remediation), and 85 more are elsewhere in Brevard County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Satellite Beach hiring guide →**](https://moldroster.com/fl/city/satellite-beach/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Satellite Beach](https://moldroster.com/get-quotes/?city=satellite-beach&st=fl)
+[How to get quotes in Satellite Beach](https://moldroster.com/quotes/?city=satellite-beach&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Satellite Beach, FL?
 
 Listed below: 6 licensed mold assessors (inspection and testing) and 2 licensed mold remediators with an address in Satellite Beach. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (6)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -126,7 +122,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Brevard County, FL? (85)
 
-85 more DBPR-licensed listings are elsewhere in Brevard County. Licensed pros often travel, so ask whether they cover your address.
+85 more DBPR-licensed listings are elsewhere in Brevard County.
 
 [See all 93 Brevard County listings →](https://moldroster.com/fl/county/brevard/)
 

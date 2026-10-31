@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/southwest-ranches/guide/
 
 5 DBPR-licensed listings give an address in Southwest Ranches: **3** hold an assessment licence and **5** hold a remediation licence. Another 584 are elsewhere in Broward County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=southwest-ranches&st=fl) [All Southwest Ranches listings](https://moldroster.com/fl/city/southwest-ranches/)
+[Get quotes](https://moldroster.com/quotes/?city=southwest-ranches&st=fl) [All Southwest Ranches listings](https://moldroster.com/fl/city/southwest-ranches/)
 
 ## How do I verify a mold pro's licence in Southwest Ranches, FL?
 
@@ -32,8 +32,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 * Will you find and fix the moisture source, or only remove visible growth?
 
 ## Which licensed mold pros are based in Southwest Ranches, FL?
-
-5 DBPR-licensed listings give an address in Southwest Ranches: 3 hold an assessment licence and 5 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

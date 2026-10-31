@@ -10,19 +10,15 @@ canonical: https://moldroster.com/ny/city/melville/
 
 **Quick answer:** 8 NYS DOL-licensed listings give an address in Melville (3 mold assessment, 6 mold remediation), and 177 more are elsewhere in Suffolk County. Licensed pros often travel, so ask whether they cover your address.
 
-8 NYS DOL-licensed listings give an address in Melville (3 mold assessment, 6 mold remediation), and 177 more are elsewhere in Suffolk County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Melville hiring guide →**](https://moldroster.com/ny/city/melville/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Melville](https://moldroster.com/get-quotes/?city=melville&st=ny)
+[How to get quotes in Melville](https://moldroster.com/quotes/?city=melville&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Melville, NY?
 
 Listed below: 3 licensed mold assessors (inspection and testing) and 5 licensed mold remediators with an address in Melville. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (3)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessment
 
@@ -157,7 +153,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 ## Which other licensed mold pros are in Suffolk County, NY? (177)
 
-177 more NYS DOL-licensed listings are elsewhere in Suffolk County. Licensed pros often travel, so ask whether they cover your address.
+177 more NYS DOL-licensed listings are elsewhere in Suffolk County.
 
 [See all 185 Suffolk County listings →](https://moldroster.com/ny/county/suffolk/)
 

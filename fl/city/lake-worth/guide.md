@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/lake-worth/guide/
 
 37 DBPR-licensed listings give an address in Lake Worth: **27** hold an assessment licence and **26** hold a remediation licence. Another 333 are elsewhere in Palm Beach County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=lake-worth&st=fl) [All Lake Worth listings](https://moldroster.com/fl/city/lake-worth/)
+[Get quotes](https://moldroster.com/quotes/?city=lake-worth&st=fl) [All Lake Worth listings](https://moldroster.com/fl/city/lake-worth/)
 
 ## What should I ask a mold pro before I sign?
 
@@ -35,8 +35,6 @@ A DBPR licence is generally required to perform mold assessment or remediation f
 Summary of Florida Statutes Chapter 468, Part XVI (Mold-Related Services). See the agency: [Florida Department of Business and Professional Regulation](https://www2.myfloridalicense.com/mold-related-services/). Plain-language summary, not legal advice; confirm details with the agency.
 
 ## Which licensed mold pros are based in Lake Worth, FL?
-
-37 DBPR-licensed listings give an address in Lake Worth: 27 hold an assessment licence and 26 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

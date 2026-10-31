@@ -10,15 +10,13 @@ canonical: https://moldroster.com/tx/county/galveston/
 
 **Quick answer:** 34 TDLR-licensed listings with an address of record in Galveston County (21 mold assessment, 15 mold remediation): 7 firms and 27 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**34 TDLR-licensed listings** with an address of record in Galveston County (21 mold assessment, 15 mold remediation): 7 firms and 27 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=galveston&st=tx)
+[How to get quotes](https://moldroster.com/quotes/?county=galveston&st=tx)
 
 City pages: [League City](https://moldroster.com/tx/city/league-city/)
 
 ## Which licensed mold assessors are in Galveston County, TX? (21)
 
 21 listings are shown in this section with an address of record in Galveston County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by TDLR Mold assessment
 
@@ -319,7 +317,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 ## Which licensed mold remediators are in Galveston County, TX? (13)
 
-13 listings are shown in this section with an address of record in Galveston County. Listings holding more than one licence type appear once, in the first matching section.
+13 listings are shown in this section with an address of record in Galveston County.
 
 ✔ Licensed by TDLR Mold remediation
 

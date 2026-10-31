@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/wesley-chapel/guide/
 
 12 DBPR-licensed listings give an address in Wesley Chapel: **8** hold an assessment licence and **8** hold a remediation licence. Another 115 are elsewhere in Pasco County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=wesley-chapel&st=fl) [All Wesley Chapel listings](https://moldroster.com/fl/city/wesley-chapel/)
+[Get quotes](https://moldroster.com/quotes/?city=wesley-chapel&st=fl) [All Wesley Chapel listings](https://moldroster.com/fl/city/wesley-chapel/)
 
 ## What are Florida's mold licensing rules?
 
@@ -34,8 +34,6 @@ National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
 ## Which licensed mold pros are based in Wesley Chapel, FL?
-
-12 DBPR-licensed listings give an address in Wesley Chapel: 8 hold an assessment licence and 8 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

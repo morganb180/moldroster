@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/commack/guide/
 
 4 NYS DOL-licensed listings give an address in Commack: **4** hold an assessment licence and **1** hold a remediation licence. Another 181 are elsewhere in Suffolk County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=commack&st=ny) [All Commack listings](https://moldroster.com/ny/city/commack/)
+[Get quotes](https://moldroster.com/quotes/?city=commack&st=ny) [All Commack listings](https://moldroster.com/ny/city/commack/)
 
 ## How much does mold inspection and remediation cost?
 
@@ -30,8 +30,6 @@ For larger jobs, yes: a licensed assessor inspects, samples if needed and writes
 For larger jobs, a licensed assessor inspects, samples if needed, and writes a protocol. A separate licensed remediator does the work, and the assessor confirms the result. Fixing the moisture source is the key step ([EPA: A Brief Guide to Mold, Moisture and Your Home](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home)).
 
 ## Which licensed mold pros are based in Commack, NY?
-
-4 NYS DOL-licensed listings give an address in Commack: 4 hold an assessment licence and 1 hold a remediation licence.
 
 ✔ Licensed by NYS DOL Mold assessment
 

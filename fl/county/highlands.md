@@ -10,15 +10,13 @@ canonical: https://moldroster.com/fl/county/highlands/
 
 **Quick answer:** 11 DBPR-licensed listings with an address of record in Highlands County (6 mold assessment, 7 mold remediation): 0 firms and 11 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**11 DBPR-licensed listings** with an address of record in Highlands County (6 mold assessment, 7 mold remediation): 0 firms and 11 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=highlands&st=fl)
+[How to get quotes](https://moldroster.com/quotes/?county=highlands&st=fl)
 
 City pages: [Sebring](https://moldroster.com/fl/city/sebring/)
 
 ## Which licensed mold assessors are in Highlands County, FL? (6)
 
 6 listings are shown in this section with an address of record in Highlands County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -96,7 +94,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which licensed mold remediators are in Highlands County, FL? (5)
 
-5 listings are shown in this section with an address of record in Highlands County. Listings holding more than one licence type appear once, in the first matching section.
+5 listings are shown in this section with an address of record in Highlands County.
 
 ✔ Licensed by FL DBPR Mold remediation
 

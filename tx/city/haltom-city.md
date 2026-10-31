@@ -10,11 +10,9 @@ canonical: https://moldroster.com/tx/city/haltom-city/
 
 **Quick answer:** 9 TDLR-licensed listings give an address in Haltom City (9 mold remediation), and 174 more are elsewhere in Tarrant County. Licensed pros often travel, so ask whether they cover your address.
 
-9 TDLR-licensed listings give an address in Haltom City (9 mold remediation), and 174 more are elsewhere in Tarrant County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Haltom City hiring guide →**](https://moldroster.com/tx/city/haltom-city/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Haltom City](https://moldroster.com/get-quotes/?city=haltom-city&st=tx)
+[How to get quotes in Haltom City](https://moldroster.com/quotes/?city=haltom-city&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Haltom City, TX?
 
@@ -152,7 +150,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 ## Which other licensed mold pros are in Tarrant County, TX? (174)
 
-174 more TDLR-licensed listings are elsewhere in Tarrant County. Licensed pros often travel, so ask whether they cover your address.
+174 more TDLR-licensed listings are elsewhere in Tarrant County.
 
 [See all 183 Tarrant County listings →](https://moldroster.com/tx/county/tarrant/)
 

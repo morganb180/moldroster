@@ -10,19 +10,15 @@ canonical: https://moldroster.com/fl/city/lithia/
 
 **Quick answer:** 6 DBPR-licensed listings give an address in Lithia (6 mold assessment, 2 mold remediation), and 229 more are elsewhere in Hillsborough County. Licensed pros often travel, so ask whether they cover your address.
 
-6 DBPR-licensed listings give an address in Lithia (6 mold assessment, 2 mold remediation), and 229 more are elsewhere in Hillsborough County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Lithia hiring guide →**](https://moldroster.com/fl/city/lithia/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Lithia](https://moldroster.com/get-quotes/?city=lithia&st=fl)
+[How to get quotes in Lithia](https://moldroster.com/quotes/?city=lithia&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Lithia, FL?
 
 Listed below: 6 licensed mold assessors (inspection and testing) with an address in Lithia. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (6)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessment
 
@@ -100,7 +96,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Hillsborough County, FL? (229)
 
-229 more DBPR-licensed listings are elsewhere in Hillsborough County. Licensed pros often travel, so ask whether they cover your address.
+229 more DBPR-licensed listings are elsewhere in Hillsborough County.
 
 [See all 235 Hillsborough County listings →](https://moldroster.com/fl/county/hillsborough/)
 

@@ -10,15 +10,13 @@ canonical: https://moldroster.com/ny/county/suffolk/
 
 **Quick answer:** 185 NYS DOL-licensed listings with an address of record in Suffolk County (84 mold assessment, 121 mold remediation): 185 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**185 NYS DOL-licensed listings** with an address of record in Suffolk County (84 mold assessment, 121 mold remediation): 185 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=suffolk&st=ny)
+[How to get quotes](https://moldroster.com/quotes/?county=suffolk&st=ny)
 
 City pages: [Amityville](https://moldroster.com/ny/city/amityville/) · [Babylon](https://moldroster.com/ny/city/babylon/) · [Bohemia](https://moldroster.com/ny/city/bohemia/) · [Brentwood](https://moldroster.com/ny/city/brentwood/) · [Centereach](https://moldroster.com/ny/city/centereach/) · [Commack](https://moldroster.com/ny/city/commack/) · [Deer Park](https://moldroster.com/ny/city/deer-park/) · [East Northport](https://moldroster.com/ny/city/east-northport/) · [Holbrook](https://moldroster.com/ny/city/holbrook/) · [Islandia](https://moldroster.com/ny/city/islandia/) · [Lindenhurst](https://moldroster.com/ny/city/lindenhurst/) · [Medford](https://moldroster.com/ny/city/medford/) · [Melville](https://moldroster.com/ny/city/melville/) · [Nesconset](https://moldroster.com/ny/city/nesconset/) · [Patchogue](https://moldroster.com/ny/city/patchogue/) · [Ronkonkoma](https://moldroster.com/ny/city/ronkonkoma/) · [West Babylon](https://moldroster.com/ny/city/west-babylon/) · [Yaphank](https://moldroster.com/ny/city/yaphank/)
 
 ## Which licensed mold assessors are in Suffolk County, NY? (84)
 
 84 listings are shown in this section with an address of record in Suffolk County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessment
 
@@ -1309,7 +1307,7 @@ Show all 84 listings
 
 ## Which licensed mold remediators are in Suffolk County, NY? (101)
 
-101 listings are shown in this section with an address of record in Suffolk County. Listings holding more than one licence type appear once, in the first matching section.
+101 listings are shown in this section with an address of record in Suffolk County.
 
 ✔ Licensed by NYS DOL Mold remediation
 

@@ -10,15 +10,13 @@ canonical: https://moldroster.com/fl/county/broward/
 
 **Quick answer:** 589 DBPR-licensed listings with an address of record in Broward County (434 mold assessment, 439 mold remediation): 32 firms and 557 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**589 DBPR-licensed listings** with an address of record in Broward County (434 mold assessment, 439 mold remediation): 32 firms and 557 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=broward&st=fl)
+[How to get quotes](https://moldroster.com/quotes/?county=broward&st=fl)
 
 City pages: [Coconut Creek](https://moldroster.com/fl/city/coconut-creek/) · [Cooper City](https://moldroster.com/fl/city/cooper-city/) · [Coral Springs](https://moldroster.com/fl/city/coral-springs/) · [Dania Beach](https://moldroster.com/fl/city/dania-beach/) · [Davie](https://moldroster.com/fl/city/davie/) · [Deerfield Beach](https://moldroster.com/fl/city/deerfield-beach/) · [Fort Lauderdale](https://moldroster.com/fl/city/fort-lauderdale/) · [Ft. Lauderdale](https://moldroster.com/fl/city/ft-lauderdale/) · [Hollywood](https://moldroster.com/fl/city/hollywood/) · [Lauderhill](https://moldroster.com/fl/city/lauderhill/) · [Lighthouse Point](https://moldroster.com/fl/city/lighthouse-point/) · [Margate](https://moldroster.com/fl/city/margate/) · [Miramar](https://moldroster.com/fl/city/miramar/) · [North Lauderdale](https://moldroster.com/fl/city/north-lauderdale/) · [Oakland Park](https://moldroster.com/fl/city/oakland-park/) · [Parkland](https://moldroster.com/fl/city/parkland/) · [Pembroke Pines](https://moldroster.com/fl/city/pembroke-pines/) · [Plantation](https://moldroster.com/fl/city/plantation/) · [Pompano](https://moldroster.com/fl/city/pompano/) · [Pompano Beach](https://moldroster.com/fl/city/pompano-beach/) · [Southwest Ranches](https://moldroster.com/fl/city/southwest-ranches/) · [Sunrise](https://moldroster.com/fl/city/sunrise/) · [Tamarac](https://moldroster.com/fl/city/tamarac/) · [Weston](https://moldroster.com/fl/city/weston/)
 
 ## Which licensed mold assessors are in Broward County, FL? (434)
 
 434 listings are shown in this section with an address of record in Broward County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -5602,7 +5600,7 @@ Show all 434 listings
 
 ## Which licensed mold remediators are in Broward County, FL? (155)
 
-155 listings are shown in this section with an address of record in Broward County. Listings holding more than one licence type appear once, in the first matching section.
+155 listings are shown in this section with an address of record in Broward County.
 
 ✔ Licensed by FL DBPR Mold remediation
 

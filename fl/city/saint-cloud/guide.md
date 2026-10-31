@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/saint-cloud/guide/
 
 5 DBPR-licensed listings give an address in Saint Cloud: **3** hold an assessment licence and **4** hold a remediation licence. Another 56 are elsewhere in Osceola County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=saint-cloud&st=fl) [All Saint Cloud listings](https://moldroster.com/fl/city/saint-cloud/)
+[Get quotes](https://moldroster.com/quotes/?city=saint-cloud&st=fl) [All Saint Cloud listings](https://moldroster.com/fl/city/saint-cloud/)
 
 ## Do I need a mold assessment before remediation?
 
@@ -28,8 +28,6 @@ Look the name up in the DBPR records and check the licence is still current. Ask
 4. Ask for proof of insurance and a written scope before work starts.
 
 ## Which licensed mold pros are based in Saint Cloud, FL?
-
-5 DBPR-licensed listings give an address in Saint Cloud: 3 hold an assessment licence and 4 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/port-richey/guide/
 
 6 DBPR-licensed listings give an address in Port Richey: **4** hold an assessment licence and **4** hold a remediation licence. Another 121 are elsewhere in Pasco County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=port-richey&st=fl) [All Port Richey listings](https://moldroster.com/fl/city/port-richey/)
+[Get quotes](https://moldroster.com/quotes/?city=port-richey&st=fl) [All Port Richey listings](https://moldroster.com/fl/city/port-richey/)
 
 ## What are Florida's mold licensing rules?
 
@@ -34,8 +34,6 @@ National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
 ## Which licensed mold pros are based in Port Richey, FL?
-
-6 DBPR-licensed listings give an address in Port Richey: 4 hold an assessment licence and 4 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

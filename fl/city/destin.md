@@ -10,19 +10,15 @@ canonical: https://moldroster.com/fl/city/destin/
 
 **Quick answer:** 4 DBPR-licensed listings give an address in Destin (1 mold assessment, 4 mold remediation), and 14 more are elsewhere in Okaloosa County. Licensed pros often travel, so ask whether they cover your address.
 
-4 DBPR-licensed listings give an address in Destin (1 mold assessment, 4 mold remediation), and 14 more are elsewhere in Okaloosa County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Destin hiring guide →**](https://moldroster.com/fl/city/destin/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Destin](https://moldroster.com/get-quotes/?city=destin&st=fl)
+[How to get quotes in Destin](https://moldroster.com/quotes/?city=destin&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Destin, FL?
 
 Listed below: 1 licensed mold assessor (inspection and testing) and 3 licensed mold remediators with an address in Destin. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (1)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -77,7 +73,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Okaloosa County, FL? (14)
 
-14 more DBPR-licensed listings are elsewhere in Okaloosa County. Licensed pros often travel, so ask whether they cover your address.
+14 more DBPR-licensed listings are elsewhere in Okaloosa County.
 
 [See all 18 Okaloosa County listings →](https://moldroster.com/fl/county/okaloosa/)
 

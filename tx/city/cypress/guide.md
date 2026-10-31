@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/cypress/guide/
 
 10 TDLR-licensed listings give an address in Cypress: **2** hold an assessment licence and **8** hold a remediation licence. Another 435 are elsewhere in Harris County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=cypress&st=tx) [All Cypress listings](https://moldroster.com/tx/city/cypress/)
+[Get quotes](https://moldroster.com/quotes/?city=cypress&st=tx) [All Cypress listings](https://moldroster.com/tx/city/cypress/)
 
 ## What should I ask a mold pro before I sign?
 
@@ -34,8 +34,6 @@ A TDLR licence is generally required to assess or remediate mold when the affect
 Summary of 16 Texas Administrative Code Chapter 78 (Texas Mold Assessment and Remediation Rules). See the agency: [Texas Department of Licensing and Regulation](https://www.tdlr.texas.gov/mold/moldrules.htm). Plain-language summary, not legal advice; confirm details with the agency.
 
 ## Which licensed mold pros are based in Cypress, TX?
-
-10 TDLR-licensed listings give an address in Cypress: 2 hold an assessment licence and 8 hold a remediation licence.
 
 ✔ Licensed by TDLR Mold assessment
 

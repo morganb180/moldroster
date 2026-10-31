@@ -51,4 +51,4 @@ No state mold licence
 * [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/)
 * [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
-[How to get quotes](https://moldroster.com/get-quotes/)
+[How to get quotes](https://moldroster.com/quotes/)

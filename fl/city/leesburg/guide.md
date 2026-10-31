@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/leesburg/guide/
 
 5 DBPR-licensed listings give an address in Leesburg: **3** hold an assessment licence and **3** hold a remediation licence. Another 56 are elsewhere in Lake County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=leesburg&st=fl) [All Leesburg listings](https://moldroster.com/fl/city/leesburg/)
+[Get quotes](https://moldroster.com/quotes/?city=leesburg&st=fl) [All Leesburg listings](https://moldroster.com/fl/city/leesburg/)
 
 ## What should I ask a mold pro before I sign?
 
@@ -33,8 +33,6 @@ A DBPR licence is generally required to perform mold assessment or remediation f
 Summary of Florida Statutes Chapter 468, Part XVI (Mold-Related Services). See the agency: [Florida Department of Business and Professional Regulation](https://www2.myfloridalicense.com/mold-related-services/). Plain-language summary, not legal advice; confirm details with the agency.
 
 ## Which licensed mold pros are based in Leesburg, FL?
-
-5 DBPR-licensed listings give an address in Leesburg: 3 hold an assessment licence and 3 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

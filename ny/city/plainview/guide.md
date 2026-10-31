@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/plainview/guide/
 
 6 NYS DOL-licensed listings give an address in Plainview: **2** hold an assessment licence and **4** hold a remediation licence. Another 147 are elsewhere in Nassau County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=plainview&st=ny) [All Plainview listings](https://moldroster.com/ny/city/plainview/)
+[Get quotes](https://moldroster.com/quotes/?city=plainview&st=ny) [All Plainview listings](https://moldroster.com/ny/city/plainview/)
 
 ## How much does mold inspection and remediation cost?
 
@@ -30,8 +30,6 @@ For larger jobs, yes: a licensed assessor inspects, samples if needed and writes
 For larger jobs, a licensed assessor inspects, samples if needed, and writes a protocol. A separate licensed remediator does the work, and the assessor confirms the result. Fixing the moisture source is the key step ([EPA: A Brief Guide to Mold, Moisture and Your Home](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home)).
 
 ## Which licensed mold pros are based in Plainview, NY?
-
-6 NYS DOL-licensed listings give an address in Plainview: 2 hold an assessment licence and 4 hold a remediation licence.
 
 ✔ Licensed by NYS DOL Mold assessment
 

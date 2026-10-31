@@ -10,15 +10,13 @@ canonical: https://moldroster.com/fl/county/monroe/
 
 **Quick answer:** 12 DBPR-licensed listings with an address of record in Monroe County (8 mold assessment, 10 mold remediation): 0 firms and 12 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**12 DBPR-licensed listings** with an address of record in Monroe County (8 mold assessment, 10 mold remediation): 0 firms and 12 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=monroe&st=fl)
+[How to get quotes](https://moldroster.com/quotes/?county=monroe&st=fl)
 
 City pages: [Tavernier](https://moldroster.com/fl/city/tavernier/)
 
 ## Which licensed mold assessors are in Monroe County, FL? (8)
 
 8 listings are shown in this section with an address of record in Monroe County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -124,7 +122,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which licensed mold remediators are in Monroe County, FL? (4)
 
-4 listings are shown in this section with an address of record in Monroe County. Listings holding more than one licence type appear once, in the first matching section.
+4 listings are shown in this section with an address of record in Monroe County.
 
 ✔ Licensed by FL DBPR Mold remediation
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/highland/guide/
 
 4 NYS DOL-licensed listings give an address in Highland: **1** hold an assessment licence and **3** hold a remediation licence. Another 14 are elsewhere in Ulster County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=highland&st=ny) [All Highland listings](https://moldroster.com/ny/city/highland/)
+[Get quotes](https://moldroster.com/quotes/?city=highland&st=ny) [All Highland listings](https://moldroster.com/ny/city/highland/)
 
 ## How do I verify a mold pro's licence in Highland, NY?
 
@@ -33,8 +33,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 * Will you find and fix the moisture source, or only remove visible growth?
 
 ## Which licensed mold pros are based in Highland, NY?
-
-4 NYS DOL-licensed listings give an address in Highland: 1 hold an assessment licence and 3 hold a remediation licence.
 
 ✔ Licensed by NYS DOL Mold assessment
 
@@ -133,7 +131,7 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 
 **How do I find a licensed mold inspector in Highland?**
 
-Start with the 1 listings in Highland that hold a NYS DOL assessment licence, then confirm the licence with the agency.
+Start with the 1 listing in Highland that hold a NYS DOL assessment licence, then confirm the licence with the agency.
 
 **How much does mold remediation cost in Highland?**
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/milton/guide/
 
 4 DBPR-licensed listings give an address in Milton: **3** hold an assessment licence and **4** hold a remediation licence. Another 21 are elsewhere in Santa Rosa County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=milton&st=fl) [All Milton listings](https://moldroster.com/fl/city/milton/)
+[Get quotes](https://moldroster.com/quotes/?city=milton&st=fl) [All Milton listings](https://moldroster.com/fl/city/milton/)
 
 ## How do I verify a mold pro's licence in Milton, FL?
 
@@ -34,8 +34,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 * How will you contain the work area and protect the rest of the house?
 
 ## Which licensed mold pros are based in Milton, FL?
-
-4 DBPR-licensed listings give an address in Milton: 3 hold an assessment licence and 4 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

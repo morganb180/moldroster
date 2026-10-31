@@ -10,19 +10,15 @@ canonical: https://moldroster.com/fl/city/altamonte-springs/
 
 **Quick answer:** 12 DBPR-licensed listings give an address in Altamonte Springs (10 mold assessment, 9 mold remediation), and 71 more are elsewhere in Seminole County. Licensed pros often travel, so ask whether they cover your address.
 
-12 DBPR-licensed listings give an address in Altamonte Springs (10 mold assessment, 9 mold remediation), and 71 more are elsewhere in Seminole County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Altamonte Springs hiring guide →**](https://moldroster.com/fl/city/altamonte-springs/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Altamonte Springs](https://moldroster.com/get-quotes/?city=altamonte-springs&st=fl)
+[How to get quotes in Altamonte Springs](https://moldroster.com/quotes/?city=altamonte-springs&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Altamonte Springs, FL?
 
 Listed below: 10 licensed mold assessors (inspection and testing) and 2 licensed mold remediators with an address in Altamonte Springs. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (10)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -185,7 +181,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Seminole County, FL? (71)
 
-71 more DBPR-licensed listings are elsewhere in Seminole County. Licensed pros often travel, so ask whether they cover your address.
+71 more DBPR-licensed listings are elsewhere in Seminole County.
 
 [See all 83 Seminole County listings →](https://moldroster.com/fl/county/seminole/)
 

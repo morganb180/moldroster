@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/zephyrhills/guide/
 
 6 DBPR-licensed listings give an address in Zephyrhills: **5** hold an assessment licence and **4** hold a remediation licence. Another 121 are elsewhere in Pasco County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=zephyrhills&st=fl) [All Zephyrhills listings](https://moldroster.com/fl/city/zephyrhills/)
+[Get quotes](https://moldroster.com/quotes/?city=zephyrhills&st=fl) [All Zephyrhills listings](https://moldroster.com/fl/city/zephyrhills/)
 
 ## Do I need a mold assessment before remediation?
 
@@ -28,8 +28,6 @@ Look the name up in the DBPR records and check the licence is still current. Ask
 4. Ask for proof of insurance and a written scope before work starts.
 
 ## Which licensed mold pros are based in Zephyrhills, FL?
-
-6 DBPR-licensed listings give an address in Zephyrhills: 5 hold an assessment licence and 4 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

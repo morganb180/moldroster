@@ -10,19 +10,15 @@ canonical: https://moldroster.com/fl/city/palm-city/
 
 **Quick answer:** 6 DBPR-licensed listings give an address in Palm City (5 mold assessment, 4 mold remediation), and 32 more are elsewhere in Martin County. Licensed pros often travel, so ask whether they cover your address.
 
-6 DBPR-licensed listings give an address in Palm City (5 mold assessment, 4 mold remediation), and 32 more are elsewhere in Martin County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Palm City hiring guide →**](https://moldroster.com/fl/city/palm-city/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Palm City](https://moldroster.com/get-quotes/?city=palm-city&st=fl)
+[How to get quotes in Palm City](https://moldroster.com/quotes/?city=palm-city&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Palm City, FL?
 
 Listed below: 5 licensed mold assessors (inspection and testing) and 1 licensed mold remediator with an address in Palm City. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (5)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -103,7 +99,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Martin County, FL? (32)
 
-32 more DBPR-licensed listings are elsewhere in Martin County. Licensed pros often travel, so ask whether they cover your address.
+32 more DBPR-licensed listings are elsewhere in Martin County.
 
 [See all 38 Martin County listings →](https://moldroster.com/fl/county/martin/)
 

@@ -10,19 +10,15 @@ canonical: https://moldroster.com/tx/city/college-station/
 
 **Quick answer:** 4 TDLR-licensed listings give an address in College Station (2 mold assessment, 2 mold remediation), and 22 more are elsewhere in Brazos County. Licensed pros often travel, so ask whether they cover your address.
 
-4 TDLR-licensed listings give an address in College Station (2 mold assessment, 2 mold remediation), and 22 more are elsewhere in Brazos County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the College Station hiring guide →**](https://moldroster.com/tx/city/college-station/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in College Station](https://moldroster.com/get-quotes/?city=college-station&st=tx)
+[How to get quotes in College Station](https://moldroster.com/quotes/?city=college-station&st=tx)
 
 ## Which licensed mold assessors and remediators are based in College Station, TX?
 
 Listed below: 2 licensed mold assessors (inspection and testing) and 2 licensed mold remediators with an address in College Station. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (2)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by TDLR Mold assessment
 
@@ -90,7 +86,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 ## Which other licensed mold pros are in Brazos County, TX? (22)
 
-22 more TDLR-licensed listings are elsewhere in Brazos County. Licensed pros often travel, so ask whether they cover your address.
+22 more TDLR-licensed listings are elsewhere in Brazos County.
 
 [See all 26 Brazos County listings →](https://moldroster.com/tx/county/brazos/)
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/davie/guide/
 
 46 DBPR-licensed listings give an address in Davie: **36** hold an assessment licence and **35** hold a remediation licence. Another 543 are elsewhere in Broward County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=davie&st=fl) [All Davie listings](https://moldroster.com/fl/city/davie/)
+[Get quotes](https://moldroster.com/quotes/?city=davie&st=fl) [All Davie listings](https://moldroster.com/fl/city/davie/)
 
 ## What are Florida's mold licensing rules?
 
@@ -34,8 +34,6 @@ National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
 ## Which licensed mold pros are based in Davie, FL?
-
-46 DBPR-licensed listings give an address in Davie: 36 hold an assessment licence and 35 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

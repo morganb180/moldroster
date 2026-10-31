@@ -10,19 +10,15 @@ canonical: https://moldroster.com/ny/city/valley-stream/
 
 **Quick answer:** 10 NYS DOL-licensed listings give an address in Valley Stream (3 mold assessment, 9 mold remediation), and 143 more are elsewhere in Nassau County. Licensed pros often travel, so ask whether they cover your address.
 
-10 NYS DOL-licensed listings give an address in Valley Stream (3 mold assessment, 9 mold remediation), and 143 more are elsewhere in Nassau County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Valley Stream hiring guide →**](https://moldroster.com/ny/city/valley-stream/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Valley Stream](https://moldroster.com/get-quotes/?city=valley-stream&st=ny)
+[How to get quotes in Valley Stream](https://moldroster.com/quotes/?city=valley-stream&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Valley Stream, NY?
 
 Listed below: 3 licensed mold assessors (inspection and testing) and 7 licensed mold remediators with an address in Valley Stream. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (3)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessmentMold remediation
 
@@ -169,7 +165,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 ## Which other licensed mold pros are in Nassau County, NY? (143)
 
-143 more NYS DOL-licensed listings are elsewhere in Nassau County. Licensed pros often travel, so ask whether they cover your address.
+143 more NYS DOL-licensed listings are elsewhere in Nassau County.
 
 [See all 153 Nassau County listings →](https://moldroster.com/ny/county/nassau/)
 

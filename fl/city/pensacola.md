@@ -10,19 +10,15 @@ canonical: https://moldroster.com/fl/city/pensacola/
 
 **Quick answer:** 20 DBPR-licensed listings give an address in Pensacola (16 mold assessment, 15 mold remediation), and 4 more are elsewhere in Escambia County. Licensed pros often travel, so ask whether they cover your address.
 
-20 DBPR-licensed listings give an address in Pensacola (16 mold assessment, 15 mold remediation), and 4 more are elsewhere in Escambia County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Pensacola hiring guide →**](https://moldroster.com/fl/city/pensacola/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Pensacola](https://moldroster.com/get-quotes/?city=pensacola&st=fl)
+[How to get quotes in Pensacola](https://moldroster.com/quotes/?city=pensacola&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Pensacola, FL?
 
 Listed below: 16 licensed mold assessors (inspection and testing) and 4 licensed mold remediators with an address in Pensacola. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (16)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessment
 
@@ -282,7 +278,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Escambia County, FL? (4)
 
-4 more DBPR-licensed listings are elsewhere in Escambia County. Licensed pros often travel, so ask whether they cover your address.
+4 more DBPR-licensed listings are elsewhere in Escambia County.
 
 [See all 24 Escambia County listings →](https://moldroster.com/fl/county/escambia/)
 

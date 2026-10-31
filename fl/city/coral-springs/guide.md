@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/coral-springs/guide/
 
 59 DBPR-licensed listings give an address in Coral Springs: **41** hold an assessment licence and **47** hold a remediation licence. Another 531 are elsewhere in Broward County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=coral-springs&st=fl) [All Coral Springs listings](https://moldroster.com/fl/city/coral-springs/)
+[Get quotes](https://moldroster.com/quotes/?city=coral-springs&st=fl) [All Coral Springs listings](https://moldroster.com/fl/city/coral-springs/)
 
 ## What are Florida's mold licensing rules?
 
@@ -34,8 +34,6 @@ National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
 ## Which licensed mold pros are based in Coral Springs, FL?
-
-59 DBPR-licensed listings give an address in Coral Springs: 41 hold an assessment licence and 47 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessment
 

@@ -10,15 +10,13 @@ canonical: https://moldroster.com/ny/county/broome/
 
 **Quick answer:** 12 NYS DOL-licensed listings with an address of record in Broome County (6 mold assessment, 7 mold remediation): 12 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**12 NYS DOL-licensed listings** with an address of record in Broome County (6 mold assessment, 7 mold remediation): 12 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=broome&st=ny)
+[How to get quotes](https://moldroster.com/quotes/?county=broome&st=ny)
 
 City pages: [Binghamton](https://moldroster.com/ny/city/binghamton/)
 
 ## Which licensed mold assessors are in Broome County, NY? (6)
 
 6 listings are shown in this section with an address of record in Broome County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessmentMold remediation
 
@@ -117,8 +115,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=NY0407)
 
 ## Which licensed mold remediators are in Broome County, NY? (6)
-
-6 listings are shown in this section with an address of record in Broome County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold remediation
 

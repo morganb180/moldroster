@@ -10,19 +10,15 @@ canonical: https://moldroster.com/tx/city/boerne/
 
 **Quick answer:** 4 TDLR-licensed listings give an address in Boerne (1 mold assessment, 3 mold remediation), and 6 more are elsewhere in Kendall County. Licensed pros often travel, so ask whether they cover your address.
 
-4 TDLR-licensed listings give an address in Boerne (1 mold assessment, 3 mold remediation), and 6 more are elsewhere in Kendall County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Boerne hiring guide →**](https://moldroster.com/tx/city/boerne/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Boerne](https://moldroster.com/get-quotes/?city=boerne&st=tx)
+[How to get quotes in Boerne](https://moldroster.com/quotes/?city=boerne&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Boerne, TX?
 
 Listed below: 1 licensed mold assessor (inspection and testing) and 3 licensed mold remediators with an address in Boerne. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (1)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by TDLR Mold assessment
 
@@ -90,7 +86,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 ## Which other licensed mold pros are in Kendall County, TX? (6)
 
-6 more TDLR-licensed listings are elsewhere in Kendall County. Licensed pros often travel, so ask whether they cover your address.
+6 more TDLR-licensed listings are elsewhere in Kendall County.
 
 [See all 10 Kendall County listings →](https://moldroster.com/tx/county/kendall/)
 

@@ -1,0 +1,20 @@
+---
+title: "Hillmann Consulting LLC, Union, NJ | Mold Roster"
+description: "Hillmann Consulting LLC: mold assessment in Union, NJ. TDLR licence details, contact and free quotes."
+canonical: https://moldroster.com/tx/firms/hillmann-consulting-llc-tx0043/
+---
+
+# Hillmann Consulting LLC
+
+* Mold assessment
+* Licensed by TDLR (Texas Department of Licensing and Regulation)
+* Union, NJ (Out of State/unknown County)
+* Address: 1600 Route 22 E Suite 107, Union, NJ
+* Phone: (908) 688-7800
+* Website: http://www.hillmannconsulting.com/
+* Google rating: 4.6 from 13 reviews (as of Oct 30, 2026)
+* Mold Assessment Company #ACO1040 (exp. 2028-03-07)
+
+Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4715743392688422194&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0043

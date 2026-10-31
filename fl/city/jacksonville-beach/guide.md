@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/jacksonville-beach/guide/
 
 5 DBPR-licensed listings give an address in Jacksonville Beach: **4** hold an assessment licence and **5** hold a remediation licence. Another 100 are elsewhere in Duval County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=jacksonville-beach&st=fl) [All Jacksonville Beach listings](https://moldroster.com/fl/city/jacksonville-beach/)
+[Get quotes](https://moldroster.com/quotes/?city=jacksonville-beach&st=fl) [All Jacksonville Beach listings](https://moldroster.com/fl/city/jacksonville-beach/)
 
 ## What are Florida's mold licensing rules?
 
@@ -34,8 +34,6 @@ National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
 ## Which licensed mold pros are based in Jacksonville Beach, FL?
-
-5 DBPR-licensed listings give an address in Jacksonville Beach: 4 hold an assessment licence and 5 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

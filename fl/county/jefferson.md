@@ -10,13 +10,11 @@ canonical: https://moldroster.com/fl/county/jefferson/
 
 **Quick answer:** 6 DBPR-licensed listings with an address of record in Jefferson County (3 mold assessment, 5 mold remediation): 0 firms and 6 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**6 DBPR-licensed listings** with an address of record in Jefferson County (3 mold assessment, 5 mold remediation): 0 firms and 6 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=jefferson&st=fl)
+[How to get quotes](https://moldroster.com/quotes/?county=jefferson&st=fl)
 
 ## Which licensed mold assessors are in Jefferson County, FL? (3)
 
 3 listings are shown in this section with an address of record in Jefferson County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -57,8 +55,6 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=FL2821)
 
 ## Which licensed mold remediators are in Jefferson County, FL? (3)
-
-3 listings are shown in this section with an address of record in Jefferson County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold remediation
 

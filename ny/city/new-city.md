@@ -10,19 +10,15 @@ canonical: https://moldroster.com/ny/city/new-city/
 
 **Quick answer:** 6 NYS DOL-licensed listings give an address in New City (5 mold assessment, 2 mold remediation), and 27 more are elsewhere in Rockland County. Licensed pros often travel, so ask whether they cover your address.
 
-6 NYS DOL-licensed listings give an address in New City (5 mold assessment, 2 mold remediation), and 27 more are elsewhere in Rockland County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the New City hiring guide →**](https://moldroster.com/ny/city/new-city/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in New City](https://moldroster.com/get-quotes/?city=new-city&st=ny)
+[How to get quotes in New City](https://moldroster.com/quotes/?city=new-city&st=ny)
 
 ## Which licensed mold assessors and remediators are based in New City, NY?
 
 Listed below: 5 licensed mold assessors (inspection and testing) and 1 licensed mold remediator with an address in New City. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (5)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessment
 
@@ -117,7 +113,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 ## Which other licensed mold pros are in Rockland County, NY? (27)
 
-27 more NYS DOL-licensed listings are elsewhere in Rockland County. Licensed pros often travel, so ask whether they cover your address.
+27 more NYS DOL-licensed listings are elsewhere in Rockland County.
 
 [See all 33 Rockland County listings →](https://moldroster.com/ny/county/rockland/)
 

@@ -10,13 +10,11 @@ canonical: https://moldroster.com/fl/county/hendry/
 
 **Quick answer:** 5 DBPR-licensed listings with an address of record in Hendry County (3 mold assessment, 4 mold remediation): 0 firms and 5 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**5 DBPR-licensed listings** with an address of record in Hendry County (3 mold assessment, 4 mold remediation): 0 firms and 5 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=hendry&st=fl)
+[How to get quotes](https://moldroster.com/quotes/?county=hendry&st=fl)
 
 ## Which licensed mold assessors are in Hendry County, FL? (3)
 
 3 listings are shown in this section with an address of record in Hendry County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessment
 
@@ -58,7 +56,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which licensed mold remediators are in Hendry County, FL? (2)
 
-2 listings are shown in this section with an address of record in Hendry County. Listings holding more than one licence type appear once, in the first matching section.
+2 listings are shown in this section with an address of record in Hendry County.
 
 ✔ Licensed by FL DBPR Mold remediation
 

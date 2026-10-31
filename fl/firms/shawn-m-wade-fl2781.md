@@ -1,0 +1,14 @@
+---
+title: "Shawn M Wade, Youngstown, FL | Mold Roster"
+description: "Shawn M Wade: mold assessment and mold remediation in Youngstown, FL. FL DBPR licence details, contact."
+canonical: https://moldroster.com/fl/firms/shawn-m-wade-fl2781/
+---
+
+# Shawn M Wade
+
+* Mold assessment, Mold remediation
+* Licensed by FL DBPR (Florida Department of Business and Professional Regulation)
+* Youngstown, FL (Bay County)
+* Address: 9304 Kelly Cir, Youngstown, FL
+
+Source: https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv, retrieved 2026-10-12. Verify: https://www2.myfloridalicense.com/mold-related-services/. Claim / correct: https://moldroster.com/claim-listing/?id=FL2781

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/melville/guide/
 
 8 NYS DOL-licensed listings give an address in Melville: **3** hold an assessment licence and **6** hold a remediation licence. Another 177 are elsewhere in Suffolk County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=melville&st=ny) [All Melville listings](https://moldroster.com/ny/city/melville/)
+[Get quotes](https://moldroster.com/quotes/?city=melville&st=ny) [All Melville listings](https://moldroster.com/ny/city/melville/)
 
 ## What are New York's mold licensing rules?
 
@@ -34,8 +34,6 @@ National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
 ## Which licensed mold pros are based in Melville, NY?
-
-8 NYS DOL-licensed listings give an address in Melville: 3 hold an assessment licence and 6 hold a remediation licence.
 
 ✔ Licensed by NYS DOL Mold assessment
 

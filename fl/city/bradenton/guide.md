@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/bradenton/guide/
 
 35 DBPR-licensed listings give an address in Bradenton: **27** hold an assessment licence and **22** hold a remediation licence. Another 32 are elsewhere in Manatee County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=bradenton&st=fl) [All Bradenton listings](https://moldroster.com/fl/city/bradenton/)
+[Get quotes](https://moldroster.com/quotes/?city=bradenton&st=fl) [All Bradenton listings](https://moldroster.com/fl/city/bradenton/)
 
 ## What are Florida's mold licensing rules?
 
@@ -34,8 +34,6 @@ National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
 ## Which licensed mold pros are based in Bradenton, FL?
-
-35 DBPR-licensed listings give an address in Bradenton: 27 hold an assessment licence and 22 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

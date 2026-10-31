@@ -10,19 +10,15 @@ canonical: https://moldroster.com/fl/city/pompano-beach/
 
 **Quick answer:** 41 DBPR-licensed listings give an address in Pompano Beach (26 mold assessment, 35 mold remediation), and 548 more are elsewhere in Broward County. Licensed pros often travel, so ask whether they cover your address.
 
-41 DBPR-licensed listings give an address in Pompano Beach (26 mold assessment, 35 mold remediation), and 548 more are elsewhere in Broward County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Pompano Beach hiring guide →**](https://moldroster.com/fl/city/pompano-beach/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Pompano Beach](https://moldroster.com/get-quotes/?city=pompano-beach&st=fl)
+[How to get quotes in Pompano Beach](https://moldroster.com/quotes/?city=pompano-beach&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Pompano Beach, FL?
 
 Listed below: 26 licensed mold assessors (inspection and testing) and 15 licensed mold remediators with an address in Pompano Beach. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (26)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -548,7 +544,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Broward County, FL? (548)
 
-548 more DBPR-licensed listings are elsewhere in Broward County. Licensed pros often travel, so ask whether they cover your address.
+548 more DBPR-licensed listings are elsewhere in Broward County.
 
 [See all 589 Broward County listings →](https://moldroster.com/fl/county/broward/)
 

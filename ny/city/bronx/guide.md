@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/bronx/guide/
 
 51 NYS DOL-licensed listings give an address in Bronx: **28** hold an assessment licence and **36** hold a remediation licence. Another 2 are elsewhere in Bronx County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=bronx&st=ny) [All Bronx listings](https://moldroster.com/ny/city/bronx/)
+[Get quotes](https://moldroster.com/quotes/?city=bronx&st=ny) [All Bronx listings](https://moldroster.com/ny/city/bronx/)
 
 ## How much does mold inspection and remediation cost?
 
@@ -30,8 +30,6 @@ For larger jobs, yes: a licensed assessor inspects, samples if needed and writes
 For larger jobs, a licensed assessor inspects, samples if needed, and writes a protocol. A separate licensed remediator does the work, and the assessor confirms the result. Fixing the moisture source is the key step ([EPA: A Brief Guide to Mold, Moisture and Your Home](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home)).
 
 ## Which licensed mold pros are based in Bronx, NY?
-
-51 NYS DOL-licensed listings give an address in Bronx: 28 hold an assessment licence and 36 hold a remediation licence.
 
 ✔ Licensed by NYS DOL Mold assessment
 

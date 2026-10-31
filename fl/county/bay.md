@@ -10,15 +10,13 @@ canonical: https://moldroster.com/fl/county/bay/
 
 **Quick answer:** 45 DBPR-licensed listings with an address of record in Bay County (32 mold assessment, 35 mold remediation): 3 firms and 42 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**45 DBPR-licensed listings** with an address of record in Bay County (32 mold assessment, 35 mold remediation): 3 firms and 42 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=bay&st=fl)
+[How to get quotes](https://moldroster.com/quotes/?county=bay&st=fl)
 
 City pages: [Lynn Haven](https://moldroster.com/fl/city/lynn-haven/) · [Panama City](https://moldroster.com/fl/city/panama-city/) · [Panama City Beach](https://moldroster.com/fl/city/panama-city-beach/)
 
 ## Which licensed mold assessors are in Bay County, FL? (32)
 
 32 listings are shown in this section with an address of record in Bay County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -438,7 +436,7 @@ Show all 32 listings
 
 ## Which licensed mold remediators are in Bay County, FL? (13)
 
-13 listings are shown in this section with an address of record in Bay County. Listings holding more than one licence type appear once, in the first matching section.
+13 listings are shown in this section with an address of record in Bay County.
 
 ✔ Licensed by FL DBPR Mold remediation
 

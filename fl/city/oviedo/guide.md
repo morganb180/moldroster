@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/oviedo/guide/
 
 14 DBPR-licensed listings give an address in Oviedo: **9** hold an assessment licence and **9** hold a remediation licence. Another 69 are elsewhere in Seminole County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=oviedo&st=fl) [All Oviedo listings](https://moldroster.com/fl/city/oviedo/)
+[Get quotes](https://moldroster.com/quotes/?city=oviedo&st=fl) [All Oviedo listings](https://moldroster.com/fl/city/oviedo/)
 
 ## Do I need a mold assessment before remediation?
 
@@ -28,8 +28,6 @@ Look the name up in the DBPR records and check the licence is still current. Ask
 4. Ask for proof of insurance and a written scope before work starts.
 
 ## Which licensed mold pros are based in Oviedo, FL?
-
-14 DBPR-licensed listings give an address in Oviedo: 9 hold an assessment licence and 9 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

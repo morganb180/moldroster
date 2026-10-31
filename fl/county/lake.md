@@ -10,15 +10,13 @@ canonical: https://moldroster.com/fl/county/lake/
 
 **Quick answer:** 61 DBPR-licensed listings with an address of record in Lake County (41 mold assessment, 39 mold remediation): 3 firms and 58 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**61 DBPR-licensed listings** with an address of record in Lake County (41 mold assessment, 39 mold remediation): 3 firms and 58 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=lake&st=fl)
+[How to get quotes](https://moldroster.com/quotes/?county=lake&st=fl)
 
 City pages: [Clermont](https://moldroster.com/fl/city/clermont/) · [Eustis](https://moldroster.com/fl/city/eustis/) · [Fruitland Park](https://moldroster.com/fl/city/fruitland-park/) · [Groveland](https://moldroster.com/fl/city/groveland/) · [Leesburg](https://moldroster.com/fl/city/leesburg/) · [Mount Dora](https://moldroster.com/fl/city/mount-dora/) · [Sorrento](https://moldroster.com/fl/city/sorrento/) · [Tavares](https://moldroster.com/fl/city/tavares/)
 
 ## Which licensed mold assessors are in Lake County, FL? (41)
 
 41 listings are shown in this section with an address of record in Lake County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessment
 
@@ -546,7 +544,7 @@ Show all 41 listings
 
 ## Which licensed mold remediators are in Lake County, FL? (20)
 
-20 listings are shown in this section with an address of record in Lake County. Listings holding more than one licence type appear once, in the first matching section.
+20 listings are shown in this section with an address of record in Lake County.
 
 ✔ Licensed by FL DBPR Mold remediation
 

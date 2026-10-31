@@ -10,19 +10,15 @@ canonical: https://moldroster.com/fl/city/lake-worth/
 
 **Quick answer:** 37 DBPR-licensed listings give an address in Lake Worth (27 mold assessment, 26 mold remediation), and 333 more are elsewhere in Palm Beach County. Licensed pros often travel, so ask whether they cover your address.
 
-37 DBPR-licensed listings give an address in Lake Worth (27 mold assessment, 26 mold remediation), and 333 more are elsewhere in Palm Beach County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Lake Worth hiring guide →**](https://moldroster.com/fl/city/lake-worth/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Lake Worth](https://moldroster.com/get-quotes/?city=lake-worth&st=fl)
+[How to get quotes in Lake Worth](https://moldroster.com/quotes/?city=lake-worth&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Lake Worth, FL?
 
 Listed below: 27 licensed mold assessors (inspection and testing) and 10 licensed mold remediators with an address in Lake Worth. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (27)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -488,7 +484,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Palm Beach County, FL? (333)
 
-333 more DBPR-licensed listings are elsewhere in Palm Beach County. Licensed pros often travel, so ask whether they cover your address.
+333 more DBPR-licensed listings are elsewhere in Palm Beach County.
 
 [See all 370 Palm Beach County listings →](https://moldroster.com/fl/county/palm-beach/)
 

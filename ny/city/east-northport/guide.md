@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/east-northport/guide/
 
 4 NYS DOL-licensed listings give an address in East Northport: **2** hold an assessment licence and **3** hold a remediation licence. Another 181 are elsewhere in Suffolk County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=east-northport&st=ny) [All East Northport listings](https://moldroster.com/ny/city/east-northport/)
+[Get quotes](https://moldroster.com/quotes/?city=east-northport&st=ny) [All East Northport listings](https://moldroster.com/ny/city/east-northport/)
 
 ## How do I verify a mold pro's licence in East Northport, NY?
 
@@ -33,8 +33,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 * How will you contain the work area and protect the rest of the house?
 
 ## Which licensed mold pros are based in East Northport, NY?
-
-4 NYS DOL-licensed listings give an address in East Northport: 2 hold an assessment licence and 3 hold a remediation licence.
 
 ✔ Licensed by NYS DOL Mold assessmentMold remediation
 

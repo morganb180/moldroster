@@ -10,19 +10,15 @@ canonical: https://moldroster.com/ny/city/commack/
 
 **Quick answer:** 4 NYS DOL-licensed listings give an address in Commack (4 mold assessment, 1 mold remediation), and 181 more are elsewhere in Suffolk County. Licensed pros often travel, so ask whether they cover your address.
 
-4 NYS DOL-licensed listings give an address in Commack (4 mold assessment, 1 mold remediation), and 181 more are elsewhere in Suffolk County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Commack hiring guide →**](https://moldroster.com/ny/city/commack/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Commack](https://moldroster.com/get-quotes/?city=commack&st=ny)
+[How to get quotes in Commack](https://moldroster.com/quotes/?city=commack&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Commack, NY?
 
 Listed below: 4 licensed mold assessors (inspection and testing) with an address in Commack. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (4)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessment
 
@@ -88,7 +84,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 ## Which other licensed mold pros are in Suffolk County, NY? (181)
 
-181 more NYS DOL-licensed listings are elsewhere in Suffolk County. Licensed pros often travel, so ask whether they cover your address.
+181 more NYS DOL-licensed listings are elsewhere in Suffolk County.
 
 [See all 185 Suffolk County listings →](https://moldroster.com/ny/county/suffolk/)
 

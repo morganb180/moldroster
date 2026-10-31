@@ -10,19 +10,15 @@ canonical: https://moldroster.com/fl/city/lakeland/
 
 **Quick answer:** 24 DBPR-licensed listings give an address in Lakeland (13 mold assessment, 17 mold remediation), and 54 more are elsewhere in Polk County. Licensed pros often travel, so ask whether they cover your address.
 
-24 DBPR-licensed listings give an address in Lakeland (13 mold assessment, 17 mold remediation), and 54 more are elsewhere in Polk County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Lakeland hiring guide →**](https://moldroster.com/fl/city/lakeland/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Lakeland](https://moldroster.com/get-quotes/?city=lakeland&st=fl)
+[How to get quotes in Lakeland](https://moldroster.com/quotes/?city=lakeland&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Lakeland, FL?
 
 Listed below: 13 licensed mold assessors (inspection and testing) and 11 licensed mold remediators with an address in Lakeland. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (13)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessment
 
@@ -322,7 +318,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Polk County, FL? (54)
 
-54 more DBPR-licensed listings are elsewhere in Polk County. Licensed pros often travel, so ask whether they cover your address.
+54 more DBPR-licensed listings are elsewhere in Polk County.
 
 [See all 78 Polk County listings →](https://moldroster.com/fl/county/polk/)
 

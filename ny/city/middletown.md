@@ -10,19 +10,15 @@ canonical: https://moldroster.com/ny/city/middletown/
 
 **Quick answer:** 4 NYS DOL-licensed listings give an address in Middletown (1 mold assessment, 4 mold remediation), and 29 more are elsewhere in Orange County. Licensed pros often travel, so ask whether they cover your address.
 
-4 NYS DOL-licensed listings give an address in Middletown (1 mold assessment, 4 mold remediation), and 29 more are elsewhere in Orange County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Middletown hiring guide →**](https://moldroster.com/ny/city/middletown/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Middletown](https://moldroster.com/get-quotes/?city=middletown&st=ny)
+[How to get quotes in Middletown](https://moldroster.com/quotes/?city=middletown&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Middletown, NY?
 
 Listed below: 1 licensed mold assessor (inspection and testing) and 3 licensed mold remediators with an address in Middletown. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (1)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessmentMold remediation
 
@@ -87,7 +83,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 ## Which other licensed mold pros are in Orange County, NY? (29)
 
-29 more NYS DOL-licensed listings are elsewhere in Orange County. Licensed pros often travel, so ask whether they cover your address.
+29 more NYS DOL-licensed listings are elsewhere in Orange County.
 
 [See all 33 Orange County listings →](https://moldroster.com/ny/county/orange/)
 

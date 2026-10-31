@@ -10,19 +10,15 @@ canonical: https://moldroster.com/fl/city/lighthouse-point/
 
 **Quick answer:** 5 DBPR-licensed listings give an address in Lighthouse Point (5 mold assessment, 3 mold remediation), and 584 more are elsewhere in Broward County. Licensed pros often travel, so ask whether they cover your address.
 
-5 DBPR-licensed listings give an address in Lighthouse Point (5 mold assessment, 3 mold remediation), and 584 more are elsewhere in Broward County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Lighthouse Point hiring guide →**](https://moldroster.com/fl/city/lighthouse-point/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Lighthouse Point](https://moldroster.com/get-quotes/?city=lighthouse-point&st=fl)
+[How to get quotes in Lighthouse Point](https://moldroster.com/quotes/?city=lighthouse-point&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Lighthouse Point, FL?
 
 Listed below: 5 licensed mold assessors (inspection and testing) with an address in Lighthouse Point. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (5)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -89,7 +85,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Broward County, FL? (584)
 
-584 more DBPR-licensed listings are elsewhere in Broward County. Licensed pros often travel, so ask whether they cover your address.
+584 more DBPR-licensed listings are elsewhere in Broward County.
 
 [See all 589 Broward County listings →](https://moldroster.com/fl/county/broward/)
 

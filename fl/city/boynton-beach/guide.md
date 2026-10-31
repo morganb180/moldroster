@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/boynton-beach/guide/
 
 44 DBPR-licensed listings give an address in Boynton Beach: **33** hold an assessment licence and **31** hold a remediation licence. Another 326 are elsewhere in Palm Beach County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=boynton-beach&st=fl) [All Boynton Beach listings](https://moldroster.com/fl/city/boynton-beach/)
+[Get quotes](https://moldroster.com/quotes/?city=boynton-beach&st=fl) [All Boynton Beach listings](https://moldroster.com/fl/city/boynton-beach/)
 
 ## What should I ask a mold pro before I sign?
 
@@ -35,8 +35,6 @@ A DBPR licence is generally required to perform mold assessment or remediation f
 Summary of Florida Statutes Chapter 468, Part XVI (Mold-Related Services). See the agency: [Florida Department of Business and Professional Regulation](https://www2.myfloridalicense.com/mold-related-services/). Plain-language summary, not legal advice; confirm details with the agency.
 
 ## Which licensed mold pros are based in Boynton Beach, FL?
-
-44 DBPR-licensed listings give an address in Boynton Beach: 33 hold an assessment licence and 31 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

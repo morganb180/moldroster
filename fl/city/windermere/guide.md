@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/windermere/guide/
 
 7 DBPR-licensed listings give an address in Windermere: **5** hold an assessment licence and **5** hold a remediation licence. Another 187 are elsewhere in Orange County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=windermere&st=fl) [All Windermere listings](https://moldroster.com/fl/city/windermere/)
+[Get quotes](https://moldroster.com/quotes/?city=windermere&st=fl) [All Windermere listings](https://moldroster.com/fl/city/windermere/)
 
 ## How do I verify a mold pro's licence in Windermere, FL?
 
@@ -34,8 +34,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 * Do you carry liability insurance that covers mold work?
 
 ## Which licensed mold pros are based in Windermere, FL?
-
-7 DBPR-licensed listings give an address in Windermere: 5 hold an assessment licence and 5 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

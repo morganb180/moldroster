@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/st-petersburg/guide/
 
 48 DBPR-licensed listings give an address in St. Petersburg: **32** hold an assessment licence and **34** hold a remediation licence. Another 135 are elsewhere in Pinellas County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=st-petersburg&st=fl) [All St. Petersburg listings](https://moldroster.com/fl/city/st-petersburg/)
+[Get quotes](https://moldroster.com/quotes/?city=st-petersburg&st=fl) [All St. Petersburg listings](https://moldroster.com/fl/city/st-petersburg/)
 
 ## What are Florida's mold licensing rules?
 
@@ -34,8 +34,6 @@ National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
 ## Which licensed mold pros are based in St. Petersburg, FL?
-
-48 DBPR-licensed listings give an address in St.
 
 ✔ Licensed by FL DBPR Mold assessment
 

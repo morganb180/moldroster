@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/syracuse/guide/
 
 15 NYS DOL-licensed listings give an address in Syracuse: **6** hold an assessment licence and **11** hold a remediation licence. Another 20 are elsewhere in Onondaga County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=syracuse&st=ny) [All Syracuse listings](https://moldroster.com/ny/city/syracuse/)
+[Get quotes](https://moldroster.com/quotes/?city=syracuse&st=ny) [All Syracuse listings](https://moldroster.com/ny/city/syracuse/)
 
 ## What are New York's mold licensing rules?
 
@@ -34,8 +34,6 @@ National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
 ## Which licensed mold pros are based in Syracuse, NY?
-
-15 NYS DOL-licensed listings give an address in Syracuse: 6 hold an assessment licence and 11 hold a remediation licence.
 
 ✔ Licensed by NYS DOL Mold assessment
 

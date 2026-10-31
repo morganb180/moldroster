@@ -10,19 +10,15 @@ canonical: https://moldroster.com/ny/city/wantagh/
 
 **Quick answer:** 5 NYS DOL-licensed listings give an address in Wantagh (1 mold assessment, 5 mold remediation), and 148 more are elsewhere in Nassau County. Licensed pros often travel, so ask whether they cover your address.
 
-5 NYS DOL-licensed listings give an address in Wantagh (1 mold assessment, 5 mold remediation), and 148 more are elsewhere in Nassau County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Wantagh hiring guide →**](https://moldroster.com/ny/city/wantagh/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Wantagh](https://moldroster.com/get-quotes/?city=wantagh&st=ny)
+[How to get quotes in Wantagh](https://moldroster.com/quotes/?city=wantagh&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Wantagh, NY?
 
 Listed below: 1 licensed mold assessor (inspection and testing) and 4 licensed mold remediators with an address in Wantagh. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (1)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessmentMold remediation
 
@@ -107,7 +103,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 ## Which other licensed mold pros are in Nassau County, NY? (148)
 
-148 more NYS DOL-licensed listings are elsewhere in Nassau County. Licensed pros often travel, so ask whether they cover your address.
+148 more NYS DOL-licensed listings are elsewhere in Nassau County.
 
 [See all 153 Nassau County listings →](https://moldroster.com/ny/county/nassau/)
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/haltom-city/guide/
 
 9 TDLR-licensed listings give an address in Haltom City: **0** hold an assessment licence and **9** hold a remediation licence. Another 174 are elsewhere in Tarrant County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=haltom-city&st=tx) [All Haltom City listings](https://moldroster.com/tx/city/haltom-city/)
+[Get quotes](https://moldroster.com/quotes/?city=haltom-city&st=tx) [All Haltom City listings](https://moldroster.com/tx/city/haltom-city/)
 
 ## What are Texas' mold licensing rules?
 
@@ -34,8 +34,6 @@ National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
 ## Which licensed mold pros are based in Haltom City, TX?
-
-9 TDLR-licensed listings give an address in Haltom City: 0 hold an assessment licence and 9 hold a remediation licence.
 
 ✔ Licensed by TDLR Mold remediation
 

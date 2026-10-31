@@ -10,19 +10,15 @@ canonical: https://moldroster.com/tx/city/north-richland-hills/
 
 **Quick answer:** 5 TDLR-licensed listings give an address in North Richland Hills (2 mold assessment, 3 mold remediation), and 178 more are elsewhere in Tarrant County. Licensed pros often travel, so ask whether they cover your address.
 
-5 TDLR-licensed listings give an address in North Richland Hills (2 mold assessment, 3 mold remediation), and 178 more are elsewhere in Tarrant County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the North Richland Hills hiring guide →**](https://moldroster.com/tx/city/north-richland-hills/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in North Richland Hills](https://moldroster.com/get-quotes/?city=north-richland-hills&st=tx)
+[How to get quotes in North Richland Hills](https://moldroster.com/quotes/?city=north-richland-hills&st=tx)
 
 ## Which licensed mold assessors and remediators are based in North Richland Hills, TX?
 
 Listed below: 2 licensed mold assessors (inspection and testing) and 3 licensed mold remediators with an address in North Richland Hills. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (2)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by TDLR Mold assessment
 
@@ -109,7 +105,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 ## Which other licensed mold pros are in Tarrant County, TX? (178)
 
-178 more TDLR-licensed listings are elsewhere in Tarrant County. Licensed pros often travel, so ask whether they cover your address.
+178 more TDLR-licensed listings are elsewhere in Tarrant County.
 
 [See all 183 Tarrant County listings →](https://moldroster.com/tx/county/tarrant/)
 

@@ -10,19 +10,15 @@ canonical: https://moldroster.com/fl/city/miami/
 
 **Quick answer:** 336 DBPR-licensed listings give an address in Miami (271 mold assessment, 259 mold remediation), and 210 more are elsewhere in Miami-Dade County. Licensed pros often travel, so ask whether they cover your address.
 
-336 DBPR-licensed listings give an address in Miami (271 mold assessment, 259 mold remediation), and 210 more are elsewhere in Miami-Dade County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Miami hiring guide →**](https://moldroster.com/fl/city/miami/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Miami](https://moldroster.com/get-quotes/?city=miami&st=fl)
+[How to get quotes in Miami](https://moldroster.com/quotes/?city=miami&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Miami, FL?
 
 Listed below: 271 licensed mold assessors (inspection and testing) and 65 licensed mold remediators with an address in Miami. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (271)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessment
 
@@ -4284,7 +4280,7 @@ Show all 65 listings
 
 ## Which other licensed mold pros are in Miami-Dade County, FL? (210)
 
-210 more DBPR-licensed listings are elsewhere in Miami-Dade County. Licensed pros often travel, so ask whether they cover your address.
+210 more DBPR-licensed listings are elsewhere in Miami-Dade County.
 
 [See all 546 Miami-Dade County listings →](https://moldroster.com/fl/county/miami-dade/)
 

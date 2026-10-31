@@ -1,0 +1,16 @@
+---
+title: "Mold Dogs of New York, Pelham Manor, NY 10803, NY | Mold Roster"
+description: "Mold Dogs of New York: mold assessment in Pelham Manor, NY 10803, NY. NYS DOL licence details, contact and free quotes."
+canonical: https://moldroster.com/ny/firms/mold-dogs-of-new-york-ny0796/
+---
+
+# Mold Dogs of New York
+
+* Mold assessment
+* Licensed by NYS DOL (New York State Department of Labor)
+* Pelham Manor, NY 10803, NY (Westchester County)
+* Address: 1364 Manor Cir, Pelham Manor, NY 10803, NY
+* Phone: (646) 484-8204
+* Mold Assessment Contractor License (SH125) #26-69XIN-SHMO (exp. 2028-07-31)
+
+Source: https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy, retrieved 2026-10-12. Verify: https://dol.ny.gov/mold-program. Claim / correct: https://moldroster.com/claim-listing/?id=NY0796

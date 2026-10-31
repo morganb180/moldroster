@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/wantagh/guide/
 
 5 NYS DOL-licensed listings give an address in Wantagh: **1** hold an assessment licence and **5** hold a remediation licence. Another 148 are elsewhere in Nassau County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=wantagh&st=ny) [All Wantagh listings](https://moldroster.com/ny/city/wantagh/)
+[Get quotes](https://moldroster.com/quotes/?city=wantagh&st=ny) [All Wantagh listings](https://moldroster.com/ny/city/wantagh/)
 
 ## How much does mold inspection and remediation cost?
 
@@ -30,8 +30,6 @@ For larger jobs, yes: a licensed assessor inspects, samples if needed and writes
 For larger jobs, a licensed assessor inspects, samples if needed, and writes a protocol. A separate licensed remediator does the work, and the assessor confirms the result. Fixing the moisture source is the key step ([EPA: A Brief Guide to Mold, Moisture and Your Home](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home)).
 
 ## Which licensed mold pros are based in Wantagh, NY?
-
-5 NYS DOL-licensed listings give an address in Wantagh: 1 hold an assessment licence and 5 hold a remediation licence.
 
 ✔ Licensed by NYS DOL Mold assessmentMold remediation
 
@@ -129,7 +127,7 @@ Summary of New York Labor Law Article 32 and 12 NYCRR Part 60. See the agency: [
 
 **How do I find a licensed mold inspector in Wantagh?**
 
-Start with the 1 listings in Wantagh that hold a NYS DOL assessment licence, then confirm the licence with the agency.
+Start with the 1 listing in Wantagh that hold a NYS DOL assessment licence, then confirm the licence with the agency.
 
 **How much does mold remediation cost in Wantagh?**
 

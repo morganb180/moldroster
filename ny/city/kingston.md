@@ -10,19 +10,15 @@ canonical: https://moldroster.com/ny/city/kingston/
 
 **Quick answer:** 6 NYS DOL-licensed listings give an address in Kingston (3 mold assessment, 3 mold remediation), and 12 more are elsewhere in Ulster County. Licensed pros often travel, so ask whether they cover your address.
 
-6 NYS DOL-licensed listings give an address in Kingston (3 mold assessment, 3 mold remediation), and 12 more are elsewhere in Ulster County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Kingston hiring guide →**](https://moldroster.com/ny/city/kingston/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Kingston](https://moldroster.com/get-quotes/?city=kingston&st=ny)
+[How to get quotes in Kingston](https://moldroster.com/quotes/?city=kingston&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Kingston, NY?
 
 Listed below: 3 licensed mold assessors (inspection and testing) and 3 licensed mold remediators with an address in Kingston. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (3)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessment
 
@@ -115,7 +111,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 ## Which other licensed mold pros are in Ulster County, NY? (12)
 
-12 more NYS DOL-licensed listings are elsewhere in Ulster County. Licensed pros often travel, so ask whether they cover your address.
+12 more NYS DOL-licensed listings are elsewhere in Ulster County.
 
 [See all 18 Ulster County listings →](https://moldroster.com/ny/county/ulster/)
 

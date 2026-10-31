@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/st-johns/guide/
 
 9 DBPR-licensed listings give an address in St. Johns: **8** hold an assessment licence and **6** hold a remediation licence. Another 43 are elsewhere in St. Johns County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=st-johns&st=fl) [All St. Johns listings](https://moldroster.com/fl/city/st-johns/)
+[Get quotes](https://moldroster.com/quotes/?city=st-johns&st=fl) [All St. Johns listings](https://moldroster.com/fl/city/st-johns/)
 
 ## What are Florida's mold licensing rules?
 
@@ -34,8 +34,6 @@ National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
 ## Which licensed mold pros are based in St. Johns, FL?
-
-9 DBPR-licensed listings give an address in St.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

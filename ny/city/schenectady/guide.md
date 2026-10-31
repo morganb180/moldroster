@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/schenectady/guide/
 
 11 NYS DOL-licensed listings give an address in Schenectady: **8** hold an assessment licence and **4** hold a remediation licence. Another 2 are elsewhere in Schenectady County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=schenectady&st=ny) [All Schenectady listings](https://moldroster.com/ny/city/schenectady/)
+[Get quotes](https://moldroster.com/quotes/?city=schenectady&st=ny) [All Schenectady listings](https://moldroster.com/ny/city/schenectady/)
 
 ## How do I verify a mold pro's licence in Schenectady, NY?
 
@@ -34,8 +34,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 * What is your state licence number, and is it an assessor or remediator licence?
 
 ## Which licensed mold pros are based in Schenectady, NY?
-
-11 NYS DOL-licensed listings give an address in Schenectady: 8 hold an assessment licence and 4 hold a remediation licence.
 
 ✔ Licensed by NYS DOL Mold assessment
 

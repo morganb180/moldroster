@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/mechanicville/guide/
 
 4 NYS DOL-licensed listings give an address in Mechanicville: **2** hold an assessment licence and **2** hold a remediation licence. Another 21 are elsewhere in Saratoga County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=mechanicville&st=ny) [All Mechanicville listings](https://moldroster.com/ny/city/mechanicville/)
+[Get quotes](https://moldroster.com/quotes/?city=mechanicville&st=ny) [All Mechanicville listings](https://moldroster.com/ny/city/mechanicville/)
 
 ## What are New York's mold licensing rules?
 
@@ -34,8 +34,6 @@ National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
 ## Which licensed mold pros are based in Mechanicville, NY?
-
-4 NYS DOL-licensed listings give an address in Mechanicville: 2 hold an assessment licence and 2 hold a remediation licence.
 
 ✔ Licensed by NYS DOL Mold assessment
 

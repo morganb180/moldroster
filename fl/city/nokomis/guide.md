@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/nokomis/guide/
 
 5 DBPR-licensed listings give an address in Nokomis: **4** hold an assessment licence and **2** hold a remediation licence. Another 65 are elsewhere in Sarasota County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=nokomis&st=fl) [All Nokomis listings](https://moldroster.com/fl/city/nokomis/)
+[Get quotes](https://moldroster.com/quotes/?city=nokomis&st=fl) [All Nokomis listings](https://moldroster.com/fl/city/nokomis/)
 
 ## How do I verify a mold pro's licence in Nokomis, FL?
 
@@ -33,8 +33,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 * What does the written scope include: demolition, HEPA cleaning, disposal, rebuild?
 
 ## Which licensed mold pros are based in Nokomis, FL?
-
-5 DBPR-licensed listings give an address in Nokomis: 4 hold an assessment licence and 2 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

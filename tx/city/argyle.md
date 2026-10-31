@@ -10,19 +10,15 @@ canonical: https://moldroster.com/tx/city/argyle/
 
 **Quick answer:** 4 TDLR-licensed listings give an address in Argyle (2 mold assessment, 2 mold remediation), and 84 more are elsewhere in Denton County. Licensed pros often travel, so ask whether they cover your address.
 
-4 TDLR-licensed listings give an address in Argyle (2 mold assessment, 2 mold remediation), and 84 more are elsewhere in Denton County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Argyle hiring guide →**](https://moldroster.com/tx/city/argyle/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Argyle](https://moldroster.com/get-quotes/?city=argyle&st=tx)
+[How to get quotes in Argyle](https://moldroster.com/quotes/?city=argyle&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Argyle, TX?
 
 Listed below: 2 licensed mold assessors (inspection and testing) and 2 licensed mold remediators with an address in Argyle. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (2)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by TDLR Mold assessment
 
@@ -84,7 +80,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 ## Which other licensed mold pros are in Denton County, TX? (84)
 
-84 more TDLR-licensed listings are elsewhere in Denton County. Licensed pros often travel, so ask whether they cover your address.
+84 more TDLR-licensed listings are elsewhere in Denton County.
 
 [See all 88 Denton County listings →](https://moldroster.com/tx/county/denton/)
 

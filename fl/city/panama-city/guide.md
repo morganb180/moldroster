@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/panama-city/guide/
 
 22 DBPR-licensed listings give an address in Panama City: **18** hold an assessment licence and **15** hold a remediation licence. Another 23 are elsewhere in Bay County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=panama-city&st=fl) [All Panama City listings](https://moldroster.com/fl/city/panama-city/)
+[Get quotes](https://moldroster.com/quotes/?city=panama-city&st=fl) [All Panama City listings](https://moldroster.com/fl/city/panama-city/)
 
 ## Do I need a mold assessment before remediation?
 
@@ -28,8 +28,6 @@ Look the name up in the DBPR records and check the licence is still current. Ask
 4. Ask for proof of insurance and a written scope before work starts.
 
 ## Which licensed mold pros are based in Panama City, FL?
-
-22 DBPR-licensed listings give an address in Panama City: 18 hold an assessment licence and 15 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

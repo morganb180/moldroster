@@ -10,15 +10,13 @@ canonical: https://moldroster.com/tx/county/bexar/
 
 **Quick answer:** 150 TDLR-licensed listings with an address of record in Bexar County (67 mold assessment, 86 mold remediation): 43 firms and 107 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**150 TDLR-licensed listings** with an address of record in Bexar County (67 mold assessment, 86 mold remediation): 43 firms and 107 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=bexar&st=tx)
+[How to get quotes](https://moldroster.com/quotes/?county=bexar&st=tx)
 
 City pages: [San Antonio](https://moldroster.com/tx/city/san-antonio/)
 
 ## Which licensed mold assessors are in Bexar County, TX? (67)
 
 67 listings are shown in this section with an address of record in Bexar County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by TDLR Mold assessment
 
@@ -995,7 +993,7 @@ Show all 67 listings
 
 ## Which licensed mold remediators are in Bexar County, TX? (83)
 
-83 listings are shown in this section with an address of record in Bexar County. Listings holding more than one licence type appear once, in the first matching section.
+83 listings are shown in this section with an address of record in Bexar County.
 
 ✔ Licensed by TDLR Mold remediation
 

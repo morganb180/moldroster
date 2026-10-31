@@ -10,11 +10,9 @@ canonical: https://moldroster.com/tx/city/leander/
 
 **Quick answer:** 4 TDLR-licensed listings give an address in Leander (4 mold remediation), and 79 more are elsewhere in Williamson County. Licensed pros often travel, so ask whether they cover your address.
 
-4 TDLR-licensed listings give an address in Leander (4 mold remediation), and 79 more are elsewhere in Williamson County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Leander hiring guide →**](https://moldroster.com/tx/city/leander/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Leander](https://moldroster.com/get-quotes/?city=leander&st=tx)
+[How to get quotes in Leander](https://moldroster.com/quotes/?city=leander&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Leander, TX?
 
@@ -83,7 +81,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 ## Which other licensed mold pros are in Williamson County, TX? (79)
 
-79 more TDLR-licensed listings are elsewhere in Williamson County. Licensed pros often travel, so ask whether they cover your address.
+79 more TDLR-licensed listings are elsewhere in Williamson County.
 
 [See all 83 Williamson County listings →](https://moldroster.com/tx/county/williamson/)
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/cape-coral/guide/
 
 84 DBPR-licensed listings give an address in Cape Coral: **63** hold an assessment licence and **61** hold a remediation licence. Another 105 are elsewhere in Lee County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=cape-coral&st=fl) [All Cape Coral listings](https://moldroster.com/fl/city/cape-coral/)
+[Get quotes](https://moldroster.com/quotes/?city=cape-coral&st=fl) [All Cape Coral listings](https://moldroster.com/fl/city/cape-coral/)
 
 ## How much does mold inspection and remediation cost?
 
@@ -30,8 +30,6 @@ For larger jobs, yes: a licensed assessor inspects, samples if needed and writes
 For larger jobs, a licensed assessor inspects, samples if needed, and writes a protocol. A separate licensed remediator does the work, and the assessor confirms the result. Fixing the moisture source is the key step ([EPA: A Brief Guide to Mold, Moisture and Your Home](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home)).
 
 ## Which licensed mold pros are based in Cape Coral, FL?
-
-84 DBPR-licensed listings give an address in Cape Coral: 63 hold an assessment licence and 61 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessment
 

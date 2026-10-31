@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/binghamton/guide/
 
 9 NYS DOL-licensed listings give an address in Binghamton: **4** hold an assessment licence and **6** hold a remediation licence. Another 3 are elsewhere in Broome County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=binghamton&st=ny) [All Binghamton listings](https://moldroster.com/ny/city/binghamton/)
+[Get quotes](https://moldroster.com/quotes/?city=binghamton&st=ny) [All Binghamton listings](https://moldroster.com/ny/city/binghamton/)
 
 ## How do I verify a mold pro's licence in Binghamton, NY?
 
@@ -33,8 +33,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 * Will you work with my insurance adjuster, and do you need a signed assignment of benefits? (Read it carefully first.)
 
 ## Which licensed mold pros are based in Binghamton, NY?
-
-9 NYS DOL-licensed listings give an address in Binghamton: 4 hold an assessment licence and 6 hold a remediation licence.
 
 ✔ Licensed by NYS DOL Mold assessmentMold remediation
 

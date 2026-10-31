@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/troy/guide/
 
 7 NYS DOL-licensed listings give an address in Troy: **6** hold an assessment licence and **1** hold a remediation licence. Another 17 are elsewhere in Rensselaer County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=troy&st=ny) [All Troy listings](https://moldroster.com/ny/city/troy/)
+[Get quotes](https://moldroster.com/quotes/?city=troy&st=ny) [All Troy listings](https://moldroster.com/ny/city/troy/)
 
 ## What are New York's mold licensing rules?
 
@@ -34,8 +34,6 @@ National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
 ## Which licensed mold pros are based in Troy, NY?
-
-7 NYS DOL-licensed listings give an address in Troy: 6 hold an assessment licence and 1 hold a remediation licence.
 
 ✔ Licensed by NYS DOL Mold assessment
 

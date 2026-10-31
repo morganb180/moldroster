@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/leander/guide/
 
 4 TDLR-licensed listings give an address in Leander: **0** hold an assessment licence and **4** hold a remediation licence. Another 79 are elsewhere in Williamson County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=leander&st=tx) [All Leander listings](https://moldroster.com/tx/city/leander/)
+[Get quotes](https://moldroster.com/quotes/?city=leander&st=tx) [All Leander listings](https://moldroster.com/tx/city/leander/)
 
 ## How much does mold inspection and remediation cost?
 
@@ -30,8 +30,6 @@ For larger jobs, yes: a licensed assessor inspects, samples if needed and writes
 For larger jobs, a licensed assessor inspects, samples if needed, and writes a protocol. A separate licensed remediator does the work, and the assessor confirms the result. Fixing the moisture source is the key step ([EPA: A Brief Guide to Mold, Moisture and Your Home](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home)).
 
 ## Which licensed mold pros are based in Leander, TX?
-
-4 TDLR-licensed listings give an address in Leander: 0 hold an assessment licence and 4 hold a remediation licence.
 
 ✔ Licensed by TDLR Mold remediation
 

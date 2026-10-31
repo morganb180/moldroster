@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/clermont/guide/
 
 13 DBPR-licensed listings give an address in Clermont: **11** hold an assessment licence and **6** hold a remediation licence. Another 53 are elsewhere in Lake County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=clermont&st=fl) [All Clermont listings](https://moldroster.com/fl/city/clermont/)
+[Get quotes](https://moldroster.com/quotes/?city=clermont&st=fl) [All Clermont listings](https://moldroster.com/fl/city/clermont/)
 
 ## What should I ask a mold pro before I sign?
 
@@ -35,8 +35,6 @@ A DBPR licence is generally required to perform mold assessment or remediation f
 Summary of Florida Statutes Chapter 468, Part XVI (Mold-Related Services). See the agency: [Florida Department of Business and Professional Regulation](https://www2.myfloridalicense.com/mold-related-services/). Plain-language summary, not legal advice; confirm details with the agency.
 
 ## Which licensed mold pros are based in Clermont, FL?
-
-13 DBPR-licensed listings give an address in Clermont: 11 hold an assessment licence and 6 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

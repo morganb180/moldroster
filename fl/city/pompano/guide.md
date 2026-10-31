@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/pompano/guide/
 
 4 DBPR-licensed listings give an address in Pompano: **1** hold an assessment licence and **3** hold a remediation licence. Another 585 are elsewhere in Broward County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=pompano&st=fl) [All Pompano listings](https://moldroster.com/fl/city/pompano/)
+[Get quotes](https://moldroster.com/quotes/?city=pompano&st=fl) [All Pompano listings](https://moldroster.com/fl/city/pompano/)
 
 ## What should I ask a mold pro before I sign?
 
@@ -35,8 +35,6 @@ A DBPR licence is generally required to perform mold assessment or remediation f
 Summary of Florida Statutes Chapter 468, Part XVI (Mold-Related Services). See the agency: [Florida Department of Business and Professional Regulation](https://www2.myfloridalicense.com/mold-related-services/). Plain-language summary, not legal advice; confirm details with the agency.
 
 ## Which licensed mold pros are based in Pompano, FL?
-
-4 DBPR-licensed listings give an address in Pompano: 1 hold an assessment licence and 3 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessment
 
@@ -116,7 +114,7 @@ Look the name up in the DBPR records and check the licence is still current. Ask
 
 **How do I find a licensed mold inspector in Pompano?**
 
-Start with the 1 listings in Pompano that hold a DBPR assessment licence, then confirm the licence with the agency.
+Start with the 1 listing in Pompano that hold a DBPR assessment licence, then confirm the licence with the agency.
 
 **How much does mold remediation cost in Pompano?**
 

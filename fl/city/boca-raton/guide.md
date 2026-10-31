@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/boca-raton/guide/
 
 91 DBPR-licensed listings give an address in Boca Raton: **61** hold an assessment licence and **69** hold a remediation licence. Another 279 are elsewhere in Palm Beach County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=boca-raton&st=fl) [All Boca Raton listings](https://moldroster.com/fl/city/boca-raton/)
+[Get quotes](https://moldroster.com/quotes/?city=boca-raton&st=fl) [All Boca Raton listings](https://moldroster.com/fl/city/boca-raton/)
 
 ## How much does mold inspection and remediation cost?
 
@@ -30,8 +30,6 @@ For larger jobs, yes: a licensed assessor inspects, samples if needed and writes
 For larger jobs, a licensed assessor inspects, samples if needed, and writes a protocol. A separate licensed remediator does the work, and the assessor confirms the result. Fixing the moisture source is the key step ([EPA: A Brief Guide to Mold, Moisture and Your Home](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home)).
 
 ## Which licensed mold pros are based in Boca Raton, FL?
-
-91 DBPR-licensed listings give an address in Boca Raton: 61 hold an assessment licence and 69 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

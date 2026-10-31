@@ -10,19 +10,15 @@ canonical: https://moldroster.com/fl/city/winter-haven/
 
 **Quick answer:** 12 DBPR-licensed listings give an address in Winter Haven (8 mold assessment, 10 mold remediation), and 66 more are elsewhere in Polk County. Licensed pros often travel, so ask whether they cover your address.
 
-12 DBPR-licensed listings give an address in Winter Haven (8 mold assessment, 10 mold remediation), and 66 more are elsewhere in Polk County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Winter Haven hiring guide →**](https://moldroster.com/fl/city/winter-haven/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Winter Haven](https://moldroster.com/get-quotes/?city=winter-haven&st=fl)
+[How to get quotes in Winter Haven](https://moldroster.com/quotes/?city=winter-haven&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Winter Haven, FL?
 
 Listed below: 8 licensed mold assessors (inspection and testing) and 4 licensed mold remediators with an address in Winter Haven. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (8)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -184,7 +180,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Polk County, FL? (66)
 
-66 more DBPR-licensed listings are elsewhere in Polk County. Licensed pros often travel, so ask whether they cover your address.
+66 more DBPR-licensed listings are elsewhere in Polk County.
 
 [See all 78 Polk County listings →](https://moldroster.com/fl/county/polk/)
 

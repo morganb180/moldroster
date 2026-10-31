@@ -10,19 +10,15 @@ canonical: https://moldroster.com/fl/city/orange-city/
 
 **Quick answer:** 4 DBPR-licensed listings give an address in Orange City (2 mold assessment, 3 mold remediation), and 62 more are elsewhere in Volusia County. Licensed pros often travel, so ask whether they cover your address.
 
-4 DBPR-licensed listings give an address in Orange City (2 mold assessment, 3 mold remediation), and 62 more are elsewhere in Volusia County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Orange City hiring guide →**](https://moldroster.com/fl/city/orange-city/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Orange City](https://moldroster.com/get-quotes/?city=orange-city&st=fl)
+[How to get quotes in Orange City](https://moldroster.com/quotes/?city=orange-city&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Orange City, FL?
 
 Listed below: 2 licensed mold assessors (inspection and testing) and 2 licensed mold remediators with an address in Orange City. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (2)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -77,7 +73,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Volusia County, FL? (62)
 
-62 more DBPR-licensed listings are elsewhere in Volusia County. Licensed pros often travel, so ask whether they cover your address.
+62 more DBPR-licensed listings are elsewhere in Volusia County.
 
 [See all 66 Volusia County listings →](https://moldroster.com/fl/county/volusia/)
 

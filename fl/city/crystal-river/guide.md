@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/crystal-river/guide/
 
 4 DBPR-licensed listings give an address in Crystal River: **2** hold an assessment licence and **2** hold a remediation licence. Another 13 are elsewhere in Citrus County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=crystal-river&st=fl) [All Crystal River listings](https://moldroster.com/fl/city/crystal-river/)
+[Get quotes](https://moldroster.com/quotes/?city=crystal-river&st=fl) [All Crystal River listings](https://moldroster.com/fl/city/crystal-river/)
 
 ## How much does mold inspection and remediation cost?
 
@@ -30,8 +30,6 @@ For larger jobs, yes: a licensed assessor inspects, samples if needed and writes
 For larger jobs, a licensed assessor inspects, samples if needed, and writes a protocol. A separate licensed remediator does the work, and the assessor confirms the result. Fixing the moisture source is the key step ([EPA: A Brief Guide to Mold, Moisture and Your Home](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home)).
 
 ## Which licensed mold pros are based in Crystal River, FL?
-
-4 DBPR-licensed listings give an address in Crystal River: 2 hold an assessment licence and 2 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessment
 

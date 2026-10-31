@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/massapequa/guide/
 
 5 NYS DOL-licensed listings give an address in Massapequa: **4** hold an assessment licence and **2** hold a remediation licence. Another 148 are elsewhere in Nassau County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=massapequa&st=ny) [All Massapequa listings](https://moldroster.com/ny/city/massapequa/)
+[Get quotes](https://moldroster.com/quotes/?city=massapequa&st=ny) [All Massapequa listings](https://moldroster.com/ny/city/massapequa/)
 
 ## What are New York's mold licensing rules?
 
@@ -34,8 +34,6 @@ National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
 ## Which licensed mold pros are based in Massapequa, NY?
-
-5 NYS DOL-licensed listings give an address in Massapequa: 4 hold an assessment licence and 2 hold a remediation licence.
 
 ✔ Licensed by NYS DOL Mold assessment
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/levittown/guide/
 
 6 NYS DOL-licensed listings give an address in Levittown: **1** hold an assessment licence and **5** hold a remediation licence. Another 147 are elsewhere in Nassau County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=levittown&st=ny) [All Levittown listings](https://moldroster.com/ny/city/levittown/)
+[Get quotes](https://moldroster.com/quotes/?city=levittown&st=ny) [All Levittown listings](https://moldroster.com/ny/city/levittown/)
 
 ## What are New York's mold licensing rules?
 
@@ -34,8 +34,6 @@ National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
 ## Which licensed mold pros are based in Levittown, NY?
-
-6 NYS DOL-licensed listings give an address in Levittown: 1 hold an assessment licence and 5 hold a remediation licence.
 
 ✔ Licensed by NYS DOL Mold assessment
 
@@ -120,7 +118,7 @@ Ask what clearance test will show the job is done, for the licence number and ty
 
 **How do I find a licensed mold inspector in Levittown?**
 
-Start with the 1 listings in Levittown that hold a NYS DOL assessment licence, then confirm the licence with the agency.
+Start with the 1 listing in Levittown that hold a NYS DOL assessment licence, then confirm the licence with the agency.
 
 **How much does mold remediation cost in Levittown?**
 

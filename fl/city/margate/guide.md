@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/margate/guide/
 
 20 DBPR-licensed listings give an address in Margate: **15** hold an assessment licence and **12** hold a remediation licence. Another 569 are elsewhere in Broward County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=margate&st=fl) [All Margate listings](https://moldroster.com/fl/city/margate/)
+[Get quotes](https://moldroster.com/quotes/?city=margate&st=fl) [All Margate listings](https://moldroster.com/fl/city/margate/)
 
 ## Do I need a mold assessment before remediation?
 
@@ -28,8 +28,6 @@ Look the name up in the DBPR records and check the licence is still current. Ask
 4. Ask for proof of insurance and a written scope before work starts.
 
 ## Which licensed mold pros are based in Margate, FL?
-
-20 DBPR-licensed listings give an address in Margate: 15 hold an assessment licence and 12 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

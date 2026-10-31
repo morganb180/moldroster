@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/patchogue/guide/
 
 5 NYS DOL-licensed listings give an address in Patchogue: **3** hold an assessment licence and **2** hold a remediation licence. Another 180 are elsewhere in Suffolk County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=patchogue&st=ny) [All Patchogue listings](https://moldroster.com/ny/city/patchogue/)
+[Get quotes](https://moldroster.com/quotes/?city=patchogue&st=ny) [All Patchogue listings](https://moldroster.com/ny/city/patchogue/)
 
 ## How much does mold inspection and remediation cost?
 
@@ -30,8 +30,6 @@ For larger jobs, yes: a licensed assessor inspects, samples if needed and writes
 For larger jobs, a licensed assessor inspects, samples if needed, and writes a protocol. A separate licensed remediator does the work, and the assessor confirms the result. Fixing the moisture source is the key step ([EPA: A Brief Guide to Mold, Moisture and Your Home](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home)).
 
 ## Which licensed mold pros are based in Patchogue, NY?
-
-5 NYS DOL-licensed listings give an address in Patchogue: 3 hold an assessment licence and 2 hold a remediation licence.
 
 ✔ Licensed by NYS DOL Mold assessment
 

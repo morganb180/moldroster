@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/rockwall/guide/
 
 5 TDLR-licensed listings give an address in Rockwall: **2** hold an assessment licence and **3** hold a remediation licence. Another 21 are elsewhere in Rockwall County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=rockwall&st=tx) [All Rockwall listings](https://moldroster.com/tx/city/rockwall/)
+[Get quotes](https://moldroster.com/quotes/?city=rockwall&st=tx) [All Rockwall listings](https://moldroster.com/tx/city/rockwall/)
 
 ## What are Texas' mold licensing rules?
 
@@ -34,8 +34,6 @@ National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
 ## Which licensed mold pros are based in Rockwall, TX?
-
-5 TDLR-licensed listings give an address in Rockwall: 2 hold an assessment licence and 3 hold a remediation licence.
 
 ✔ Licensed by TDLR Mold assessment
 

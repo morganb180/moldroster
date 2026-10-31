@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/naples/guide/
 
 71 DBPR-licensed listings give an address in Naples: **48** hold an assessment licence and **51** hold a remediation licence. Another 6 are elsewhere in Collier County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=naples&st=fl) [All Naples listings](https://moldroster.com/fl/city/naples/)
+[Get quotes](https://moldroster.com/quotes/?city=naples&st=fl) [All Naples listings](https://moldroster.com/fl/city/naples/)
 
 ## How much does mold inspection and remediation cost?
 
@@ -30,8 +30,6 @@ For larger jobs, yes: a licensed assessor inspects, samples if needed and writes
 For larger jobs, a licensed assessor inspects, samples if needed, and writes a protocol. A separate licensed remediator does the work, and the assessor confirms the result. Fixing the moisture source is the key step ([EPA: A Brief Guide to Mold, Moisture and Your Home](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home)).
 
 ## Which licensed mold pros are based in Naples, FL?
-
-71 DBPR-licensed listings give an address in Naples: 48 hold an assessment licence and 51 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessment
 

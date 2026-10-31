@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/jamaica/guide/
 
 8 NYS DOL-licensed listings give an address in Jamaica: **4** hold an assessment licence and **6** hold a remediation licence. Another 146 are elsewhere in Queens County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=jamaica&st=ny) [All Jamaica listings](https://moldroster.com/ny/city/jamaica/)
+[Get quotes](https://moldroster.com/quotes/?city=jamaica&st=ny) [All Jamaica listings](https://moldroster.com/ny/city/jamaica/)
 
 ## How much does mold inspection and remediation cost?
 
@@ -30,8 +30,6 @@ For larger jobs, yes: a licensed assessor inspects, samples if needed and writes
 For larger jobs, a licensed assessor inspects, samples if needed, and writes a protocol. A separate licensed remediator does the work, and the assessor confirms the result. Fixing the moisture source is the key step ([EPA: A Brief Guide to Mold, Moisture and Your Home](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home)).
 
 ## Which licensed mold pros are based in Jamaica, NY?
-
-8 NYS DOL-licensed listings give an address in Jamaica: 4 hold an assessment licence and 6 hold a remediation licence.
 
 ✔ Licensed by NYS DOL Mold assessmentMold remediation
 

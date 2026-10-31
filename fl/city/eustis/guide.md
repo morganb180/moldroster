@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/eustis/guide/
 
 5 DBPR-licensed listings give an address in Eustis: **2** hold an assessment licence and **4** hold a remediation licence. Another 56 are elsewhere in Lake County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=eustis&st=fl) [All Eustis listings](https://moldroster.com/fl/city/eustis/)
+[Get quotes](https://moldroster.com/quotes/?city=eustis&st=fl) [All Eustis listings](https://moldroster.com/fl/city/eustis/)
 
 ## Do I need a mold assessment before remediation?
 
@@ -28,8 +28,6 @@ Look the name up in the DBPR records and check the licence is still current. Ask
 4. Ask for proof of insurance and a written scope before work starts.
 
 ## Which licensed mold pros are based in Eustis, FL?
-
-5 DBPR-licensed listings give an address in Eustis: 2 hold an assessment licence and 4 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessment
 

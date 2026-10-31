@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/woodside/guide/
 
 4 NYS DOL-licensed listings give an address in Woodside: **3** hold an assessment licence and **3** hold a remediation licence. Another 150 are elsewhere in Queens County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=woodside&st=ny) [All Woodside listings](https://moldroster.com/ny/city/woodside/)
+[Get quotes](https://moldroster.com/quotes/?city=woodside&st=ny) [All Woodside listings](https://moldroster.com/ny/city/woodside/)
 
 ## How do I verify a mold pro's licence in Woodside, NY?
 
@@ -32,8 +32,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 * Do you carry liability insurance that covers mold work?
 
 ## Which licensed mold pros are based in Woodside, NY?
-
-4 NYS DOL-licensed listings give an address in Woodside: 3 hold an assessment licence and 3 hold a remediation licence.
 
 ✔ Licensed by NYS DOL Mold assessment
 

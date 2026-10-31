@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/cocoa/guide/
 
 13 DBPR-licensed listings give an address in Cocoa: **10** hold an assessment licence and **9** hold a remediation licence. Another 80 are elsewhere in Brevard County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=cocoa&st=fl) [All Cocoa listings](https://moldroster.com/fl/city/cocoa/)
+[Get quotes](https://moldroster.com/quotes/?city=cocoa&st=fl) [All Cocoa listings](https://moldroster.com/fl/city/cocoa/)
 
 ## How do I verify a mold pro's licence in Cocoa, FL?
 
@@ -33,8 +33,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 * How will you contain the work area and protect the rest of the house?
 
 ## Which licensed mold pros are based in Cocoa, FL?
-
-13 DBPR-licensed listings give an address in Cocoa: 10 hold an assessment licence and 9 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

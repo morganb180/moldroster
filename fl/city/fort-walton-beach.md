@@ -10,19 +10,15 @@ canonical: https://moldroster.com/fl/city/fort-walton-beach/
 
 **Quick answer:** 4 DBPR-licensed listings give an address in Fort Walton Beach (3 mold assessment, 3 mold remediation), and 14 more are elsewhere in Okaloosa County. Licensed pros often travel, so ask whether they cover your address.
 
-4 DBPR-licensed listings give an address in Fort Walton Beach (3 mold assessment, 3 mold remediation), and 14 more are elsewhere in Okaloosa County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Fort Walton Beach hiring guide →**](https://moldroster.com/fl/city/fort-walton-beach/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Fort Walton Beach](https://moldroster.com/get-quotes/?city=fort-walton-beach&st=fl)
+[How to get quotes in Fort Walton Beach](https://moldroster.com/quotes/?city=fort-walton-beach&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Fort Walton Beach, FL?
 
 Listed below: 3 licensed mold assessors (inspection and testing) and 1 licensed mold remediator with an address in Fort Walton Beach. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (3)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -80,7 +76,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Okaloosa County, FL? (14)
 
-14 more DBPR-licensed listings are elsewhere in Okaloosa County. Licensed pros often travel, so ask whether they cover your address.
+14 more DBPR-licensed listings are elsewhere in Okaloosa County.
 
 [See all 18 Okaloosa County listings →](https://moldroster.com/fl/county/okaloosa/)
 

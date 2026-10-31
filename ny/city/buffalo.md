@@ -10,19 +10,15 @@ canonical: https://moldroster.com/ny/city/buffalo/
 
 **Quick answer:** 19 NYS DOL-licensed listings give an address in Buffalo (11 mold assessment, 10 mold remediation), and 23 more are elsewhere in Erie County. Licensed pros often travel, so ask whether they cover your address.
 
-19 NYS DOL-licensed listings give an address in Buffalo (11 mold assessment, 10 mold remediation), and 23 more are elsewhere in Erie County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Buffalo hiring guide →**](https://moldroster.com/ny/city/buffalo/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Buffalo](https://moldroster.com/get-quotes/?city=buffalo&st=ny)
+[How to get quotes in Buffalo](https://moldroster.com/quotes/?city=buffalo&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Buffalo, NY?
 
 Listed below: 11 licensed mold assessors (inspection and testing) and 8 licensed mold remediators with an address in Buffalo. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (11)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessment
 
@@ -319,7 +315,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 ## Which other licensed mold pros are in Erie County, NY? (23)
 
-23 more NYS DOL-licensed listings are elsewhere in Erie County. Licensed pros often travel, so ask whether they cover your address.
+23 more NYS DOL-licensed listings are elsewhere in Erie County.
 
 [See all 42 Erie County listings →](https://moldroster.com/ny/county/erie/)
 

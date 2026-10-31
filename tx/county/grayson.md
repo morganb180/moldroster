@@ -8,9 +8,9 @@ canonical: https://moldroster.com/tx/county/grayson/
 
 # Licensed mold assessors & remediators in Grayson County, TX
 
-**Quick answer:** 5 TDLR-licensed listings with an address of record in Grayson County (5 mold remediation): 1 firms and 4 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+**Quick answer:** 5 TDLR-licensed listings with an address of record in Grayson County (5 mold remediation): 1 firm and 4 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**5 TDLR-licensed listings** with an address of record in Grayson County (5 mold remediation): 1 firms and 4 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=grayson&st=tx)
+[How to get quotes](https://moldroster.com/quotes/?county=grayson&st=tx)
 
 ## Which licensed mold remediators are in Grayson County, TX? (5)
 

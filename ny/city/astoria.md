@@ -10,19 +10,15 @@ canonical: https://moldroster.com/ny/city/astoria/
 
 **Quick answer:** 16 NYS DOL-licensed listings give an address in Astoria (9 mold assessment, 8 mold remediation), and 138 more are elsewhere in Queens County. Licensed pros often travel, so ask whether they cover your address.
 
-16 NYS DOL-licensed listings give an address in Astoria (9 mold assessment, 8 mold remediation), and 138 more are elsewhere in Queens County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Astoria hiring guide →**](https://moldroster.com/ny/city/astoria/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Astoria](https://moldroster.com/get-quotes/?city=astoria&st=ny)
+[How to get quotes in Astoria](https://moldroster.com/quotes/?city=astoria&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Astoria, NY?
 
 Listed below: 9 licensed mold assessors (inspection and testing) and 7 licensed mold remediators with an address in Astoria. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (9)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessment
 
@@ -271,7 +267,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 ## Which other licensed mold pros are in Queens County, NY? (138)
 
-138 more NYS DOL-licensed listings are elsewhere in Queens County. Licensed pros often travel, so ask whether they cover your address.
+138 more NYS DOL-licensed listings are elsewhere in Queens County.
 
 [See all 154 Queens County listings →](https://moldroster.com/ny/county/queens/)
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/argyle/guide/
 
 4 TDLR-licensed listings give an address in Argyle: **2** hold an assessment licence and **2** hold a remediation licence. Another 84 are elsewhere in Denton County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=argyle&st=tx) [All Argyle listings](https://moldroster.com/tx/city/argyle/)
+[Get quotes](https://moldroster.com/quotes/?city=argyle&st=tx) [All Argyle listings](https://moldroster.com/tx/city/argyle/)
 
 ## How do I verify a mold pro's licence in Argyle, TX?
 
@@ -34,8 +34,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 * Will you find and fix the moisture source, or only remove visible growth?
 
 ## Which licensed mold pros are based in Argyle, TX?
-
-4 TDLR-licensed listings give an address in Argyle: 2 hold an assessment licence and 2 hold a remediation licence.
 
 ✔ Licensed by TDLR Mold assessment
 

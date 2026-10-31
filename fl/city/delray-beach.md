@@ -10,19 +10,15 @@ canonical: https://moldroster.com/fl/city/delray-beach/
 
 **Quick answer:** 27 DBPR-licensed listings give an address in Delray Beach (20 mold assessment, 17 mold remediation), and 343 more are elsewhere in Palm Beach County. Licensed pros often travel, so ask whether they cover your address.
 
-27 DBPR-licensed listings give an address in Delray Beach (20 mold assessment, 17 mold remediation), and 343 more are elsewhere in Palm Beach County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Delray Beach hiring guide →**](https://moldroster.com/fl/city/delray-beach/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Delray Beach](https://moldroster.com/get-quotes/?city=delray-beach&st=fl)
+[How to get quotes in Delray Beach](https://moldroster.com/quotes/?city=delray-beach&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Delray Beach, FL?
 
 Listed below: 20 licensed mold assessors (inspection and testing) and 7 licensed mold remediators with an address in Delray Beach. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (20)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -372,7 +368,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Palm Beach County, FL? (343)
 
-343 more DBPR-licensed listings are elsewhere in Palm Beach County. Licensed pros often travel, so ask whether they cover your address.
+343 more DBPR-licensed listings are elsewhere in Palm Beach County.
 
 [See all 370 Palm Beach County listings →](https://moldroster.com/fl/county/palm-beach/)
 

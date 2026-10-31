@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/babylon/guide/
 
 5 NYS DOL-licensed listings give an address in Babylon: **4** hold an assessment licence and **2** hold a remediation licence. Another 180 are elsewhere in Suffolk County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=babylon&st=ny) [All Babylon listings](https://moldroster.com/ny/city/babylon/)
+[Get quotes](https://moldroster.com/quotes/?city=babylon&st=ny) [All Babylon listings](https://moldroster.com/ny/city/babylon/)
 
 ## What are New York's mold licensing rules?
 
@@ -34,8 +34,6 @@ National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
 ## Which licensed mold pros are based in Babylon, NY?
-
-5 NYS DOL-licensed listings give an address in Babylon: 4 hold an assessment licence and 2 hold a remediation licence.
 
 ✔ Licensed by NYS DOL Mold assessment
 

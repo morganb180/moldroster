@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/port-orange/guide/
 
 8 DBPR-licensed listings give an address in Port Orange: **6** hold an assessment licence and **5** hold a remediation licence. Another 58 are elsewhere in Volusia County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=port-orange&st=fl) [All Port Orange listings](https://moldroster.com/fl/city/port-orange/)
+[Get quotes](https://moldroster.com/quotes/?city=port-orange&st=fl) [All Port Orange listings](https://moldroster.com/fl/city/port-orange/)
 
 ## How much does mold inspection and remediation cost?
 
@@ -30,8 +30,6 @@ For larger jobs, yes: a licensed assessor inspects, samples if needed and writes
 For larger jobs, a licensed assessor inspects, samples if needed, and writes a protocol. A separate licensed remediator does the work, and the assessor confirms the result. Fixing the moisture source is the key step ([EPA: A Brief Guide to Mold, Moisture and Your Home](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home)).
 
 ## Which licensed mold pros are based in Port Orange, FL?
-
-8 DBPR-licensed listings give an address in Port Orange: 6 hold an assessment licence and 5 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

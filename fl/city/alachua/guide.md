@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/alachua/guide/
 
 4 DBPR-licensed listings give an address in Alachua: **2** hold an assessment licence and **3** hold a remediation licence. Another 30 are elsewhere in Alachua County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=alachua&st=fl) [All Alachua listings](https://moldroster.com/fl/city/alachua/)
+[Get quotes](https://moldroster.com/quotes/?city=alachua&st=fl) [All Alachua listings](https://moldroster.com/fl/city/alachua/)
 
 ## Do I need a mold assessment before remediation?
 
@@ -28,8 +28,6 @@ Look the name up in the DBPR records and check the licence is still current. Ask
 4. Ask for proof of insurance and a written scope before work starts.
 
 ## Which licensed mold pros are based in Alachua, FL?
-
-4 DBPR-licensed listings give an address in Alachua: 2 hold an assessment licence and 3 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

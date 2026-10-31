@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/westbury/guide/
 
 7 NYS DOL-licensed listings give an address in Westbury: **3** hold an assessment licence and **5** hold a remediation licence. Another 146 are elsewhere in Nassau County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=westbury&st=ny) [All Westbury listings](https://moldroster.com/ny/city/westbury/)
+[Get quotes](https://moldroster.com/quotes/?city=westbury&st=ny) [All Westbury listings](https://moldroster.com/ny/city/westbury/)
 
 ## Do I need a mold assessment before remediation?
 
@@ -28,8 +28,6 @@ Look the name up in the NYS DOL records and check the licence is still current. 
 4. Ask for proof of insurance and a written scope before work starts.
 
 ## Which licensed mold pros are based in Westbury, NY?
-
-7 NYS DOL-licensed listings give an address in Westbury: 3 hold an assessment licence and 5 hold a remediation licence.
 
 ✔ Licensed by NYS DOL Mold assessment
 

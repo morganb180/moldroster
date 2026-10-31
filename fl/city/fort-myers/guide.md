@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/fort-myers/guide/
 
 63 DBPR-licensed listings give an address in Fort Myers: **46** hold an assessment licence and **36** hold a remediation licence. Another 133 are elsewhere in Lee County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=fort-myers&st=fl) [All Fort Myers listings](https://moldroster.com/fl/city/fort-myers/)
+[Get quotes](https://moldroster.com/quotes/?city=fort-myers&st=fl) [All Fort Myers listings](https://moldroster.com/fl/city/fort-myers/)
 
 ## How much does mold inspection and remediation cost?
 
@@ -30,8 +30,6 @@ For larger jobs, yes: a licensed assessor inspects, samples if needed and writes
 For larger jobs, a licensed assessor inspects, samples if needed, and writes a protocol. A separate licensed remediator does the work, and the assessor confirms the result. Fixing the moisture source is the key step ([EPA: A Brief Guide to Mold, Moisture and Your Home](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home)).
 
 ## Which licensed mold pros are based in Fort Myers, FL?
-
-63 DBPR-licensed listings give an address in Fort Myers: 46 hold an assessment licence and 36 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

@@ -10,19 +10,15 @@ canonical: https://moldroster.com/fl/city/plantation/
 
 **Quick answer:** 26 DBPR-licensed listings give an address in Plantation (20 mold assessment, 18 mold remediation), and 563 more are elsewhere in Broward County. Licensed pros often travel, so ask whether they cover your address.
 
-26 DBPR-licensed listings give an address in Plantation (20 mold assessment, 18 mold remediation), and 563 more are elsewhere in Broward County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Plantation hiring guide →**](https://moldroster.com/fl/city/plantation/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Plantation](https://moldroster.com/get-quotes/?city=plantation&st=fl)
+[How to get quotes in Plantation](https://moldroster.com/quotes/?city=plantation&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Plantation, FL?
 
 Listed below: 20 licensed mold assessors (inspection and testing) and 6 licensed mold remediators with an address in Plantation. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (20)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -355,7 +351,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Broward County, FL? (563)
 
-563 more DBPR-licensed listings are elsewhere in Broward County. Licensed pros often travel, so ask whether they cover your address.
+563 more DBPR-licensed listings are elsewhere in Broward County.
 
 [See all 589 Broward County listings →](https://moldroster.com/fl/county/broward/)
 

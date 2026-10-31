@@ -8,9 +8,9 @@ canonical: https://moldroster.com/tx/county/wood/
 
 # Licensed mold assessors & remediators in Wood County, TX
 
-**Quick answer:** 1 TDLR-licensed listings with an address of record in Wood County (1 mold remediation): 0 firms and 1 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+**Quick answer:** 1 TDLR-licensed listing with an address of record in Wood County (1 mold remediation): 0 firms and 1 individual licensee. Licensed pros often travel, so ask whether they cover your address.
 
-**1 TDLR-licensed listings** with an address of record in Wood County (1 mold remediation): 0 firms and 1 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=wood&st=tx)
+[How to get quotes](https://moldroster.com/quotes/?county=wood&st=tx)
 
 ## Which licensed mold remediators are in Wood County, TX? (1)
 

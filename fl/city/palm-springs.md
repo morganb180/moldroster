@@ -10,19 +10,15 @@ canonical: https://moldroster.com/fl/city/palm-springs/
 
 **Quick answer:** 5 DBPR-licensed listings give an address in Palm Springs (1 mold assessment, 5 mold remediation), and 365 more are elsewhere in Palm Beach County. Licensed pros often travel, so ask whether they cover your address.
 
-5 DBPR-licensed listings give an address in Palm Springs (1 mold assessment, 5 mold remediation), and 365 more are elsewhere in Palm Beach County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Palm Springs hiring guide →**](https://moldroster.com/fl/city/palm-springs/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Palm Springs](https://moldroster.com/get-quotes/?city=palm-springs&st=fl)
+[How to get quotes in Palm Springs](https://moldroster.com/quotes/?city=palm-springs&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Palm Springs, FL?
 
 Listed below: 1 licensed mold assessor (inspection and testing) and 4 licensed mold remediators with an address in Palm Springs. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (1)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -89,7 +85,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Palm Beach County, FL? (365)
 
-365 more DBPR-licensed listings are elsewhere in Palm Beach County. Licensed pros often travel, so ask whether they cover your address.
+365 more DBPR-licensed listings are elsewhere in Palm Beach County.
 
 [See all 370 Palm Beach County listings →](https://moldroster.com/fl/county/palm-beach/)
 

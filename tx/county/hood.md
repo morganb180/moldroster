@@ -10,13 +10,11 @@ canonical: https://moldroster.com/tx/county/hood/
 
 **Quick answer:** 2 TDLR-licensed listings with an address of record in Hood County (1 mold assessment, 2 mold remediation): 0 firms and 2 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**2 TDLR-licensed listings** with an address of record in Hood County (1 mold assessment, 2 mold remediation): 0 firms and 2 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=hood&st=tx)
+[How to get quotes](https://moldroster.com/quotes/?county=hood&st=tx)
 
 ## Which licensed mold assessors are in Hood County, TX? (1)
 
 1 listing is shown in this section with an address of record in Hood County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by TDLR Mold assessmentMold remediation
 
@@ -34,8 +32,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=TXI0551)
 
 ## Which licensed mold remediators are in Hood County, TX? (1)
-
-1 listing is shown in this section with an address of record in Hood County. Listings holding more than one licence type appear once, in the first matching section.
 
 ✔ Licensed by TDLR Mold remediation
 
@@ -68,7 +64,7 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 **How many licensed mold assessors are in Hood County?**
 
-1 listings with a TDLR mold assessment licence and 2 with a remediation licence have an address of record in Hood County. Pros from neighboring counties may also serve the area.
+1 listing with a TDLR mold assessment licence and 2 with a remediation licence have an address of record in Hood County. Pros from neighboring counties may also serve the area.
 
 **How do I check a Hood County mold company's licence?**
 

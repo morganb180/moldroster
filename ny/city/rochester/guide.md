@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/rochester/guide/
 
 37 NYS DOL-licensed listings give an address in Rochester: **20** hold an assessment licence and **23** hold a remediation licence. Another 20 are elsewhere in Monroe County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=rochester&st=ny) [All Rochester listings](https://moldroster.com/ny/city/rochester/)
+[Get quotes](https://moldroster.com/quotes/?city=rochester&st=ny) [All Rochester listings](https://moldroster.com/ny/city/rochester/)
 
 ## Do I need a mold assessment before remediation?
 
@@ -28,8 +28,6 @@ Look the name up in the NYS DOL records and check the licence is still current. 
 4. Ask for proof of insurance and a written scope before work starts.
 
 ## Which licensed mold pros are based in Rochester, NY?
-
-37 NYS DOL-licensed listings give an address in Rochester: 20 hold an assessment licence and 23 hold a remediation licence.
 
 ✔ Licensed by NYS DOL Mold assessment
 

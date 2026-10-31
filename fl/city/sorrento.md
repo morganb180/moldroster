@@ -10,19 +10,15 @@ canonical: https://moldroster.com/fl/city/sorrento/
 
 **Quick answer:** 7 DBPR-licensed listings give an address in Sorrento (5 mold assessment, 5 mold remediation), and 54 more are elsewhere in Lake County. Licensed pros often travel, so ask whether they cover your address.
 
-7 DBPR-licensed listings give an address in Sorrento (5 mold assessment, 5 mold remediation), and 54 more are elsewhere in Lake County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Sorrento hiring guide →**](https://moldroster.com/fl/city/sorrento/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Sorrento](https://moldroster.com/get-quotes/?city=sorrento&st=fl)
+[How to get quotes in Sorrento](https://moldroster.com/quotes/?city=sorrento&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Sorrento, FL?
 
 Listed below: 5 licensed mold assessors (inspection and testing) and 2 licensed mold remediators with an address in Sorrento. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (5)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -115,7 +111,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Lake County, FL? (54)
 
-54 more DBPR-licensed listings are elsewhere in Lake County. Licensed pros often travel, so ask whether they cover your address.
+54 more DBPR-licensed listings are elsewhere in Lake County.
 
 [See all 61 Lake County listings →](https://moldroster.com/fl/county/lake/)
 

@@ -10,15 +10,13 @@ canonical: https://moldroster.com/ny/county/albany/
 
 **Quick answer:** 45 NYS DOL-licensed listings with an address of record in Albany County (26 mold assessment, 20 mold remediation): 45 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**45 NYS DOL-licensed listings** with an address of record in Albany County (26 mold assessment, 20 mold remediation): 45 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=albany&st=ny)
+[How to get quotes](https://moldroster.com/quotes/?county=albany&st=ny)
 
 City pages: [Albany](https://moldroster.com/ny/city/albany/) · [Latham](https://moldroster.com/ny/city/latham/)
 
 ## Which licensed mold assessors are in Albany County, NY? (26)
 
 26 listings are shown in this section with an address of record in Albany County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessment
 
@@ -414,7 +412,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 ## Which licensed mold remediators are in Albany County, NY? (19)
 
-19 listings are shown in this section with an address of record in Albany County. Listings holding more than one licence type appear once, in the first matching section.
+19 listings are shown in this section with an address of record in Albany County.
 
 ✔ Licensed by NYS DOL Mold remediation
 
@@ -727,7 +725,7 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 26 listings with a NYS DOL mold assessment licence and 20 with a remediation licence have an address of record in Albany County. Pros from neighboring counties may also serve the area.
 
-**How do I check a Albany County mold company's licence?**
+**How do I check an Albany County mold company's licence?**
 
 Look it up with the New York State Department of Labor (NYS DOL). Each listing here shows the licence number and expiry date from the agency's records.
 

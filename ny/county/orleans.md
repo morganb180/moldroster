@@ -8,9 +8,9 @@ canonical: https://moldroster.com/ny/county/orleans/
 
 # Licensed mold assessors & remediators in Orleans County, NY
 
-**Quick answer:** 1 NYS DOL-licensed listings with an address of record in Orleans County (1 mold remediation): 1 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+**Quick answer:** 1 NYS DOL-licensed listing with an address of record in Orleans County (1 mold remediation): 1 firm and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**1 NYS DOL-licensed listings** with an address of record in Orleans County (1 mold remediation): 1 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=orleans&st=ny)
+[How to get quotes](https://moldroster.com/quotes/?county=orleans&st=ny)
 
 ## Which licensed mold remediators are in Orleans County, NY? (1)
 
@@ -52,7 +52,7 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 0 listings with a NYS DOL mold assessment licence and 1 with a remediation licence have an address of record in Orleans County. Pros from neighboring counties may also serve the area.
 
-**How do I check a Orleans County mold company's licence?**
+**How do I check an Orleans County mold company's licence?**
 
 Look it up with the New York State Department of Labor (NYS DOL). Each listing here shows the licence number and expiry date from the agency's records.
 

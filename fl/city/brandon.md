@@ -10,19 +10,15 @@ canonical: https://moldroster.com/fl/city/brandon/
 
 **Quick answer:** 10 DBPR-licensed listings give an address in Brandon (6 mold assessment, 6 mold remediation), and 225 more are elsewhere in Hillsborough County. Licensed pros often travel, so ask whether they cover your address.
 
-10 DBPR-licensed listings give an address in Brandon (6 mold assessment, 6 mold remediation), and 225 more are elsewhere in Hillsborough County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Brandon hiring guide →**](https://moldroster.com/fl/city/brandon/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Brandon](https://moldroster.com/get-quotes/?city=brandon&st=fl)
+[How to get quotes in Brandon](https://moldroster.com/quotes/?city=brandon&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Brandon, FL?
 
 Listed below: 6 licensed mold assessors (inspection and testing) and 4 licensed mold remediators with an address in Brandon. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (6)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessment
 
@@ -150,7 +146,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Hillsborough County, FL? (225)
 
-225 more DBPR-licensed listings are elsewhere in Hillsborough County. Licensed pros often travel, so ask whether they cover your address.
+225 more DBPR-licensed listings are elsewhere in Hillsborough County.
 
 [See all 235 Hillsborough County listings →](https://moldroster.com/fl/county/hillsborough/)
 

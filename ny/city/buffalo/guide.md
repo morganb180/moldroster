@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/buffalo/guide/
 
 19 NYS DOL-licensed listings give an address in Buffalo: **11** hold an assessment licence and **10** hold a remediation licence. Another 23 are elsewhere in Erie County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=buffalo&st=ny) [All Buffalo listings](https://moldroster.com/ny/city/buffalo/)
+[Get quotes](https://moldroster.com/quotes/?city=buffalo&st=ny) [All Buffalo listings](https://moldroster.com/ny/city/buffalo/)
 
 ## How much does mold inspection and remediation cost?
 
@@ -30,8 +30,6 @@ For larger jobs, yes: a licensed assessor inspects, samples if needed and writes
 For larger jobs, a licensed assessor inspects, samples if needed, and writes a protocol. A separate licensed remediator does the work, and the assessor confirms the result. Fixing the moisture source is the key step ([EPA: A Brief Guide to Mold, Moisture and Your Home](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home)).
 
 ## Which licensed mold pros are based in Buffalo, NY?
-
-19 NYS DOL-licensed listings give an address in Buffalo: 11 hold an assessment licence and 10 hold a remediation licence.
 
 ✔ Licensed by NYS DOL Mold assessment
 

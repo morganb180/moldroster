@@ -10,15 +10,13 @@ canonical: https://moldroster.com/fl/county/okeechobee/
 
 **Quick answer:** 7 DBPR-licensed listings with an address of record in Okeechobee County (3 mold assessment, 6 mold remediation): 0 firms and 7 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**7 DBPR-licensed listings** with an address of record in Okeechobee County (3 mold assessment, 6 mold remediation): 0 firms and 7 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=okeechobee&st=fl)
+[How to get quotes](https://moldroster.com/quotes/?county=okeechobee&st=fl)
 
 City pages: [Okeechobee](https://moldroster.com/fl/city/okeechobee/)
 
 ## Which licensed mold assessors are in Okeechobee County, FL? (3)
 
 3 listings are shown in this section with an address of record in Okeechobee County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -60,7 +58,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which licensed mold remediators are in Okeechobee County, FL? (4)
 
-4 listings are shown in this section with an address of record in Okeechobee County. Listings holding more than one licence type appear once, in the first matching section.
+4 listings are shown in this section with an address of record in Okeechobee County.
 
 ✔ Licensed by FL DBPR Mold remediation
 
@@ -129,7 +127,7 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 3 listings with a DBPR mold assessment licence and 6 with a remediation licence have an address of record in Okeechobee County. Pros from neighboring counties may also serve the area.
 
-**How do I check a Okeechobee County mold company's licence?**
+**How do I check an Okeechobee County mold company's licence?**
 
 Look it up with the Florida Department of Business and Professional Regulation (DBPR). Each listing here shows the licence number and expiry date from the agency's records.
 

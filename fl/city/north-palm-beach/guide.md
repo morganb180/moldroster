@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/north-palm-beach/guide/
 
 7 DBPR-licensed listings give an address in North Palm Beach: **4** hold an assessment licence and **5** hold a remediation licence. Another 363 are elsewhere in Palm Beach County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=north-palm-beach&st=fl) [All North Palm Beach listings](https://moldroster.com/fl/city/north-palm-beach/)
+[Get quotes](https://moldroster.com/quotes/?city=north-palm-beach&st=fl) [All North Palm Beach listings](https://moldroster.com/fl/city/north-palm-beach/)
 
 ## How do I verify a mold pro's licence in North Palm Beach, FL?
 
@@ -34,8 +34,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 * Will you work with my insurance adjuster, and do you need a signed assignment of benefits? (Read it carefully first.)
 
 ## Which licensed mold pros are based in North Palm Beach, FL?
-
-7 DBPR-licensed listings give an address in North Palm Beach: 4 hold an assessment licence and 5 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessment
 

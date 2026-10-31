@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/centereach/guide/
 
 6 NYS DOL-licensed listings give an address in Centereach: **4** hold an assessment licence and **3** hold a remediation licence. Another 179 are elsewhere in Suffolk County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=centereach&st=ny) [All Centereach listings](https://moldroster.com/ny/city/centereach/)
+[Get quotes](https://moldroster.com/quotes/?city=centereach&st=ny) [All Centereach listings](https://moldroster.com/ny/city/centereach/)
 
 ## What are New York's mold licensing rules?
 
@@ -34,8 +34,6 @@ National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
 ## Which licensed mold pros are based in Centereach, NY?
-
-6 NYS DOL-licensed listings give an address in Centereach: 4 hold an assessment licence and 3 hold a remediation licence.
 
 ✔ Licensed by NYS DOL Mold assessment
 

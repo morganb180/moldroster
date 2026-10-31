@@ -10,19 +10,15 @@ canonical: https://moldroster.com/fl/city/cape-coral/
 
 **Quick answer:** 84 DBPR-licensed listings give an address in Cape Coral (63 mold assessment, 61 mold remediation), and 105 more are elsewhere in Lee County. Licensed pros often travel, so ask whether they cover your address.
 
-84 DBPR-licensed listings give an address in Cape Coral (63 mold assessment, 61 mold remediation), and 105 more are elsewhere in Lee County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Cape Coral hiring guide →**](https://moldroster.com/fl/city/cape-coral/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Cape Coral](https://moldroster.com/get-quotes/?city=cape-coral&st=fl)
+[How to get quotes in Cape Coral](https://moldroster.com/quotes/?city=cape-coral&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Cape Coral, FL?
 
 Listed below: 63 licensed mold assessors (inspection and testing) and 21 licensed mold remediators with an address in Cape Coral. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (63)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessment
 
@@ -1078,7 +1074,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Lee County, FL? (105)
 
-105 more DBPR-licensed listings are elsewhere in Lee County. Licensed pros often travel, so ask whether they cover your address.
+105 more DBPR-licensed listings are elsewhere in Lee County.
 
 [See all 189 Lee County listings →](https://moldroster.com/fl/county/lee/)
 

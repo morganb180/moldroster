@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/palm-city/guide/
 
 6 DBPR-licensed listings give an address in Palm City: **5** hold an assessment licence and **4** hold a remediation licence. Another 32 are elsewhere in Martin County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=palm-city&st=fl) [All Palm City listings](https://moldroster.com/fl/city/palm-city/)
+[Get quotes](https://moldroster.com/quotes/?city=palm-city&st=fl) [All Palm City listings](https://moldroster.com/fl/city/palm-city/)
 
 ## What are Florida's mold licensing rules?
 
@@ -34,8 +34,6 @@ National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
 ## Which licensed mold pros are based in Palm City, FL?
-
-6 DBPR-licensed listings give an address in Palm City: 5 hold an assessment licence and 4 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

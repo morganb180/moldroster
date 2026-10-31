@@ -10,19 +10,15 @@ canonical: https://moldroster.com/fl/city/orlando/
 
 **Quick answer:** 136 DBPR-licensed listings give an address in Orlando (98 mold assessment, 90 mold remediation), and 59 more are elsewhere in Orange County. Licensed pros often travel, so ask whether they cover your address.
 
-136 DBPR-licensed listings give an address in Orlando (98 mold assessment, 90 mold remediation), and 59 more are elsewhere in Orange County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Orlando hiring guide →**](https://moldroster.com/fl/city/orlando/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Orlando](https://moldroster.com/get-quotes/?city=orlando&st=fl)
+[How to get quotes in Orlando](https://moldroster.com/quotes/?city=orlando&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Orlando, FL?
 
 Listed below: 98 licensed mold assessors (inspection and testing) and 38 licensed mold remediators with an address in Orlando. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (98)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -1759,7 +1755,7 @@ Show all 38 listings
 
 ## Which other licensed mold pros are in Orange County, FL? (59)
 
-59 more DBPR-licensed listings are elsewhere in Orange County. Licensed pros often travel, so ask whether they cover your address.
+59 more DBPR-licensed listings are elsewhere in Orange County.
 
 [See all 195 Orange County listings →](https://moldroster.com/fl/county/orange/)
 

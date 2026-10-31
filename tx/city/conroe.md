@@ -10,19 +10,15 @@ canonical: https://moldroster.com/tx/city/conroe/
 
 **Quick answer:** 6 TDLR-licensed listings give an address in Conroe (2 mold assessment, 4 mold remediation), and 110 more are elsewhere in Montgomery County. Licensed pros often travel, so ask whether they cover your address.
 
-6 TDLR-licensed listings give an address in Conroe (2 mold assessment, 4 mold remediation), and 110 more are elsewhere in Montgomery County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Conroe hiring guide →**](https://moldroster.com/tx/city/conroe/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Conroe](https://moldroster.com/get-quotes/?city=conroe&st=tx)
+[How to get quotes in Conroe](https://moldroster.com/quotes/?city=conroe&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Conroe, TX?
 
 Listed below: 2 licensed mold assessors (inspection and testing) and 4 licensed mold remediators with an address in Conroe. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (2)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by TDLR Mold assessment
 
@@ -116,7 +112,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 ## Which other licensed mold pros are in Montgomery County, TX? (110)
 
-110 more TDLR-licensed listings are elsewhere in Montgomery County. Licensed pros often travel, so ask whether they cover your address.
+110 more TDLR-licensed listings are elsewhere in Montgomery County.
 
 [See all 116 Montgomery County listings →](https://moldroster.com/tx/county/montgomery/)
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/cedarhurst/guide/
 
 4 NYS DOL-licensed listings give an address in Cedarhurst: **2** hold an assessment licence and **4** hold a remediation licence. Another 149 are elsewhere in Nassau County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=cedarhurst&st=ny) [All Cedarhurst listings](https://moldroster.com/ny/city/cedarhurst/)
+[Get quotes](https://moldroster.com/quotes/?city=cedarhurst&st=ny) [All Cedarhurst listings](https://moldroster.com/ny/city/cedarhurst/)
 
 ## Do I need a mold assessment before remediation?
 
@@ -28,8 +28,6 @@ Look the name up in the NYS DOL records and check the licence is still current. 
 4. Ask for proof of insurance and a written scope before work starts.
 
 ## Which licensed mold pros are based in Cedarhurst, NY?
-
-4 NYS DOL-licensed listings give an address in Cedarhurst: 2 hold an assessment licence and 4 hold a remediation licence.
 
 ✔ Licensed by NYS DOL Mold assessmentMold remediation
 

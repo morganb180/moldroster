@@ -10,19 +10,15 @@ canonical: https://moldroster.com/fl/city/st-cloud/
 
 **Quick answer:** 8 DBPR-licensed listings give an address in St Cloud (6 mold assessment, 5 mold remediation), and 53 more are elsewhere in Osceola County. Licensed pros often travel, so ask whether they cover your address.
 
-8 DBPR-licensed listings give an address in St Cloud (6 mold assessment, 5 mold remediation), and 53 more are elsewhere in Osceola County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the St Cloud hiring guide →**](https://moldroster.com/fl/city/st-cloud/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in St Cloud](https://moldroster.com/get-quotes/?city=st-cloud&st=fl)
+[How to get quotes in St Cloud](https://moldroster.com/quotes/?city=st-cloud&st=fl)
 
 ## Which licensed mold assessors and remediators are based in St Cloud, FL?
 
 Listed below: 6 licensed mold assessors (inspection and testing) and 2 licensed mold remediators with an address in St Cloud. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (6)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -127,7 +123,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Osceola County, FL? (53)
 
-53 more DBPR-licensed listings are elsewhere in Osceola County. Licensed pros often travel, so ask whether they cover your address.
+53 more DBPR-licensed listings are elsewhere in Osceola County.
 
 [See all 61 Osceola County listings →](https://moldroster.com/fl/county/osceola/)
 

@@ -10,19 +10,15 @@ canonical: https://moldroster.com/ny/city/wynantskill/
 
 **Quick answer:** 4 NYS DOL-licensed listings give an address in Wynantskill (2 mold assessment, 2 mold remediation), and 20 more are elsewhere in Rensselaer County. Licensed pros often travel, so ask whether they cover your address.
 
-4 NYS DOL-licensed listings give an address in Wynantskill (2 mold assessment, 2 mold remediation), and 20 more are elsewhere in Rensselaer County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Wynantskill hiring guide →**](https://moldroster.com/ny/city/wynantskill/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Wynantskill](https://moldroster.com/get-quotes/?city=wynantskill&st=ny)
+[How to get quotes in Wynantskill](https://moldroster.com/quotes/?city=wynantskill&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Wynantskill, NY?
 
 Listed below: 2 licensed mold assessors (inspection and testing) and 2 licensed mold remediators with an address in Wynantskill. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (2)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessment
 
@@ -80,7 +76,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 ## Which other licensed mold pros are in Rensselaer County, NY? (20)
 
-20 more NYS DOL-licensed listings are elsewhere in Rensselaer County. Licensed pros often travel, so ask whether they cover your address.
+20 more NYS DOL-licensed listings are elsewhere in Rensselaer County.
 
 [See all 24 Rensselaer County listings →](https://moldroster.com/ny/county/rensselaer/)
 

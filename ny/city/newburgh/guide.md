@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/newburgh/guide/
 
 6 NYS DOL-licensed listings give an address in Newburgh: **5** hold an assessment licence and **4** hold a remediation licence. Another 27 are elsewhere in Orange County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=newburgh&st=ny) [All Newburgh listings](https://moldroster.com/ny/city/newburgh/)
+[Get quotes](https://moldroster.com/quotes/?city=newburgh&st=ny) [All Newburgh listings](https://moldroster.com/ny/city/newburgh/)
 
 ## What should I ask a mold pro before I sign?
 
@@ -35,8 +35,6 @@ A NYS DOL licence is required for mold assessment or remediation of areas over 1
 Summary of New York Labor Law Article 32 and 12 NYCRR Part 60. See the agency: [New York State Department of Labor](https://dol.ny.gov/mold-program). Plain-language summary, not legal advice; confirm details with the agency.
 
 ## Which licensed mold pros are based in Newburgh, NY?
-
-6 NYS DOL-licensed listings give an address in Newburgh: 5 hold an assessment licence and 4 hold a remediation licence.
 
 ✔ Licensed by NYS DOL Mold assessmentMold remediation
 

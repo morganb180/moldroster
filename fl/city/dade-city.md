@@ -10,19 +10,15 @@ canonical: https://moldroster.com/fl/city/dade-city/
 
 **Quick answer:** 7 DBPR-licensed listings give an address in Dade City (5 mold assessment, 3 mold remediation), and 120 more are elsewhere in Pasco County. Licensed pros often travel, so ask whether they cover your address.
 
-7 DBPR-licensed listings give an address in Dade City (5 mold assessment, 3 mold remediation), and 120 more are elsewhere in Pasco County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Dade City hiring guide →**](https://moldroster.com/fl/city/dade-city/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Dade City](https://moldroster.com/get-quotes/?city=dade-city&st=fl)
+[How to get quotes in Dade City](https://moldroster.com/quotes/?city=dade-city&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Dade City, FL?
 
 Listed below: 5 licensed mold assessors (inspection and testing) and 2 licensed mold remediators with an address in Dade City. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (5)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -113,7 +109,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Pasco County, FL? (120)
 
-120 more DBPR-licensed listings are elsewhere in Pasco County. Licensed pros often travel, so ask whether they cover your address.
+120 more DBPR-licensed listings are elsewhere in Pasco County.
 
 [See all 127 Pasco County listings →](https://moldroster.com/fl/county/pasco/)
 

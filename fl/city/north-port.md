@@ -10,19 +10,15 @@ canonical: https://moldroster.com/fl/city/north-port/
 
 **Quick answer:** 16 DBPR-licensed listings give an address in North Port (14 mold assessment, 10 mold remediation), and 54 more are elsewhere in Sarasota County. Licensed pros often travel, so ask whether they cover your address.
 
-16 DBPR-licensed listings give an address in North Port (14 mold assessment, 10 mold remediation), and 54 more are elsewhere in Sarasota County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the North Port hiring guide →**](https://moldroster.com/fl/city/north-port/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in North Port](https://moldroster.com/get-quotes/?city=north-port&st=fl)
+[How to get quotes in North Port](https://moldroster.com/quotes/?city=north-port&st=fl)
 
 ## Which licensed mold assessors and remediators are based in North Port, FL?
 
 Listed below: 14 licensed mold assessors (inspection and testing) and 2 licensed mold remediators with an address in North Port. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (14)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessment
 
@@ -232,7 +228,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Sarasota County, FL? (54)
 
-54 more DBPR-licensed listings are elsewhere in Sarasota County. Licensed pros often travel, so ask whether they cover your address.
+54 more DBPR-licensed listings are elsewhere in Sarasota County.
 
 [See all 70 Sarasota County listings →](https://moldroster.com/fl/county/sarasota/)
 

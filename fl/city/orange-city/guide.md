@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/orange-city/guide/
 
 4 DBPR-licensed listings give an address in Orange City: **2** hold an assessment licence and **3** hold a remediation licence. Another 62 are elsewhere in Volusia County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=orange-city&st=fl) [All Orange City listings](https://moldroster.com/fl/city/orange-city/)
+[Get quotes](https://moldroster.com/quotes/?city=orange-city&st=fl) [All Orange City listings](https://moldroster.com/fl/city/orange-city/)
 
 ## What are Florida's mold licensing rules?
 
@@ -34,8 +34,6 @@ National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
 ## Which licensed mold pros are based in Orange City, FL?
-
-4 DBPR-licensed listings give an address in Orange City: 2 hold an assessment licence and 3 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

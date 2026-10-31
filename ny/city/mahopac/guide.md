@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/mahopac/guide/
 
 5 NYS DOL-licensed listings give an address in Mahopac: **5** hold an assessment licence and **0** hold a remediation licence. Another 9 are elsewhere in Putnam County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=mahopac&st=ny) [All Mahopac listings](https://moldroster.com/ny/city/mahopac/)
+[Get quotes](https://moldroster.com/quotes/?city=mahopac&st=ny) [All Mahopac listings](https://moldroster.com/ny/city/mahopac/)
 
 ## Do I need a mold assessment before remediation?
 
@@ -28,8 +28,6 @@ Look the name up in the NYS DOL records and check the licence is still current. 
 4. Ask for proof of insurance and a written scope before work starts.
 
 ## Which licensed mold pros are based in Mahopac, NY?
-
-5 NYS DOL-licensed listings give an address in Mahopac: 5 hold an assessment licence and 0 hold a remediation licence.
 
 ✔ Licensed by NYS DOL Mold assessment
 

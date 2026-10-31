@@ -10,19 +10,15 @@ canonical: https://moldroster.com/tx/city/lewisville/
 
 **Quick answer:** 5 TDLR-licensed listings give an address in Lewisville (3 mold assessment, 2 mold remediation), and 83 more are elsewhere in Denton County. Licensed pros often travel, so ask whether they cover your address.
 
-5 TDLR-licensed listings give an address in Lewisville (3 mold assessment, 2 mold remediation), and 83 more are elsewhere in Denton County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Lewisville hiring guide →**](https://moldroster.com/tx/city/lewisville/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Lewisville](https://moldroster.com/get-quotes/?city=lewisville&st=tx)
+[How to get quotes in Lewisville](https://moldroster.com/quotes/?city=lewisville&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Lewisville, TX?
 
 Listed below: 3 licensed mold assessors (inspection and testing) and 2 licensed mold remediators with an address in Lewisville. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (3)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by TDLR Mold assessment
 
@@ -102,7 +98,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 ## Which other licensed mold pros are in Denton County, TX? (83)
 
-83 more TDLR-licensed listings are elsewhere in Denton County. Licensed pros often travel, so ask whether they cover your address.
+83 more TDLR-licensed listings are elsewhere in Denton County.
 
 [See all 88 Denton County listings →](https://moldroster.com/tx/county/denton/)
 

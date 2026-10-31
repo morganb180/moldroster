@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/katy/guide/
 
 6 TDLR-licensed listings give an address in Katy: **4** hold an assessment licence and **2** hold a remediation licence. Another 439 are elsewhere in Harris County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=katy&st=tx) [All Katy listings](https://moldroster.com/tx/city/katy/)
+[Get quotes](https://moldroster.com/quotes/?city=katy&st=tx) [All Katy listings](https://moldroster.com/tx/city/katy/)
 
 ## Do I need a mold assessment before remediation?
 
@@ -28,8 +28,6 @@ Look the name up in the TDLR records and check the licence is still current. Ask
 4. Ask for proof of insurance and a written scope before work starts.
 
 ## Which licensed mold pros are based in Katy, TX?
-
-6 TDLR-licensed listings give an address in Katy: 4 hold an assessment licence and 2 hold a remediation licence.
 
 ✔ Licensed by TDLR Mold assessment
 

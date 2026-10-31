@@ -10,13 +10,11 @@ canonical: https://moldroster.com/fl/county/gadsden/
 
 **Quick answer:** 3 DBPR-licensed listings with an address of record in Gadsden County (3 mold assessment, 2 mold remediation): 0 firms and 3 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**3 DBPR-licensed listings** with an address of record in Gadsden County (3 mold assessment, 2 mold remediation): 0 firms and 3 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=gadsden&st=fl)
+[How to get quotes](https://moldroster.com/quotes/?county=gadsden&st=fl)
 
 ## Which licensed mold assessors are in Gadsden County, FL? (3)
 
 3 listings are shown in this section with an address of record in Gadsden County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

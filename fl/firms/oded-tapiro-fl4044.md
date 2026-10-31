@@ -1,0 +1,14 @@
+---
+title: "Oded Tapiro, Silver Sptring, MD | Mold Roster"
+description: "Oded Tapiro: mold assessment and mold remediation in Silver Sptring, MD. FL DBPR licence details, contact."
+canonical: https://moldroster.com/fl/firms/oded-tapiro-fl4044/
+---
+
+# Oded Tapiro
+
+* Mold assessment, Mold remediation
+* Licensed by FL DBPR (Florida Department of Business and Professional Regulation)
+* Silver Sptring, MD (Montgomery County)
+* Address: 11202 Healy St, Silver Sptring, MD
+
+Source: https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv, retrieved 2026-10-12. Verify: https://www2.myfloridalicense.com/mold-related-services/. Claim / correct: https://moldroster.com/claim-listing/?id=FL4044

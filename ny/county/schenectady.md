@@ -10,15 +10,13 @@ canonical: https://moldroster.com/ny/county/schenectady/
 
 **Quick answer:** 13 NYS DOL-licensed listings with an address of record in Schenectady County (9 mold assessment, 5 mold remediation): 13 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**13 NYS DOL-licensed listings** with an address of record in Schenectady County (9 mold assessment, 5 mold remediation): 13 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=schenectady&st=ny)
+[How to get quotes](https://moldroster.com/quotes/?county=schenectady&st=ny)
 
 City pages: [Schenectady](https://moldroster.com/ny/city/schenectady/)
 
 ## Which licensed mold assessors are in Schenectady County, NY? (9)
 
 9 listings are shown in this section with an address of record in Schenectady County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessment
 
@@ -154,7 +152,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 ## Which licensed mold remediators are in Schenectady County, NY? (4)
 
-4 listings are shown in this section with an address of record in Schenectady County. Listings holding more than one licence type appear once, in the first matching section.
+4 listings are shown in this section with an address of record in Schenectady County.
 
 ✔ Licensed by NYS DOL Mold remediation
 

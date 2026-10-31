@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/deland/guide/
 
 8 DBPR-licensed listings give an address in Deland: **6** hold an assessment licence and **7** hold a remediation licence. Another 58 are elsewhere in Volusia County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=deland&st=fl) [All Deland listings](https://moldroster.com/fl/city/deland/)
+[Get quotes](https://moldroster.com/quotes/?city=deland&st=fl) [All Deland listings](https://moldroster.com/fl/city/deland/)
 
 ## Do I need a mold assessment before remediation?
 
@@ -28,8 +28,6 @@ Look the name up in the DBPR records and check the licence is still current. Ask
 4. Ask for proof of insurance and a written scope before work starts.
 
 ## Which licensed mold pros are based in Deland, FL?
-
-8 DBPR-licensed listings give an address in Deland: 6 hold an assessment licence and 7 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

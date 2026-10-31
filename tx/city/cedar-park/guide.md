@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/cedar-park/guide/
 
 6 TDLR-licensed listings give an address in Cedar Park: **2** hold an assessment licence and **4** hold a remediation licence. Another 77 are elsewhere in Williamson County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=cedar-park&st=tx) [All Cedar Park listings](https://moldroster.com/tx/city/cedar-park/)
+[Get quotes](https://moldroster.com/quotes/?city=cedar-park&st=tx) [All Cedar Park listings](https://moldroster.com/tx/city/cedar-park/)
 
 ## Do I need a mold assessment before remediation?
 
@@ -28,8 +28,6 @@ Look the name up in the TDLR records and check the licence is still current. Ask
 4. Ask for proof of insurance and a written scope before work starts.
 
 ## Which licensed mold pros are based in Cedar Park, TX?
-
-6 TDLR-licensed listings give an address in Cedar Park: 2 hold an assessment licence and 4 hold a remediation licence.
 
 ✔ Licensed by TDLR Mold assessment
 

@@ -10,19 +10,15 @@ canonical: https://moldroster.com/fl/city/davenport/
 
 **Quick answer:** 13 DBPR-licensed listings give an address in Davenport (9 mold assessment, 12 mold remediation), and 65 more are elsewhere in Polk County. Licensed pros often travel, so ask whether they cover your address.
 
-13 DBPR-licensed listings give an address in Davenport (9 mold assessment, 12 mold remediation), and 65 more are elsewhere in Polk County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Davenport hiring guide →**](https://moldroster.com/fl/city/davenport/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Davenport](https://moldroster.com/get-quotes/?city=davenport&st=fl)
+[How to get quotes in Davenport](https://moldroster.com/quotes/?city=davenport&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Davenport, FL?
 
 Listed below: 9 licensed mold assessors (inspection and testing) and 4 licensed mold remediators with an address in Davenport. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (9)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -192,7 +188,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Polk County, FL? (65)
 
-65 more DBPR-licensed listings are elsewhere in Polk County. Licensed pros often travel, so ask whether they cover your address.
+65 more DBPR-licensed listings are elsewhere in Polk County.
 
 [See all 78 Polk County listings →](https://moldroster.com/fl/county/polk/)
 

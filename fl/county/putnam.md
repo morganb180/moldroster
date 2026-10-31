@@ -10,13 +10,11 @@ canonical: https://moldroster.com/fl/county/putnam/
 
 **Quick answer:** 4 DBPR-licensed listings with an address of record in Putnam County (1 mold assessment, 4 mold remediation): 0 firms and 4 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**4 DBPR-licensed listings** with an address of record in Putnam County (1 mold assessment, 4 mold remediation): 0 firms and 4 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=putnam&st=fl)
+[How to get quotes](https://moldroster.com/quotes/?county=putnam&st=fl)
 
 ## Which licensed mold assessors are in Putnam County, FL? (1)
 
 1 listing is shown in this section with an address of record in Putnam County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -33,7 +31,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which licensed mold remediators are in Putnam County, FL? (3)
 
-3 listings are shown in this section with an address of record in Putnam County. Listings holding more than one licence type appear once, in the first matching section.
+3 listings are shown in this section with an address of record in Putnam County.
 
 ✔ Licensed by FL DBPR Mold remediation
 
@@ -88,7 +86,7 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 **How many licensed mold assessors are in Putnam County?**
 
-1 listings with a DBPR mold assessment licence and 4 with a remediation licence have an address of record in Putnam County. Pros from neighboring counties may also serve the area.
+1 listing with a DBPR mold assessment licence and 4 with a remediation licence have an address of record in Putnam County. Pros from neighboring counties may also serve the area.
 
 **How do I check a Putnam County mold company's licence?**
 

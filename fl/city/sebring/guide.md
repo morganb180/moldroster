@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/sebring/guide/
 
 7 DBPR-licensed listings give an address in Sebring: **4** hold an assessment licence and **3** hold a remediation licence. Another 4 are elsewhere in Highlands County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=sebring&st=fl) [All Sebring listings](https://moldroster.com/fl/city/sebring/)
+[Get quotes](https://moldroster.com/quotes/?city=sebring&st=fl) [All Sebring listings](https://moldroster.com/fl/city/sebring/)
 
 ## What are Florida's mold licensing rules?
 
@@ -34,8 +34,6 @@ National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
 ## Which licensed mold pros are based in Sebring, FL?
-
-7 DBPR-licensed listings give an address in Sebring: 4 hold an assessment licence and 3 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessment
 

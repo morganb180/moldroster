@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/palmetto/guide/
 
 8 DBPR-licensed listings give an address in Palmetto: **6** hold an assessment licence and **4** hold a remediation licence. Another 59 are elsewhere in Manatee County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=palmetto&st=fl) [All Palmetto listings](https://moldroster.com/fl/city/palmetto/)
+[Get quotes](https://moldroster.com/quotes/?city=palmetto&st=fl) [All Palmetto listings](https://moldroster.com/fl/city/palmetto/)
 
 ## Do I need a mold assessment before remediation?
 
@@ -28,8 +28,6 @@ Look the name up in the DBPR records and check the licence is still current. Ask
 4. Ask for proof of insurance and a written scope before work starts.
 
 ## Which licensed mold pros are based in Palmetto, FL?
-
-8 DBPR-licensed listings give an address in Palmetto: 6 hold an assessment licence and 4 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

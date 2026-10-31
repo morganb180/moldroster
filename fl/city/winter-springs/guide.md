@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/winter-springs/guide/
 
 9 DBPR-licensed listings give an address in Winter Springs: **6** hold an assessment licence and **7** hold a remediation licence. Another 74 are elsewhere in Seminole County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=winter-springs&st=fl) [All Winter Springs listings](https://moldroster.com/fl/city/winter-springs/)
+[Get quotes](https://moldroster.com/quotes/?city=winter-springs&st=fl) [All Winter Springs listings](https://moldroster.com/fl/city/winter-springs/)
 
 ## What should I ask a mold pro before I sign?
 
@@ -35,8 +35,6 @@ A DBPR licence is generally required to perform mold assessment or remediation f
 Summary of Florida Statutes Chapter 468, Part XVI (Mold-Related Services). See the agency: [Florida Department of Business and Professional Regulation](https://www2.myfloridalicense.com/mold-related-services/). Plain-language summary, not legal advice; confirm details with the agency.
 
 ## Which licensed mold pros are based in Winter Springs, FL?
-
-9 DBPR-licensed listings give an address in Winter Springs: 6 hold an assessment licence and 7 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

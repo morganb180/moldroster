@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/miami-gardens/guide/
 
 5 DBPR-licensed listings give an address in Miami Gardens: **5** hold an assessment licence and **3** hold a remediation licence. Another 541 are elsewhere in Miami-Dade County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=miami-gardens&st=fl) [All Miami Gardens listings](https://moldroster.com/fl/city/miami-gardens/)
+[Get quotes](https://moldroster.com/quotes/?city=miami-gardens&st=fl) [All Miami Gardens listings](https://moldroster.com/fl/city/miami-gardens/)
 
 ## What should I ask a mold pro before I sign?
 
@@ -33,8 +33,6 @@ A DBPR licence is generally required to perform mold assessment or remediation f
 Summary of Florida Statutes Chapter 468, Part XVI (Mold-Related Services). See the agency: [Florida Department of Business and Professional Regulation](https://www2.myfloridalicense.com/mold-related-services/). Plain-language summary, not legal advice; confirm details with the agency.
 
 ## Which licensed mold pros are based in Miami Gardens, FL?
-
-5 DBPR-licensed listings give an address in Miami Gardens: 5 hold an assessment licence and 3 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessment
 

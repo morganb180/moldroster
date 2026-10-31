@@ -10,15 +10,13 @@ canonical: https://moldroster.com/fl/county/pasco/
 
 **Quick answer:** 127 DBPR-licensed listings with an address of record in Pasco County (88 mold assessment, 85 mold remediation): 5 firms and 122 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**127 DBPR-licensed listings** with an address of record in Pasco County (88 mold assessment, 85 mold remediation): 5 firms and 122 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=pasco&st=fl)
+[How to get quotes](https://moldroster.com/quotes/?county=pasco&st=fl)
 
 City pages: [Dade City](https://moldroster.com/fl/city/dade-city/) · [Holiday](https://moldroster.com/fl/city/holiday/) · [Hudson](https://moldroster.com/fl/city/hudson/) · [Land O' Lakes](https://moldroster.com/fl/city/land-o-lakes/) · [New Port Richey](https://moldroster.com/fl/city/new-port-richey/) · [Port Richey](https://moldroster.com/fl/city/port-richey/) · [San Antonio](https://moldroster.com/fl/city/san-antonio/) · [Wesley Chapel](https://moldroster.com/fl/city/wesley-chapel/) · [Zephyrhills](https://moldroster.com/fl/city/zephyrhills/)
 
 ## Which licensed mold assessors are in Pasco County, FL? (88)
 
 88 listings are shown in this section with an address of record in Pasco County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -1142,7 +1140,7 @@ Show all 88 listings
 
 ## Which licensed mold remediators are in Pasco County, FL? (39)
 
-39 listings are shown in this section with an address of record in Pasco County. Listings holding more than one licence type appear once, in the first matching section.
+39 listings are shown in this section with an address of record in Pasco County.
 
 ✔ Licensed by FL DBPR Mold remediation
 

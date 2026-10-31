@@ -10,15 +10,13 @@ canonical: https://moldroster.com/ny/county/queens/
 
 **Quick answer:** 154 NYS DOL-licensed listings with an address of record in Queens County (69 mold assessment, 109 mold remediation): 154 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**154 NYS DOL-licensed listings** with an address of record in Queens County (69 mold assessment, 109 mold remediation): 154 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=queens&st=ny)
+[How to get quotes](https://moldroster.com/quotes/?county=queens&st=ny)
 
 City pages: [Astoria](https://moldroster.com/ny/city/astoria/) · [East Elmhurst](https://moldroster.com/ny/city/east-elmhurst/) · [Flushing](https://moldroster.com/ny/city/flushing/) · [Jamaica](https://moldroster.com/ny/city/jamaica/) · [Long Island City](https://moldroster.com/ny/city/long-island-city/) · [Maspeth](https://moldroster.com/ny/city/maspeth/) · [Ozone Park](https://moldroster.com/ny/city/ozone-park/) · [Queens](https://moldroster.com/ny/city/queens/) · [Richmond Hill](https://moldroster.com/ny/city/richmond-hill/) · [South Ozone Park](https://moldroster.com/ny/city/south-ozone-park/) · [Whitestone](https://moldroster.com/ny/city/whitestone/) · [Woodside](https://moldroster.com/ny/city/woodside/)
 
 ## Which licensed mold assessors are in Queens County, NY? (69)
 
 69 listings are shown in this section with an address of record in Queens County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessment
 
@@ -1051,7 +1049,7 @@ Show all 69 listings
 
 ## Which licensed mold remediators are in Queens County, NY? (85)
 
-85 listings are shown in this section with an address of record in Queens County. Listings holding more than one licence type appear once, in the first matching section.
+85 listings are shown in this section with an address of record in Queens County.
 
 ✔ Licensed by NYS DOL Mold remediation
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/oceanside/guide/
 
 4 NYS DOL-licensed listings give an address in Oceanside: **1** hold an assessment licence and **3** hold a remediation licence. Another 149 are elsewhere in Nassau County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=oceanside&st=ny) [All Oceanside listings](https://moldroster.com/ny/city/oceanside/)
+[Get quotes](https://moldroster.com/quotes/?city=oceanside&st=ny) [All Oceanside listings](https://moldroster.com/ny/city/oceanside/)
 
 ## What should I ask a mold pro before I sign?
 
@@ -33,8 +33,6 @@ A NYS DOL licence is required for mold assessment or remediation of areas over 1
 Summary of New York Labor Law Article 32 and 12 NYCRR Part 60. See the agency: [New York State Department of Labor](https://dol.ny.gov/mold-program). Plain-language summary, not legal advice; confirm details with the agency.
 
 ## Which licensed mold pros are based in Oceanside, NY?
-
-4 NYS DOL-licensed listings give an address in Oceanside: 1 hold an assessment licence and 3 hold a remediation licence.
 
 ✔ Licensed by NYS DOL Mold assessment
 
@@ -132,7 +130,7 @@ Look the name up in the NYS DOL records and check the licence is still current. 
 
 **How do I find a licensed mold inspector in Oceanside?**
 
-Start with the 1 listings in Oceanside that hold a NYS DOL assessment licence, then confirm the licence with the agency.
+Start with the 1 listing in Oceanside that hold a NYS DOL assessment licence, then confirm the licence with the agency.
 
 **How much does mold remediation cost in Oceanside?**
 

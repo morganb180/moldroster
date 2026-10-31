@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/dallas/guide/
 
 25 TDLR-licensed listings give an address in Dallas: **12** hold an assessment licence and **13** hold a remediation licence. Another 161 are elsewhere in Dallas County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=dallas&st=tx) [All Dallas listings](https://moldroster.com/tx/city/dallas/)
+[Get quotes](https://moldroster.com/quotes/?city=dallas&st=tx) [All Dallas listings](https://moldroster.com/tx/city/dallas/)
 
 ## How much does mold inspection and remediation cost?
 
@@ -30,8 +30,6 @@ For larger jobs, yes: a licensed assessor inspects, samples if needed and writes
 For larger jobs, a licensed assessor inspects, samples if needed, and writes a protocol. A separate licensed remediator does the work, and the assessor confirms the result. Fixing the moisture source is the key step ([EPA: A Brief Guide to Mold, Moisture and Your Home](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home)).
 
 ## Which licensed mold pros are based in Dallas, TX?
-
-25 TDLR-licensed listings give an address in Dallas: 12 hold an assessment licence and 13 hold a remediation licence.
 
 ✔ Licensed by TDLR Mold assessment
 

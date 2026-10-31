@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/destin/guide/
 
 4 DBPR-licensed listings give an address in Destin: **1** hold an assessment licence and **4** hold a remediation licence. Another 14 are elsewhere in Okaloosa County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=destin&st=fl) [All Destin listings](https://moldroster.com/fl/city/destin/)
+[Get quotes](https://moldroster.com/quotes/?city=destin&st=fl) [All Destin listings](https://moldroster.com/fl/city/destin/)
 
 ## How much does mold inspection and remediation cost?
 
@@ -30,8 +30,6 @@ For larger jobs, yes: a licensed assessor inspects, samples if needed and writes
 For larger jobs, a licensed assessor inspects, samples if needed, and writes a protocol. A separate licensed remediator does the work, and the assessor confirms the result. Fixing the moisture source is the key step ([EPA: A Brief Guide to Mold, Moisture and Your Home](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home)).
 
 ## Which licensed mold pros are based in Destin, FL?
-
-4 DBPR-licensed listings give an address in Destin: 1 hold an assessment licence and 4 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -103,7 +101,7 @@ Summary of Florida Statutes Chapter 468, Part XVI (Mold-Related Services). See t
 
 **How do I find a licensed mold inspector in Destin?**
 
-Start with the 1 listings in Destin that hold a DBPR assessment licence, then confirm the licence with the agency.
+Start with the 1 listing in Destin that hold a DBPR assessment licence, then confirm the licence with the agency.
 
 **How much does mold remediation cost in Destin?**
 

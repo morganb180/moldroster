@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/riviera-beach/guide/
 
 5 DBPR-licensed listings give an address in Riviera Beach: **2** hold an assessment licence and **4** hold a remediation licence. Another 365 are elsewhere in Palm Beach County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=riviera-beach&st=fl) [All Riviera Beach listings](https://moldroster.com/fl/city/riviera-beach/)
+[Get quotes](https://moldroster.com/quotes/?city=riviera-beach&st=fl) [All Riviera Beach listings](https://moldroster.com/fl/city/riviera-beach/)
 
 ## Do I need a mold assessment before remediation?
 
@@ -28,8 +28,6 @@ Look the name up in the DBPR records and check the licence is still current. Ask
 4. Ask for proof of insurance and a written scope before work starts.
 
 ## Which licensed mold pros are based in Riviera Beach, FL?
-
-5 DBPR-licensed listings give an address in Riviera Beach: 2 hold an assessment licence and 4 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessment
 

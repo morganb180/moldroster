@@ -10,19 +10,15 @@ canonical: https://moldroster.com/ny/city/yonkers/
 
 **Quick answer:** 23 NYS DOL-licensed listings give an address in Yonkers (8 mold assessment, 19 mold remediation), and 79 more are elsewhere in Westchester County. Licensed pros often travel, so ask whether they cover your address.
 
-23 NYS DOL-licensed listings give an address in Yonkers (8 mold assessment, 19 mold remediation), and 79 more are elsewhere in Westchester County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Yonkers hiring guide →**](https://moldroster.com/ny/city/yonkers/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Yonkers](https://moldroster.com/get-quotes/?city=yonkers&st=ny)
+[How to get quotes in Yonkers](https://moldroster.com/quotes/?city=yonkers&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Yonkers, NY?
 
 Listed below: 8 licensed mold assessors (inspection and testing) and 15 licensed mold remediators with an address in Yonkers. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (8)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessment
 
@@ -384,7 +380,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 ## Which other licensed mold pros are in Westchester County, NY? (79)
 
-79 more NYS DOL-licensed listings are elsewhere in Westchester County. Licensed pros often travel, so ask whether they cover your address.
+79 more NYS DOL-licensed listings are elsewhere in Westchester County.
 
 [See all 102 Westchester County listings →](https://moldroster.com/ny/county/westchester/)
 

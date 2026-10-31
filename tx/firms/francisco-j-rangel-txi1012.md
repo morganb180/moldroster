@@ -1,0 +1,13 @@
+---
+title: "Francisco J Rangel, TX | Mold Roster"
+description: "Francisco J Rangel: mold remediation in TX. TDLR licence details, contact and free quotes."
+canonical: https://moldroster.com/tx/firms/francisco-j-rangel-txi1012/
+---
+
+# Francisco J Rangel
+
+* Mold remediation
+* Licensed by TDLR (Texas Department of Licensing and Regulation)
+* TX (Tarrant County)
+
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TXI1012

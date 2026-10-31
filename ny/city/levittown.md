@@ -10,19 +10,15 @@ canonical: https://moldroster.com/ny/city/levittown/
 
 **Quick answer:** 6 NYS DOL-licensed listings give an address in Levittown (1 mold assessment, 5 mold remediation), and 147 more are elsewhere in Nassau County. Licensed pros often travel, so ask whether they cover your address.
 
-6 NYS DOL-licensed listings give an address in Levittown (1 mold assessment, 5 mold remediation), and 147 more are elsewhere in Nassau County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Levittown hiring guide →**](https://moldroster.com/ny/city/levittown/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Levittown](https://moldroster.com/get-quotes/?city=levittown&st=ny)
+[How to get quotes in Levittown](https://moldroster.com/quotes/?city=levittown&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Levittown, NY?
 
 Listed below: 1 licensed mold assessor (inspection and testing) and 5 licensed mold remediators with an address in Levittown. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (1)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessment
 
@@ -106,7 +102,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 ## Which other licensed mold pros are in Nassau County, NY? (147)
 
-147 more NYS DOL-licensed listings are elsewhere in Nassau County. Licensed pros often travel, so ask whether they cover your address.
+147 more NYS DOL-licensed listings are elsewhere in Nassau County.
 
 [See all 153 Nassau County listings →](https://moldroster.com/ny/county/nassau/)
 

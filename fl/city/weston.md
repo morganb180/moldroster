@@ -10,19 +10,15 @@ canonical: https://moldroster.com/fl/city/weston/
 
 **Quick answer:** 24 DBPR-licensed listings give an address in Weston (19 mold assessment, 18 mold remediation), and 565 more are elsewhere in Broward County. Licensed pros often travel, so ask whether they cover your address.
 
-24 DBPR-licensed listings give an address in Weston (19 mold assessment, 18 mold remediation), and 565 more are elsewhere in Broward County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Weston hiring guide →**](https://moldroster.com/fl/city/weston/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Weston](https://moldroster.com/get-quotes/?city=weston&st=fl)
+[How to get quotes in Weston](https://moldroster.com/quotes/?city=weston&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Weston, FL?
 
 Listed below: 19 licensed mold assessors (inspection and testing) and 5 licensed mold remediators with an address in Weston. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (19)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -331,7 +327,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Broward County, FL? (565)
 
-565 more DBPR-licensed listings are elsewhere in Broward County. Licensed pros often travel, so ask whether they cover your address.
+565 more DBPR-licensed listings are elsewhere in Broward County.
 
 [See all 589 Broward County listings →](https://moldroster.com/fl/county/broward/)
 

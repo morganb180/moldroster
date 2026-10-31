@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/hutto/guide/
 
 4 TDLR-licensed listings give an address in Hutto: **0** hold an assessment licence and **4** hold a remediation licence. Another 79 are elsewhere in Williamson County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=hutto&st=tx) [All Hutto listings](https://moldroster.com/tx/city/hutto/)
+[Get quotes](https://moldroster.com/quotes/?city=hutto&st=tx) [All Hutto listings](https://moldroster.com/tx/city/hutto/)
 
 ## How do I verify a mold pro's licence in Hutto, TX?
 
@@ -34,8 +34,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 * Will you find and fix the moisture source, or only remove visible growth?
 
 ## Which licensed mold pros are based in Hutto, TX?
-
-4 TDLR-licensed listings give an address in Hutto: 0 hold an assessment licence and 4 hold a remediation licence.
 
 ✔ Licensed by TDLR Mold remediation
 

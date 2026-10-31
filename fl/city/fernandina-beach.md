@@ -10,19 +10,15 @@ canonical: https://moldroster.com/fl/city/fernandina-beach/
 
 **Quick answer:** 4 DBPR-licensed listings give an address in Fernandina Beach (2 mold assessment, 4 mold remediation), and 8 more are elsewhere in Nassau County. Licensed pros often travel, so ask whether they cover your address.
 
-4 DBPR-licensed listings give an address in Fernandina Beach (2 mold assessment, 4 mold remediation), and 8 more are elsewhere in Nassau County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Fernandina Beach hiring guide →**](https://moldroster.com/fl/city/fernandina-beach/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Fernandina Beach](https://moldroster.com/get-quotes/?city=fernandina-beach&st=fl)
+[How to get quotes in Fernandina Beach](https://moldroster.com/quotes/?city=fernandina-beach&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Fernandina Beach, FL?
 
 Listed below: 2 licensed mold assessors (inspection and testing) and 2 licensed mold remediators with an address in Fernandina Beach. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (2)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -78,7 +74,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Nassau County, FL? (8)
 
-8 more DBPR-licensed listings are elsewhere in Nassau County. Licensed pros often travel, so ask whether they cover your address.
+8 more DBPR-licensed listings are elsewhere in Nassau County.
 
 [See all 12 Nassau County listings →](https://moldroster.com/fl/county/nassau/)
 

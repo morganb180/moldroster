@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/aventura/guide/
 
 10 DBPR-licensed listings give an address in Aventura: **8** hold an assessment licence and **6** hold a remediation licence. Another 536 are elsewhere in Miami-Dade County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=aventura&st=fl) [All Aventura listings](https://moldroster.com/fl/city/aventura/)
+[Get quotes](https://moldroster.com/quotes/?city=aventura&st=fl) [All Aventura listings](https://moldroster.com/fl/city/aventura/)
 
 ## How do I verify a mold pro's licence in Aventura, FL?
 
@@ -34,8 +34,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 * Will you find and fix the moisture source, or only remove visible growth?
 
 ## Which licensed mold pros are based in Aventura, FL?
-
-10 DBPR-licensed listings give an address in Aventura: 8 hold an assessment licence and 6 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessment
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/carrollton/guide/
 
 10 TDLR-licensed listings give an address in Carrollton: **4** hold an assessment licence and **6** hold a remediation licence. Another 179 are elsewhere in Dallas County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=carrollton&st=tx) [All Carrollton listings](https://moldroster.com/tx/city/carrollton/)
+[Get quotes](https://moldroster.com/quotes/?city=carrollton&st=tx) [All Carrollton listings](https://moldroster.com/tx/city/carrollton/)
 
 ## What are Texas' mold licensing rules?
 
@@ -34,8 +34,6 @@ National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
 ## Which licensed mold pros are based in Carrollton, TX?
-
-10 TDLR-licensed listings give an address in Carrollton: 4 hold an assessment licence and 6 hold a remediation licence.
 
 ✔ Licensed by TDLR Mold assessment
 

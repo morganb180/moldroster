@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/tavares/guide/
 
 5 DBPR-licensed listings give an address in Tavares: **4** hold an assessment licence and **5** hold a remediation licence. Another 56 are elsewhere in Lake County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=tavares&st=fl) [All Tavares listings](https://moldroster.com/fl/city/tavares/)
+[Get quotes](https://moldroster.com/quotes/?city=tavares&st=fl) [All Tavares listings](https://moldroster.com/fl/city/tavares/)
 
 ## What are Florida's mold licensing rules?
 
@@ -34,8 +34,6 @@ National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
 ## Which licensed mold pros are based in Tavares, FL?
-
-5 DBPR-licensed listings give an address in Tavares: 4 hold an assessment licence and 5 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/spring/guide/
 
 7 TDLR-licensed listings give an address in Spring: **2** hold an assessment licence and **5** hold a remediation licence. Another 441 are elsewhere in Harris County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=spring&st=tx) [All Spring listings](https://moldroster.com/tx/city/spring/)
+[Get quotes](https://moldroster.com/quotes/?city=spring&st=tx) [All Spring listings](https://moldroster.com/tx/city/spring/)
 
 ## How do I verify a mold pro's licence in Spring, TX?
 
@@ -32,8 +32,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 * How will you contain the work area and protect the rest of the house?
 
 ## Which licensed mold pros are based in Spring, TX?
-
-7 TDLR-licensed listings give an address in Spring: 2 hold an assessment licence and 5 hold a remediation licence.
 
 ✔ Licensed by TDLR Mold assessment
 

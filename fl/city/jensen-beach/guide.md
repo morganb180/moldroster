@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/jensen-beach/guide/
 
 6 DBPR-licensed listings give an address in Jensen Beach: **3** hold an assessment licence and **5** hold a remediation licence. Another 32 are elsewhere in Martin County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=jensen-beach&st=fl) [All Jensen Beach listings](https://moldroster.com/fl/city/jensen-beach/)
+[Get quotes](https://moldroster.com/quotes/?city=jensen-beach&st=fl) [All Jensen Beach listings](https://moldroster.com/fl/city/jensen-beach/)
 
 ## What should I ask a mold pro before I sign?
 
@@ -35,8 +35,6 @@ A DBPR licence is generally required to perform mold assessment or remediation f
 Summary of Florida Statutes Chapter 468, Part XVI (Mold-Related Services). See the agency: [Florida Department of Business and Professional Regulation](https://www2.myfloridalicense.com/mold-related-services/). Plain-language summary, not legal advice; confirm details with the agency.
 
 ## Which licensed mold pros are based in Jensen Beach, FL?
-
-6 DBPR-licensed listings give an address in Jensen Beach: 3 hold an assessment licence and 5 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessment
 

@@ -10,13 +10,11 @@ canonical: https://moldroster.com/tx/county/hardin/
 
 **Quick answer:** 4 TDLR-licensed listings with an address of record in Hardin County (4 mold assessment): 0 firms and 4 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**4 TDLR-licensed listings** with an address of record in Hardin County (4 mold assessment): 0 firms and 4 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=hardin&st=tx)
+[How to get quotes](https://moldroster.com/quotes/?county=hardin&st=tx)
 
 ## Which licensed mold assessors are in Hardin County, TX? (4)
 
 4 listings are shown in this section with an address of record in Hardin County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by TDLR Mold assessment
 

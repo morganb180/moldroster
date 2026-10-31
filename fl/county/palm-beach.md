@@ -10,15 +10,13 @@ canonical: https://moldroster.com/fl/county/palm-beach/
 
 **Quick answer:** 370 DBPR-licensed listings with an address of record in Palm Beach County (254 mold assessment, 266 mold remediation): 21 firms and 349 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**370 DBPR-licensed listings** with an address of record in Palm Beach County (254 mold assessment, 266 mold remediation): 21 firms and 349 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=palm-beach&st=fl)
+[How to get quotes](https://moldroster.com/quotes/?county=palm-beach&st=fl)
 
 City pages: [Boca Raton](https://moldroster.com/fl/city/boca-raton/) · [Boynton Beach](https://moldroster.com/fl/city/boynton-beach/) · [Delray Beach](https://moldroster.com/fl/city/delray-beach/) · [Jupiter](https://moldroster.com/fl/city/jupiter/) · [Lake Worth](https://moldroster.com/fl/city/lake-worth/) · [Loxahatchee](https://moldroster.com/fl/city/loxahatchee/) · [North Palm Beach](https://moldroster.com/fl/city/north-palm-beach/) · [Palm Beach Gardens](https://moldroster.com/fl/city/palm-beach-gardens/) · [Palm Springs](https://moldroster.com/fl/city/palm-springs/) · [Riviera Beach](https://moldroster.com/fl/city/riviera-beach/) · [Royal Palm Beach](https://moldroster.com/fl/city/royal-palm-beach/) · [Tequesta](https://moldroster.com/fl/city/tequesta/) · [Wellington](https://moldroster.com/fl/city/wellington/) · [West Palm Beach](https://moldroster.com/fl/city/west-palm-beach/)
 
 ## Which licensed mold assessors are in Palm Beach County, FL? (254)
 
 254 listings are shown in this section with an address of record in Palm Beach County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -3274,7 +3272,7 @@ Show all 254 listings
 
 ## Which licensed mold remediators are in Palm Beach County, FL? (116)
 
-116 listings are shown in this section with an address of record in Palm Beach County. Listings holding more than one licence type appear once, in the first matching section.
+116 listings are shown in this section with an address of record in Palm Beach County.
 
 ✔ Licensed by FL DBPR Mold remediation
 

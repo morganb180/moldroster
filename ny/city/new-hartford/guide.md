@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/new-hartford/guide/
 
 4 NYS DOL-licensed listings give an address in New Hartford: **3** hold an assessment licence and **3** hold a remediation licence. Another 12 are elsewhere in Oneida County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=new-hartford&st=ny) [All New Hartford listings](https://moldroster.com/ny/city/new-hartford/)
+[Get quotes](https://moldroster.com/quotes/?city=new-hartford&st=ny) [All New Hartford listings](https://moldroster.com/ny/city/new-hartford/)
 
 ## How much does mold inspection and remediation cost?
 
@@ -30,8 +30,6 @@ For larger jobs, yes: a licensed assessor inspects, samples if needed and writes
 For larger jobs, a licensed assessor inspects, samples if needed, and writes a protocol. A separate licensed remediator does the work, and the assessor confirms the result. Fixing the moisture source is the key step ([EPA: A Brief Guide to Mold, Moisture and Your Home](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home)).
 
 ## Which licensed mold pros are based in New Hartford, NY?
-
-4 NYS DOL-licensed listings give an address in New Hartford: 3 hold an assessment licence and 3 hold a remediation licence.
 
 ✔ Licensed by NYS DOL Mold assessmentMold remediation
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/punta-gorda/guide/
 
 18 DBPR-licensed listings give an address in Punta Gorda: **11** hold an assessment licence and **14** hold a remediation licence. Another 24 are elsewhere in Charlotte County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=punta-gorda&st=fl) [All Punta Gorda listings](https://moldroster.com/fl/city/punta-gorda/)
+[Get quotes](https://moldroster.com/quotes/?city=punta-gorda&st=fl) [All Punta Gorda listings](https://moldroster.com/fl/city/punta-gorda/)
 
 ## What are Florida's mold licensing rules?
 
@@ -34,8 +34,6 @@ National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
 ## Which licensed mold pros are based in Punta Gorda, FL?
-
-18 DBPR-licensed listings give an address in Punta Gorda: 11 hold an assessment licence and 14 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

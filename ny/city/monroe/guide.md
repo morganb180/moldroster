@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/monroe/guide/
 
 4 NYS DOL-licensed listings give an address in Monroe: **3** hold an assessment licence and **2** hold a remediation licence. Another 29 are elsewhere in Orange County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=monroe&st=ny) [All Monroe listings](https://moldroster.com/ny/city/monroe/)
+[Get quotes](https://moldroster.com/quotes/?city=monroe&st=ny) [All Monroe listings](https://moldroster.com/ny/city/monroe/)
 
 ## How much does mold inspection and remediation cost?
 
@@ -30,8 +30,6 @@ For larger jobs, yes: a licensed assessor inspects, samples if needed and writes
 For larger jobs, a licensed assessor inspects, samples if needed, and writes a protocol. A separate licensed remediator does the work, and the assessor confirms the result. Fixing the moisture source is the key step ([EPA: A Brief Guide to Mold, Moisture and Your Home](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home)).
 
 ## Which licensed mold pros are based in Monroe, NY?
-
-4 NYS DOL-licensed listings give an address in Monroe: 3 hold an assessment licence and 2 hold a remediation licence.
 
 ✔ Licensed by NYS DOL Mold assessment
 

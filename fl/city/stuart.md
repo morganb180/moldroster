@@ -10,19 +10,15 @@ canonical: https://moldroster.com/fl/city/stuart/
 
 **Quick answer:** 23 DBPR-licensed listings give an address in Stuart (14 mold assessment, 16 mold remediation), and 15 more are elsewhere in Martin County. Licensed pros often travel, so ask whether they cover your address.
 
-23 DBPR-licensed listings give an address in Stuart (14 mold assessment, 16 mold remediation), and 15 more are elsewhere in Martin County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Stuart hiring guide →**](https://moldroster.com/fl/city/stuart/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Stuart](https://moldroster.com/get-quotes/?city=stuart&st=fl)
+[How to get quotes in Stuart](https://moldroster.com/quotes/?city=stuart&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Stuart, FL?
 
 Listed below: 14 licensed mold assessors (inspection and testing) and 9 licensed mold remediators with an address in Stuart. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (14)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessment
 
@@ -311,7 +307,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Martin County, FL? (15)
 
-15 more DBPR-licensed listings are elsewhere in Martin County. Licensed pros often travel, so ask whether they cover your address.
+15 more DBPR-licensed listings are elsewhere in Martin County.
 
 [See all 38 Martin County listings →](https://moldroster.com/fl/county/martin/)
 

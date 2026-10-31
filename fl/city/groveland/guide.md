@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/groveland/guide/
 
 8 DBPR-licensed listings give an address in Groveland: **2** hold an assessment licence and **7** hold a remediation licence. Another 53 are elsewhere in Lake County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=groveland&st=fl) [All Groveland listings](https://moldroster.com/fl/city/groveland/)
+[Get quotes](https://moldroster.com/quotes/?city=groveland&st=fl) [All Groveland listings](https://moldroster.com/fl/city/groveland/)
 
 ## How do I verify a mold pro's licence in Groveland, FL?
 
@@ -32,8 +32,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 * What is your state licence number, and is it an assessor or remediator licence?
 
 ## Which licensed mold pros are based in Groveland, FL?
-
-8 DBPR-licensed listings give an address in Groveland: 2 hold an assessment licence and 7 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessment
 

@@ -10,15 +10,13 @@ canonical: https://moldroster.com/fl/county/duval/
 
 **Quick answer:** 105 DBPR-licensed listings with an address of record in Duval County (79 mold assessment, 75 mold remediation): 3 firms and 102 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**105 DBPR-licensed listings** with an address of record in Duval County (79 mold assessment, 75 mold remediation): 3 firms and 102 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=duval&st=fl)
+[How to get quotes](https://moldroster.com/quotes/?county=duval&st=fl)
 
 City pages: [Jacksonville](https://moldroster.com/fl/city/jacksonville/) · [Jacksonville Beach](https://moldroster.com/fl/city/jacksonville-beach/)
 
 ## Which licensed mold assessors are in Duval County, FL? (79)
 
 79 listings are shown in this section with an address of record in Duval County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -1030,7 +1028,7 @@ Show all 79 listings
 
 ## Which licensed mold remediators are in Duval County, FL? (26)
 
-26 listings are shown in this section with an address of record in Duval County. Listings holding more than one licence type appear once, in the first matching section.
+26 listings are shown in this section with an address of record in Duval County.
 
 ✔ Licensed by FL DBPR Mold remediation
 

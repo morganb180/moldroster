@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/harlingen/guide/
 
 4 TDLR-licensed listings give an address in Harlingen: **3** hold an assessment licence and **1** hold a remediation licence. Another 10 are elsewhere in Cameron County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=harlingen&st=tx) [All Harlingen listings](https://moldroster.com/tx/city/harlingen/)
+[Get quotes](https://moldroster.com/quotes/?city=harlingen&st=tx) [All Harlingen listings](https://moldroster.com/tx/city/harlingen/)
 
 ## What are Texas' mold licensing rules?
 
@@ -34,8 +34,6 @@ National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
 ## Which licensed mold pros are based in Harlingen, TX?
-
-4 TDLR-licensed listings give an address in Harlingen: 3 hold an assessment licence and 1 hold a remediation licence.
 
 ✔ Licensed by TDLR Mold assessment
 

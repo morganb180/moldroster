@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/fort-pierce/guide/
 
 12 DBPR-licensed listings give an address in Fort Pierce: **10** hold an assessment licence and **10** hold a remediation licence. Another 67 are elsewhere in St. Lucie County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=fort-pierce&st=fl) [All Fort Pierce listings](https://moldroster.com/fl/city/fort-pierce/)
+[Get quotes](https://moldroster.com/quotes/?city=fort-pierce&st=fl) [All Fort Pierce listings](https://moldroster.com/fl/city/fort-pierce/)
 
 ## What are Florida's mold licensing rules?
 
@@ -34,8 +34,6 @@ National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
 ## Which licensed mold pros are based in Fort Pierce, FL?
-
-12 DBPR-licensed listings give an address in Fort Pierce: 10 hold an assessment licence and 10 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

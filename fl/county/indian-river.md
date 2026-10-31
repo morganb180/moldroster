@@ -10,15 +10,13 @@ canonical: https://moldroster.com/fl/county/indian-river/
 
 **Quick answer:** 24 DBPR-licensed listings with an address of record in Indian River County (14 mold assessment, 18 mold remediation): 2 firms and 22 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**24 DBPR-licensed listings** with an address of record in Indian River County (14 mold assessment, 18 mold remediation): 2 firms and 22 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=indian-river&st=fl)
+[How to get quotes](https://moldroster.com/quotes/?county=indian-river&st=fl)
 
 City pages: [Sebastian](https://moldroster.com/fl/city/sebastian/) · [Vero Beach](https://moldroster.com/fl/city/vero-beach/)
 
 ## Which licensed mold assessors are in Indian River County, FL? (14)
 
 14 listings are shown in this section with an address of record in Indian River County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessment
 
@@ -201,7 +199,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which licensed mold remediators are in Indian River County, FL? (10)
 
-10 listings are shown in this section with an address of record in Indian River County. Listings holding more than one licence type appear once, in the first matching section.
+10 listings are shown in this section with an address of record in Indian River County.
 
 ✔ Licensed by FL DBPR Mold remediation
 
@@ -345,7 +343,7 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 14 listings with a DBPR mold assessment licence and 18 with a remediation licence have an address of record in Indian River County. Pros from neighboring counties may also serve the area.
 
-**How do I check a Indian River County mold company's licence?**
+**How do I check an Indian River County mold company's licence?**
 
 Look it up with the Florida Department of Business and Professional Regulation (DBPR). Each listing here shows the licence number and expiry date from the agency's records.
 

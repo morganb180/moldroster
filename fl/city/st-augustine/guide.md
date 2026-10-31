@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/st-augustine/guide/
 
 11 DBPR-licensed listings give an address in St Augustine: **9** hold an assessment licence and **7** hold a remediation licence. Another 41 are elsewhere in St. Johns County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=st-augustine&st=fl) [All St Augustine listings](https://moldroster.com/fl/city/st-augustine/)
+[Get quotes](https://moldroster.com/quotes/?city=st-augustine&st=fl) [All St Augustine listings](https://moldroster.com/fl/city/st-augustine/)
 
 ## How much does mold inspection and remediation cost?
 
@@ -30,8 +30,6 @@ For larger jobs, yes: a licensed assessor inspects, samples if needed and writes
 For larger jobs, a licensed assessor inspects, samples if needed, and writes a protocol. A separate licensed remediator does the work, and the assessor confirms the result. Fixing the moisture source is the key step ([EPA: A Brief Guide to Mold, Moisture and Your Home](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home)).
 
 ## Which licensed mold pros are based in St Augustine, FL?
-
-11 DBPR-licensed listings give an address in St Augustine: 9 hold an assessment licence and 7 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

@@ -10,19 +10,15 @@ canonical: https://moldroster.com/tx/city/garland/
 
 **Quick answer:** 7 TDLR-licensed listings give an address in Garland (1 mold assessment, 7 mold remediation), and 179 more are elsewhere in Dallas County. Licensed pros often travel, so ask whether they cover your address.
 
-7 TDLR-licensed listings give an address in Garland (1 mold assessment, 7 mold remediation), and 179 more are elsewhere in Dallas County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Garland hiring guide →**](https://moldroster.com/tx/city/garland/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Garland](https://moldroster.com/get-quotes/?city=garland&st=tx)
+[How to get quotes in Garland](https://moldroster.com/quotes/?city=garland&st=tx)
 
 ## Which licensed mold assessors and remediators are based in Garland, TX?
 
 Listed below: 1 licensed mold assessor (inspection and testing) and 6 licensed mold remediators with an address in Garland. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (1)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by TDLR Mold assessmentMold remediation
 
@@ -129,7 +125,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 ## Which other licensed mold pros are in Dallas County, TX? (179)
 
-179 more TDLR-licensed listings are elsewhere in Dallas County. Licensed pros often travel, so ask whether they cover your address.
+179 more TDLR-licensed listings are elsewhere in Dallas County.
 
 [See all 186 Dallas County listings →](https://moldroster.com/tx/county/dallas/)
 

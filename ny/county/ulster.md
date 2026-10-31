@@ -10,15 +10,13 @@ canonical: https://moldroster.com/ny/county/ulster/
 
 **Quick answer:** 18 NYS DOL-licensed listings with an address of record in Ulster County (10 mold assessment, 8 mold remediation): 18 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**18 NYS DOL-licensed listings** with an address of record in Ulster County (10 mold assessment, 8 mold remediation): 18 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=ulster&st=ny)
+[How to get quotes](https://moldroster.com/quotes/?county=ulster&st=ny)
 
 City pages: [Highland](https://moldroster.com/ny/city/highland/) · [Kingston](https://moldroster.com/ny/city/kingston/) · [Saugerties](https://moldroster.com/ny/city/saugerties/)
 
 ## Which licensed mold assessors are in Ulster County, NY? (10)
 
 10 listings are shown in this section with an address of record in Ulster County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessment
 
@@ -166,7 +164,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 ## Which licensed mold remediators are in Ulster County, NY? (8)
 
-8 listings are shown in this section with an address of record in Ulster County. Listings holding more than one licence type appear once, in the first matching section.
+8 listings are shown in this section with an address of record in Ulster County.
 
 ✔ Licensed by NYS DOL Mold remediation
 
@@ -312,7 +310,7 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 10 listings with a NYS DOL mold assessment licence and 8 with a remediation licence have an address of record in Ulster County. Pros from neighboring counties may also serve the area.
 
-**How do I check a Ulster County mold company's licence?**
+**How do I check an Ulster County mold company's licence?**
 
 Look it up with the New York State Department of Labor (NYS DOL). Each listing here shows the licence number and expiry date from the agency's records.
 

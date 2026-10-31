@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/pembroke-pines/guide/
 
 41 DBPR-licensed listings give an address in Pembroke Pines: **31** hold an assessment licence and **29** hold a remediation licence. Another 548 are elsewhere in Broward County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=pembroke-pines&st=fl) [All Pembroke Pines listings](https://moldroster.com/fl/city/pembroke-pines/)
+[Get quotes](https://moldroster.com/quotes/?city=pembroke-pines&st=fl) [All Pembroke Pines listings](https://moldroster.com/fl/city/pembroke-pines/)
 
 ## What are Florida's mold licensing rules?
 
@@ -34,8 +34,6 @@ National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
 ## Which licensed mold pros are based in Pembroke Pines, FL?
-
-41 DBPR-licensed listings give an address in Pembroke Pines: 31 hold an assessment licence and 29 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessment
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/conroe/guide/
 
 6 TDLR-licensed listings give an address in Conroe: **2** hold an assessment licence and **4** hold a remediation licence. Another 110 are elsewhere in Montgomery County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=conroe&st=tx) [All Conroe listings](https://moldroster.com/tx/city/conroe/)
+[Get quotes](https://moldroster.com/quotes/?city=conroe&st=tx) [All Conroe listings](https://moldroster.com/tx/city/conroe/)
 
 ## What should I ask a mold pro before I sign?
 
@@ -35,8 +35,6 @@ A TDLR licence is generally required to assess or remediate mold when the affect
 Summary of 16 Texas Administrative Code Chapter 78 (Texas Mold Assessment and Remediation Rules). See the agency: [Texas Department of Licensing and Regulation](https://www.tdlr.texas.gov/mold/moldrules.htm). Plain-language summary, not legal advice; confirm details with the agency.
 
 ## Which licensed mold pros are based in Conroe, TX?
-
-6 TDLR-licensed listings give an address in Conroe: 2 hold an assessment licence and 4 hold a remediation licence.
 
 ✔ Licensed by TDLR Mold assessment
 

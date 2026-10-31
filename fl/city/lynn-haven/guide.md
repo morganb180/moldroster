@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/lynn-haven/guide/
 
 9 DBPR-licensed listings give an address in Lynn Haven: **4** hold an assessment licence and **7** hold a remediation licence. Another 36 are elsewhere in Bay County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=lynn-haven&st=fl) [All Lynn Haven listings](https://moldroster.com/fl/city/lynn-haven/)
+[Get quotes](https://moldroster.com/quotes/?city=lynn-haven&st=fl) [All Lynn Haven listings](https://moldroster.com/fl/city/lynn-haven/)
 
 ## Do I need a mold assessment before remediation?
 
@@ -28,8 +28,6 @@ Look the name up in the DBPR records and check the licence is still current. Ask
 4. Ask for proof of insurance and a written scope before work starts.
 
 ## Which licensed mold pros are based in Lynn Haven, FL?
-
-9 DBPR-licensed listings give an address in Lynn Haven: 4 hold an assessment licence and 7 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessment
 

@@ -8,9 +8,9 @@ canonical: https://moldroster.com/tx/county/lamar/
 
 # Licensed mold assessors & remediators in Lamar County, TX
 
-**Quick answer:** 3 TDLR-licensed listings with an address of record in Lamar County (3 mold remediation): 1 firms and 2 individual licensees. Licensed pros often travel, so ask whether they cover your address.
+**Quick answer:** 3 TDLR-licensed listings with an address of record in Lamar County (3 mold remediation): 1 firm and 2 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**3 TDLR-licensed listings** with an address of record in Lamar County (3 mold remediation): 1 firms and 2 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=lamar&st=tx)
+[How to get quotes](https://moldroster.com/quotes/?county=lamar&st=tx)
 
 ## Which licensed mold remediators are in Lamar County, TX? (3)
 

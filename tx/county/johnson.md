@@ -10,13 +10,11 @@ canonical: https://moldroster.com/tx/county/johnson/
 
 **Quick answer:** 10 TDLR-licensed listings with an address of record in Johnson County (6 mold assessment, 5 mold remediation): 2 firms and 8 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**10 TDLR-licensed listings** with an address of record in Johnson County (6 mold assessment, 5 mold remediation): 2 firms and 8 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=johnson&st=tx)
+[How to get quotes](https://moldroster.com/quotes/?county=johnson&st=tx)
 
 ## Which licensed mold assessors are in Johnson County, TX? (6)
 
 6 listings are shown in this section with an address of record in Johnson County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by TDLR Mold assessment
 
@@ -104,7 +102,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 ## Which licensed mold remediators are in Johnson County, TX? (4)
 
-4 listings are shown in this section with an address of record in Johnson County. Listings holding more than one licence type appear once, in the first matching section.
+4 listings are shown in this section with an address of record in Johnson County.
 
 ✔ Licensed by TDLR Mold remediation
 

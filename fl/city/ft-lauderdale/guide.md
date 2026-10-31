@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/ft-lauderdale/guide/
 
 6 DBPR-licensed listings give an address in Ft. Lauderdale: **3** hold an assessment licence and **5** hold a remediation licence. Another 583 are elsewhere in Broward County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=ft-lauderdale&st=fl) [All Ft. Lauderdale listings](https://moldroster.com/fl/city/ft-lauderdale/)
+[Get quotes](https://moldroster.com/quotes/?city=ft-lauderdale&st=fl) [All Ft. Lauderdale listings](https://moldroster.com/fl/city/ft-lauderdale/)
 
 ## How much does mold inspection and remediation cost?
 
@@ -30,8 +30,6 @@ For larger jobs, yes: a licensed assessor inspects, samples if needed and writes
 For larger jobs, a licensed assessor inspects, samples if needed, and writes a protocol. A separate licensed remediator does the work, and the assessor confirms the result. Fixing the moisture source is the key step ([EPA: A Brief Guide to Mold, Moisture and Your Home](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home)).
 
 ## Which licensed mold pros are based in Ft. Lauderdale, FL?
-
-6 DBPR-licensed listings give an address in Ft.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

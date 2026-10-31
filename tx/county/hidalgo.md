@@ -10,13 +10,11 @@ canonical: https://moldroster.com/tx/county/hidalgo/
 
 **Quick answer:** 12 TDLR-licensed listings with an address of record in Hidalgo County (5 mold assessment, 8 mold remediation): 2 firms and 10 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**12 TDLR-licensed listings** with an address of record in Hidalgo County (5 mold assessment, 8 mold remediation): 2 firms and 10 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=hidalgo&st=tx)
+[How to get quotes](https://moldroster.com/quotes/?county=hidalgo&st=tx)
 
 ## Which licensed mold assessors are in Hidalgo County, TX? (5)
 
 5 listings are shown in this section with an address of record in Hidalgo County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by TDLR Mold assessment
 
@@ -91,7 +89,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 ## Which licensed mold remediators are in Hidalgo County, TX? (7)
 
-7 listings are shown in this section with an address of record in Hidalgo County. Listings holding more than one licence type appear once, in the first matching section.
+7 listings are shown in this section with an address of record in Hidalgo County.
 
 ✔ Licensed by TDLR Mold remediation
 

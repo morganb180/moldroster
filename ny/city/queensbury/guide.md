@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/queensbury/guide/
 
 5 NYS DOL-licensed listings give an address in Queensbury: **5** hold an assessment licence and **0** hold a remediation licence. Another 4 are elsewhere in Warren County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=queensbury&st=ny) [All Queensbury listings](https://moldroster.com/ny/city/queensbury/)
+[Get quotes](https://moldroster.com/quotes/?city=queensbury&st=ny) [All Queensbury listings](https://moldroster.com/ny/city/queensbury/)
 
 ## Do I need a mold assessment before remediation?
 
@@ -28,8 +28,6 @@ Look the name up in the NYS DOL records and check the licence is still current. 
 4. Ask for proof of insurance and a written scope before work starts.
 
 ## Which licensed mold pros are based in Queensbury, NY?
-
-5 NYS DOL-licensed listings give an address in Queensbury: 5 hold an assessment licence and 0 hold a remediation licence.
 
 ✔ Licensed by NYS DOL Mold assessment
 

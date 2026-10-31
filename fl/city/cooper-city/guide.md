@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/cooper-city/guide/
 
 12 DBPR-licensed listings give an address in Cooper City: **12** hold an assessment licence and **11** hold a remediation licence. Another 577 are elsewhere in Broward County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=cooper-city&st=fl) [All Cooper City listings](https://moldroster.com/fl/city/cooper-city/)
+[Get quotes](https://moldroster.com/quotes/?city=cooper-city&st=fl) [All Cooper City listings](https://moldroster.com/fl/city/cooper-city/)
 
 ## What are Florida's mold licensing rules?
 
@@ -34,8 +34,6 @@ National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
 ## Which licensed mold pros are based in Cooper City, FL?
-
-12 DBPR-licensed listings give an address in Cooper City: 12 hold an assessment licence and 11 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessment
 

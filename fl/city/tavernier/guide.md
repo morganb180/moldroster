@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/tavernier/guide/
 
 4 DBPR-licensed listings give an address in Tavernier: **3** hold an assessment licence and **3** hold a remediation licence. Another 8 are elsewhere in Monroe County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=tavernier&st=fl) [All Tavernier listings](https://moldroster.com/fl/city/tavernier/)
+[Get quotes](https://moldroster.com/quotes/?city=tavernier&st=fl) [All Tavernier listings](https://moldroster.com/fl/city/tavernier/)
 
 ## How much does mold inspection and remediation cost?
 
@@ -30,8 +30,6 @@ For larger jobs, yes: a licensed assessor inspects, samples if needed and writes
 For larger jobs, a licensed assessor inspects, samples if needed, and writes a protocol. A separate licensed remediator does the work, and the assessor confirms the result. Fixing the moisture source is the key step ([EPA: A Brief Guide to Mold, Moisture and Your Home](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home)).
 
 ## Which licensed mold pros are based in Tavernier, FL?
-
-4 DBPR-licensed listings give an address in Tavernier: 3 hold an assessment licence and 3 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

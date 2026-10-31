@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/sunrise/guide/
 
 31 DBPR-licensed listings give an address in Sunrise: **20** hold an assessment licence and **26** hold a remediation licence. Another 558 are elsewhere in Broward County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=sunrise&st=fl) [All Sunrise listings](https://moldroster.com/fl/city/sunrise/)
+[Get quotes](https://moldroster.com/quotes/?city=sunrise&st=fl) [All Sunrise listings](https://moldroster.com/fl/city/sunrise/)
 
 ## Do I need a mold assessment before remediation?
 
@@ -28,8 +28,6 @@ Look the name up in the DBPR records and check the licence is still current. Ask
 4. Ask for proof of insurance and a written scope before work starts.
 
 ## Which licensed mold pros are based in Sunrise, FL?
-
-31 DBPR-licensed listings give an address in Sunrise: 20 hold an assessment licence and 26 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

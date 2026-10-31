@@ -10,19 +10,15 @@ canonical: https://moldroster.com/fl/city/fort-lauderdale/
 
 **Quick answer:** 60 DBPR-licensed listings give an address in Fort Lauderdale (45 mold assessment, 42 mold remediation), and 529 more are elsewhere in Broward County. Licensed pros often travel, so ask whether they cover your address.
 
-60 DBPR-licensed listings give an address in Fort Lauderdale (45 mold assessment, 42 mold remediation), and 529 more are elsewhere in Broward County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Fort Lauderdale hiring guide →**](https://moldroster.com/fl/city/fort-lauderdale/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Fort Lauderdale](https://moldroster.com/get-quotes/?city=fort-lauderdale&st=fl)
+[How to get quotes in Fort Lauderdale](https://moldroster.com/quotes/?city=fort-lauderdale&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Fort Lauderdale, FL?
 
 Listed below: 45 licensed mold assessors (inspection and testing) and 15 licensed mold remediators with an address in Fort Lauderdale. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (45)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessment
 
@@ -796,7 +792,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Broward County, FL? (529)
 
-529 more DBPR-licensed listings are elsewhere in Broward County. Licensed pros often travel, so ask whether they cover your address.
+529 more DBPR-licensed listings are elsewhere in Broward County.
 
 [See all 589 Broward County listings →](https://moldroster.com/fl/county/broward/)
 

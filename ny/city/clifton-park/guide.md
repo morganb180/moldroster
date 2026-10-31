@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/clifton-park/guide/
 
 4 NYS DOL-licensed listings give an address in Clifton Park: **1** hold an assessment licence and **3** hold a remediation licence. Another 21 are elsewhere in Saratoga County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=clifton-park&st=ny) [All Clifton Park listings](https://moldroster.com/ny/city/clifton-park/)
+[Get quotes](https://moldroster.com/quotes/?city=clifton-park&st=ny) [All Clifton Park listings](https://moldroster.com/ny/city/clifton-park/)
 
 ## How do I verify a mold pro's licence in Clifton Park, NY?
 
@@ -33,8 +33,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 * Will you find and fix the moisture source, or only remove visible growth?
 
 ## Which licensed mold pros are based in Clifton Park, NY?
-
-4 NYS DOL-licensed listings give an address in Clifton Park: 1 hold an assessment licence and 3 hold a remediation licence.
 
 ✔ Licensed by NYS DOL Mold assessment
 
@@ -139,7 +137,7 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 
 **How do I find a licensed mold inspector in Clifton Park?**
 
-Start with the 1 listings in Clifton Park that hold a NYS DOL assessment licence, then confirm the licence with the agency.
+Start with the 1 listing in Clifton Park that hold a NYS DOL assessment licence, then confirm the licence with the agency.
 
 **How much does mold remediation cost in Clifton Park?**
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/weston/guide/
 
 24 DBPR-licensed listings give an address in Weston: **19** hold an assessment licence and **18** hold a remediation licence. Another 565 are elsewhere in Broward County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=weston&st=fl) [All Weston listings](https://moldroster.com/fl/city/weston/)
+[Get quotes](https://moldroster.com/quotes/?city=weston&st=fl) [All Weston listings](https://moldroster.com/fl/city/weston/)
 
 ## How much does mold inspection and remediation cost?
 
@@ -30,8 +30,6 @@ For larger jobs, yes: a licensed assessor inspects, samples if needed and writes
 For larger jobs, a licensed assessor inspects, samples if needed, and writes a protocol. A separate licensed remediator does the work, and the assessor confirms the result. Fixing the moisture source is the key step ([EPA: A Brief Guide to Mold, Moisture and Your Home](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home)).
 
 ## Which licensed mold pros are based in Weston, FL?
-
-24 DBPR-licensed listings give an address in Weston: 19 hold an assessment licence and 18 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

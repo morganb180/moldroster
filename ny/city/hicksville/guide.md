@@ -10,7 +10,7 @@ canonical: https://moldroster.com/ny/city/hicksville/guide/
 
 6 NYS DOL-licensed listings give an address in Hicksville: **0** hold an assessment licence and **6** hold a remediation licence. Another 147 are elsewhere in Nassau County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=hicksville&st=ny) [All Hicksville listings](https://moldroster.com/ny/city/hicksville/)
+[Get quotes](https://moldroster.com/quotes/?city=hicksville&st=ny) [All Hicksville listings](https://moldroster.com/ny/city/hicksville/)
 
 ## What are New York's mold licensing rules?
 
@@ -34,8 +34,6 @@ National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
 ## Which licensed mold pros are based in Hicksville, NY?
-
-6 NYS DOL-licensed listings give an address in Hicksville: 0 hold an assessment licence and 6 hold a remediation licence.
 
 ✔ Licensed by NYS DOL Mold remediation
 

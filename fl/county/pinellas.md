@@ -10,15 +10,13 @@ canonical: https://moldroster.com/fl/county/pinellas/
 
 **Quick answer:** 183 DBPR-licensed listings with an address of record in Pinellas County (124 mold assessment, 130 mold remediation): 6 firms and 177 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**183 DBPR-licensed listings** with an address of record in Pinellas County (124 mold assessment, 130 mold remediation): 6 firms and 177 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=pinellas&st=fl)
+[How to get quotes](https://moldroster.com/quotes/?county=pinellas&st=fl)
 
 City pages: [Clearwater](https://moldroster.com/fl/city/clearwater/) · [Dunedin](https://moldroster.com/fl/city/dunedin/) · [Largo](https://moldroster.com/fl/city/largo/) · [Oldsmar](https://moldroster.com/fl/city/oldsmar/) · [Palm Harbor](https://moldroster.com/fl/city/palm-harbor/) · [Pinellas Park](https://moldroster.com/fl/city/pinellas-park/) · [Saint Petersburg](https://moldroster.com/fl/city/saint-petersburg/) · [Seminole](https://moldroster.com/fl/city/seminole/) · [St. Petersburg](https://moldroster.com/fl/city/st-petersburg/) · [Tarpon Springs](https://moldroster.com/fl/city/tarpon-springs/)
 
 ## Which licensed mold assessors are in Pinellas County, FL? (124)
 
 124 listings are shown in this section with an address of record in Pinellas County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -1592,7 +1590,7 @@ Show all 124 listings
 
 ## Which licensed mold remediators are in Pinellas County, FL? (59)
 
-59 listings are shown in this section with an address of record in Pinellas County. Listings holding more than one licence type appear once, in the first matching section.
+59 listings are shown in this section with an address of record in Pinellas County.
 
 ✔ Licensed by FL DBPR Mold remediation
 

@@ -10,19 +10,15 @@ canonical: https://moldroster.com/fl/city/north-palm-beach/
 
 **Quick answer:** 7 DBPR-licensed listings give an address in North Palm Beach (4 mold assessment, 5 mold remediation), and 363 more are elsewhere in Palm Beach County. Licensed pros often travel, so ask whether they cover your address.
 
-7 DBPR-licensed listings give an address in North Palm Beach (4 mold assessment, 5 mold remediation), and 363 more are elsewhere in Palm Beach County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the North Palm Beach hiring guide →**](https://moldroster.com/fl/city/north-palm-beach/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in North Palm Beach](https://moldroster.com/get-quotes/?city=north-palm-beach&st=fl)
+[How to get quotes in North Palm Beach](https://moldroster.com/quotes/?city=north-palm-beach&st=fl)
 
 ## Which licensed mold assessors and remediators are based in North Palm Beach, FL?
 
 Listed below: 4 licensed mold assessors (inspection and testing) and 3 licensed mold remediators with an address in North Palm Beach. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (4)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessment
 
@@ -114,7 +110,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Palm Beach County, FL? (363)
 
-363 more DBPR-licensed listings are elsewhere in Palm Beach County. Licensed pros often travel, so ask whether they cover your address.
+363 more DBPR-licensed listings are elsewhere in Palm Beach County.
 
 [See all 370 Palm Beach County listings →](https://moldroster.com/fl/county/palm-beach/)
 

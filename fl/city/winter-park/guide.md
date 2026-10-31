@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/winter-park/guide/
 
 11 DBPR-licensed listings give an address in Winter Park: **8** hold an assessment licence and **9** hold a remediation licence. Another 183 are elsewhere in Orange County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=winter-park&st=fl) [All Winter Park listings](https://moldroster.com/fl/city/winter-park/)
+[Get quotes](https://moldroster.com/quotes/?city=winter-park&st=fl) [All Winter Park listings](https://moldroster.com/fl/city/winter-park/)
 
 ## What are Florida's mold licensing rules?
 
@@ -34,8 +34,6 @@ National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
 ## Which licensed mold pros are based in Winter Park, FL?
-
-11 DBPR-licensed listings give an address in Winter Park: 8 hold an assessment licence and 9 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessment
 

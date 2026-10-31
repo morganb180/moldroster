@@ -10,13 +10,11 @@ canonical: https://moldroster.com/ny/county/montgomery/
 
 **Quick answer:** 3 NYS DOL-licensed listings with an address of record in Montgomery County (1 mold assessment, 2 mold remediation): 3 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**3 NYS DOL-licensed listings** with an address of record in Montgomery County (1 mold assessment, 2 mold remediation): 3 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=montgomery&st=ny)
+[How to get quotes](https://moldroster.com/quotes/?county=montgomery&st=ny)
 
 ## Which licensed mold assessors are in Montgomery County, NY? (1)
 
 1 listing is shown in this section with an address of record in Montgomery County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessment
 
@@ -33,7 +31,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 ## Which licensed mold remediators are in Montgomery County, NY? (2)
 
-2 listings are shown in this section with an address of record in Montgomery County. Listings holding more than one licence type appear once, in the first matching section.
+2 listings are shown in this section with an address of record in Montgomery County.
 
 ✔ Licensed by NYS DOL Mold remediation
 
@@ -78,7 +76,7 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 **How many licensed mold assessors are in Montgomery County?**
 
-1 listings with a NYS DOL mold assessment licence and 2 with a remediation licence have an address of record in Montgomery County. Pros from neighboring counties may also serve the area.
+1 listing with a NYS DOL mold assessment licence and 2 with a remediation licence have an address of record in Montgomery County. Pros from neighboring counties may also serve the area.
 
 **How do I check a Montgomery County mold company's licence?**
 

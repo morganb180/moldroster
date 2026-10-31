@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/lake-mary/guide/
 
 10 DBPR-licensed listings give an address in Lake Mary: **9** hold an assessment licence and **5** hold a remediation licence. Another 73 are elsewhere in Seminole County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=lake-mary&st=fl) [All Lake Mary listings](https://moldroster.com/fl/city/lake-mary/)
+[Get quotes](https://moldroster.com/quotes/?city=lake-mary&st=fl) [All Lake Mary listings](https://moldroster.com/fl/city/lake-mary/)
 
 ## Do I need a mold assessment before remediation?
 
@@ -28,8 +28,6 @@ Look the name up in the DBPR records and check the licence is still current. Ask
 4. Ask for proof of insurance and a written scope before work starts.
 
 ## Which licensed mold pros are based in Lake Mary, FL?
-
-10 DBPR-licensed listings give an address in Lake Mary: 9 hold an assessment licence and 5 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessment
 

@@ -10,19 +10,15 @@ canonical: https://moldroster.com/fl/city/panama-city-beach/
 
 **Quick answer:** 8 DBPR-licensed listings give an address in Panama City Beach (6 mold assessment, 7 mold remediation), and 37 more are elsewhere in Bay County. Licensed pros often travel, so ask whether they cover your address.
 
-8 DBPR-licensed listings give an address in Panama City Beach (6 mold assessment, 7 mold remediation), and 37 more are elsewhere in Bay County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Panama City Beach hiring guide →**](https://moldroster.com/fl/city/panama-city-beach/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Panama City Beach](https://moldroster.com/get-quotes/?city=panama-city-beach&st=fl)
+[How to get quotes in Panama City Beach](https://moldroster.com/quotes/?city=panama-city-beach&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Panama City Beach, FL?
 
 Listed below: 6 licensed mold assessors (inspection and testing) and 2 licensed mold remediators with an address in Panama City Beach. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (6)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -134,7 +130,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Bay County, FL? (37)
 
-37 more DBPR-licensed listings are elsewhere in Bay County. Licensed pros often travel, so ask whether they cover your address.
+37 more DBPR-licensed listings are elsewhere in Bay County.
 
 [See all 45 Bay County listings →](https://moldroster.com/fl/county/bay/)
 

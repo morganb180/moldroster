@@ -10,19 +10,15 @@ canonical: https://moldroster.com/fl/city/winter-springs/
 
 **Quick answer:** 9 DBPR-licensed listings give an address in Winter Springs (6 mold assessment, 7 mold remediation), and 74 more are elsewhere in Seminole County. Licensed pros often travel, so ask whether they cover your address.
 
-9 DBPR-licensed listings give an address in Winter Springs (6 mold assessment, 7 mold remediation), and 74 more are elsewhere in Seminole County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Winter Springs hiring guide →**](https://moldroster.com/fl/city/winter-springs/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Winter Springs](https://moldroster.com/get-quotes/?city=winter-springs&st=fl)
+[How to get quotes in Winter Springs](https://moldroster.com/quotes/?city=winter-springs&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Winter Springs, FL?
 
 Listed below: 6 licensed mold assessors (inspection and testing) and 3 licensed mold remediators with an address in Winter Springs. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (6)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -145,7 +141,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Seminole County, FL? (74)
 
-74 more DBPR-licensed listings are elsewhere in Seminole County. Licensed pros often travel, so ask whether they cover your address.
+74 more DBPR-licensed listings are elsewhere in Seminole County.
 
 [See all 83 Seminole County listings →](https://moldroster.com/fl/county/seminole/)
 

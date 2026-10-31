@@ -1,0 +1,14 @@
+---
+title: "Jordin R Desnoyers, Merritt Island, FL | Mold Roster"
+description: "Jordin R Desnoyers: mold remediation in Merritt Island, FL. FL DBPR licence details, contact."
+canonical: https://moldroster.com/fl/firms/jordin-r-desnoyers-fl4040/
+---
+
+# Jordin R Desnoyers
+
+* Mold remediation
+* Licensed by FL DBPR (Florida Department of Business and Professional Regulation)
+* Merritt Island, FL (Brevard County)
+* Address: 1026 Harbor Pines Dr, Merritt Island, FL
+
+Source: https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv, retrieved 2026-10-12. Verify: https://www2.myfloridalicense.com/mold-related-services/. Claim / correct: https://moldroster.com/claim-listing/?id=FL4040

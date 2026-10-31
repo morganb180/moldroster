@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/jupiter/guide/
 
 30 DBPR-licensed listings give an address in Jupiter: **22** hold an assessment licence and **23** hold a remediation licence. Another 340 are elsewhere in Palm Beach County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=jupiter&st=fl) [All Jupiter listings](https://moldroster.com/fl/city/jupiter/)
+[Get quotes](https://moldroster.com/quotes/?city=jupiter&st=fl) [All Jupiter listings](https://moldroster.com/fl/city/jupiter/)
 
 ## What should I ask a mold pro before I sign?
 
@@ -35,8 +35,6 @@ A DBPR licence is generally required to perform mold assessment or remediation f
 Summary of Florida Statutes Chapter 468, Part XVI (Mold-Related Services). See the agency: [Florida Department of Business and Professional Regulation](https://www2.myfloridalicense.com/mold-related-services/). Plain-language summary, not legal advice; confirm details with the agency.
 
 ## Which licensed mold pros are based in Jupiter, FL?
-
-30 DBPR-licensed listings give an address in Jupiter: 22 hold an assessment licence and 23 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

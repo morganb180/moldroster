@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/abilene/guide/
 
 5 TDLR-licensed listings give an address in Abilene: **1** hold an assessment licence and **4** hold a remediation licence. Another 13 are elsewhere in Taylor County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=abilene&st=tx) [All Abilene listings](https://moldroster.com/tx/city/abilene/)
+[Get quotes](https://moldroster.com/quotes/?city=abilene&st=tx) [All Abilene listings](https://moldroster.com/tx/city/abilene/)
 
 ## Do I need a mold assessment before remediation?
 
@@ -28,8 +28,6 @@ Look the name up in the TDLR records and check the licence is still current. Ask
 4. Ask for proof of insurance and a written scope before work starts.
 
 ## Which licensed mold pros are based in Abilene, TX?
-
-5 TDLR-licensed listings give an address in Abilene: 1 hold an assessment licence and 4 hold a remediation licence.
 
 ✔ Licensed by TDLR Mold assessment
 
@@ -141,7 +139,7 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 
 **How do I find a licensed mold inspector in Abilene?**
 
-Start with the 1 listings in Abilene that hold a TDLR assessment licence, then confirm the licence with the agency.
+Start with the 1 listing in Abilene that hold a TDLR assessment licence, then confirm the licence with the agency.
 
 **How much does mold remediation cost in Abilene?**
 

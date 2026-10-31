@@ -10,19 +10,15 @@ canonical: https://moldroster.com/fl/city/parrish/
 
 **Quick answer:** 8 DBPR-licensed listings give an address in Parrish (7 mold assessment, 4 mold remediation), and 59 more are elsewhere in Manatee County. Licensed pros often travel, so ask whether they cover your address.
 
-8 DBPR-licensed listings give an address in Parrish (7 mold assessment, 4 mold remediation), and 59 more are elsewhere in Manatee County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Parrish hiring guide →**](https://moldroster.com/fl/city/parrish/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Parrish](https://moldroster.com/get-quotes/?city=parrish&st=fl)
+[How to get quotes in Parrish](https://moldroster.com/quotes/?city=parrish&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Parrish, FL?
 
 Listed below: 7 licensed mold assessors (inspection and testing) and 1 licensed mold remediator with an address in Parrish. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (7)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -127,7 +123,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Manatee County, FL? (59)
 
-59 more DBPR-licensed listings are elsewhere in Manatee County. Licensed pros often travel, so ask whether they cover your address.
+59 more DBPR-licensed listings are elsewhere in Manatee County.
 
 [See all 67 Manatee County listings →](https://moldroster.com/fl/county/manatee/)
 

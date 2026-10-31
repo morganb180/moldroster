@@ -10,13 +10,11 @@ canonical: https://moldroster.com/ny/county/sullivan/
 
 **Quick answer:** 2 NYS DOL-licensed listings with an address of record in Sullivan County (2 mold assessment): 2 firms and 0 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**2 NYS DOL-licensed listings** with an address of record in Sullivan County (2 mold assessment): 2 firms and 0 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=sullivan&st=ny)
+[How to get quotes](https://moldroster.com/quotes/?county=sullivan&st=ny)
 
 ## Which licensed mold assessors are in Sullivan County, NY? (2)
 
 2 listings are shown in this section with an address of record in Sullivan County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessment
 

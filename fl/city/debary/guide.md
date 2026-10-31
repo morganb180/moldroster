@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/debary/guide/
 
 10 DBPR-licensed listings give an address in Debary: **7** hold an assessment licence and **7** hold a remediation licence. Another 60 are elsewhere in Volusia County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=debary&st=fl) [All Debary listings](https://moldroster.com/fl/city/debary/)
+[Get quotes](https://moldroster.com/quotes/?city=debary&st=fl) [All Debary listings](https://moldroster.com/fl/city/debary/)
 
 ## What are Florida's mold licensing rules?
 
@@ -34,8 +34,6 @@ National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
 ## Which licensed mold pros are based in Debary, FL?
-
-10 DBPR-licensed listings give an address in Debary: 7 hold an assessment licence and 7 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessment
 

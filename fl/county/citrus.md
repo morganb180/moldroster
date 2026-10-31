@@ -10,15 +10,13 @@ canonical: https://moldroster.com/fl/county/citrus/
 
 **Quick answer:** 17 DBPR-licensed listings with an address of record in Citrus County (12 mold assessment, 7 mold remediation): 2 firms and 15 individual licensees. Licensed pros often travel, so ask whether they cover your address.
 
-**17 DBPR-licensed listings** with an address of record in Citrus County (12 mold assessment, 7 mold remediation): 2 firms and 15 individual licensees. [How to get quotes](https://moldroster.com/get-quotes/?county=citrus&st=fl)
+[How to get quotes](https://moldroster.com/quotes/?county=citrus&st=fl)
 
 City pages: [Crystal River](https://moldroster.com/fl/city/crystal-river/)
 
 ## Which licensed mold assessors are in Citrus County, FL? (12)
 
 12 listings are shown in this section with an address of record in Citrus County. Listings holding more than one licence type appear once, in the first matching section.
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -175,7 +173,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which licensed mold remediators are in Citrus County, FL? (5)
 
-5 listings are shown in this section with an address of record in Citrus County. Listings holding more than one licence type appear once, in the first matching section.
+5 listings are shown in this section with an address of record in Citrus County.
 
 ✔ Licensed by FL DBPR Mold remediation
 

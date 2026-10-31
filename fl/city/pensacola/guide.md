@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/pensacola/guide/
 
 20 DBPR-licensed listings give an address in Pensacola: **16** hold an assessment licence and **15** hold a remediation licence. Another 4 are elsewhere in Escambia County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=pensacola&st=fl) [All Pensacola listings](https://moldroster.com/fl/city/pensacola/)
+[Get quotes](https://moldroster.com/quotes/?city=pensacola&st=fl) [All Pensacola listings](https://moldroster.com/fl/city/pensacola/)
 
 ## What should I ask a mold pro before I sign?
 
@@ -33,8 +33,6 @@ A DBPR licence is generally required to perform mold assessment or remediation f
 Summary of Florida Statutes Chapter 468, Part XVI (Mold-Related Services). See the agency: [Florida Department of Business and Professional Regulation](https://www2.myfloridalicense.com/mold-related-services/). Plain-language summary, not legal advice; confirm details with the agency.
 
 ## Which licensed mold pros are based in Pensacola, FL?
-
-20 DBPR-licensed listings give an address in Pensacola: 16 hold an assessment licence and 15 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessment
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/crestview/guide/
 
 5 DBPR-licensed listings give an address in Crestview: **2** hold an assessment licence and **4** hold a remediation licence. Another 13 are elsewhere in Okaloosa County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=crestview&st=fl) [All Crestview listings](https://moldroster.com/fl/city/crestview/)
+[Get quotes](https://moldroster.com/quotes/?city=crestview&st=fl) [All Crestview listings](https://moldroster.com/fl/city/crestview/)
 
 ## What are Florida's mold licensing rules?
 
@@ -34,8 +34,6 @@ National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
 ## Which licensed mold pros are based in Crestview, FL?
-
-5 DBPR-licensed listings give an address in Crestview: 2 hold an assessment licence and 4 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

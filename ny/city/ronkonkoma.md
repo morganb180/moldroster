@@ -10,19 +10,15 @@ canonical: https://moldroster.com/ny/city/ronkonkoma/
 
 **Quick answer:** 17 NYS DOL-licensed listings give an address in Ronkonkoma (8 mold assessment, 12 mold remediation), and 168 more are elsewhere in Suffolk County. Licensed pros often travel, so ask whether they cover your address.
 
-17 NYS DOL-licensed listings give an address in Ronkonkoma (8 mold assessment, 12 mold remediation), and 168 more are elsewhere in Suffolk County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Ronkonkoma hiring guide →**](https://moldroster.com/ny/city/ronkonkoma/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Ronkonkoma](https://moldroster.com/get-quotes/?city=ronkonkoma&st=ny)
+[How to get quotes in Ronkonkoma](https://moldroster.com/quotes/?city=ronkonkoma&st=ny)
 
 ## Which licensed mold assessors and remediators are based in Ronkonkoma, NY?
 
 Listed below: 8 licensed mold assessors (inspection and testing) and 9 licensed mold remediators with an address in Ronkonkoma. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (8)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by NYS DOL Mold assessment
 
@@ -292,7 +288,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 
 ## Which other licensed mold pros are in Suffolk County, NY? (168)
 
-168 more NYS DOL-licensed listings are elsewhere in Suffolk County. Licensed pros often travel, so ask whether they cover your address.
+168 more NYS DOL-licensed listings are elsewhere in Suffolk County.
 
 [See all 185 Suffolk County listings →](https://moldroster.com/ny/county/suffolk/)
 

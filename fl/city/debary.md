@@ -10,19 +10,15 @@ canonical: https://moldroster.com/fl/city/debary/
 
 **Quick answer:** 10 DBPR-licensed listings give an address in Debary (7 mold assessment, 7 mold remediation), and 60 more are elsewhere in Volusia County. Licensed pros often travel, so ask whether they cover your address.
 
-10 DBPR-licensed listings give an address in Debary (7 mold assessment, 7 mold remediation), and 60 more are elsewhere in Volusia County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Debary hiring guide →**](https://moldroster.com/fl/city/debary/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Debary](https://moldroster.com/get-quotes/?city=debary&st=fl)
+[How to get quotes in Debary](https://moldroster.com/quotes/?city=debary&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Debary, FL?
 
 Listed below: 7 licensed mold assessors (inspection and testing) and 3 licensed mold remediators with an address in Debary. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (7)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessment
 
@@ -152,7 +148,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Volusia County, FL? (60)
 
-60 more DBPR-licensed listings are elsewhere in Volusia County. Licensed pros often travel, so ask whether they cover your address.
+60 more DBPR-licensed listings are elsewhere in Volusia County.
 
 [See all 70 Volusia County listings →](https://moldroster.com/fl/county/volusia/)
 

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/fort-worth/guide/
 
 15 TDLR-licensed listings give an address in Fort Worth: **3** hold an assessment licence and **12** hold a remediation licence. Another 168 are elsewhere in Tarrant County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=fort-worth&st=tx) [All Fort Worth listings](https://moldroster.com/tx/city/fort-worth/)
+[Get quotes](https://moldroster.com/quotes/?city=fort-worth&st=tx) [All Fort Worth listings](https://moldroster.com/tx/city/fort-worth/)
 
 ## What are Texas' mold licensing rules?
 
@@ -34,8 +34,6 @@ National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
 ## Which licensed mold pros are based in Fort Worth, TX?
-
-15 TDLR-licensed listings give an address in Fort Worth: 3 hold an assessment licence and 12 hold a remediation licence.
 
 ✔ Licensed by TDLR Mold assessment
 

@@ -1,0 +1,14 @@
+---
+title: "Timothy Alan Grobe, Tallahassee, FL | Mold Roster"
+description: "Timothy Alan Grobe: mold assessment and mold remediation in Tallahassee, FL. FL DBPR licence details, contact."
+canonical: https://moldroster.com/fl/firms/timothy-alan-grobe-fl0190/
+---
+
+# Timothy Alan Grobe
+
+* Mold assessment, Mold remediation
+* Licensed by FL DBPR (Florida Department of Business and Professional Regulation)
+* Tallahassee, FL (Leon County)
+* Address: 4427 Bayshore Cir, Tallahassee, FL
+
+Source: https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv, retrieved 2026-10-12. Verify: https://www2.myfloridalicense.com/mold-related-services/. Claim / correct: https://moldroster.com/claim-listing/?id=FL0190

@@ -10,7 +10,7 @@ canonical: https://moldroster.com/fl/city/navarre/guide/
 
 9 DBPR-licensed listings give an address in Navarre: **6** hold an assessment licence and **5** hold a remediation licence. Another 16 are elsewhere in Santa Rosa County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=navarre&st=fl) [All Navarre listings](https://moldroster.com/fl/city/navarre/)
+[Get quotes](https://moldroster.com/quotes/?city=navarre&st=fl) [All Navarre listings](https://moldroster.com/fl/city/navarre/)
 
 ## Do I need a mold assessment before remediation?
 
@@ -28,8 +28,6 @@ Look the name up in the DBPR records and check the licence is still current. Ask
 4. Ask for proof of insurance and a written scope before work starts.
 
 ## Which licensed mold pros are based in Navarre, FL?
-
-9 DBPR-licensed listings give an address in Navarre: 6 hold an assessment licence and 5 hold a remediation licence.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 

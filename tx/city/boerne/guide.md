@@ -10,7 +10,7 @@ canonical: https://moldroster.com/tx/city/boerne/guide/
 
 4 TDLR-licensed listings give an address in Boerne: **1** hold an assessment licence and **3** hold a remediation licence. Another 6 are elsewhere in Kendall County.
 
-[Get quotes](https://moldroster.com/get-quotes/?city=boerne&st=tx) [All Boerne listings](https://moldroster.com/tx/city/boerne/)
+[Get quotes](https://moldroster.com/quotes/?city=boerne&st=tx) [All Boerne listings](https://moldroster.com/tx/city/boerne/)
 
 ## What are Texas' mold licensing rules?
 
@@ -34,8 +34,6 @@ National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
 ## Which licensed mold pros are based in Boerne, TX?
-
-4 TDLR-licensed listings give an address in Boerne: 1 hold an assessment licence and 3 hold a remediation licence.
 
 ✔ Licensed by TDLR Mold assessment
 
@@ -130,7 +128,7 @@ Ask what clearance test will show the job is done, for the licence number and ty
 
 **How do I find a licensed mold inspector in Boerne?**
 
-Start with the 1 listings in Boerne that hold a TDLR assessment licence, then confirm the licence with the agency.
+Start with the 1 listing in Boerne that hold a TDLR assessment licence, then confirm the licence with the agency.
 
 **How much does mold remediation cost in Boerne?**
 

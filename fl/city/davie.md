@@ -10,19 +10,15 @@ canonical: https://moldroster.com/fl/city/davie/
 
 **Quick answer:** 46 DBPR-licensed listings give an address in Davie (36 mold assessment, 35 mold remediation), and 543 more are elsewhere in Broward County. Licensed pros often travel, so ask whether they cover your address.
 
-46 DBPR-licensed listings give an address in Davie (36 mold assessment, 35 mold remediation), and 543 more are elsewhere in Broward County. Licensed pros often travel, so ask whether they cover your address.
-
 [**Read the Davie hiring guide →**](https://moldroster.com/fl/city/davie/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Davie](https://moldroster.com/get-quotes/?city=davie&st=fl)
+[How to get quotes in Davie](https://moldroster.com/quotes/?city=davie&st=fl)
 
 ## Which licensed mold assessors and remediators are based in Davie, FL?
 
 Listed below: 36 licensed mold assessors (inspection and testing) and 10 licensed mold remediators with an address in Davie. Listings holding more than one licence type are shown once.
 
 ### Licensed mold assessors (inspection & testing) (36)
-
-Listings holding more than one licence type are shown once, in the first matching section.
 
 ✔ Licensed by FL DBPR Mold assessmentMold remediation
 
@@ -624,7 +620,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 
 ## Which other licensed mold pros are in Broward County, FL? (543)
 
-543 more DBPR-licensed listings are elsewhere in Broward County. Licensed pros often travel, so ask whether they cover your address.
+543 more DBPR-licensed listings are elsewhere in Broward County.
 
 [See all 589 Broward County listings →](https://moldroster.com/fl/county/broward/)
 
