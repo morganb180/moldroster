@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/armatto-llc-tx0535/
 * Phone: (830) 375-1501
 * Mold Remediation Company #RCO1707 (exp. 2027-07-01)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0535
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0535

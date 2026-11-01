@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/keystone-response-restoration-llc-tx0
 * Phone: (325) 248-7003
 * Mold Remediation Company #RCO1802 (exp. 2028-06-08)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0628
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0628

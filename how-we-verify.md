@@ -10,7 +10,7 @@ Every listing comes from a state licensing agency's own public records. Phones, 
 
 ## Sources and last retrieval
 
-* **Texas:** Texas Department of Licensing and Regulation ([source](https://www.tdlr.texas.gov/mold/mold.htm)), retrieved 2026-10-12.
+* **Texas:** Texas Department of Licensing and Regulation ([source](https://www.tdlr.texas.gov/mld/)), retrieved 2026-10-12.
 * **Florida:** Florida Department of Business and Professional Regulation ([source](https://www2.myfloridalicense.com/mold-related-services/)), retrieved 2026-10-12.
 * **New York:** New York State Department of Labor ([source](https://dol.ny.gov/mold-program)), retrieved 2026-10-12.
 * **Washington, DC:** DC Department of Energy & Environment ([source](https://doee.dc.gov/service/mold-professional-licensing)), retrieved 2026-10-12.

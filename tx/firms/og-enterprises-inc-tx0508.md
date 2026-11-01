@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/og-enterprises-inc-tx0508/
 * Phone: (346) 620-7715
 * Mold Remediation Company #RCO1680 (exp. 2027-03-02)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0508
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0508

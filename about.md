@@ -12,7 +12,7 @@ Mold Roster is for homeowners, tenants, landlords, buyers and insurance claimant
 
 ## Where the information comes from
 
-* **Texas:** Texas Department of Licensing and Regulation ([official list](https://www.tdlr.texas.gov/mold/mold.htm))
+* **Texas:** Texas Department of Licensing and Regulation ([official list](https://www.tdlr.texas.gov/mld/))
 * **Florida:** Florida Department of Business and Professional Regulation ([official list](https://www2.myfloridalicense.com/mold-related-services/))
 * **New York:** New York State Department of Labor ([official list](https://dol.ny.gov/mold-program))
 * **Washington, DC:** DC Department of Energy & Environment ([official list](https://doee.dc.gov/service/mold-professional-licensing))

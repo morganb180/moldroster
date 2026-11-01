@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/cer-remediation-and-restoration-tx057
 * Phone: (214) 399-1686
 * Mold Remediation Company #RCO1752 (exp. 2028-01-08)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0578
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0578

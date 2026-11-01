@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/remont-russ-llc-tx0520/
 * Phone: (512) 269-9763
 * Mold Remediation Company #RCO1692 (exp. 2027-05-11)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0520
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0520

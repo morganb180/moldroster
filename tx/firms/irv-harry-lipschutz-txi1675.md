@@ -11,4 +11,4 @@ canonical: https://moldroster.com/tx/firms/irv-harry-lipschutz-txi1675/
 * MI (Out of State/unknown County)
 * Address: MI
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TXI1675
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TXI1675

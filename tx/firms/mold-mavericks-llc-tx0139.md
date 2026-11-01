@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/mold-mavericks-llc-tx0139/
 * Phone: (479) 200-0829
 * Mold Assessment Company #ACO1259 (exp. 2028-08-15)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0139
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0139

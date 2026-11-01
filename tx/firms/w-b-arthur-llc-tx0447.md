@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/w-b-arthur-llc-tx0447/
 * Phone: (512) 295-0458
 * Mold Remediation Company #RCO1593 (exp. 2027-10-18)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0447
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0447

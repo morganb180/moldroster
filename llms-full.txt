@@ -21,10 +21,25 @@ Mold Roster is for homeowners, tenants, landlords, buyers and insurance claimant
 - [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/)
 - [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/)
 - [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
+- [How much does a mold inspection cost?](https://moldroster.com/mold-inspection-cost/)
+- [Mold remediation in Texas: licences, rules and who to hire](https://moldroster.com/mold-remediation-texas/)
+- [Mold remediation in New York: licences, rules and who to hire](https://moldroster.com/mold-remediation-new-york/)
+- [Mold remediation in Florida: licences, rules and who to hire](https://moldroster.com/mold-remediation-florida/)
+- [Mold assessment and remediation in Washington, DC](https://moldroster.com/mold-assessment-dc/)
+- [What is mold, and when should you call a pro?](https://moldroster.com/what-is-mold/)
+- [Mold testing vs a mold inspection: which do you need?](https://moldroster.com/mold-testing-vs-inspection/)
+- [Mold disclosure in real estate: Texas, New York and DC](https://moldroster.com/mold-disclosure-real-estate/)
+- [Does homeowners insurance cover mold?](https://moldroster.com/mold-insurance-claims/)
+- [Mold after a flood or hurricane: what to do](https://moldroster.com/mold-after-flooding/)
+- [What is a mold remediation protocol and clearance test?](https://moldroster.com/mold-remediation-protocol/)
+- [2026 mold licence data report](https://moldroster.com/mold-license-data-report-2026/): county counts, per-100k rates, expiring licences; CSV at https://moldroster.com/mold-license-data-report-2026/mold-licence-data-2026.csv
+- [Coverage map](https://moldroster.com/mold-pro-map/): licensed mold pros per 100,000 residents by county (TX, FL, NY)
 - [How to get quotes](https://moldroster.com/quotes/): find 2-3 licensed pros near you and what to ask
 
 ## For professionals
 - [For professionals](https://moldroster.com/for-pros/): free listings and planned advertising
+- [For contractors](https://moldroster.com/for-contractors/): free listing, badge and quote requests
+- [Licence badge kit](https://moldroster.com/badges/): free badges linking to a listing
 - [Claim, correct, add or remove a listing](https://moldroster.com/claim-listing/): request form
 - [How we make money](https://moldroster.com/how-we-make-money/)
 

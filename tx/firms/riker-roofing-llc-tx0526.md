@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/riker-roofing-llc-tx0526/
 * Phone: (469) 267-6456
 * Mold Remediation Company #RCO1698 (exp. 2027-06-05)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0526
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0526

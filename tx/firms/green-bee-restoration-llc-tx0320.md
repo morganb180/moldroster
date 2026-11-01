@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/green-bee-restoration-llc-tx0320/
 * Phone: (972) 892-0000
 * Mold Remediation Company #RCO1346 (exp. 2028-05-30)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0320
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0320

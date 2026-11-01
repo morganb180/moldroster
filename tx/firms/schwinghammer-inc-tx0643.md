@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/schwinghammer-inc-tx0643/
 * Phone: (469) 885-2856
 * Mold Remediation Company #RCO1817 (exp. 2028-07-28)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0643
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0643

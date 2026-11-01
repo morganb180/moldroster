@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/basin-restoration-llc-tx0639/
 * Phone: (432) 219-6100
 * Mold Remediation Company #RCO1813 (exp. 2028-07-13)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0639
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0639

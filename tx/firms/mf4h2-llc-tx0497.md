@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/mf4h2-llc-tx0497/
 * Phone: (844) 524-0074
 * Mold Remediation Company #RCO1669 (exp. 2026-12-05)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0497
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0497

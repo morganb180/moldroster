@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/galligan-restoration-services-inc-tx0
 * Phone: (210) 670-9591
 * Mold Remediation Company #RCO1191 (exp. 2028-09-18)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0269
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0269

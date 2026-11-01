@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/absolute-environmental-services-ltd-l
 * Phone: (281) 319-4789
 * Mold Remediation Company #RCO0235 (exp. 2027-01-12)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0235
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0235

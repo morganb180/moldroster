@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/m-m-4-him-tx0305/
 * Phone: (806) 780-6311
 * Mold Remediation Company #RCO1307 (exp. 2028-02-03)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0305
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0305

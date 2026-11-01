@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/big-thicket-ventures-llc-dba-premier-
 * Phone: (409) 893-0176
 * Mold Remediation Company #RCO1515 (exp. 2028-04-12)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0395
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0395

@@ -10,4 +10,4 @@ canonical: https://moldroster.com/tx/firms/jack-d-marshall-txi0123/
 * Licensed by TDLR (Texas Department of Licensing and Regulation)
 * TX (Victoria County)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TXI0123
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TXI0123

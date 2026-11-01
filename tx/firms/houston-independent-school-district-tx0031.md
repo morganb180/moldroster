@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/houston-independent-school-district-t
 * Phone: (713) 556-9225
 * Mold Assessment Company #ACO0198 (exp. 2027-06-03)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0031
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0031

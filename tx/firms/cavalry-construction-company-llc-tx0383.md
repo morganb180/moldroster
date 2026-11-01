@@ -15,4 +15,4 @@ canonical: https://moldroster.com/tx/firms/cavalry-construction-company-llc-tx03
 
 Get a quote: https://moldroster.com/quotes/?firm=TX0383 (goes to Cavalry Construction Company, LLC and up to 2 other nearby licensed pros)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0383
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0383

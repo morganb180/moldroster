@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/trileaf-corporation-tx0201/
 * Phone: (512) 519-9388
 * Mold Assessment Company #ACO1323 (exp. 2028-08-17)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0201
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0201

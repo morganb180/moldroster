@@ -6,6 +6,8 @@ canonical: https://moldroster.com/mold-licensing-by-state/
 
 # Mold licensing by state
 
+Reviewed by Mold Roster staff · Last updated November 1, 2026
+
 Only a handful of jurisdictions license mold professionals. These are the ones Mold Roster covers. Louisiana also licenses mold remediation contractors (LSLBC) but isn't listed yet.
 
 ## Texas
@@ -16,7 +18,7 @@ Only a handful of jurisdictions license mold professionals. These are the ones M
 * The same licensee may not do both the assessment and the remediation on the same project.
 * Mold assessment consultants write the remediation protocol; licensed remediation contractors follow it, and the assessor does the post-remediation check.
 
-Summary of 16 Texas Administrative Code Chapter 78 (Texas Mold Assessment and Remediation Rules). See the agency: [Texas Department of Licensing and Regulation](https://www.tdlr.texas.gov/mold/moldrules.htm). Plain-language summary, not legal advice; confirm details with the agency.
+Summary of 16 Texas Administrative Code Chapter 78 (Texas Mold Assessment and Remediation Rules). See the agency: [Texas Department of Licensing and Regulation](https://www.tdlr.texas.gov/mld/laws-rules.htm). Plain-language summary, not legal advice; confirm details with the agency.
 
 [Browse Texas listings →](https://moldroster.com/tx/)
 
@@ -61,3 +63,11 @@ Summary of D.C. Code §§ 8-241.01-8-241.09 and 20 DCMR Chapter 32. See the agen
 Choose Texas, Florida, New York or Washington, DC to browse licensed mold assessors and remediators built from official licence records.
 
 [Texas](https://moldroster.com/tx/) · [Florida](https://moldroster.com/fl/) · [New York](https://moldroster.com/ny/) · [Washington, DC](https://moldroster.com/dc/)
+
+
+## Sources
+
+* TDLR, [Laws and Rules: Mold Assessors and Remediators](https://www.tdlr.texas.gov/mld/laws-rules.htm)
+* Florida DBPR, [Mold-Related Services](https://www2.myfloridalicense.com/mold-related-services/)
+* New York State Department of Labor, [Mold Program](https://dol.ny.gov/mold-program)
+* DC Department of Energy & Environment, [Mold Information for Tenants](https://doee.dc.gov/service/mold-information-tenants)

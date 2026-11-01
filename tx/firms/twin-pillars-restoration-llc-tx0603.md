@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/twin-pillars-restoration-llc-tx0603/
 * Phone: (512) 876-0446
 * Mold Remediation Company #RCO1777 (exp. 2028-03-16)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0603
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0603

@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/steamery-inc-tx0297/
 * Phone: (979) 693-6969
 * Mold Remediation Company #RCO1290 (exp. 2027-04-09)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0297
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0297

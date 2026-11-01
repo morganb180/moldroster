@@ -19,4 +19,4 @@ Added by us, not on the state list: website from the firm's [Google Maps listing
 
 Get a quote: https://moldroster.com/quotes/?firm=TX0120 (goes to Right Angle Inspection, LLC and up to 2 other nearby licensed pros)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0120
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0120

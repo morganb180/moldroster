@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/university-of-texas-at-austin-tx0013/
 * Phone: (512) 471-3511
 * Mold Assessment Company #ACO0131 (exp. 2028-01-11)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0013
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0013

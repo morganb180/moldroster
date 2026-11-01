@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/take-air-duct-carpet-cleaning-special
 * Phone: (713) 377-0144
 * Mold Remediation Company #RCO1764 (exp. 2028-02-18)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0590
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0590

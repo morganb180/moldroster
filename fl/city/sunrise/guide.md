@@ -8,6 +8,8 @@ canonical: https://moldroster.com/fl/city/sunrise/guide/
 
 # How to hire a licensed mold pro in Sunrise, FL
 
+Reviewed by Mold Roster staff · Last updated November 1, 2026
+
 31 DBPR-licensed listings give an address in Sunrise: **20** hold an assessment licence and **26** hold a remediation licence. Another 558 are elsewhere in Broward County.
 
 [Get quotes](https://moldroster.com/quotes/?city=sunrise&st=fl) [All Sunrise listings](https://moldroster.com/fl/city/sunrise/)
@@ -106,12 +108,12 @@ Summary of Florida Statutes Chapter 468, Part XVI (Mold-Related Services). See t
 
 ## How much does mold inspection and remediation cost?
 
-National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 (average about $689) and mold remediation at $1,223–$3,757 (average about $2,368). These are not local quotes.
+National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 (average about $689) and mold remediation at $1,223–$3,758 (average about $2,369). These are not local quotes.
 
 | Item | Typical range (national) |
 | --- | --- |
 | Mold inspection / assessment | $303-$1,075, average about $689 ([HomeAdvisor mold inspection cost guide](https://www.homeadvisor.com/cost/environmental-safety/test-or-remove-mold-and-toxic-material/)) |
-| Mold remediation | $1,223-$3,757, average about $2,368 ([HomeAdvisor mold remediation cost guide](https://www.homeadvisor.com/cost/environmental-safety/remove-mold-and-toxic-materials/)) |
+| Mold remediation | $1,223-$3,758, average about $2,369 ([HomeAdvisor mold remediation cost guide](https://www.homeadvisor.com/cost/environmental-safety/remove-mold-and-toxic-materials/)) |
 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
@@ -123,8 +125,17 @@ Start with the 20 listings in Sunrise that hold a DBPR assessment licence, then 
 
 **How much does mold remediation cost in Sunrise?**
 
-We don't have local price data. A national guide reports $1,223-$3,757 for remediation (average about $2,368). Get written quotes.
+We don't have local price data. A national guide reports $1,223-$3,758 for remediation (average about $2,369). Get written quotes.
 
 **Can one company both test and remediate?**
 
 A licensed assessor generally may not remediate a property it assessed (conflict-of-interest rule in s. 468.8419).
+
+
+## Sources
+
+* EPA, [A Brief Guide to Mold, Moisture and Your Home](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home) (updated Feb 18, 2026)
+* Florida DBPR, [Mold-Related Services](https://www2.myfloridalicense.com/mold-related-services/)
+* HomeAdvisor, [How Much Does It Cost to Get a Mold Inspection?](https://www.homeadvisor.com/cost/environmental-safety/test-or-remove-mold-and-toxic-material/) (updated Jun 19, 2026)
+* HomeAdvisor, [How Much Does Mold Remediation Cost?](https://www.homeadvisor.com/cost/environmental-safety/remove-mold-and-toxic-materials/) (updated Jun 19, 2026)
+* Florida DBPR, [Mold-related services licensee extract (CSV)](https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv) (retrieved Oct 12, 2026)

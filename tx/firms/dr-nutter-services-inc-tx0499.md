@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/dr-nutter-services-inc-tx0499/
 * Phone: (504) 400-3004
 * Mold Remediation Company #RCO1671 (exp. 2026-12-17)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0499
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0499

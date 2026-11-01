@@ -8,18 +8,20 @@ canonical: https://moldroster.com/tx/city/dallas/guide/
 
 # How to hire a licensed mold pro in Dallas, TX
 
+Reviewed by Mold Roster staff · Last updated November 1, 2026
+
 25 TDLR-licensed listings give an address in Dallas: **12** hold an assessment licence and **13** hold a remediation licence. Another 161 are elsewhere in Dallas County.
 
 [Get quotes](https://moldroster.com/quotes/?city=dallas&st=tx) [All Dallas listings](https://moldroster.com/tx/city/dallas/)
 
 ## How much does mold inspection and remediation cost?
 
-National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 (average about $689) and mold remediation at $1,223–$3,757 (average about $2,368). These are not local quotes.
+National HomeAdvisor figures put mold inspection or assessment at $303–$1,075 (average about $689) and mold remediation at $1,223–$3,758 (average about $2,369). These are not local quotes.
 
 | Item | Typical range (national) |
 | --- | --- |
 | Mold inspection / assessment | $303-$1,075, average about $689 ([HomeAdvisor mold inspection cost guide](https://www.homeadvisor.com/cost/environmental-safety/test-or-remove-mold-and-toxic-material/)) |
-| Mold remediation | $1,223-$3,757, average about $2,368 ([HomeAdvisor mold remediation cost guide](https://www.homeadvisor.com/cost/environmental-safety/remove-mold-and-toxic-materials/)) |
+| Mold remediation | $1,223-$3,758, average about $2,369 ([HomeAdvisor mold remediation cost guide](https://www.homeadvisor.com/cost/environmental-safety/remove-mold-and-toxic-materials/)) |
 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
@@ -127,7 +129,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Look the name up in the TDLR records and check the licence is still current. Ask for the licence number in writing and make sure the licence type matches the job.
 
-1. Look the name up in the TDLR records ([Texas Department of Licensing and Regulation](https://www.tdlr.texas.gov/mold/mold.htm)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
+1. Look the name up in the TDLR records ([Texas Department of Licensing and Regulation](https://www.tdlr.texas.gov/mld/)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.
 3. Use separate, independent firms for testing and for remediation (required by Texas law).
 4. Ask for proof of insurance and a written scope before work starts.
@@ -150,7 +152,7 @@ A TDLR licence is generally required to assess or remediate mold when the affect
 * The same licensee may not do both the assessment and the remediation on the same project.
 * Mold assessment consultants write the remediation protocol; licensed remediation contractors follow it, and the assessor does the post-remediation check.
 
-Summary of 16 Texas Administrative Code Chapter 78 (Texas Mold Assessment and Remediation Rules). See the agency: [Texas Department of Licensing and Regulation](https://www.tdlr.texas.gov/mold/moldrules.htm). Plain-language summary, not legal advice; confirm details with the agency.
+Summary of 16 Texas Administrative Code Chapter 78 (Texas Mold Assessment and Remediation Rules). See the agency: [Texas Department of Licensing and Regulation](https://www.tdlr.texas.gov/mld/laws-rules.htm). Plain-language summary, not legal advice; confirm details with the agency.
 
 ## Frequently asked questions
 
@@ -160,8 +162,18 @@ Start with the 12 listings in Dallas that hold a TDLR assessment licence, then c
 
 **How much does mold remediation cost in Dallas?**
 
-We don't have local price data. A national guide reports $1,223-$3,757 for remediation (average about $2,368). Get written quotes.
+We don't have local price data. A national guide reports $1,223-$3,758 for remediation (average about $2,369). Get written quotes.
 
 **Can one company both test and remediate?**
 
 The same licensee may not do both the assessment and the remediation on the same project.
+
+
+## Sources
+
+* HomeAdvisor, [How Much Does It Cost to Get a Mold Inspection?](https://www.homeadvisor.com/cost/environmental-safety/test-or-remove-mold-and-toxic-material/) (updated Jun 19, 2026)
+* HomeAdvisor, [How Much Does Mold Remediation Cost?](https://www.homeadvisor.com/cost/environmental-safety/remove-mold-and-toxic-materials/) (updated Jun 19, 2026)
+* EPA, [A Brief Guide to Mold, Moisture and Your Home](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home) (updated Feb 18, 2026)
+* TDLR, [Mold Assessors and Remediators](https://www.tdlr.texas.gov/mld/)
+* TDLR, [Laws and Rules: Mold Assessors and Remediators](https://www.tdlr.texas.gov/mld/laws-rules.htm)
+* TDLR, [Licensing Files Download Page (mold licence data files)](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp) (retrieved Oct 12, 2026)

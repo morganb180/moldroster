@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/ferkam-management-corporation-tx0057/
 * Phone: (346) 345-2015
 * Mold Assessment Company #ACO1081 (exp. 2028-06-11)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0057
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0057

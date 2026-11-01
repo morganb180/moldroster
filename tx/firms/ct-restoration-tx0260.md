@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/ct-restoration-tx0260/
 * Phone: (806) 795-5142
 * Mold Remediation Company #RCO1142 (exp. 2028-03-05)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0260
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0260

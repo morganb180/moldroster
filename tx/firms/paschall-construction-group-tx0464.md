@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/paschall-construction-group-tx0464/
 * Phone: (972) 226-5599
 * Mold Remediation Company #RCO1622 (exp. 2028-05-11)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0464
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0464

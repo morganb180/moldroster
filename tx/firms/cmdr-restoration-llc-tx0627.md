@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/cmdr-restoration-llc-tx0627/
 * Phone: (972) 259-0222
 * Mold Remediation Company #RCO1801 (exp. 2028-06-08)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0627
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0627

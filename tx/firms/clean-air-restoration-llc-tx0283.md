@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/clean-air-restoration-llc-tx0283/
 * Phone: (281) 620-6519
 * Mold Remediation Company #RCO1253 (exp. 2028-04-08)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0283
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0283

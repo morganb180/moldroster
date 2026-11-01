@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/bt-services-llc-tx0528/
 * Phone: (469) 964-1554
 * Mold Remediation Company #RCO1700 (exp. 2027-06-08)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0528
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0528

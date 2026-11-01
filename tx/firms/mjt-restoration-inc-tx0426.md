@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/mjt-restoration-inc-tx0426/
 * Phone: (210) 693-2467
 * Mold Remediation Company #RCO1565 (exp. 2027-03-06)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0426
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0426

@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/setx-environmental-inc-tx0052/
 * Phone: (409) 963-2731
 * Mold Assessment Company #ACO1070 (exp. 2026-10-28)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0052
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0052

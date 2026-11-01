@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/airroot-texas-llc-tx0517/
 * Phone: (817) 716-4146
 * Mold Remediation Company #RCO1689 (exp. 2027-04-27)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0517
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0517

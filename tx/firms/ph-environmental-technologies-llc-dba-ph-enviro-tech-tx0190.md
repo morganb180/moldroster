@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/ph-environmental-technologies-llc-dba
 * Phone: (682) 284-2380
 * Mold Assessment Company #ACO1312 (exp. 2028-04-13)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0190
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0190

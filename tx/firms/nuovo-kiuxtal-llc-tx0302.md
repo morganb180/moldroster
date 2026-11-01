@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/nuovo-kiuxtal-llc-tx0302/
 * Phone: (512) 956-5700
 * Mold Remediation Company #RCO1304 (exp. 2027-09-24)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0302
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0302

@@ -14,4 +14,4 @@ canonical: https://moldroster.com/tx/firms/agile-environmental-llc-tx0075/
 * Mold Assessment Company #ACO1130 (exp. 2028-06-17)
 * Mold Remediation Company #RCO1252 (exp. 2028-03-06)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0075
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0075

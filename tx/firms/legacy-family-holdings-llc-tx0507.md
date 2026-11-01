@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/legacy-family-holdings-llc-tx0507/
 * Phone: (469) 378-7000
 * Mold Remediation Company #RCO1679 (exp. 2027-03-02)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0507
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0507

@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/ctx1-restoration-llc-tx0415/
 * Phone: (512) 396-8225
 * Mold Remediation Company #RCO1550 (exp. 2028-10-20)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0415
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0415

@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/amarillo-steam-team-llc-tx0602/
 * Phone: (806) 570-9501
 * Mold Remediation Company #RCO1776 (exp. 2028-03-15)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0602
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0602

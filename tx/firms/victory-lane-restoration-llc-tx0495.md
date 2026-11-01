@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/victory-lane-restoration-llc-tx0495/
 * Phone: (817) 673-8499
 * Mold Remediation Company #RCO1667 (exp. 2026-12-05)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0495
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0495

@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/contractor-support-group-llc-tx0568/
 * Phone: (817) 683-6515
 * Mold Remediation Company #RCO1741 (exp. 2027-11-18)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0568
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0568

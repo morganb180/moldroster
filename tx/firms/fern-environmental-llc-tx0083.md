@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/fern-environmental-llc-tx0083/
 * Phone: (713) 202-4717
 * Mold Assessment Company #ACO1147 (exp. 2026-12-16)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0083
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0083

@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/cobeaga-holdings-llc-tx0551/
 * Phone: (726) 241-2088
 * Mold Remediation Company #RCO1724 (exp. 2027-09-11)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0551
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0551

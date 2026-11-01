@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/24-hour-flood-pros-of-dallas-llc-tx04
 * Phone: (480) 388-7897
 * Mold Remediation Company #RCO1665 (exp. 2026-11-24)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0493
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0493

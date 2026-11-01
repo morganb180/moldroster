@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/wilson-mitigation-sftc-llc-tx0409/
 * Phone: (972) 335-9900
 * Mold Remediation Company #RCO1540 (exp. 2026-11-22)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0409
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0409

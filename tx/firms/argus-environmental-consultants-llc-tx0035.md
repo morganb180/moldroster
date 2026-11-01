@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/argus-environmental-consultants-llc-t
 * Phone: (210) 493-2560
 * Mold Assessment Company #ACO0216 (exp. 2026-12-21)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0035
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0035

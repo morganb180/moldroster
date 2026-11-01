@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/zeke-p12enviro-com-tx0117/
 * Phone: (337) 257-8792
 * Mold Assessment Company #ACO1226 (exp. 2027-03-06)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0117
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0117

@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/r1-dallas-operating-llc-tx0470/
 * Phone: (817) 756-6462
 * Mold Remediation Company #RCO1634 (exp. 2028-05-22)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0470
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0470

@@ -77,3 +77,9 @@ a.grat{display:inline;text-decoration:none}a.grat:hover{text-decoration:underlin
 /* Mold Roster: firm-row contact list, crumbs nav */
 .firm .fd ul{margin:0;padding-left:1.1rem}.firm .fd .gnote{font-size:.8rem}.firm summary .grat{margin-left:.4rem}
 .fp-list.cols2{columns:2;column-gap:2rem}@media(max-width:640px){.fp-list.cols2{columns:1}}
+
+/* MO-1: compact quote form in the county-page aside */
+.leadform.compact .lf-opts{grid-template-columns:1fr;gap:.35rem}.leadform.compact .lf-pair{grid-template-columns:1fr;gap:0}.leadform.compact fieldset{margin:.3rem 0}.leadform.compact .lf-opt span{font-size:.88rem}.leadform.compact textarea{min-height:3.2em}
+
+/* MO-2: guide sources */
+ul.sources{font-size:.9rem}ul.sources li{margin:.25rem 0}

@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/lone-star-restoration-solutions-llc-t
 * Phone: (512) 537-4772
 * Mold Remediation Company #RCO1769 (exp. 2028-03-05)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0595
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0595

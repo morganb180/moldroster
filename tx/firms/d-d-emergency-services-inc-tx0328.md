@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/d-d-emergency-services-inc-tx0328/
 * Phone: (469) 602-5106
 * Mold Remediation Company #RCO1370 (exp. 2027-03-28)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0328
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0328

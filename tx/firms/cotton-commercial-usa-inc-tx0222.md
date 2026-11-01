@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/cotton-commercial-usa-inc-tx0222/
 * Phone: (346) 379-0963
 * Mold Remediation Company #RCO0162 (exp. 2027-03-07)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0222
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0222

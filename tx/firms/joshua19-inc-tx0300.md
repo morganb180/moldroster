@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/joshua19-inc-tx0300/
 * Phone: (817) 805-6085
 * Mold Remediation Company #RCO1300 (exp. 2028-05-08)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0300
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0300

@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/giraffe-home-commercial-services-llc-
 * Phone: (512) 718-3553
 * Mold Remediation Company #RCO1583 (exp. 2027-08-16)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0439
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0439

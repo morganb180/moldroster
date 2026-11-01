@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/veteran-home-inspections-pllc-tx0077/
 * Phone: (210) 202-1974
 * Mold Assessment Company #ACO1134 (exp. 2027-11-30)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0077
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0077

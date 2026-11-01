@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/blackland-home-inspections-llc-tx0144
 * Phone: (972) 921-8454
 * Mold Assessment Company #ACO1266 (exp. 2027-01-08)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0144
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0144

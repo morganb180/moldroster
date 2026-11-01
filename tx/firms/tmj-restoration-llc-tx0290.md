@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/tmj-restoration-llc-tx0290/
 * Phone: (832) 928-9332
 * Mold Remediation Company #RCO1273 (exp. 2028-11-01)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0290
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0290

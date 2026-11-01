@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/global-disaster-services-llc-tx0363/
 * Phone: (504) 400-6013
 * Mold Remediation Company #RCO1447 (exp. 2027-03-07)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0363
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0363

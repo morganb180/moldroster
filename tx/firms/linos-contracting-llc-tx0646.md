@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/linos-contracting-llc-tx0646/
 * Phone: (512) 456-7173
 * Mold Remediation Company #RCO1820 (exp. 2028-08-20)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0646
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0646

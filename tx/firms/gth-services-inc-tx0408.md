@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/gth-services-inc-tx0408/
 * Phone: (210) 521-3313
 * Mold Remediation Company #RCO1538 (exp. 2027-02-21)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0408
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0408

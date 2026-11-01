@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/klein-i-s-d-tx0214/
 * Phone: (832) 249-4533
 * Mold Remediation Company #RCO0132 (exp. 2028-02-03)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0214
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0214

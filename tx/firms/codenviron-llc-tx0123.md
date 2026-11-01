@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/codenviron-llc-tx0123/
 * Phone: (346) 558-6796
 * Mold Assessment Company #ACO1234 (exp. 2027-07-30)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0123
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0123

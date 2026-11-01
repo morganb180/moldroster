@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/genixo-construction-llc-tx0554/
 * Phone: (844) 436-4961
 * Mold Remediation Company #RCO1727 (exp. 2027-09-22)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0554
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0554

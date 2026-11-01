@@ -26,7 +26,7 @@ A TDLR licence is generally required to assess or remediate mold when the affect
 * The same licensee may not do both the assessment and the remediation on the same project.
 * Mold assessment consultants write the remediation protocol; licensed remediation contractors follow it, and the assessor does the post-remediation check.
 
-Summary of 16 Texas Administrative Code Chapter 78 (Texas Mold Assessment and Remediation Rules). See the agency: [Texas Department of Licensing and Regulation](https://www.tdlr.texas.gov/mold/moldrules.htm). Plain-language summary, not legal advice; confirm details with the agency.
+Summary of 16 Texas Administrative Code Chapter 78 (Texas Mold Assessment and Remediation Rules). See the agency: [Texas Department of Licensing and Regulation](https://www.tdlr.texas.gov/mld/laws-rules.htm). Plain-language summary, not legal advice; confirm details with the agency.
 
 ## Cities
 
@@ -168,7 +168,7 @@ Summary of 16 Texas Administrative Code Chapter 78 (Texas Mold Assessment and Re
 | Item | Typical range (national) |
 | --- | --- |
 | Mold inspection / assessment | $303-$1,075, average about $689 ([HomeAdvisor mold inspection cost guide](https://www.homeadvisor.com/cost/environmental-safety/test-or-remove-mold-and-toxic-material/)) |
-| Mold remediation | $1,223-$3,757, average about $2,368 ([HomeAdvisor mold remediation cost guide](https://www.homeadvisor.com/cost/environmental-safety/remove-mold-and-toxic-materials/)) |
+| Mold remediation | $1,223-$3,758, average about $2,369 ([HomeAdvisor mold remediation cost guide](https://www.homeadvisor.com/cost/environmental-safety/remove-mold-and-toxic-materials/)) |
 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
@@ -188,4 +188,4 @@ The same licensee may not do both the assessment and the remediation on the same
 
 **How much does mold remediation cost?**
 
-A national cost guide puts typical remediation at $1,223-$3,757 (average about $2,368) and inspections at $303-$1,075. Get written quotes.
+A national cost guide puts typical remediation at $1,223-$3,758 (average about $2,369) and inspections at $303-$1,075. Get written quotes.

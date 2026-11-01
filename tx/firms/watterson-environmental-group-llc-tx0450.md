@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/watterson-environmental-group-llc-tx0
 * Phone: (847) 807-4401
 * Mold Remediation Company #RCO1601 (exp. 2027-11-12)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0450
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0450

@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/mold-force-llc-tx0382/
 * Phone: (972) 399-0001
 * Mold Remediation Company #RCO1482 (exp. 2027-10-10)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0382
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0382

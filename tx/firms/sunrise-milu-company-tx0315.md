@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/sunrise-milu-company-tx0315/
 * Phone: (832) 888-8577
 * Mold Remediation Company #RCO1330 (exp. 2028-03-07)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0315
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0315

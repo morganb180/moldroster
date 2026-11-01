@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/h3-restoration-tx0546/
 * Phone: (940) 566-2277
 * Mold Remediation Company #RCO1719 (exp. 2027-08-26)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0546
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0546

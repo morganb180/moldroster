@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/lynx-contractors-inc-tx0239/
 * Phone: (512) 845-1661
 * Mold Remediation Company #RCO0265 (exp. 2028-09-26)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0239
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0239

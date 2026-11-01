@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/atc-group-services-llc-tx0015/
 * Phone: (346) 227-7971
 * Mold Assessment Company #ACO0134 (exp. 2028-01-13)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0015
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0015

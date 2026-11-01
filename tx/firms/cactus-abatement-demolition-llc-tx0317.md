@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/cactus-abatement-demolition-llc-tx031
 * Phone: (817) 491-4791
 * Mold Remediation Company #RCO1335 (exp. 2028-04-02)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0317
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0317

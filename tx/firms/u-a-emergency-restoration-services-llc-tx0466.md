@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/u-a-emergency-restoration-services-ll
 * Phone: (979) 240-6664
 * Mold Remediation Company #RCO1625 (exp. 2028-04-08)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0466
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0466

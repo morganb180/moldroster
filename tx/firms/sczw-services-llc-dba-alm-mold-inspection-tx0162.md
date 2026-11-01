@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/sczw-services-llc-dba-alm-mold-inspec
 * Phone: (713) 714-7312
 * Mold Assessment Company #ACO1284 (exp. 2027-06-17)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0162
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0162

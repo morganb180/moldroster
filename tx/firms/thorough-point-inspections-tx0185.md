@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/thorough-point-inspections-tx0185/
 * Phone: (346) 455-4730
 * Mold Assessment Company #ACO1307 (exp. 2028-02-26)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0185
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0185

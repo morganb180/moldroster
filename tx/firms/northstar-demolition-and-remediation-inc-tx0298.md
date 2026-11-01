@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/northstar-demolition-and-remediation-
 * Phone: (409) 886-3959
 * Mold Remediation Company #RCO1291 (exp. 2027-04-12)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0298
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0298

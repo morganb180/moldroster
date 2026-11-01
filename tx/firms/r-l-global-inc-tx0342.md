@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/r-l-global-inc-tx0342/
 * Phone: (713) 686-8899
 * Mold Remediation Company #RCO1410 (exp. 2028-04-22)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0342
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0342

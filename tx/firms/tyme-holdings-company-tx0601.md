@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/tyme-holdings-company-tx0601/
 * Phone: (972) 790-6300
 * Mold Remediation Company #RCO1775 (exp. 2028-03-15)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0601
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0601

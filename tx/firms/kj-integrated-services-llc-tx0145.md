@@ -14,4 +14,4 @@ canonical: https://moldroster.com/tx/firms/kj-integrated-services-llc-tx0145/
 * Mold Assessment Company #ACO1267 (exp. 2027-01-21)
 * Mold Remediation Company #RCO1413 (exp. 2028-08-15)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0145
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0145

@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/education-is-opportunities-llc-tx0170
 * Phone: (562) 698-1279
 * Mold Assessment Company #ACO1292 (exp. 2027-09-07)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0170
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0170

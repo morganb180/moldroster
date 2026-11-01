@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/oneforce-restoration-dtx-llc-tx0574/
 * Phone: (972) 386-3808
 * Mold Remediation Company #RCO1748 (exp. 2028-01-04)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0574
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0574

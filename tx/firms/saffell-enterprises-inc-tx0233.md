@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/saffell-enterprises-inc-tx0233/
 * Phone: (817) 937-9008
 * Mold Remediation Company #RCO0231 (exp. 2027-07-30)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0233
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0233

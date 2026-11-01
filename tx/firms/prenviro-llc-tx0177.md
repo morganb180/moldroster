@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/prenviro-llc-tx0177/
 * Phone: (210) 446-4595
 * Mold Assessment Company #ACO1299 (exp. 2027-11-18)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0177
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0177

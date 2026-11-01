@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/fec-tx0166/
 * Phone: (267) 970-9642
 * Mold Assessment Company #ACO1288 (exp. 2027-07-10)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0166
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0166

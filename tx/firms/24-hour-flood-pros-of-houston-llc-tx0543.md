@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/24-hour-flood-pros-of-houston-llc-tx0
 * Phone: (281) 781-5821
 * Mold Remediation Company #RCO1716 (exp. 2027-08-20)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0543
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0543

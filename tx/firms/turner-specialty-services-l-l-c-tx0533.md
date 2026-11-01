@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/turner-specialty-services-l-l-c-tx053
 * Phone: (225) 922-5050
 * Mold Remediation Company #RCO1705 (exp. 2027-06-24)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0533
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0533

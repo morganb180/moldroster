@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/f-s-enterprise-llc-tx0481/
 * Phone: (737) 302-1373
 * Mold Remediation Company #RCO1647 (exp. 2028-07-29)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0481
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0481

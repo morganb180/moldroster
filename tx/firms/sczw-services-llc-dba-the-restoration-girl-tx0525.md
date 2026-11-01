@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/sczw-services-llc-dba-the-restoration
 * Phone: (713) 714-7312
 * Mold Remediation Company #RCO1697 (exp. 2027-05-29)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0525
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0525

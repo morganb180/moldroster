@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/eastwind-restoration-llc-tx0518/
 * Phone: (972) 399-3236
 * Mold Remediation Company #RCO1690 (exp. 2027-04-29)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0518
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0518

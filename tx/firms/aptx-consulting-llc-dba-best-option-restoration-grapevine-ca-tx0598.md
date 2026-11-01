@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/aptx-consulting-llc-dba-best-option-r
 * Phone: (817) 287-9258
 * Mold Remediation Company #RCO1772 (exp. 2028-03-08)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0598
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0598

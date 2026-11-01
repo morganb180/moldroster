@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/ati-restoration-llc-tx0248/
 * Phone: (866) 441-8538
 * Mold Remediation Company #RCO1042 (exp. 2026-10-28)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0248
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0248

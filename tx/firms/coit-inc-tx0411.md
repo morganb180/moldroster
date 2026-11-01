@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/coit-inc-tx0411/
 * Phone: (713) 461-6171
 * Mold Remediation Company #RCO1542 (exp. 2028-08-22)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0411
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0411

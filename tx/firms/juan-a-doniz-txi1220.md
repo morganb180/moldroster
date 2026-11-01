@@ -10,4 +10,4 @@ canonical: https://moldroster.com/tx/firms/juan-a-doniz-txi1220/
 * Licensed by TDLR (Texas Department of Licensing and Regulation)
 * TX (Hidalgo County)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TXI1220
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TXI1220

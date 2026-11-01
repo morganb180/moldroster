@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/three-amigos-restoration-llc-tx0625/
 * Phone: (713) 965-7126
 * Mold Remediation Company #RCO1799 (exp. 2028-06-02)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0625
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0625

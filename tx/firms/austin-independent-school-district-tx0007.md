@@ -14,4 +14,4 @@ canonical: https://moldroster.com/tx/firms/austin-independent-school-district-tx
 * Mold Assessment Company #ACO0119 (exp. 2026-12-31)
 * Mold Remediation Company #RCO0110 (exp. 2026-12-31)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0007
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0007

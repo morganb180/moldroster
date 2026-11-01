@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/cf-j-investments-tx0587/
 * Phone: (469) 233-0144
 * Mold Remediation Company #RCO1761 (exp. 2028-02-09)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0587
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0587

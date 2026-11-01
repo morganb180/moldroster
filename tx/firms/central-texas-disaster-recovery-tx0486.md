@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/central-texas-disaster-recovery-tx048
 * Phone: (281) 795-8531
 * Mold Remediation Company #RCO1654 (exp. 2028-09-10)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0486
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0486

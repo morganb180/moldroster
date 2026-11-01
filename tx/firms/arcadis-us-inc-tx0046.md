@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/arcadis-us-inc-tx0046/
 * Phone: (720) 344-3727
 * Mold Assessment Company #ACO1053 (exp. 2027-04-03)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0046
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0046

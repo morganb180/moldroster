@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/mold-testing-houston-tx0131/
 * Phone: (415) 960-9357
 * Mold Assessment Company #ACO1245 (exp. 2028-01-11)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0131
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0131

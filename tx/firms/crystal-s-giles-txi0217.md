@@ -10,4 +10,4 @@ canonical: https://moldroster.com/tx/firms/crystal-s-giles-txi0217/
 * Licensed by TDLR (Texas Department of Licensing and Regulation)
 * TX (Waller County)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TXI0217
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TXI0217

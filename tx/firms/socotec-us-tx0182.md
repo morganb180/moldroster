@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/socotec-us-tx0182/
 * Phone: (303) 945-5792
 * Mold Assessment Company #ACO1304 (exp. 2028-01-14)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0182
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0182

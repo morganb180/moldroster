@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/critical-response-remediation-contrac
 * Phone: (956) 244-5650
 * Mold Remediation Company #RCO1511 (exp. 2028-03-31)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0393
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0393

@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/dallas-isd-tx0621/
 * Phone: (972) 925-4500
 * Mold Remediation Company #RCO1795 (exp. 2028-05-05)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0621
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0621

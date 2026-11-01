@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/ivory-property-restoration-llc-tx0536
 * Phone: (517) 974-3492
 * Mold Remediation Company #RCO1708 (exp. 2027-07-16)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0536
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0536

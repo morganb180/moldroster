@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/dun-right-remediation-services-inc-tx
 * Phone: (210) 201-0506
 * Mold Remediation Company #RCO1572 (exp. 2028-01-26)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0432
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0432

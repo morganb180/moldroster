@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/houston-independent-school-district-t
 * Phone: (713) 676-9464
 * Mold Remediation Company #RCO1005 (exp. 2027-12-02)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0243
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0243

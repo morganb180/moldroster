@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/gentlemen-s-restoration-llc-tx0420/
 * Phone: (469) 912-2300
 * Mold Remediation Company #RCO1558 (exp. 2027-01-04)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0420
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0420

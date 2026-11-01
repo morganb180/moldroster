@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/bright-restore-group-llc-tx0498/
 * Phone: (214) 236-8795
 * Mold Remediation Company #RCO1670 (exp. 2026-12-17)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0498
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0498

@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/dnh-property-inspections-pllc-tx0200/
 * Phone: (972) 814-1502
 * Mold Assessment Company #ACO1322 (exp. 2028-08-17)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0200
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0200

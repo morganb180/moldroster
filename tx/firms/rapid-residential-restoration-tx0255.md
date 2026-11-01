@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/rapid-residential-restoration-tx0255/
 * Phone: (972) 832-8282
 * Mold Remediation Company #RCO1106 (exp. 2028-04-14)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0255
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0255

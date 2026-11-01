@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/pauloa-llc-tx0545/
 * Phone: (956) 277-0645
 * Mold Remediation Company #RCO1718 (exp. 2027-08-25)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0545
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0545

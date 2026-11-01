@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/sam-wafia-services-inc-tx0644/
 * Phone: (281) 994-9510
 * Mold Remediation Company #RCO1818 (exp. 2028-08-02)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0644
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0644

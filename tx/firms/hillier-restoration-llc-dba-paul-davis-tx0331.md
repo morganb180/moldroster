@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/hillier-restoration-llc-dba-paul-davi
 * Phone: (281) 886-7755
 * Mold Remediation Company #RCO1381 (exp. 2027-09-12)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0331
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0331

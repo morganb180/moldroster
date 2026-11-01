@@ -18,4 +18,4 @@ Added by us, not on the state list: rating from the firm's [Google Maps listing]
 
 Get a quote: https://moldroster.com/quotes/?firm=TX0041 (goes to Ehp Consulting, LLC and up to 2 other nearby licensed pros)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0041
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0041

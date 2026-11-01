@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/bsrk-inc-dba-texas-environmental-cons
 * Phone: (903) 574-1469
 * Mold Remediation Company #RCO1122 (exp. 2027-10-31)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0259
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0259

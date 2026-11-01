@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/spomw-llc-tx0660/
 * Phone: (281) 809-5302
 * Mold Remediation Company #RCO1834 (exp. 2028-09-30)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0660
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0660

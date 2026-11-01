@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/olson-restoration-htx-llc-tx0388/
 * Phone: (281) 701-5371
 * Mold Remediation Company #RCO1497 (exp. 2027-12-19)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0388
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0388

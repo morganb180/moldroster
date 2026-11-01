@@ -155,7 +155,7 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 ## How do I hire a licensed mold pro in Brazoria County, TX?
 
-1. Look the name up in the TDLR records ([Texas Department of Licensing and Regulation](https://www.tdlr.texas.gov/mold/mold.htm)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
+1. Look the name up in the TDLR records ([Texas Department of Licensing and Regulation](https://www.tdlr.texas.gov/mld/)). Our copy was retrieved 2026-10-12, so check that the licence is still current.
 2. Ask for the licence number in writing and make sure the licence type matches the job: assessor for testing and a protocol, remediator for removal.
 3. Use separate, independent firms for testing and for remediation (required by Texas law).
 4. Ask for proof of insurance and a written scope before work starts.

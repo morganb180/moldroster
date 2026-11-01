@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/servpro-team-shaw-tx0435/
 * Phone: (817) 595-0004
 * Mold Remediation Company #RCO1576 (exp. 2027-09-09)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0435
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0435

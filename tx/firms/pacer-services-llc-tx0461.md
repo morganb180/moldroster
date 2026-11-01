@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/pacer-services-llc-tx0461/
 * Phone: (281) 638-7344
 * Mold Remediation Company #RCO1619 (exp. 2028-03-10)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0461
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0461

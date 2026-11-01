@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/prism-response-inc-tx0254/
 * Phone: (724) 575-7411
 * Mold Remediation Company #RCO1096 (exp. 2028-06-15)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0254
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0254

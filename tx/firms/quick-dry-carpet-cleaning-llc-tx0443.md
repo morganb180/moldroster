@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/quick-dry-carpet-cleaning-llc-tx0443/
 * Phone: (512) 540-4747
 * Mold Remediation Company #RCO1589 (exp. 2027-09-24)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0443
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0443

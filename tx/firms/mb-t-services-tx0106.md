@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/mb-t-services-tx0106/
 * Phone: (469) 323-4377
 * Mold Assessment Company #ACO1196 (exp. 2027-12-02)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0106
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0106

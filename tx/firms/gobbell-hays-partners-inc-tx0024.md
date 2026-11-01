@@ -20,4 +20,4 @@ Added by us, not on the state list: website and rating from the firm's [Google M
 
 Get a quote: https://moldroster.com/quotes/?firm=TX0024 (goes to Gobbell Hays Partners, Inc and up to 2 other nearby licensed pros)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0024
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0024

@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/university-of-texas-at-austin-tx0345/
 * Phone: (512) 471-6227
 * Mold Remediation Company #RCO1415 (exp. 2028-04-14)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0345
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0345

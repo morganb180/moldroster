@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/360-fire-flood-llc-tx0599/
 * Phone: (972) 670-3520
 * Mold Remediation Company #RCO1773 (exp. 2028-03-11)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0599
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0599

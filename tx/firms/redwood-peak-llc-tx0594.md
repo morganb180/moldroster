@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/redwood-peak-llc-tx0594/
 * Phone: (903) 279-6990
 * Mold Remediation Company #RCO1768 (exp. 2028-03-01)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0594
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0594

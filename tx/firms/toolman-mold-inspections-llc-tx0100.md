@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/toolman-mold-inspections-llc-tx0100/
 * Phone: (512) 673-3113
 * Mold Assessment Company #ACO1190 (exp. 2027-09-06)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0100
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0100

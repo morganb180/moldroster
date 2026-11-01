@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/first-response-biohazard-solutions-ll
 * Phone: (254) 346-5862
 * Mold Remediation Company #RCO1806 (exp. 2028-06-28)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0632
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0632

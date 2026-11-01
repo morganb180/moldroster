@@ -10,4 +10,4 @@ canonical: https://moldroster.com/tx/firms/juan-a-pereira-jr-txi1159/
 * Licensed by TDLR (Texas Department of Licensing and Regulation)
 * TX (Galveston County)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TXI1159
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TXI1159

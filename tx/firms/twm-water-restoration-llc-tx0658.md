@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/twm-water-restoration-llc-tx0658/
 * Phone: (346) 374-1288
 * Mold Remediation Company #RCO1832 (exp. 2028-09-30)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0658
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0658

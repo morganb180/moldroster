@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/reagan-environmental-tx0135/
 * Phone: (832) 623-4889
 * Mold Assessment Company #ACO1253 (exp. 2028-04-09)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0135
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0135

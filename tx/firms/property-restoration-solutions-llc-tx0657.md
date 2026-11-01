@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/property-restoration-solutions-llc-tx
 * Phone: (210) 973-4064
 * Mold Remediation Company #RCO1831 (exp. 2028-09-30)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0657
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0657

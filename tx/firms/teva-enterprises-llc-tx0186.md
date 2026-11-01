@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/teva-enterprises-llc-tx0186/
 * Phone: (888) 673-0888
 * Mold Assessment Company #ACO1308 (exp. 2028-03-17)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0186
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0186

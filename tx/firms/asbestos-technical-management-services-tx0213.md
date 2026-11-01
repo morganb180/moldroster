@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/asbestos-technical-management-service
 * Phone: (817) 589-1421
 * Mold Remediation Company #RCO0131 (exp. 2028-06-03)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0213
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0213

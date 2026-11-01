@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/fsg-restoration-services-llc-tx0449/
 * Phone: (713) 937-8700
 * Mold Remediation Company #RCO1600 (exp. 2027-12-12)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0449
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0449

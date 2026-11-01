@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/bpb2-group-inc-tx0270/
 * Phone: (817) 557-1447
 * Mold Remediation Company #RCO1196 (exp. 2028-05-02)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0270
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0270

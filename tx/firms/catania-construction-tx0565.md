@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/catania-construction-tx0565/
 * Phone: (781) 775-2359
 * Mold Remediation Company #RCO1738 (exp. 2027-11-06)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0565
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0565

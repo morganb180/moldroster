@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/restornation-inc-tx0276/
 * Phone: (281) 419-9943
 * Mold Remediation Company #RCO1232 (exp. 2027-10-24)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0276
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0276

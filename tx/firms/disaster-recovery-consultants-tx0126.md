@@ -14,4 +14,4 @@ canonical: https://moldroster.com/tx/firms/disaster-recovery-consultants-tx0126/
 * Mold Assessment Company #ACO1238 (exp. 2027-09-07)
 * Mold Remediation Company #RCO1633 (exp. 2028-06-25)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0126
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0126

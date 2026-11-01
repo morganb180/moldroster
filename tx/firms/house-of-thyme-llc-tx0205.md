@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/house-of-thyme-llc-tx0205/
 * Phone: (737) 408-3733
 * Mold Assessment Company #ACO1327 (exp. 2028-09-07)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0205
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0205

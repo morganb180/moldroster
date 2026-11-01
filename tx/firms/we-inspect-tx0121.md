@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/we-inspect-tx0121/
 * Phone: (888) 436-6653
 * Mold Assessment Company #ACO1232 (exp. 2027-05-31)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0121
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0121

@@ -123,7 +123,7 @@ Summary of Florida Statutes Chapter 468, Part XVI (Mold-Related Services). See t
 | Item | Typical range (national) |
 | --- | --- |
 | Mold inspection / assessment | $303-$1,075, average about $689 ([HomeAdvisor mold inspection cost guide](https://www.homeadvisor.com/cost/environmental-safety/test-or-remove-mold-and-toxic-material/)) |
-| Mold remediation | $1,223-$3,757, average about $2,368 ([HomeAdvisor mold remediation cost guide](https://www.homeadvisor.com/cost/environmental-safety/remove-mold-and-toxic-materials/)) |
+| Mold remediation | $1,223-$3,758, average about $2,369 ([HomeAdvisor mold remediation cost guide](https://www.homeadvisor.com/cost/environmental-safety/remove-mold-and-toxic-materials/)) |
 
 National figures, not local quotes. Try the [estimate tool](https://moldroster.com/mold-remediation-cost/).
 
@@ -143,4 +143,4 @@ A licensed assessor generally may not remediate a property it assessed (conflict
 
 **How much does mold remediation cost?**
 
-A national cost guide puts typical remediation at $1,223-$3,757 (average about $2,368) and inspections at $303-$1,075. Get written quotes.
+A national cost guide puts typical remediation at $1,223-$3,758 (average about $2,369) and inspections at $303-$1,075. Get written quotes.

@@ -19,4 +19,4 @@ Added by us, not on the state list: phone and website from the firm's [Google Ma
 
 Get a quote: https://moldroster.com/quotes/?firm=TX0066 (goes to Mold Bad Mold LLC and up to 2 other nearby licensed pros)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0066
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0066

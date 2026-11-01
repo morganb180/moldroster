@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/grayson-recovery-services-tx0494/
 * Phone: (903) 870-9000
 * Mold Remediation Company #RCO1666 (exp. 2026-12-04)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0494
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0494

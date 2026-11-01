@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/rcs-emergency-services-llc-tx0540/
 * Phone: (832) 998-2688
 * Mold Remediation Company #RCO1713 (exp. 2027-08-12)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0540
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0540

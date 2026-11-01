@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/pintail-demolition-construction-inc-t
 * Phone: (832) 585-9594
 * Mold Remediation Company #RCO1365 (exp. 2026-11-26)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0326
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0326

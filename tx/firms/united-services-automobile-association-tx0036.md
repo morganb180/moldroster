@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/united-services-automobile-associatio
 * Phone: (210) 215-6670
 * Mold Assessment Company #ACO0218 (exp. 2028-10-28)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0036
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0036

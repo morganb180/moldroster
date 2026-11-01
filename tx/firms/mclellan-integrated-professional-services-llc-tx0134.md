@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/mclellan-integrated-professional-serv
 * Phone: (940) 364-6090
 * Mold Assessment Company #ACO1252 (exp. 2028-04-03)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0134
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0134

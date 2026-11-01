@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/blackmon-mooring-of-austin-llc-tx0219
 * Phone: (877) 730-1948
 * Mold Remediation Company #RCO0149 (exp. 2028-03-14)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0219
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0219

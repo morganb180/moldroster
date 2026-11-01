@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/blusky-restoration-contractors-llc-tx
 * Phone: (562) 505-6560
 * Mold Remediation Company #RCO1143 (exp. 2028-03-28)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0261
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0261

@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/sebelda-group-llc-tx0617/
 * Phone: (210) 213-0966
 * Mold Remediation Company #RCO1791 (exp. 2028-04-22)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0617
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0617

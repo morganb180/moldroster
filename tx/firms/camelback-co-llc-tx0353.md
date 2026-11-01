@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/camelback-co-llc-tx0353/
 * Phone: (512) 990-4776
 * Mold Remediation Company #RCO1433 (exp. 2026-10-13)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0353
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0353

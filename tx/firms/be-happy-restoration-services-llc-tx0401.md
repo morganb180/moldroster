@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/be-happy-restoration-services-llc-tx0
 * Phone: (214) 616-9951
 * Mold Remediation Company #RCO1523 (exp. 2028-10-02)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0401
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0401

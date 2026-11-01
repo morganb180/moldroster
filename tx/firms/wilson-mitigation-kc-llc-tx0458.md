@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/wilson-mitigation-kc-llc-tx0458/
 * Phone: (281) 469-2957
 * Mold Remediation Company #RCO1612 (exp. 2027-12-12)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0458
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0458

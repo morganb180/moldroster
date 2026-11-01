@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/burk-kroll-restoration-llc-tx0650/
 * Phone: (713) 560-0153
 * Mold Remediation Company #RCO1824 (exp. 2028-09-14)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0650
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0650

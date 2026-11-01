@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/raj-brock-development-llc-tx0505/
 * Phone: (830) 999-7285
 * Mold Remediation Company #RCO1677 (exp. 2027-02-19)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0505
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0505

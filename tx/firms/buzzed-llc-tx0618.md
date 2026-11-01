@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/buzzed-llc-tx0618/
 * Phone: (832) 699-4267
 * Mold Remediation Company #RCO1792 (exp. 2028-04-22)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0618
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0618

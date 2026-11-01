@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/aurora-amk-tx0654/
 * Phone: (281) 524-6334
 * Mold Remediation Company #RCO1828 (exp. 2028-09-28)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0654
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0654

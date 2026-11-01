@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/1st-choice-abatement-remediation-serv
 * Phone: (210) 542-8383
 * Mold Remediation Company #RCO1371 (exp. 2027-12-08)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0329
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0329

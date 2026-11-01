@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/restorenow-holdings-limited-tx0422/
 * Phone: (855) 737-8671
 * Mold Remediation Company #RCO1560 (exp. 2027-01-25)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0422
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0422

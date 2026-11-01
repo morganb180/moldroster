@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/nation-restorations-llc-tx0519/
 * Phone: (903) 343-6946
 * Mold Remediation Company #RCO1691 (exp. 2027-05-01)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0519
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0519

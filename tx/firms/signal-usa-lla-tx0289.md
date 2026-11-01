@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/signal-usa-lla-tx0289/
 * Phone: (248) 288-6300
 * Mold Remediation Company #RCO1270 (exp. 2028-09-23)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0289
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0289

@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/lighthouse-restoration-and-constructi
 * Phone: (201) 410-6595
 * Mold Remediation Company #RCO1672 (exp. 2026-12-29)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0500
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0500

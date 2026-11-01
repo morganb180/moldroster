@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/burcham-environmental-services-llc-tx
 * Phone: (512) 396-5725
 * Mold Assessment Company #ACO0103 (exp. 2026-12-16)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0001
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0001

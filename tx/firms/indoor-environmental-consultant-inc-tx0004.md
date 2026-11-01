@@ -13,4 +13,4 @@ canonical: https://moldroster.com/tx/firms/indoor-environmental-consultant-inc-t
 * Phone: (512) 637-1831
 * Mold Assessment Company #ACO0114 (exp. 2026-12-15)
 
-Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mold/mold.htm. Claim / correct: https://moldroster.com/claim-listing/?id=TX0004
+Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0004
