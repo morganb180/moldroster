@@ -22,3 +22,19 @@ Added by us, not on the state list: phone, website and rating from the firm's [G
 Get a quote: https://moldroster.com/quotes/?firm=NY0025 (goes to AUAR Enterprises, Inc. (dba Colello Air Technologies) and up to 2 other nearby licensed pros)
 
 Source: https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy, retrieved 2026-10-12. Verify: https://dol.ny.gov/mold-program. Claim / correct: https://moldroster.com/claim-listing/?id=NY0025
+
+## How many licensed mold pros are in Jefferson County?
+
+In our 2026-10-12 copy of the NYS DOL licence list, 4 listings have an address of record in Jefferson County: 3 with a mold assessment licence and 2 with a mold remediation licence (1 hold both). 3 of them, including AUAR Enterprises, Inc. (dba Colello Air Technologies), are in Watertown.
+
+## Other licensed mold pros in Jefferson County
+
+* [Converse Laboratories, Inc](https://moldroster.com/ny/firms/converse-laboratories-inc-ny0478/) · Watertown · Mold assessment
+* [Marzeg of Jefferson County, Inc. (dba Servpro of Jefferson County)](https://moldroster.com/ny/firms/marzeg-of-jefferson-county-inc-dba-servpro-of-jefferson-coun-ny0853/) · Watertown · Mold remediation
+* [Green 2 Green Consulting LLC](https://moldroster.com/ny/firms/green-2-green-consulting-llc-ny0669/) · Alexandria Bay · Mold assessment
+
+All 4 listings in Jefferson County: https://moldroster.com/ny/county/jefferson/
+
+## Licensed mold pros in counties near Jefferson County
+
+[Oswego County](https://moldroster.com/ny/county/oswego/) (4) · [St. Lawrence County](https://moldroster.com/ny/county/st-lawrence/) (4)

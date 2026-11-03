@@ -16,3 +16,11 @@ canonical: https://moldroster.com/fl/firms/air-purification-specialists-inc-fl04
 Added by us, not on the state list: phone and website from the firm's [Google Maps listing](https://maps.google.com/?cid=5770727737287959501&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 Source: https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv, retrieved 2026-10-12. Verify: https://www2.myfloridalicense.com/mold-related-services/. Claim / correct: https://moldroster.com/claim-listing/?id=FL0431
+
+## How many FL DBPR-licensed mold pros are based out of state?
+
+Air Purification Specialists Inc holds a Florida licence but its address of record is in Pavo, GA. 311 listings on our 2026-10-12 copy of the FL DBPR list have an address outside Florida; ask any of them whether they cover your address.
+
+## Other FL DBPR-licensed mold pros based outside Florida
+
+

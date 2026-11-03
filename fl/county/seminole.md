@@ -1101,3 +1101,7 @@ Look it up with the Florida Department of Business and Professional Regulation (
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against DBPR licence records.
+
+## Which Seminole County cities have their own page?
+
+[Longwood](https://moldroster.com/fl/city/longwood/) (18) · [Oviedo](https://moldroster.com/fl/city/oviedo/) (14) · [Altamonte Springs](https://moldroster.com/fl/city/altamonte-springs/) (12) · [Sanford](https://moldroster.com/fl/city/sanford/) (11) · [Lake Mary](https://moldroster.com/fl/city/lake-mary/) (10) · [Winter Springs](https://moldroster.com/fl/city/winter-springs/) (9) · [Casselberry](https://moldroster.com/fl/city/casselberry/) (4)

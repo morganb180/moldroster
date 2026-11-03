@@ -21,3 +21,19 @@ Added by us, not on the state list: website and rating from the firm's [Google M
 Get a quote: https://moldroster.com/quotes/?firm=NY1070 (goes to North Country EPS LLC (dba Paul Davis Restoration) and up to 2 other nearby licensed pros)
 
 Source: https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy, retrieved 2026-10-12. Verify: https://dol.ny.gov/mold-program. Claim / correct: https://moldroster.com/claim-listing/?id=NY1070
+
+## How many licensed mold pros are in Oswego County?
+
+In our 2026-10-12 copy of the NYS DOL licence list, 4 listings have an address of record in Oswego County: 2 with a mold assessment licence and 4 with a mold remediation licence (2 hold both). 2 of them, including North Country EPS LLC (dba Paul Davis Restoration), are in Central Square.
+
+## Other licensed mold pros in Oswego County
+
+* [Endurance Demolition and Environmental Services LLC](https://moldroster.com/ny/firms/endurance-demolition-and-environmental-services-llc-ny0698/) · Oswego · Mold remediation
+* [Rockwell Building Services Company, Inc. (dba ROCKWELL INDOOR ENVIRONMENTAL)](https://moldroster.com/ny/firms/rockwell-building-services-company-inc-dba-rockwell-indoor-e-ny1173/) · Phoenix · Mold assessment & Mold remediation
+* [Green Tree Environmental LLC](https://moldroster.com/ny/firms/green-tree-environmental-llc-ny0546/) · Central Square · Mold assessment & Mold remediation
+
+All 4 listings in Oswego County: https://moldroster.com/ny/county/oswego/
+
+## Licensed mold pros in counties near Oswego County
+
+[Jefferson County](https://moldroster.com/ny/county/jefferson/) (4) · [Madison County](https://moldroster.com/ny/county/madison/) (1) · [Oneida County](https://moldroster.com/ny/county/oneida/) (16) · [Onondaga County](https://moldroster.com/ny/county/onondaga/) (35)

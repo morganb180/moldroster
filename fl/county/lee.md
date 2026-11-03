@@ -2418,3 +2418,7 @@ Look it up with the Florida Department of Business and Professional Regulation (
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against DBPR licence records.
+
+## Which Lee County cities have their own page?
+
+[Cape Coral](https://moldroster.com/fl/city/cape-coral/) (84) · [Fort Myers](https://moldroster.com/fl/city/fort-myers/) (63) · [Lehigh Acres](https://moldroster.com/fl/city/lehigh-acres/) (17) · [North Fort Myers](https://moldroster.com/fl/city/north-fort-myers/) (10) · [Bonita Springs](https://moldroster.com/fl/city/bonita-springs/) (7) · [Estero](https://moldroster.com/fl/city/estero/) (7)

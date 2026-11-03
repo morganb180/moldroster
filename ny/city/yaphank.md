@@ -102,3 +102,11 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against NYS DOL licence records.
+
+## More Suffolk County cities with licensed mold pros
+
+[Babylon](https://moldroster.com/ny/city/babylon/) (5) · [Brentwood](https://moldroster.com/ny/city/brentwood/) (5) · [Holbrook](https://moldroster.com/ny/city/holbrook/) (5) · [Lindenhurst](https://moldroster.com/ny/city/lindenhurst/) (5) · [Patchogue](https://moldroster.com/ny/city/patchogue/) (5) · [Amityville](https://moldroster.com/ny/city/amityville/) (4) · [Commack](https://moldroster.com/ny/city/commack/) (4) · [Deer Park](https://moldroster.com/ny/city/deer-park/) (4) · [East Northport](https://moldroster.com/ny/city/east-northport/) (4) · [Islandia](https://moldroster.com/ny/city/islandia/) (4) · [Nesconset](https://moldroster.com/ny/city/nesconset/) (4)
+
+## Which counties are near Yaphank?
+
+Yaphank is in [Suffolk County](https://moldroster.com/ny/county/suffolk/). Neighboring counties: [Nassau County](https://moldroster.com/ny/county/nassau/) (153).

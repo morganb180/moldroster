@@ -580,3 +580,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against DBPR licence records.
+
+## Which counties are near Kissimmee?
+
+Kissimmee is in [Osceola County](https://moldroster.com/fl/county/osceola/). Neighboring counties: [Brevard County](https://moldroster.com/fl/county/brevard/) (93) · [Highlands County](https://moldroster.com/fl/county/highlands/) (11) · [Indian River County](https://moldroster.com/fl/county/indian-river/) (24) · [Lake County](https://moldroster.com/fl/county/lake/) (61) · [Okeechobee County](https://moldroster.com/fl/county/okeechobee/) (7) · [Orange County](https://moldroster.com/fl/county/orange/) (194) · [Polk County](https://moldroster.com/fl/county/polk/) (78).

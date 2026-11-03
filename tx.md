@@ -189,3 +189,26 @@ The same licensee may not do both the assessment and the remediation on the same
 **How much does mold remediation cost?**
 
 A national cost guide puts typical remediation at $1,223-$3,758 (average about $2,369) and inspections at $303-$1,075. Get written quotes.
+
+## All 40 Texas cities with licensed mold pros, by county
+
+* **[Bexar County](https://moldroster.com/tx/county/bexar/):** [San Antonio](https://moldroster.com/tx/city/san-antonio/) (41)
+* **[Brazos County](https://moldroster.com/tx/county/brazos/):** [College Station](https://moldroster.com/tx/city/college-station/) (4)
+* **[Cameron County](https://moldroster.com/tx/county/cameron/):** [Harlingen](https://moldroster.com/tx/city/harlingen/) (4)
+* **[Collin County](https://moldroster.com/tx/county/collin/):** [McKinney](https://moldroster.com/tx/city/mckinney/) (5) · [Plano](https://moldroster.com/tx/city/plano/) (16)
+* **[Dallas County](https://moldroster.com/tx/county/dallas/):** [Carrollton](https://moldroster.com/tx/city/carrollton/) (10) · [Dallas](https://moldroster.com/tx/city/dallas/) (25) · [Garland](https://moldroster.com/tx/city/garland/) (7) · [Richardson](https://moldroster.com/tx/city/richardson/) (6)
+* **[Denton County](https://moldroster.com/tx/county/denton/):** [Argyle](https://moldroster.com/tx/city/argyle/) (4) · [Lewisville](https://moldroster.com/tx/city/lewisville/) (5)
+* **[El Paso County](https://moldroster.com/tx/county/el-paso/):** [El Paso](https://moldroster.com/tx/city/el-paso/) (10)
+* **[Galveston County](https://moldroster.com/tx/county/galveston/):** [League City](https://moldroster.com/tx/city/league-city/) (5)
+* **[Harris County](https://moldroster.com/tx/county/harris/):** [Cypress](https://moldroster.com/tx/city/cypress/) (10) · [Houston](https://moldroster.com/tx/city/houston/) (87) · [Humble](https://moldroster.com/tx/city/humble/) (5) · [Katy](https://moldroster.com/tx/city/katy/) (6) · [Spring](https://moldroster.com/tx/city/spring/) (7) · [Tomball](https://moldroster.com/tx/city/tomball/) (4)
+* **[Hays County](https://moldroster.com/tx/county/hays/):** [San Marcos](https://moldroster.com/tx/city/san-marcos/) (5)
+* **[Kendall County](https://moldroster.com/tx/county/kendall/):** [Boerne](https://moldroster.com/tx/city/boerne/) (4)
+* **[Lubbock County](https://moldroster.com/tx/county/lubbock/):** [Lubbock](https://moldroster.com/tx/city/lubbock/) (8)
+* **[McLennan County](https://moldroster.com/tx/county/mclennan/):** [Waco](https://moldroster.com/tx/city/waco/) (4)
+* **[Montgomery County](https://moldroster.com/tx/county/montgomery/):** [Conroe](https://moldroster.com/tx/city/conroe/) (6) · [Magnolia](https://moldroster.com/tx/city/magnolia/) (8)
+* **[Rockwall County](https://moldroster.com/tx/county/rockwall/):** [Rockwall](https://moldroster.com/tx/city/rockwall/) (5) · [Royse City](https://moldroster.com/tx/city/royse-city/) (4)
+* **[Smith County](https://moldroster.com/tx/county/smith/):** [Tyler](https://moldroster.com/tx/city/tyler/) (5)
+* **[Tarrant County](https://moldroster.com/tx/county/tarrant/):** [Arlington](https://moldroster.com/tx/city/arlington/) (10) · [Fort Worth](https://moldroster.com/tx/city/fort-worth/) (15) · [Haltom City](https://moldroster.com/tx/city/haltom-city/) (9) · [Mansfield](https://moldroster.com/tx/city/mansfield/) (6) · [North Richland Hills](https://moldroster.com/tx/city/north-richland-hills/) (5)
+* **[Taylor County](https://moldroster.com/tx/county/taylor/):** [Abilene](https://moldroster.com/tx/city/abilene/) (5)
+* **[Travis County](https://moldroster.com/tx/county/travis/):** [Austin](https://moldroster.com/tx/city/austin/) (31) · [Pflugerville](https://moldroster.com/tx/city/pflugerville/) (4)
+* **[Williamson County](https://moldroster.com/tx/county/williamson/):** [Cedar Park](https://moldroster.com/tx/city/cedar-park/) (6) · [Georgetown](https://moldroster.com/tx/city/georgetown/) (4) · [Hutto](https://moldroster.com/tx/city/hutto/) (4) · [Leander](https://moldroster.com/tx/city/leander/) (4)

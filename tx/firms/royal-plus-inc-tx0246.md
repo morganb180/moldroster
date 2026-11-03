@@ -18,3 +18,18 @@ canonical: https://moldroster.com/tx/firms/royal-plus-inc-tx0246/
 Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=16217404884752299380&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0246
+
+## How many TDLR-licensed mold pros are based out of state?
+
+Royal Plus, Inc holds a Texas licence but its address of record is in Snow Hill, MD. 156 listings on our 2026-10-12 copy of the TDLR list have an address outside Texas; ask any of them whether they cover your address.
+
+## Other TDLR-licensed mold pros based outside Texas
+
+* [R1 Dallas Operating LLC](https://moldroster.com/tx/firms/r1-dallas-operating-llc-tx0470/) · Spokane, WA · Mold remediation
+* [J.S. Held LLC](https://moldroster.com/tx/firms/j-s-held-llc-tx0068/) · Summit, NJ · Mold assessment
+* [Arcadis US Inc](https://moldroster.com/tx/firms/arcadis-us-inc-tx0046/) · Syracuse, NY · Mold assessment
+* [Fec](https://moldroster.com/tx/firms/fec-tx0166/) · Tampa, FL · Mold assessment
+* [Gle Associates Inc](https://moldroster.com/tx/firms/gle-associates-inc-tx0023/) · Tampa, FL · Mold assessment
+* [Partner Assessment Corporation](https://moldroster.com/tx/firms/partner-assessment-corporation-tx0064/) · Torrance, CA · Mold assessment
+* [Signal USA Lla](https://moldroster.com/tx/firms/signal-usa-lla-tx0289/) · Troy, MI · Mold remediation
+* [Case and Associates Properties Inc.](https://moldroster.com/tx/firms/case-and-associates-properties-inc-tx0633/) · Tulsa, OK · Mold remediation

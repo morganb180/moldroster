@@ -14,3 +14,24 @@ canonical: https://moldroster.com/ny/firms/the-asbestos-contractor-inc-ny1279/
 * Mold Remediation Contractor License (SH126) #24-63GAK-SHMO (exp. 2026-10-31)
 
 Source: https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy, retrieved 2026-10-12. Verify: https://dol.ny.gov/mold-program. Claim / correct: https://moldroster.com/claim-listing/?id=NY1279
+
+## How many licensed mold pros are in Richmond County?
+
+In our 2026-10-12 copy of the NYS DOL licence list, 53 listings have an address of record in Richmond County: 23 with a mold assessment licence and 35 with a mold remediation licence (5 hold both). 53 of them, including The Asbestos Contractor, Inc., are in Staten Island.
+
+## Other licensed mold pros in Richmond County
+
+* [Top Restorations LLC](https://moldroster.com/ny/firms/top-restorations-llc-ny1465/) · Staten Island · Mold remediation
+* [Totaleco Building Consultants Inc.](https://moldroster.com/ny/firms/totaleco-building-consultants-inc-ny1289/) · Staten Island · Mold assessment
+* [Wall Contractor Corp.](https://moldroster.com/ny/firms/wall-contractor-corp-ny1484/) · Staten Island · Mold remediation
+* [Zion Global Concept LLC (dba Puroclean of Bulls Head LLC)](https://moldroster.com/ny/firms/zion-global-concept-llc-dba-puroclean-of-bulls-head-llc-ny1514/) · Staten Island · Mold remediation
+* [Bright Painting & Interiors Corp](https://moldroster.com/ny/firms/bright-painting-interiors-corp-ny0266/) · Staten island · Mold remediation
+* [Bullseye Inspections LLC](https://moldroster.com/ny/firms/bullseye-inspections-llc-ny0192/) · Staten island · Mold assessment
+* [Green Path Environmental, Inc. (dba GPE)](https://moldroster.com/ny/firms/green-path-environmental-inc-dba-gpe-ny0606/) · Staten island · Mold assessment
+* [M&N Green Maintenance LLC](https://moldroster.com/ny/firms/m-n-green-maintenance-llc-ny0852/) · Staten island · Mold remediation
+
+All 53 listings in Richmond County: https://moldroster.com/ny/county/richmond/
+
+## Licensed mold pros in counties near Richmond County
+
+[Kings County](https://moldroster.com/ny/county/kings/) (125) · [Queens County](https://moldroster.com/ny/county/queens/) (154)

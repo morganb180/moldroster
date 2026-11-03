@@ -383,3 +383,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against DBPR licence records.
+
+## Which counties are near Ocala?
+
+Ocala is in [Marion County](https://moldroster.com/fl/county/marion/). Neighboring counties: [Alachua County](https://moldroster.com/fl/county/alachua/) (34) · [Citrus County](https://moldroster.com/fl/county/citrus/) (17) · [Lake County](https://moldroster.com/fl/county/lake/) (61) · [Levy County](https://moldroster.com/fl/county/levy/) (2) · [Putnam County](https://moldroster.com/fl/county/putnam/) (4) · [Sumter County](https://moldroster.com/fl/county/sumter/) (10) · [Volusia County](https://moldroster.com/fl/county/volusia/) (66).

@@ -18,3 +18,11 @@ canonical: https://moldroster.com/ny/firms/environmental-construction-group-inc-
 Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=6266500179732325324&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 Source: https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy, retrieved 2026-10-12. Verify: https://dol.ny.gov/mold-program. Claim / correct: https://moldroster.com/claim-listing/?id=NY0637
+
+## How many licensed mold pros are in Orleans County?
+
+In our 2026-10-12 copy of the NYS DOL licence list, 1 listing has an address of record in Orleans County: 0 with a mold assessment licence and 1 with a mold remediation licence.
+
+## Licensed mold pros in counties near Orleans County
+
+[Genesee County](https://moldroster.com/ny/county/genesee/) (2) · [Monroe County](https://moldroster.com/ny/county/monroe/) (57) · [Niagara County](https://moldroster.com/ny/county/niagara/) (7)

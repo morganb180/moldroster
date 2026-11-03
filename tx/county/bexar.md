@@ -2232,3 +2232,7 @@ Look it up with the Texas Department of Licensing and Regulation (TDLR). Each li
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against TDLR licence records.
+
+## Which Bexar County cities have their own page?
+
+[San Antonio](https://moldroster.com/tx/city/san-antonio/) (41)

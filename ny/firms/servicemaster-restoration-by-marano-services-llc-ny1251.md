@@ -18,3 +18,24 @@ canonical: https://moldroster.com/ny/firms/servicemaster-restoration-by-marano-s
 Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=12217740304510167303&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Source: https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy, retrieved 2026-10-12. Verify: https://dol.ny.gov/mold-program. Claim / correct: https://moldroster.com/claim-listing/?id=NY1251
+
+## How many licensed mold pros are in Westchester County?
+
+In our 2026-10-12 copy of the NYS DOL licence list, 102 listings have an address of record in Westchester County: 51 with a mold assessment licence and 71 with a mold remediation licence (20 hold both). 5 of them, including ServiceMaster Restoration by Marano Services LLC, are in Elmsford.
+
+## Other licensed mold pros in Westchester County
+
+* [TKS Reconstruction 2 LLC (dba Servpro of Tarrytown/Elmsford)](https://moldroster.com/ny/firms/tks-reconstruction-2-llc-dba-servpro-of-tarrytown-elmsford-ny1459/) · Elmsford · Mold remediation
+* [TLD Services, Inc](https://moldroster.com/ny/firms/tld-services-inc-ny1270/) · Elmsford · Mold remediation
+* [Environmental Appraisers & Builders LLC](https://moldroster.com/ny/firms/environmental-appraisers-builders-llc-ny0573/) · Harrison · Mold remediation
+* [Federal Property Maintenance Corp.](https://moldroster.com/ny/firms/federal-property-maintenance-corp-ny0648/) · Harrison · Mold remediation
+* [Redocs Inc.](https://moldroster.com/ny/firms/redocs-inc-ny1178/) · Harrison · Mold assessment
+* [Erin Family Construction, Inc.](https://moldroster.com/ny/firms/erin-family-construction-inc-ny0644/) · Hartsdale · Mold remediation
+* [911 Renovation LLC (dba Restoration Operators)](https://moldroster.com/ny/firms/911-renovation-llc-dba-restoration-operators-ny0078/) · Hawthorne · Mold remediation
+* [United Restoration Services Inc.](https://moldroster.com/ny/firms/united-restoration-services-inc-ny1474/) · Hawthorne · Mold remediation
+
+All 102 listings in Westchester County: https://moldroster.com/ny/county/westchester/
+
+## Licensed mold pros in counties near Westchester County
+
+[Bronx County](https://moldroster.com/ny/county/bronx/) (52) · [Nassau County](https://moldroster.com/ny/county/nassau/) (153) · [Putnam County](https://moldroster.com/ny/county/putnam/) (14) · [Rockland County](https://moldroster.com/ny/county/rockland/) (33)

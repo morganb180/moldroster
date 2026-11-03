@@ -18,3 +18,11 @@ canonical: https://moldroster.com/ny/firms/burch-family-enterprises-inc-dba-serv
 Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5577061968561174466&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Source: https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy, retrieved 2026-10-12. Verify: https://dol.ny.gov/mold-program. Claim / correct: https://moldroster.com/claim-listing/?id=NY0269
+
+## How many licensed mold pros are in Otsego County?
+
+In our 2026-10-12 copy of the NYS DOL licence list, 1 listing has an address of record in Otsego County: 0 with a mold assessment licence and 1 with a mold remediation licence.
+
+## Licensed mold pros in counties near Otsego County
+
+[Herkimer County](https://moldroster.com/ny/county/herkimer/) (2) · [Madison County](https://moldroster.com/ny/county/madison/) (1) · [Montgomery County](https://moldroster.com/ny/county/montgomery/) (3) · [Oneida County](https://moldroster.com/ny/county/oneida/) (16) · [Schoharie County](https://moldroster.com/ny/county/schoharie/) (2)

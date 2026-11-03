@@ -150,3 +150,11 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against DBPR licence records.
+
+## More Pinellas County cities with licensed mold pros
+
+[Saint Petersburg](https://moldroster.com/fl/city/saint-petersburg/) (8) · [Seminole](https://moldroster.com/fl/city/seminole/) (8) · [Pinellas Park](https://moldroster.com/fl/city/pinellas-park/) (5)
+
+## Which counties are near Oldsmar?
+
+Oldsmar is in [Pinellas County](https://moldroster.com/fl/county/pinellas/). Neighboring counties: [Hillsborough County](https://moldroster.com/fl/county/hillsborough/) (235) · [Pasco County](https://moldroster.com/fl/county/pasco/) (127).

@@ -21,3 +21,19 @@ Added by us, not on the state list: phone, website and rating from the firm's [G
 Get a quote: https://moldroster.com/quotes/?firm=NY1133 (goes to NextGen Environmental LLC and up to 2 other nearby licensed pros)
 
 Source: https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy, retrieved 2026-10-12. Verify: https://dol.ny.gov/mold-program. Claim / correct: https://moldroster.com/claim-listing/?id=NY1133
+
+## How many licensed mold pros are in Chemung County?
+
+In our 2026-10-12 copy of the NYS DOL licence list, 4 listings have an address of record in Chemung County: 2 with a mold assessment licence and 2 with a mold remediation licence. 2 of them, including NextGen Environmental LLC, are in Horseheads.
+
+## Other licensed mold pros in Chemung County
+
+* [Precision Home Inspection of the Twin Tiers LLC](https://moldroster.com/ny/firms/precision-home-inspection-of-the-twin-tiers-llc-ny1030/) · Horseheads · Mold assessment
+* [Regal 1 Inspections LLC](https://moldroster.com/ny/firms/regal-1-inspections-llc-ny1117/) · NY · Mold assessment
+* [Minichiello Enterprises LLC](https://moldroster.com/ny/firms/minichiello-enterprises-llc-ny0871/) · Elmira · Mold remediation
+
+All 4 listings in Chemung County: https://moldroster.com/ny/county/chemung/
+
+## Licensed mold pros in counties near Chemung County
+
+[Steuben County](https://moldroster.com/ny/county/steuben/) (2) · [Tioga County](https://moldroster.com/ny/county/tioga/) (1) · [Tompkins County](https://moldroster.com/ny/county/tompkins/) (3)

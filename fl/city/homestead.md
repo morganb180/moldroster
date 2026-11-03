@@ -318,3 +318,11 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against DBPR licence records.
+
+## More Miami-Dade County cities with licensed mold pros
+
+[Aventura](https://moldroster.com/fl/city/aventura/) (10) · [Coral Gables](https://moldroster.com/fl/city/coral-gables/) (10) · [North Miami](https://moldroster.com/fl/city/north-miami/) (8) · [North Miami Beach](https://moldroster.com/fl/city/north-miami-beach/) (7) · [Palmetto Bay](https://moldroster.com/fl/city/palmetto-bay/) (7) · [Miami Gardens](https://moldroster.com/fl/city/miami-gardens/) (5) · [Pinecrest](https://moldroster.com/fl/city/pinecrest/) (4)
+
+## Which counties are near Homestead?
+
+Homestead is in [Miami-Dade County](https://moldroster.com/fl/county/miami-dade/). Neighboring counties: [Broward County](https://moldroster.com/fl/county/broward/) (589) · [Collier County](https://moldroster.com/fl/county/collier/) (77) · [Monroe County](https://moldroster.com/fl/county/monroe/) (12).

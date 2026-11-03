@@ -2345,3 +2345,7 @@ Look it up with the Florida Department of Business and Professional Regulation (
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against DBPR licence records.
+
+## Which Pinellas County cities have their own page?
+
+[St. Petersburg](https://moldroster.com/fl/city/st-petersburg/) (48) · [Clearwater](https://moldroster.com/fl/city/clearwater/) (37) · [Largo](https://moldroster.com/fl/city/largo/) (19) · [Palm Harbor](https://moldroster.com/fl/city/palm-harbor/) (13) · [Dunedin](https://moldroster.com/fl/city/dunedin/) (10) · [Oldsmar](https://moldroster.com/fl/city/oldsmar/) (9) · [Tarpon Springs](https://moldroster.com/fl/city/tarpon-springs/) (9) · [Saint Petersburg](https://moldroster.com/fl/city/saint-petersburg/) (8) · [Seminole](https://moldroster.com/fl/city/seminole/) (8) · [Pinellas Park](https://moldroster.com/fl/city/pinellas-park/) (5)

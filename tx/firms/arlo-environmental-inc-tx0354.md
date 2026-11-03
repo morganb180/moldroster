@@ -21,3 +21,17 @@ Added by us, not on the state list: website and rating from the firm's [Google M
 Get a quote: https://moldroster.com/quotes/?firm=TX0354 (goes to Arlo Environmental Inc. and up to 2 other nearby licensed pros)
 
 Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0354
+
+## How many licensed mold pros are in Potter County?
+
+In our 2026-10-12 copy of the TDLR licence list, 6 listings have an address of record in Potter County: 3 with a mold assessment licence and 3 with a mold remediation licence. 2 are licensed firms and 4 are individual licensees. 2 of them, including Arlo Environmental Inc., are in Amarillo. Texas law requires separate, independent companies for the assessment and the remediation on the same job.
+
+## Other licensed mold pros in Potter County
+
+* [Apex Technical Servicw](https://moldroster.com/tx/firms/apex-technical-servicw-tx0181/) · Amarillo · Mold assessment
+
+All 6 listings in Potter County: https://moldroster.com/tx/county/potter/
+
+## Licensed mold pros in counties near Potter County
+
+[Randall County](https://moldroster.com/tx/county/randall/) (4)

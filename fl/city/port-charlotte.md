@@ -277,3 +277,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against DBPR licence records.
+
+## Which counties are near Port Charlotte?
+
+Port Charlotte is in [Charlotte County](https://moldroster.com/fl/county/charlotte/). Neighboring counties: [DeSoto County](https://moldroster.com/fl/county/desoto/) (3) · [Hendry County](https://moldroster.com/fl/county/hendry/) (5) · [Highlands County](https://moldroster.com/fl/county/highlands/) (11) · [Lee County](https://moldroster.com/fl/county/lee/) (189) · [Sarasota County](https://moldroster.com/fl/county/sarasota/) (70).

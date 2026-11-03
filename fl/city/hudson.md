@@ -190,3 +190,11 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against DBPR licence records.
+
+## More Pasco County cities with licensed mold pros
+
+[Zephyrhills](https://moldroster.com/fl/city/zephyrhills/) (6) · [San Antonio](https://moldroster.com/fl/city/san-antonio/) (5)
+
+## Which counties are near Hudson?
+
+Hudson is in [Pasco County](https://moldroster.com/fl/county/pasco/). Neighboring counties: [Hernando County](https://moldroster.com/fl/county/hernando/) (28) · [Hillsborough County](https://moldroster.com/fl/county/hillsborough/) (235) · [Pinellas County](https://moldroster.com/fl/county/pinellas/) (183) · [Polk County](https://moldroster.com/fl/county/polk/) (78) · [Sumter County](https://moldroster.com/fl/county/sumter/) (10).

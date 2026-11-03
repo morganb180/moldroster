@@ -18,3 +18,18 @@ canonical: https://moldroster.com/ny/firms/colliers-engineering-design-architect
 Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=6188184699701801300&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Source: https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy, retrieved 2026-10-12. Verify: https://dol.ny.gov/mold-program. Claim / correct: https://moldroster.com/claim-listing/?id=NY0419
+
+## How many licensed mold pros are in New York?
+
+In our 2026-10-12 copy of the NYS DOL licence list, New York has 1540 listings: 802 with a mold assessment licence and 946 with a mold remediation licence.
+
+## Other licensed mold pros in New York
+
+* [Coastal Renewal Corp. (dba PuroClean of Whitestone)](https://moldroster.com/ny/firms/coastal-renewal-corp-dba-puroclean-of-whitestone-ny0292/) · Howard Beach, NJ · Mold assessment & Mold remediation
+* [Schwartz Enterprises Inc (dba The Restoration Groups of Lower Hudson Valley)](https://moldroster.com/ny/firms/schwartz-enterprises-inc-dba-the-restoration-groups-of-lower-ny1439/) · Keniwlorth, NJ · Mold remediation
+* [Peacock Mold Services LLC](https://moldroster.com/ny/firms/peacock-mold-services-llc-ny1087/) · Keyport, NJ · Mold assessment
+* [Timars Flow Construction Corp](https://moldroster.com/ny/firms/timars-flow-construction-corp-ny1284/) · Kinnelon, NJ · Mold remediation
+* [Enviro-sciences of Delaware Inc](https://moldroster.com/ny/firms/enviro-sciences-of-delaware-inc-ny0513/) · Lake Hopatcong, NJ · Mold assessment & Mold remediation
+* [Lead Professionals, Inc.](https://moldroster.com/ny/firms/lead-professionals-inc-ny0912/) · Lakewood, NJ · Mold remediation
+* [Cromwell Environmental Inc](https://moldroster.com/ny/firms/cromwell-environmental-inc-ny0482/) · Lawrence, KS · Mold remediation
+* [Aptim Environmental & Infrastructure, Inc](https://moldroster.com/ny/firms/aptim-environmental-infrastructure-inc-ny0055/) · Lawrenceville, NJ · Mold assessment

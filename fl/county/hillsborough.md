@@ -3003,3 +3003,7 @@ Look it up with the Florida Department of Business and Professional Regulation (
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against DBPR licence records.
+
+## Which Hillsborough County cities have their own page?
+
+[Tampa](https://moldroster.com/fl/city/tampa/) (127) · [Riverview](https://moldroster.com/fl/city/riverview/) (23) · [Valrico](https://moldroster.com/fl/city/valrico/) (17) · [Lutz](https://moldroster.com/fl/city/lutz/) (16) · [Brandon](https://moldroster.com/fl/city/brandon/) (10) · [Odessa](https://moldroster.com/fl/city/odessa/) (9) · [Plant City](https://moldroster.com/fl/city/plant-city/) (9) · [Ruskin](https://moldroster.com/fl/city/ruskin/) (9) · [Lithia](https://moldroster.com/fl/city/lithia/) (6) · [Apollo Beach](https://moldroster.com/fl/city/apollo-beach/) (5) · [Seffner](https://moldroster.com/fl/city/seffner/) (4) · [Temple Terrace](https://moldroster.com/fl/city/temple-terrace/) (4)

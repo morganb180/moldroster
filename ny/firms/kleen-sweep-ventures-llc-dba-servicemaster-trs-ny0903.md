@@ -14,3 +14,18 @@ canonical: https://moldroster.com/ny/firms/kleen-sweep-ventures-llc-dba-servicem
 * Mold Remediation Contractor License (SH126) #25-6HS94-SHMO (exp. 2027-09-30)
 
 Source: https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy, retrieved 2026-10-12. Verify: https://dol.ny.gov/mold-program. Claim / correct: https://moldroster.com/claim-listing/?id=NY0903
+
+## How many NYS DOL-licensed mold pros are based out of state?
+
+Kleen Sweep Ventures LLC (dba ServiceMaster TRS) holds a New York licence but its address of record is in Stamford, CT. 155 listings on our 2026-10-12 copy of the NYS DOL list have an address outside New York; ask any of them whether they cover your address.
+
+## Other NYS DOL-licensed mold pros based outside New York
+
+* [RTK Environmental Group LLC](https://moldroster.com/ny/firms/rtk-environmental-group-llc-ny1048/) · Stamford, CT · Mold assessment
+* [Stock Consulting, LLC (dba Stock Environmental Consulting)](https://moldroster.com/ny/firms/stock-consulting-llc-dba-stock-environmental-consulting-ny1326/) · Tinton Falls, NJ · Mold assessment
+* [Partner Assessment Corporation](https://moldroster.com/ny/firms/partner-assessment-corporation-ny1085/) · Torrance, CA · Mold assessment
+* [Environmental Connection Inc](https://moldroster.com/ny/firms/environmental-connection-inc-ny0574/) · Trenton, NJ · Mold assessment
+* [Signal USA, LLC](https://moldroster.com/ny/firms/signal-usa-llc-ny1378/) · Troy, MI · Mold remediation
+* [Stamford Wrecking Company](https://moldroster.com/ny/firms/stamford-wrecking-company-ny1324/) · Trumbull, CT · Mold assessment
+* [A.C.M. Consulting Corp](https://moldroster.com/ny/firms/a-c-m-consulting-corp-ny0207/) · Union, NJ · Mold remediation
+* [Hillmann Consulting, LLC](https://moldroster.com/ny/firms/hillmann-consulting-llc-ny0681/) · Union, NJ · Mold assessment

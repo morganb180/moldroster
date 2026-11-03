@@ -21,3 +21,24 @@ Added by us, not on the state list: phone, website and rating from the firm's [G
 Get a quote: https://moldroster.com/quotes/?firm=NY0703 (goes to Environmental Planning and Management, Inc. and up to 2 other nearby licensed pros)
 
 Source: https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy, retrieved 2026-10-12. Verify: https://dol.ny.gov/mold-program. Claim / correct: https://moldroster.com/claim-listing/?id=NY0703
+
+## How many licensed mold pros are in Nassau County?
+
+In our 2026-10-12 copy of the NYS DOL licence list, 153 listings have an address of record in Nassau County: 74 with a mold assessment licence and 97 with a mold remediation licence (18 hold both).
+
+## Other licensed mold pros in Nassau County
+
+* [AIC General Contracting Inc (dba Renov8)](https://moldroster.com/ny/firms/aic-general-contracting-inc-dba-renov8-ny0211/) · Levittown · Mold remediation
+* [B-One Construction Inc.](https://moldroster.com/ny/firms/b-one-construction-inc-ny0125/) · Levittown · Mold remediation
+* [Polo Construction Corp](https://moldroster.com/ny/firms/polo-construction-corp-ny1027/) · Levittown · Mold remediation
+* [Renewal With Grace Inc.](https://moldroster.com/ny/firms/renewal-with-grace-inc-ny1118/) · Levittown · Mold remediation
+* [Top-Notch Painting Inc](https://moldroster.com/ny/firms/top-notch-painting-inc-ny1347/) · Levittown · Mold remediation
+* [Verdantgarde LLC](https://moldroster.com/ny/firms/verdantgarde-llc-ny1515/) · Levittown · Mold assessment
+* [The Lucky Duct, Inc](https://moldroster.com/ny/firms/the-lucky-duct-inc-ny1341/) · Long Beach · Mold remediation
+* [Top To Bottom Home Inspections, LLC](https://moldroster.com/ny/firms/top-to-bottom-home-inspections-llc-ny1287/) · Long Beach · Mold assessment
+
+All 153 listings in Nassau County: https://moldroster.com/ny/county/nassau/
+
+## Licensed mold pros in counties near Nassau County
+
+[Bronx County](https://moldroster.com/ny/county/bronx/) (52) · [Queens County](https://moldroster.com/ny/county/queens/) (154) · [Suffolk County](https://moldroster.com/ny/county/suffolk/) (185) · [Westchester County](https://moldroster.com/ny/county/westchester/) (102)

@@ -6455,3 +6455,7 @@ Look it up with the Texas Department of Licensing and Regulation (TDLR). Each li
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against TDLR licence records.
+
+## Which Harris County cities have their own page?
+
+[Houston](https://moldroster.com/tx/city/houston/) (87) · [Cypress](https://moldroster.com/tx/city/cypress/) (10) · [Spring](https://moldroster.com/tx/city/spring/) (7) · [Katy](https://moldroster.com/tx/city/katy/) (6) · [Humble](https://moldroster.com/tx/city/humble/) (5) · [Tomball](https://moldroster.com/tx/city/tomball/) (4)

@@ -18,3 +18,24 @@ canonical: https://moldroster.com/tx/firms/steam-care-inc-tx0630/
 Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4399968463897359135&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0630
+
+## How many licensed mold pros are in Harris County?
+
+In our 2026-10-12 copy of the TDLR licence list, 445 listings have an address of record in Harris County: 242 with a mold assessment licence and 226 with a mold remediation licence (23 hold both). 122 are licensed firms and 323 are individual licensees. 10 of them, including Steam Care Inc, are in Cypress. Texas law requires separate, independent companies for the assessment and the remediation on the same job.
+
+## Other licensed mold pros in Harris County
+
+* [Team Home Solutions, LLC](https://moldroster.com/tx/firms/team-home-solutions-llc-tx0361/) · Cypress · Mold remediation
+* [Texas Mold Advisors LLC](https://moldroster.com/tx/firms/texas-mold-advisors-llc-tx0193/) · Cypress · Mold assessment
+* [24 Hour Flood Pros of Houston, LLC](https://moldroster.com/tx/firms/24-hour-flood-pros-of-houston-llc-tx0543/) · Houston · Mold remediation
+* [247 Restoration Specialists](https://moldroster.com/tx/firms/247-restoration-specialists-tx0521/) · Houston · Mold remediation
+* [A & A Restoration, LLC](https://moldroster.com/tx/firms/a-a-restoration-llc-tx0559/) · Houston · Mold remediation
+* [Aar Incorporated](https://moldroster.com/tx/firms/aar-incorporated-tx0212/) · Houston · Mold remediation
+* [Abatement Specialists LLC](https://moldroster.com/tx/firms/abatement-specialists-llc-tx0274/) · Houston · Mold remediation
+* [ABC Restoration Inc](https://moldroster.com/tx/firms/abc-restoration-inc-tx0626/) · Houston · Mold remediation
+
+All 445 listings in Harris County: https://moldroster.com/tx/county/harris/
+
+## Licensed mold pros in counties near Harris County
+
+[Brazoria County](https://moldroster.com/tx/county/brazoria/) (9) · [Chambers County](https://moldroster.com/tx/county/chambers/) (1) · [Fort Bend County](https://moldroster.com/tx/county/fort-bend/) (69) · [Galveston County](https://moldroster.com/tx/county/galveston/) (34) · [Liberty County](https://moldroster.com/tx/county/liberty/) (3) · [Montgomery County](https://moldroster.com/tx/county/montgomery/) (116) · [Waller County](https://moldroster.com/tx/county/waller/) (16)

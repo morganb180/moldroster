@@ -98,3 +98,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against DBPR licence records.
+
+## Which counties are near The Villages?
+
+The Villages is in [Sumter County](https://moldroster.com/fl/county/sumter/). Neighboring counties: [Citrus County](https://moldroster.com/fl/county/citrus/) (17) · [Hernando County](https://moldroster.com/fl/county/hernando/) (28) · [Lake County](https://moldroster.com/fl/county/lake/) (61) · [Marion County](https://moldroster.com/fl/county/marion/) (36) · [Pasco County](https://moldroster.com/fl/county/pasco/) (127) · [Polk County](https://moldroster.com/fl/county/polk/) (78).

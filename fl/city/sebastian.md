@@ -124,3 +124,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against DBPR licence records.
+
+## Which counties are near Sebastian?
+
+Sebastian is in [Indian River County](https://moldroster.com/fl/county/indian-river/). Neighboring counties: [Brevard County](https://moldroster.com/fl/county/brevard/) (93) · [Okeechobee County](https://moldroster.com/fl/county/okeechobee/) (7) · [Osceola County](https://moldroster.com/fl/county/osceola/) (61) · [St. Lucie County](https://moldroster.com/fl/county/st-lucie/) (79).

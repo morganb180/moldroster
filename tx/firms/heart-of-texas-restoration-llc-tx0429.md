@@ -18,3 +18,7 @@ canonical: https://moldroster.com/tx/firms/heart-of-texas-restoration-llc-tx0429
 Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=1607566202779387976&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0429
+
+## How many licensed mold pros are in McCulloch County?
+
+In our 2026-10-12 copy of the TDLR licence list, 5 listings have an address of record in McCulloch County: 0 with a mold assessment licence and 5 with a mold remediation licence. 1 is a licensed firm and 4 are individual licensees.

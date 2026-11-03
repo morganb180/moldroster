@@ -21,3 +21,24 @@ Added by us, not on the state list: website and rating from the firm's [Google M
 Get a quote: https://moldroster.com/quotes/?firm=NY0590 (goes to First Responders Cleaning and Restoration Inc (dba PuroClean of Bohemia) and up to 2 other nearby licensed pros)
 
 Source: https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy, retrieved 2026-10-12. Verify: https://dol.ny.gov/mold-program. Claim / correct: https://moldroster.com/claim-listing/?id=NY0590
+
+## How many licensed mold pros are in Suffolk County?
+
+In our 2026-10-12 copy of the NYS DOL licence list, 185 listings have an address of record in Suffolk County: 84 with a mold assessment licence and 121 with a mold remediation licence (20 hold both). 14 of them, including First Responders Cleaning and Restoration Inc (dba PuroClean of Bohemia), are in Bohemia.
+
+## Other licensed mold pros in Suffolk County
+
+* [G-Tech Restoration Inc](https://moldroster.com/ny/firms/g-tech-restoration-inc-ny0658/) · Bohemia · Mold remediation
+* [Green Island Group Corporative Inc.](https://moldroster.com/ny/firms/green-island-group-corporative-inc-ny0537/) · Bohemia · Mold remediation
+* [King of Steam Corp](https://moldroster.com/ny/firms/king-of-steam-corp-ny0771/) · Bohemia · Mold remediation
+* [Mecca Home Improvement Inc. (dba Target Restoration)](https://moldroster.com/ny/firms/mecca-home-improvement-inc-dba-target-restoration-ny0929/) · Bohemia · Mold assessment & Mold remediation
+* [Ms.Mold LLC](https://moldroster.com/ny/firms/ms-mold-llc-ny0875/) · Bohemia · Mold assessment
+* [P. W. Grosser Consulting, Inc.](https://moldroster.com/ny/firms/p-w-grosser-consulting-inc-ny1143/) · Bohemia · Mold assessment
+* [P.W. Grosser Consulting Engineer & Hydrogeologist, D.P.C](https://moldroster.com/ny/firms/p-w-grosser-consulting-engineer-hydrogeologist-d-p-c-ny1201/) · Bohemia · Mold assessment
+* [Roberts Environmental Corp.](https://moldroster.com/ny/firms/roberts-environmental-corp-ny1222/) · Bohemia · Mold assessment
+
+All 185 listings in Suffolk County: https://moldroster.com/ny/county/suffolk/
+
+## Licensed mold pros in counties near Suffolk County
+
+[Nassau County](https://moldroster.com/ny/county/nassau/) (153)

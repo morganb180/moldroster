@@ -14,3 +14,24 @@ canonical: https://moldroster.com/tx/firms/linos-contracting-llc-tx0646/
 * Mold Remediation Company #RCO1820 (exp. 2028-08-20)
 
 Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0646
+
+## How many licensed mold pros are in Williamson County?
+
+In our 2026-10-12 copy of the TDLR licence list, 83 listings have an address of record in Williamson County: 34 with a mold assessment licence and 52 with a mold remediation licence (3 hold both). 25 are licensed firms and 58 are individual licensees. 4 of them, including Linos Contracting LLC, are in Leander. Texas law requires separate, independent companies for the assessment and the remediation on the same job.
+
+## Other licensed mold pros in Williamson County
+
+* [Semper Dri LLC](https://moldroster.com/tx/firms/semper-dri-llc-tx0586/) · Leander · Mold remediation
+* [Sisk Robb Inc](https://moldroster.com/tx/firms/sisk-robb-inc-tx0207/) · Leander · Mold remediation
+* [Giraffe Home & Commercial Services LLC](https://moldroster.com/tx/firms/giraffe-home-commercial-services-llc-tx0439/) · Liberty Hill · Mold remediation
+* [J & E Rachal, DBA Texas Mold Inspector](https://moldroster.com/tx/firms/j-e-rachal-dba-texas-mold-inspector-tx0158/) · Liberty Hill · Mold assessment
+* [K&h Premier Solutions LLC](https://moldroster.com/tx/firms/k-h-premier-solutions-llc-tx0641/) · Liberty Hill · Mold remediation
+* [Poj Crew Corp.](https://moldroster.com/tx/firms/poj-crew-corp-tx0442/) · Round Rock · Mold remediation
+* [Remediators, LLC](https://moldroster.com/tx/firms/remediators-llc-tx0374/) · Round Rock · Mold remediation
+* [With Purpose Business LLC](https://moldroster.com/tx/firms/with-purpose-business-llc-tx0584/) · Round Rock · Mold remediation
+
+All 83 listings in Williamson County: https://moldroster.com/tx/county/williamson/
+
+## Licensed mold pros in counties near Williamson County
+
+[Bastrop County](https://moldroster.com/tx/county/bastrop/) (6) · [Bell County](https://moldroster.com/tx/county/bell/) (14) · [Burnet County](https://moldroster.com/tx/county/burnet/) (3) · [Travis County](https://moldroster.com/tx/county/travis/) (124)

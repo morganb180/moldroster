@@ -111,3 +111,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against TDLR licence records.
+
+## Which counties are near Lewisville?
+
+Lewisville is in [Denton County](https://moldroster.com/tx/county/denton/). Neighboring counties: [Collin County](https://moldroster.com/tx/county/collin/) (107) · [Cooke County](https://moldroster.com/tx/county/cooke/) (2) · [Dallas County](https://moldroster.com/tx/county/dallas/) (186) · [Grayson County](https://moldroster.com/tx/county/grayson/) (5) · [Tarrant County](https://moldroster.com/tx/county/tarrant/) (183) · [Wise County](https://moldroster.com/tx/county/wise/) (9).

@@ -86,3 +86,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against DBPR licence records.
+
+## Which counties are near Alachua?
+
+Alachua is in [Alachua County](https://moldroster.com/fl/county/alachua/). Neighboring counties: [Columbia County](https://moldroster.com/fl/county/columbia/) (4) · [Gilchrist County](https://moldroster.com/fl/county/gilchrist/) (2) · [Levy County](https://moldroster.com/fl/county/levy/) (2) · [Marion County](https://moldroster.com/fl/county/marion/) (36) · [Putnam County](https://moldroster.com/fl/county/putnam/) (4) · [Union County](https://moldroster.com/fl/county/union/) (1).

@@ -112,3 +112,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against DBPR licence records.
+
+## Which counties are near Palm City?
+
+Palm City is in [Martin County](https://moldroster.com/fl/county/martin/). Neighboring counties: [Hendry County](https://moldroster.com/fl/county/hendry/) (5) · [Okeechobee County](https://moldroster.com/fl/county/okeechobee/) (7) · [Palm Beach County](https://moldroster.com/fl/county/palm-beach/) (370) · [St. Lucie County](https://moldroster.com/fl/county/st-lucie/) (79).

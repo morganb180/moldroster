@@ -1219,3 +1219,7 @@ Look it up with the Florida Department of Business and Professional Regulation (
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against DBPR licence records.
+
+## Which Brevard County cities have their own page?
+
+[Melbourne](https://moldroster.com/fl/city/melbourne/) (22) · [Cocoa](https://moldroster.com/fl/city/cocoa/) (13) · [Palm Bay](https://moldroster.com/fl/city/palm-bay/) (12) · [Merritt Island](https://moldroster.com/fl/city/merritt-island/) (8) · [Satellite Beach](https://moldroster.com/fl/city/satellite-beach/) (8) · [Rockledge](https://moldroster.com/fl/city/rockledge/) (7) · [Titusville](https://moldroster.com/fl/city/titusville/) (5) · [Indian Harbour Beach](https://moldroster.com/fl/city/indian-harbour-beach/) (4)

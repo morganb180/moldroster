@@ -95,3 +95,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against TDLR licence records.
+
+## Which counties are near Boerne?
+
+Boerne is in [Kendall County](https://moldroster.com/tx/county/kendall/). Neighboring counties: [Bandera County](https://moldroster.com/tx/county/bandera/) (3) · [Bexar County](https://moldroster.com/tx/county/bexar/) (150) · [Comal County](https://moldroster.com/tx/county/comal/) (24) · [Gillespie County](https://moldroster.com/tx/county/gillespie/) (2) · [Kerr County](https://moldroster.com/tx/county/kerr/) (2).

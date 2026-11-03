@@ -22,3 +22,24 @@ Added by us, not on the state list: website and rating from the firm's [Google M
 Get a quote: https://moldroster.com/quotes/?firm=NY0672 (goes to GreenRoom Remediation LLC and up to 2 other nearby licensed pros)
 
 Source: https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy, retrieved 2026-10-12. Verify: https://dol.ny.gov/mold-program. Claim / correct: https://moldroster.com/claim-listing/?id=NY0672
+
+## How many licensed mold pros are in Kings County?
+
+In our 2026-10-12 copy of the NYS DOL licence list, 125 listings have an address of record in Kings County: 71 with a mold assessment licence and 97 with a mold remediation licence (43 hold both). 123 of them, including GreenRoom Remediation LLC, are in Brooklyn.
+
+## Other licensed mold pros in Kings County
+
+* [GTM Contracting, Inc (dba Hi-Tech Environmental & Renovation)](https://moldroster.com/ny/firms/gtm-contracting-inc-dba-hi-tech-environmental-renovation-ny0600/) · Brooklyn · Mold remediation
+* [H & S Contracting of NY Inc.](https://moldroster.com/ny/firms/h-s-contracting-of-ny-inc-ny0674/) · Brooklyn · Mold remediation
+* [Hi-Tech Environmental LLC](https://moldroster.com/ny/firms/hi-tech-environmental-llc-ny0679/) · Brooklyn · Mold assessment & Mold remediation
+* [Hillview Station Inc](https://moldroster.com/ny/firms/hillview-station-inc-ny0555/) · Brooklyn · Mold assessment & Mold remediation
+* [HOUSING Preservation Services LLC (dba 1069 EAST 29 ST)](https://moldroster.com/ny/firms/housing-preservation-services-llc-dba-1069-east-29-st-ny0676/) · Brooklyn · Mold remediation
+* [Indoor Mold Specialist Inc](https://moldroster.com/ny/firms/indoor-mold-specialist-inc-ny0562/) · Brooklyn · Mold assessment & Mold remediation
+* [JD Environmental inc](https://moldroster.com/ny/firms/jd-environmental-inc-ny0944/) · Brooklyn · Mold assessment
+* [JEM Global Enterprises Inc](https://moldroster.com/ny/firms/jem-global-enterprises-inc-ny0753/) · Brooklyn · Mold assessment
+
+All 125 listings in Kings County: https://moldroster.com/ny/county/kings/
+
+## Licensed mold pros in counties near Kings County
+
+[New York County](https://moldroster.com/ny/county/new-york/) (65) · [Queens County](https://moldroster.com/ny/county/queens/) (154) · [Richmond County](https://moldroster.com/ny/county/richmond/) (53)

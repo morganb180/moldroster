@@ -21,3 +21,24 @@ Added by us, not on the state list: website and rating from the firm's [Google M
 Get a quote: https://moldroster.com/quotes/?firm=NY0511 (goes to Enos Home Inspections, LLC and up to 2 other nearby licensed pros)
 
 Source: https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy, retrieved 2026-10-12. Verify: https://dol.ny.gov/mold-program. Claim / correct: https://moldroster.com/claim-listing/?id=NY0511
+
+## How many licensed mold pros are in Schenectady County?
+
+In our 2026-10-12 copy of the NYS DOL licence list, 13 listings have an address of record in Schenectady County: 9 with a mold assessment licence and 5 with a mold remediation licence (1 hold both). 11 of them, including Enos Home Inspections, LLC, are in Schenectady.
+
+## Other licensed mold pros in Schenectady County
+
+* [Gumshoe Home Inspections LLC](https://moldroster.com/ny/firms/gumshoe-home-inspections-llc-ny0733/) · Schenectady · Mold assessment
+* [Katrisha Fields (dba Capital Movements Environmental)](https://moldroster.com/ny/firms/katrisha-fields-dba-capital-movements-environmental-ny0768/) · Schenectady · Mold assessment & Mold remediation
+* [Kelty Inspection Services LLC](https://moldroster.com/ny/firms/kelty-inspection-services-llc-ny0900/) · Schenectady · Mold assessment
+* [Martin Environmental Services, Inc.](https://moldroster.com/ny/firms/martin-environmental-services-inc-ny0802/) · Schenectady · Mold remediation
+* [Spectrum Environmental Associates, Inc.](https://moldroster.com/ny/firms/spectrum-environmental-associates-inc-ny1448/) · Schenectady · Mold assessment
+* [Top Gun Inspection Services Group, Inc.](https://moldroster.com/ny/firms/top-gun-inspection-services-group-inc-ny1464/) · Schenectady · Mold assessment
+* [Home Outlook Inspections, LLC](https://moldroster.com/ny/firms/home-outlook-inspections-llc-ny0556/) · Duanesburg · Mold assessment
+* [Premier Service Specialists LLC](https://moldroster.com/ny/firms/premier-service-specialists-llc-ny1031/) · Duanesburg · Mold remediation
+
+All 13 listings in Schenectady County: https://moldroster.com/ny/county/schenectady/
+
+## Licensed mold pros in counties near Schenectady County
+
+[Albany County](https://moldroster.com/ny/county/albany/) (45) · [Montgomery County](https://moldroster.com/ny/county/montgomery/) (3) · [Saratoga County](https://moldroster.com/ny/county/saratoga/) (25) · [Schoharie County](https://moldroster.com/ny/county/schoharie/) (2)

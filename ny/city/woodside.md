@@ -98,3 +98,11 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against NYS DOL licence records.
+
+## More Queens County cities with licensed mold pros
+
+[South Ozone Park](https://moldroster.com/ny/city/south-ozone-park/) (7) · [Richmond Hill](https://moldroster.com/ny/city/richmond-hill/) (6) · [East Elmhurst](https://moldroster.com/ny/city/east-elmhurst/) (5) · [Queens](https://moldroster.com/ny/city/queens/) (5) · [Ozone Park](https://moldroster.com/ny/city/ozone-park/) (4)
+
+## Which counties are near Woodside?
+
+Woodside is in [Queens County](https://moldroster.com/ny/county/queens/). Neighboring counties: [Bronx County](https://moldroster.com/ny/county/bronx/) (52) · [Kings County](https://moldroster.com/ny/county/kings/) (125) · [Nassau County](https://moldroster.com/ny/county/nassau/) (153) · [New York County](https://moldroster.com/ny/county/new-york/) (65) · [Richmond County](https://moldroster.com/ny/county/richmond/) (53).

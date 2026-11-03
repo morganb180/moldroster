@@ -678,3 +678,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against TDLR licence records.
+
+## Which counties are near San Antonio?
+
+San Antonio is in [Bexar County](https://moldroster.com/tx/county/bexar/). Neighboring counties: [Atascosa County](https://moldroster.com/tx/county/atascosa/) (4) · [Bandera County](https://moldroster.com/tx/county/bandera/) (3) · [Comal County](https://moldroster.com/tx/county/comal/) (24) · [Guadalupe County](https://moldroster.com/tx/county/guadalupe/) (15) · [Kendall County](https://moldroster.com/tx/county/kendall/) (10) · [Medina County](https://moldroster.com/tx/county/medina/) (3) · [Wilson County](https://moldroster.com/tx/county/wilson/) (3).

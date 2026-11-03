@@ -622,3 +622,7 @@ Look it up with the Florida Department of Business and Professional Regulation (
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against DBPR licence records.
+
+## Which Bay County cities have their own page?
+
+[Panama City](https://moldroster.com/fl/city/panama-city/) (22) · [Lynn Haven](https://moldroster.com/fl/city/lynn-haven/) (9) · [Panama City Beach](https://moldroster.com/fl/city/panama-city-beach/) (8)

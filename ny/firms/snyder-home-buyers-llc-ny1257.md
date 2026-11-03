@@ -21,3 +21,24 @@ Added by us, not on the state list: website and rating from the firm's [Google M
 Get a quote: https://moldroster.com/quotes/?firm=NY1257 (goes to Snyder Home Buyers LLC and up to 2 other nearby licensed pros)
 
 Source: https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy, retrieved 2026-10-12. Verify: https://dol.ny.gov/mold-program. Claim / correct: https://moldroster.com/claim-listing/?id=NY1257
+
+## How many licensed mold pros are in Saratoga County?
+
+In our 2026-10-12 copy of the NYS DOL licence list, 25 listings have an address of record in Saratoga County: 13 with a mold assessment licence and 12 with a mold remediation licence. 4 of them, including Snyder Home Buyers LLC, are in Clifton Park.
+
+## Other licensed mold pros in Saratoga County
+
+* [The Skinkle Group, Inc. (dba Skinkle Construction Group / Resque Property Restoration)](https://moldroster.com/ny/firms/the-skinkle-group-inc-dba-skinkle-construction-group-resque-ny1282/) · Clifton Park · Mold remediation
+* [HouseWise Inspection, LLC](https://moldroster.com/ny/firms/housewise-inspection-llc-ny0615/) · Corinth · Mold assessment
+* [D&S Mold Assessment, LLC](https://moldroster.com/ny/firms/d-s-mold-assessment-llc-ny0366/) · Feura Bush · Mold assessment
+* [Noftle & Noftle Inc. (dba AllPro Restoration)](https://moldroster.com/ny/firms/noftle-noftle-inc-dba-allpro-restoration-ny1003/) · Gansevoort · Mold remediation
+* [NY Environmental Services, Inc](https://moldroster.com/ny/firms/ny-environmental-services-inc-ny1186/) · Gansevoort · Mold assessment
+* [Upstate Mold Remediation LLC](https://moldroster.com/ny/firms/upstate-mold-remediation-llc-ny1417/) · Gansevoort · Mold remediation
+* [Northeast Home Inspection + Mold Assessment Services Inc.](https://moldroster.com/ny/firms/northeast-home-inspection-mold-assessment-services-inc-ny1005/) · Hadley · Mold assessment
+* [Broadway Design and Build LLC](https://moldroster.com/ny/firms/broadway-design-and-build-llc-ny0334/) · Mechanicville · Mold remediation
+
+All 25 listings in Saratoga County: https://moldroster.com/ny/county/saratoga/
+
+## Licensed mold pros in counties near Saratoga County
+
+[Albany County](https://moldroster.com/ny/county/albany/) (45) · [Fulton County](https://moldroster.com/ny/county/fulton/) (3) · [Montgomery County](https://moldroster.com/ny/county/montgomery/) (3) · [Rensselaer County](https://moldroster.com/ny/county/rensselaer/) (24) · [Schenectady County](https://moldroster.com/ny/county/schenectady/) (13) · [Warren County](https://moldroster.com/ny/county/warren/) (9) · [Washington County](https://moldroster.com/ny/county/washington/) (4)

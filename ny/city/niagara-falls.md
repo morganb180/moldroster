@@ -98,3 +98,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against NYS DOL licence records.
+
+## Which counties are near Niagara Falls?
+
+Niagara Falls is in [Niagara County](https://moldroster.com/ny/county/niagara/). Neighboring counties: [Erie County](https://moldroster.com/ny/county/erie/) (42) · [Genesee County](https://moldroster.com/ny/county/genesee/) (2) · [Orleans County](https://moldroster.com/ny/county/orleans/) (1).

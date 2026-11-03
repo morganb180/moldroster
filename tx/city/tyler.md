@@ -107,3 +107,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against TDLR licence records.
+
+## Which counties are near Tyler?
+
+Tyler is in [Smith County](https://moldroster.com/tx/county/smith/). Neighboring counties: [Gregg County](https://moldroster.com/tx/county/gregg/) (7) · [Henderson County](https://moldroster.com/tx/county/henderson/) (1) · [Van Zandt County](https://moldroster.com/tx/county/van-zandt/) (2) · [Wood County](https://moldroster.com/tx/county/wood/) (1).

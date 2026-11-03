@@ -125,3 +125,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against TDLR licence records.
+
+## Which counties are near Conroe?
+
+Conroe is in [Montgomery County](https://moldroster.com/tx/county/montgomery/). Neighboring counties: [Grimes County](https://moldroster.com/tx/county/grimes/) (2) · [Harris County](https://moldroster.com/tx/county/harris/) (445) · [Liberty County](https://moldroster.com/tx/county/liberty/) (3) · [San Jacinto County](https://moldroster.com/tx/county/san-jacinto/) (1) · [Walker County](https://moldroster.com/tx/county/walker/) (2) · [Waller County](https://moldroster.com/tx/county/waller/) (16).

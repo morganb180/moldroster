@@ -18,3 +18,11 @@ canonical: https://moldroster.com/fl/firms/rmi-home-inspection-services-fl1631/
 Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2348175018547445412&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [rmihomeinspections.com](https://rmihomeinspections.com/), retrieved 2026-10-30.
 
 Source: https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv, retrieved 2026-10-12. Verify: https://www2.myfloridalicense.com/mold-related-services/. Claim / correct: https://moldroster.com/claim-listing/?id=FL1631
+
+## How many licensed mold pros are in Broward County?
+
+In our 2026-10-12 copy of the FL DBPR licence list, 589 listings have an address of record in Broward County: 434 with a mold assessment licence and 439 with a mold remediation licence (284 hold both). 32 are licensed firms and 557 are individual licensees. 60 of them, including Rmi Home Inspection Services, are in Fort Lauderdale.
+
+## Licensed mold pros in counties near Broward County
+
+[Collier County](https://moldroster.com/fl/county/collier/) (77) · [Hendry County](https://moldroster.com/fl/county/hendry/) (5) · [Miami-Dade County](https://moldroster.com/fl/county/miami-dade/) (546) · [Palm Beach County](https://moldroster.com/fl/county/palm-beach/) (370)

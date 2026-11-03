@@ -18,3 +18,18 @@ canonical: https://moldroster.com/ny/firms/advanced-cleaning-restoration-service
 Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=1653436898306313611&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Source: https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy, retrieved 2026-10-12. Verify: https://dol.ny.gov/mold-program. Claim / correct: https://moldroster.com/claim-listing/?id=NY0222
+
+## How many licensed mold pros are in Fulton County?
+
+In our 2026-10-12 copy of the NYS DOL licence list, 3 listings have an address of record in Fulton County: 1 with a mold assessment licence and 2 with a mold remediation licence.
+
+## Other licensed mold pros in Fulton County
+
+* [Caleb (dba CornerStone Property Inspections)](https://moldroster.com/ny/firms/caleb-dba-cornerstone-property-inspections-ny0279/) · Gloversville · Mold assessment
+* [Rockwood Environmental Solutions, LLC](https://moldroster.com/ny/firms/rockwood-environmental-solutions-llc-ny1362/) · Gloversville · Mold remediation
+
+All 3 listings in Fulton County: https://moldroster.com/ny/county/fulton/
+
+## Licensed mold pros in counties near Fulton County
+
+[Herkimer County](https://moldroster.com/ny/county/herkimer/) (2) · [Montgomery County](https://moldroster.com/ny/county/montgomery/) (3) · [Saratoga County](https://moldroster.com/ny/county/saratoga/) (25)

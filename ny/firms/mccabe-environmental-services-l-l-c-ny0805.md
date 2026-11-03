@@ -22,3 +22,18 @@ Added by us, not on the state list: website and rating from the firm's [Google M
 Get a quote: https://moldroster.com/quotes/?firm=NY0805 (goes to McCabe Environmental Services, L.L.C. and up to 2 other nearby licensed pros)
 
 Source: https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy, retrieved 2026-10-12. Verify: https://dol.ny.gov/mold-program. Claim / correct: https://moldroster.com/claim-listing/?id=NY0805
+
+## How many NYS DOL-licensed mold pros are based out of state?
+
+McCabe Environmental Services, L.L.C. holds a New York licence but its address of record is in Lyndhurst, NJ. 155 listings on our 2026-10-12 copy of the NYS DOL list have an address outside New York; ask any of them whether they cover your address.
+
+## Other NYS DOL-licensed mold pros based outside New York
+
+* [The Saban Engineering Group, Inc. (dba The Saban Group)](https://moldroster.com/ny/firms/the-saban-engineering-group-inc-dba-the-saban-group-ny1402/) · Lyndhurst, NJ · Mold assessment
+* [Brooklyn9 Holdings LLC (dba RestoPros of Bergen & Passaic)](https://moldroster.com/ny/firms/brooklyn9-holdings-llc-dba-restopros-of-bergen-passaic-ny0399/) · Mahwah, NJ · Mold remediation
+* [Superior Home Inspection Services Inc.](https://moldroster.com/ny/firms/superior-home-inspection-services-inc-ny1391/) · Manalapan, NJ · Mold assessment
+* [Lakewood Group Corp.](https://moldroster.com/ny/firms/lakewood-group-corp-ny0908/) · Marlboro, NJ · Mold remediation
+* [Environmental Tactics, Inc.](https://moldroster.com/ny/firms/environmental-tactics-inc-ny0640/) · Matawan, NJ · Mold assessment
+* [ProService Environmental LLC](https://moldroster.com/ny/firms/proservice-environmental-llc-ny1099/) · Matthews, NC · Mold assessment & Mold remediation
+* [Accredited Environmental Technologies, Inc](https://moldroster.com/ny/firms/accredited-environmental-technologies-inc-ny0159/) · Media, PA · Mold assessment
+* [Ccaps, LLC](https://moldroster.com/ny/firms/ccaps-llc-ny0274/) · Merrimack, NH · Mold remediation

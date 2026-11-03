@@ -2734,3 +2734,7 @@ Look it up with the Texas Department of Licensing and Regulation (TDLR). Each li
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against TDLR licence records.
+
+## Which Dallas County cities have their own page?
+
+[Dallas](https://moldroster.com/tx/city/dallas/) (25) · [Carrollton](https://moldroster.com/tx/city/carrollton/) (10) · [Garland](https://moldroster.com/tx/city/garland/) (7) · [Richardson](https://moldroster.com/tx/city/richardson/) (6)

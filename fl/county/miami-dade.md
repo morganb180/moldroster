@@ -6989,3 +6989,7 @@ Look it up with the Florida Department of Business and Professional Regulation (
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against DBPR licence records.
+
+## Which Miami-Dade County cities have their own page?
+
+[Miami](https://moldroster.com/fl/city/miami/) (336) · [Hialeah](https://moldroster.com/fl/city/hialeah/) (40) · [Doral](https://moldroster.com/fl/city/doral/) (28) · [Homestead](https://moldroster.com/fl/city/homestead/) (22) · [Cutler Bay](https://moldroster.com/fl/city/cutler-bay/) (18) · [Miami Lakes](https://moldroster.com/fl/city/miami-lakes/) (18) · [Miami Beach](https://moldroster.com/fl/city/miami-beach/) (14) · [Aventura](https://moldroster.com/fl/city/aventura/) (10) · [Coral Gables](https://moldroster.com/fl/city/coral-gables/) (10) · [North Miami](https://moldroster.com/fl/city/north-miami/) (8) · [North Miami Beach](https://moldroster.com/fl/city/north-miami-beach/) (7) · [Palmetto Bay](https://moldroster.com/fl/city/palmetto-bay/) (7) · [Miami Gardens](https://moldroster.com/fl/city/miami-gardens/) (5) · [Pinecrest](https://moldroster.com/fl/city/pinecrest/) (4)

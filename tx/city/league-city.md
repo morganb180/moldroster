@@ -102,3 +102,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against TDLR licence records.
+
+## Which counties are near League City?
+
+League City is in [Galveston County](https://moldroster.com/tx/county/galveston/). Neighboring counties: [Brazoria County](https://moldroster.com/tx/county/brazoria/) (9) · [Chambers County](https://moldroster.com/tx/county/chambers/) (1) · [Harris County](https://moldroster.com/tx/county/harris/) (445).

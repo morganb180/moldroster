@@ -21,3 +21,17 @@ Added by us, not on the state list: website and rating from the firm's [Google M
 Get a quote: https://moldroster.com/quotes/?firm=NY0117 (goes to Anthony Siquier (dba Lake Placid Mold Pros) and up to 2 other nearby licensed pros)
 
 Source: https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy, retrieved 2026-10-12. Verify: https://dol.ny.gov/mold-program. Claim / correct: https://moldroster.com/claim-listing/?id=NY0117
+
+## How many licensed mold pros are in Essex County?
+
+In our 2026-10-12 copy of the NYS DOL licence list, 2 listings have an address of record in Essex County: 0 with a mold assessment licence and 2 with a mold remediation licence.
+
+## Other licensed mold pros in Essex County
+
+* [Ashley's Restoration LLC](https://moldroster.com/ny/firms/ashley-s-restoration-llc-ny0182/) · Wilmington · Mold remediation
+
+All 2 listings in Essex County: https://moldroster.com/ny/county/essex/
+
+## Licensed mold pros in counties near Essex County
+
+[Clinton County](https://moldroster.com/ny/county/clinton/) (8) · [Warren County](https://moldroster.com/ny/county/warren/) (9) · [Washington County](https://moldroster.com/ny/county/washington/) (4)

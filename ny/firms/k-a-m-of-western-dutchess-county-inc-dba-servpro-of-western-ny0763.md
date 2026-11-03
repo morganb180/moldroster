@@ -18,3 +18,24 @@ canonical: https://moldroster.com/ny/firms/k-a-m-of-western-dutchess-county-inc-
 Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5778322162237496639&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Source: https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy, retrieved 2026-10-12. Verify: https://dol.ny.gov/mold-program. Claim / correct: https://moldroster.com/claim-listing/?id=NY0763
+
+## How many licensed mold pros are in Ulster County?
+
+In our 2026-10-12 copy of the NYS DOL licence list, 18 listings have an address of record in Ulster County: 10 with a mold assessment licence and 8 with a mold remediation licence. 4 of them, including K.A.M. of Western Dutchess County, Inc. (dba Servpro of Western Dutchess County, Servpro of Kingston/New Paltz), are in Highland.
+
+## Other licensed mold pros in Ulster County
+
+* [Precour plumbing & hvac llc](https://moldroster.com/ny/firms/precour-plumbing-hvac-llc-ny1156/) · Highland · Mold remediation
+* [Woodys Construction Inc (dba Liberty Restoratation)](https://moldroster.com/ny/firms/woodys-construction-inc-dba-liberty-restoratation-ny1509/) · Highland · Mold remediation
+* [Arlene Puentes (dba October Home Inspections)](https://moldroster.com/ny/firms/arlene-puentes-dba-october-home-inspections-ny0181/) · Kingston · Mold assessment
+* [Armor Mold Remediation LLC](https://moldroster.com/ny/firms/armor-mold-remediation-llc-ny0245/) · Kingston · Mold remediation
+* [B. Certain Home Inspection LLC](https://moldroster.com/ny/firms/b-certain-home-inspection-llc-ny0187/) · Kingston · Mold assessment
+* [By Your Side Solutions LLC](https://moldroster.com/ny/firms/by-your-side-solutions-llc-ny0068/) · Kingston · Mold assessment
+* [KES Emergency Services LLC](https://moldroster.com/ny/firms/kes-emergency-services-llc-ny0833/) · Kingston · Mold remediation
+* [Pay it Forward Partners Inc. (dba PuroClean Professional Restoration)](https://moldroster.com/ny/firms/pay-it-forward-partners-inc-dba-puroclean-professional-resto-ny1022/) · Kingston · Mold remediation
+
+All 18 listings in Ulster County: https://moldroster.com/ny/county/ulster/
+
+## Licensed mold pros in counties near Ulster County
+
+[Columbia County](https://moldroster.com/ny/county/columbia/) (6) · [Dutchess County](https://moldroster.com/ny/county/dutchess/) (32) · [Greene County](https://moldroster.com/ny/county/greene/) (1) · [Orange County](https://moldroster.com/ny/county/orange/) (33) · [Sullivan County](https://moldroster.com/ny/county/sullivan/) (2)

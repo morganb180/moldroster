@@ -22,3 +22,19 @@ Added by us, not on the state list: phone, website and rating from the firm's [G
 Get a quote: https://moldroster.com/quotes/?firm=NY0308 (goes to Delete 86 Environmental, LLC and up to 2 other nearby licensed pros)
 
 Source: https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy, retrieved 2026-10-12. Verify: https://dol.ny.gov/mold-program. Claim / correct: https://moldroster.com/claim-listing/?id=NY0308
+
+## How many licensed mold pros are in Chautauqua County?
+
+In our 2026-10-12 copy of the NYS DOL licence list, 4 listings have an address of record in Chautauqua County: 3 with a mold assessment licence and 2 with a mold remediation licence (1 hold both).
+
+## Other licensed mold pros in Chautauqua County
+
+* [Empire B & D Inc. (dba Empire Development)](https://moldroster.com/ny/firms/empire-b-d-inc-dba-empire-development-ny0568/) · Mayville · Mold assessment
+* [AOM Environmental LLC](https://moldroster.com/ny/firms/aom-environmental-llc-ny0152/) · Fredonia · Mold remediation
+* [Environmental Air Solutions, LLC](https://moldroster.com/ny/firms/environmental-air-solutions-llc-ny0514/) · Fredonia · Mold assessment
+
+All 4 listings in Chautauqua County: https://moldroster.com/ny/county/chautauqua/
+
+## Licensed mold pros in counties near Chautauqua County
+
+[Cattaraugus County](https://moldroster.com/ny/county/cattaraugus/) (1) · [Erie County](https://moldroster.com/ny/county/erie/) (42)

@@ -103,3 +103,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against TDLR licence records.
+
+## Which counties are near San Marcos?
+
+San Marcos is in [Hays County](https://moldroster.com/tx/county/hays/). Neighboring counties: [Caldwell County](https://moldroster.com/tx/county/caldwell/) (9) · [Comal County](https://moldroster.com/tx/county/comal/) (24) · [Guadalupe County](https://moldroster.com/tx/county/guadalupe/) (15) · [Travis County](https://moldroster.com/tx/county/travis/) (124).

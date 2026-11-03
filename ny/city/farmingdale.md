@@ -162,3 +162,11 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against NYS DOL licence records.
+
+## More Nassau County cities with licensed mold pros
+
+[East Meadow](https://moldroster.com/ny/city/east-meadow/) (5) · [Elmont](https://moldroster.com/ny/city/elmont/) (5) · [New Hyde Park](https://moldroster.com/ny/city/new-hyde-park/) (5) · [Port Washington](https://moldroster.com/ny/city/port-washington/) (5) · [Wantagh](https://moldroster.com/ny/city/wantagh/) (5) · [Cedarhurst](https://moldroster.com/ny/city/cedarhurst/) (4) · [Glen Head](https://moldroster.com/ny/city/glen-head/) (4) · [Oceanside](https://moldroster.com/ny/city/oceanside/) (4) · [Roslyn Heights](https://moldroster.com/ny/city/roslyn-heights/) (4) · [Syosset](https://moldroster.com/ny/city/syosset/) (4)
+
+## Which counties are near Farmingdale?
+
+Farmingdale is in [Nassau County](https://moldroster.com/ny/county/nassau/). Neighboring counties: [Bronx County](https://moldroster.com/ny/county/bronx/) (52) · [Queens County](https://moldroster.com/ny/county/queens/) (154) · [Suffolk County](https://moldroster.com/ny/county/suffolk/) (185) · [Westchester County](https://moldroster.com/ny/county/westchester/) (102).

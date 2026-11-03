@@ -557,3 +557,11 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against DBPR licence records.
+
+## More Broward County cities with licensed mold pros
+
+[Sunrise](https://moldroster.com/fl/city/sunrise/) (31) · [Plantation](https://moldroster.com/fl/city/plantation/) (26) · [Tamarac](https://moldroster.com/fl/city/tamarac/) (26) · [Weston](https://moldroster.com/fl/city/weston/) (24) · [Deerfield Beach](https://moldroster.com/fl/city/deerfield-beach/) (23) · [Margate](https://moldroster.com/fl/city/margate/) (20) · [Parkland](https://moldroster.com/fl/city/parkland/) (17) · [Coconut Creek](https://moldroster.com/fl/city/coconut-creek/) (12) · [Cooper City](https://moldroster.com/fl/city/cooper-city/) (12) · [Oakland Park](https://moldroster.com/fl/city/oakland-park/) (10) · [Lauderhill](https://moldroster.com/fl/city/lauderhill/) (7) · [Ft. Lauderdale](https://moldroster.com/fl/city/ft-lauderdale/) (6) · [Dania Beach](https://moldroster.com/fl/city/dania-beach/) (5) · [Lighthouse Point](https://moldroster.com/fl/city/lighthouse-point/) (5) · [Southwest Ranches](https://moldroster.com/fl/city/southwest-ranches/) (5) · [North Lauderdale](https://moldroster.com/fl/city/north-lauderdale/) (4) · [Pompano](https://moldroster.com/fl/city/pompano/) (4)
+
+## Which counties are near Pompano Beach?
+
+Pompano Beach is in [Broward County](https://moldroster.com/fl/county/broward/). Neighboring counties: [Collier County](https://moldroster.com/fl/county/collier/) (77) · [Hendry County](https://moldroster.com/fl/county/hendry/) (5) · [Miami-Dade County](https://moldroster.com/fl/county/miami-dade/) (546) · [Palm Beach County](https://moldroster.com/fl/county/palm-beach/) (370).

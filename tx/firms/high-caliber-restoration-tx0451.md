@@ -21,3 +21,17 @@ Added by us, not on the state list: website and rating from the firm's [Google M
 Get a quote: https://moldroster.com/quotes/?firm=TX0451 (goes to High Caliber Restoration and up to 2 other nearby licensed pros)
 
 Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0451
+
+## How many licensed mold pros are in Johnson County?
+
+In our 2026-10-12 copy of the TDLR licence list, 10 listings have an address of record in Johnson County: 6 with a mold assessment licence and 5 with a mold remediation licence (1 hold both). 2 are licensed firms and 8 are individual licensees. Texas law requires separate, independent companies for the assessment and the remediation on the same job.
+
+## Other licensed mold pros in Johnson County
+
+* [K9 Mold Guide, LLC](https://moldroster.com/tx/firms/k9-mold-guide-llc-tx0199/) · Burleson · Mold assessment
+
+All 10 listings in Johnson County: https://moldroster.com/tx/county/johnson/
+
+## Licensed mold pros in counties near Johnson County
+
+[Ellis County](https://moldroster.com/tx/county/ellis/) (18) · [Hill County](https://moldroster.com/tx/county/hill/) (1) · [Hood County](https://moldroster.com/tx/county/hood/) (2) · [Parker County](https://moldroster.com/tx/county/parker/) (10) · [Tarrant County](https://moldroster.com/tx/county/tarrant/) (183)

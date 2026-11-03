@@ -14,3 +14,24 @@ canonical: https://moldroster.com/ny/firms/mmdk552-group-llc-ny0858/
 * Mold Assessment Contractor License (SH125) #25-647VK-SHMO (exp. 2027-02-28)
 
 Source: https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy, retrieved 2026-10-12. Verify: https://dol.ny.gov/mold-program. Claim / correct: https://moldroster.com/claim-listing/?id=NY0858
+
+## How many licensed mold pros are in Nassau County?
+
+In our 2026-10-12 copy of the NYS DOL licence list, 153 listings have an address of record in Nassau County: 74 with a mold assessment licence and 97 with a mold remediation licence (18 hold both). 5 of them, including Mmdk552 Group LLC, are in New Hyde Park.
+
+## Other licensed mold pros in Nassau County
+
+* [Restoration Masters Incorporated](https://moldroster.com/ny/firms/restoration-masters-incorporated-ny1229/) · New Hyde Park · Mold remediation
+* [National Environmental Safety Company, Inc. (dba National Environmental Safety Company, Inc.)](https://moldroster.com/ny/firms/national-environmental-safety-company-inc-dba-national-envir-ny0995/) · New Hyde park · Mold remediation
+* [Spectrum Geological Services, PC (dba Preferred Environmental Services, P.C)](https://moldroster.com/ny/firms/spectrum-geological-services-pc-dba-preferred-environmental-ny1261/) · North Merrick · Mold assessment
+* [AW Restoration Inc (dba Servpro)](https://moldroster.com/ny/firms/aw-restoration-inc-dba-servpro-ny0156/) · Oceanside · Mold remediation
+* [I & S Construction Corp](https://moldroster.com/ny/firms/i-s-construction-corp-ny0559/) · Oceanside · Mold remediation
+* [Just Right Services Corp.](https://moldroster.com/ny/firms/just-right-services-corp-ny0829/) · Oceanside · Mold remediation
+* [New York House Inspectors Corporation](https://moldroster.com/ny/firms/new-york-house-inspectors-corporation-ny1190/) · Oceanside · Mold assessment
+* [Earth Link General Construction, Inc.](https://moldroster.com/ny/firms/earth-link-general-construction-inc-ny0390/) · Old Westbury · Mold remediation
+
+All 153 listings in Nassau County: https://moldroster.com/ny/county/nassau/
+
+## Licensed mold pros in counties near Nassau County
+
+[Bronx County](https://moldroster.com/ny/county/bronx/) (52) · [Queens County](https://moldroster.com/ny/county/queens/) (154) · [Suffolk County](https://moldroster.com/ny/county/suffolk/) (185) · [Westchester County](https://moldroster.com/ny/county/westchester/) (102)

@@ -18,3 +18,17 @@ canonical: https://moldroster.com/ny/firms/buildingology-inc-dba-building-enviro
 Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=6290868365721174176&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Source: https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy, retrieved 2026-10-12. Verify: https://dol.ny.gov/mold-program. Claim / correct: https://moldroster.com/claim-listing/?id=NY0457
+
+## How many licensed mold pros are in Herkimer County?
+
+In our 2026-10-12 copy of the NYS DOL licence list, 2 listings have an address of record in Herkimer County: 0 with a mold assessment licence and 2 with a mold remediation licence.
+
+## Other licensed mold pros in Herkimer County
+
+* [Water Restoration Services of Central New York (dba RestoPros of Syracuse-Utica-Rome)](https://moldroster.com/ny/firms/water-restoration-services-of-central-new-york-dba-restopros-ny1506/) · Poland · Mold remediation
+
+All 2 listings in Herkimer County: https://moldroster.com/ny/county/herkimer/
+
+## Licensed mold pros in counties near Herkimer County
+
+[Fulton County](https://moldroster.com/ny/county/fulton/) (3) · [Montgomery County](https://moldroster.com/ny/county/montgomery/) (3) · [Oneida County](https://moldroster.com/ny/county/oneida/) (16) · [Otsego County](https://moldroster.com/ny/county/otsego/) (1) · [St. Lawrence County](https://moldroster.com/ny/county/st-lawrence/) (4)

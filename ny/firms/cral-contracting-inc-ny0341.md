@@ -22,3 +22,24 @@ Added by us, not on the state list: website and rating from the firm's [Google M
 Get a quote: https://moldroster.com/quotes/?firm=NY0341 (goes to CRAL Contracting, Inc. and up to 2 other nearby licensed pros)
 
 Source: https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy, retrieved 2026-10-12. Verify: https://dol.ny.gov/mold-program. Claim / correct: https://moldroster.com/claim-listing/?id=NY0341
+
+## How many licensed mold pros are in Onondaga County?
+
+In our 2026-10-12 copy of the NYS DOL licence list, 35 listings have an address of record in Onondaga County: 17 with a mold assessment licence and 20 with a mold remediation licence (2 hold both). 15 of them, including CRAL Contracting, Inc., are in Syracuse.
+
+## Other licensed mold pros in Onondaga County
+
+* [En-Tech Associates, Inc.](https://moldroster.com/ny/firms/en-tech-associates-inc-ny0500/) · Syracuse · Mold assessment
+* [Energy & Environment, LLC](https://moldroster.com/ny/firms/energy-environment-llc-ny0632/) · Syracuse · Mold assessment
+* [EST TRISH LLC dba Stanley Steemer of Syracuse (dba Stanley Steemer of Syracuse)](https://moldroster.com/ny/firms/est-trish-llc-dba-stanley-steemer-of-syracuse-dba-stanley-st-ny0503/) · Syracuse · Mold remediation
+* [Fire & Water Restoration, LLC](https://moldroster.com/ny/firms/fire-water-restoration-llc-ny0711/) · Syracuse · Mold remediation
+* [Glassman Services, Inc. (dba SERVPRO)](https://moldroster.com/ny/firms/glassman-services-inc-dba-servpro-ny0666/) · Syracuse · Mold remediation
+* [JCM Mold Solutions, LLC](https://moldroster.com/ny/firms/jcm-mold-solutions-llc-ny0882/) · Syracuse · Mold remediation
+* [MJT Contracting, Inc.](https://moldroster.com/ny/firms/mjt-contracting-inc-ny0857/) · Syracuse · Mold remediation
+* [SW JD Inc](https://moldroster.com/ny/firms/sw-jd-inc-ny1311/) · Syracuse · Mold remediation
+
+All 35 listings in Onondaga County: https://moldroster.com/ny/county/onondaga/
+
+## Licensed mold pros in counties near Onondaga County
+
+[Cortland County](https://moldroster.com/ny/county/cortland/) (2) · [Madison County](https://moldroster.com/ny/county/madison/) (1) · [Oswego County](https://moldroster.com/ny/county/oswego/) (4)

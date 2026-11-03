@@ -393,3 +393,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against NYS DOL licence records.
+
+## Which counties are near Yonkers?
+
+Yonkers is in [Westchester County](https://moldroster.com/ny/county/westchester/). Neighboring counties: [Bronx County](https://moldroster.com/ny/county/bronx/) (52) · [Nassau County](https://moldroster.com/ny/county/nassau/) (153) · [Putnam County](https://moldroster.com/ny/county/putnam/) (14) · [Rockland County](https://moldroster.com/ny/county/rockland/) (33).

@@ -21,3 +21,11 @@ Added by us, not on the state list: phone, website and rating from the firm's [G
 Get a quote: https://moldroster.com/quotes/?firm=TX0571 (goes to Pure Maintenance of East Texas LLC and up to 2 other nearby licensed pros)
 
 Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0571
+
+## How many licensed mold pros are in Gregg County?
+
+In our 2026-10-12 copy of the TDLR licence list, 7 listings have an address of record in Gregg County: 4 with a mold assessment licence and 3 with a mold remediation licence. 1 is a licensed firm and 6 are individual licensees. Texas law requires separate, independent companies for the assessment and the remediation on the same job.
+
+## Licensed mold pros in counties near Gregg County
+
+[Harrison County](https://moldroster.com/tx/county/harrison/) (3) · [Smith County](https://moldroster.com/tx/county/smith/) (16)

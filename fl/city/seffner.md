@@ -89,3 +89,11 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against DBPR licence records.
+
+## More Hillsborough County cities with licensed mold pros
+
+[Plant City](https://moldroster.com/fl/city/plant-city/) (9) · [Ruskin](https://moldroster.com/fl/city/ruskin/) (9) · [Lithia](https://moldroster.com/fl/city/lithia/) (6) · [Apollo Beach](https://moldroster.com/fl/city/apollo-beach/) (5) · [Temple Terrace](https://moldroster.com/fl/city/temple-terrace/) (4)
+
+## Which counties are near Seffner?
+
+Seffner is in [Hillsborough County](https://moldroster.com/fl/county/hillsborough/). Neighboring counties: [Hardee County](https://moldroster.com/fl/county/hardee/) (1) · [Manatee County](https://moldroster.com/fl/county/manatee/) (67) · [Pasco County](https://moldroster.com/fl/county/pasco/) (127) · [Pinellas County](https://moldroster.com/fl/county/pinellas/) (183) · [Polk County](https://moldroster.com/fl/county/polk/) (78).

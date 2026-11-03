@@ -2513,3 +2513,7 @@ Look it up with the Florida Department of Business and Professional Regulation (
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against DBPR licence records.
+
+## Which Orange County cities have their own page?
+
+[Orlando](https://moldroster.com/fl/city/orlando/) (136) · [Winter Garden](https://moldroster.com/fl/city/winter-garden/) (16) · [Apopka](https://moldroster.com/fl/city/apopka/) (11) · [Winter Park](https://moldroster.com/fl/city/winter-park/) (11) · [Windermere](https://moldroster.com/fl/city/windermere/) (7) · [Maitland](https://moldroster.com/fl/city/maitland/) (5) · [Ocoee](https://moldroster.com/fl/city/ocoee/) (4)

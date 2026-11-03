@@ -99,3 +99,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against NYS DOL licence records.
+
+## Which counties are near Plattsburgh?
+
+Plattsburgh is in [Clinton County](https://moldroster.com/ny/county/clinton/). Neighboring counties: [Essex County](https://moldroster.com/ny/county/essex/) (2).

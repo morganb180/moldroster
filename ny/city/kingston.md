@@ -124,3 +124,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against NYS DOL licence records.
+
+## Which counties are near Kingston?
+
+Kingston is in [Ulster County](https://moldroster.com/ny/county/ulster/). Neighboring counties: [Columbia County](https://moldroster.com/ny/county/columbia/) (6) · [Dutchess County](https://moldroster.com/ny/county/dutchess/) (32) · [Greene County](https://moldroster.com/ny/county/greene/) (1) · [Orange County](https://moldroster.com/ny/county/orange/) (33) · [Sullivan County](https://moldroster.com/ny/county/sullivan/) (2).

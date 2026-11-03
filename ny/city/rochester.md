@@ -616,3 +616,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against NYS DOL licence records.
+
+## Which counties are near Rochester?
+
+Rochester is in [Monroe County](https://moldroster.com/ny/county/monroe/). Neighboring counties: [Genesee County](https://moldroster.com/ny/county/genesee/) (2) · [Livingston County](https://moldroster.com/ny/county/livingston/) (1) · [Ontario County](https://moldroster.com/ny/county/ontario/) (6) · [Orleans County](https://moldroster.com/ny/county/orleans/) (1) · [Wayne County](https://moldroster.com/ny/county/wayne/) (2).

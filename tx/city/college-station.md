@@ -95,3 +95,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against TDLR licence records.
+
+## Which counties are near College Station?
+
+College Station is in [Brazos County](https://moldroster.com/tx/county/brazos/). Neighboring counties: [Burleson County](https://moldroster.com/tx/county/burleson/) (1) · [Grimes County](https://moldroster.com/tx/county/grimes/) (2) · [Madison County](https://moldroster.com/tx/county/madison/) (2) · [Robertson County](https://moldroster.com/tx/county/robertson/) (3) · [Washington County](https://moldroster.com/tx/county/washington/) (2).

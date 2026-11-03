@@ -319,3 +319,7 @@ Look it up with the New York State Department of Labor (NYS DOL). Each listing h
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against NYS DOL licence records.
+
+## Which Ulster County cities have their own page?
+
+[Kingston](https://moldroster.com/ny/city/kingston/) (6) · [Highland](https://moldroster.com/ny/city/highland/) (4) · [Saugerties](https://moldroster.com/ny/city/saugerties/) (4)

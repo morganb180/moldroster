@@ -4714,3 +4714,7 @@ Look it up with the Florida Department of Business and Professional Regulation (
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against DBPR licence records.
+
+## Which Palm Beach County cities have their own page?
+
+[Boca Raton](https://moldroster.com/fl/city/boca-raton/) (91) · [Boynton Beach](https://moldroster.com/fl/city/boynton-beach/) (44) · [West Palm Beach](https://moldroster.com/fl/city/west-palm-beach/) (43) · [Lake Worth](https://moldroster.com/fl/city/lake-worth/) (37) · [Jupiter](https://moldroster.com/fl/city/jupiter/) (30) · [Delray Beach](https://moldroster.com/fl/city/delray-beach/) (27) · [Palm Beach Gardens](https://moldroster.com/fl/city/palm-beach-gardens/) (20) · [Wellington](https://moldroster.com/fl/city/wellington/) (20) · [Loxahatchee](https://moldroster.com/fl/city/loxahatchee/) (12) · [Royal Palm Beach](https://moldroster.com/fl/city/royal-palm-beach/) (10) · [North Palm Beach](https://moldroster.com/fl/city/north-palm-beach/) (7) · [Palm Springs](https://moldroster.com/fl/city/palm-springs/) (5) · [Riviera Beach](https://moldroster.com/fl/city/riviera-beach/) (5) · [Tequesta](https://moldroster.com/fl/city/tequesta/) (5)

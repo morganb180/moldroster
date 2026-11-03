@@ -21,3 +21,17 @@ Added by us, not on the state list: website and rating from the firm's [Google M
 Get a quote: https://moldroster.com/quotes/?firm=NY0874 (goes to Momentum Environmental Solutions LLC (dba Finger Lakes EnviroTech) and up to 2 other nearby licensed pros)
 
 Source: https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy, retrieved 2026-10-12. Verify: https://dol.ny.gov/mold-program. Claim / correct: https://moldroster.com/claim-listing/?id=NY0874
+
+## How many licensed mold pros are in Steuben County?
+
+In our 2026-10-12 copy of the NYS DOL licence list, 2 listings have an address of record in Steuben County: 2 with a mold assessment licence and 1 with a mold remediation licence (1 hold both).
+
+## Other licensed mold pros in Steuben County
+
+* [Goldberg Preservation Services LLC](https://moldroster.com/ny/firms/goldberg-preservation-services-llc-ny0542/) · Corning · Mold assessment & Mold remediation
+
+All 2 listings in Steuben County: https://moldroster.com/ny/county/steuben/
+
+## Licensed mold pros in counties near Steuben County
+
+[Allegany County](https://moldroster.com/ny/county/allegany/) (2) · [Chemung County](https://moldroster.com/ny/county/chemung/) (4) · [Livingston County](https://moldroster.com/ny/county/livingston/) (1) · [Ontario County](https://moldroster.com/ny/county/ontario/) (6)

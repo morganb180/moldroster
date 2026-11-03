@@ -710,3 +710,7 @@ Look it up with the Florida Department of Business and Professional Regulation (
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against DBPR licence records.
+
+## Which St. Johns County cities have their own page?
+
+[Saint Augustine](https://moldroster.com/fl/city/saint-augustine/) (15) · [St Augustine](https://moldroster.com/fl/city/st-augustine/) (11) · [St. Johns](https://moldroster.com/fl/city/st-johns/) (9) · [Ponte Vedra](https://moldroster.com/fl/city/ponte-vedra/) (5) · [Saint Johns](https://moldroster.com/fl/city/saint-johns/) (4)

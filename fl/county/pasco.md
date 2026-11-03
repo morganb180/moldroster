@@ -1640,3 +1640,7 @@ Look it up with the Florida Department of Business and Professional Regulation (
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against DBPR licence records.
+
+## Which Pasco County cities have their own page?
+
+[New Port Richey](https://moldroster.com/fl/city/new-port-richey/) (34) · [Land O' Lakes](https://moldroster.com/fl/city/land-o-lakes/) (19) · [Hudson](https://moldroster.com/fl/city/hudson/) (12) · [Wesley Chapel](https://moldroster.com/fl/city/wesley-chapel/) (12) · [Dade City](https://moldroster.com/fl/city/dade-city/) (7) · [Holiday](https://moldroster.com/fl/city/holiday/) (7) · [Port Richey](https://moldroster.com/fl/city/port-richey/) (6) · [Zephyrhills](https://moldroster.com/fl/city/zephyrhills/) (6) · [San Antonio](https://moldroster.com/fl/city/san-antonio/) (5)

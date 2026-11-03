@@ -102,3 +102,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against TDLR licence records.
+
+## Which counties are near McKinney?
+
+McKinney is in [Collin County](https://moldroster.com/tx/county/collin/). Neighboring counties: [Dallas County](https://moldroster.com/tx/county/dallas/) (186) · [Denton County](https://moldroster.com/tx/county/denton/) (88) · [Fannin County](https://moldroster.com/tx/county/fannin/) (1) · [Grayson County](https://moldroster.com/tx/county/grayson/) (5) · [Hunt County](https://moldroster.com/tx/county/hunt/) (5) · [Rockwall County](https://moldroster.com/tx/county/rockwall/) (26).

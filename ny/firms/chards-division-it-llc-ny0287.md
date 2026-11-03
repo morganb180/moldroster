@@ -19,3 +19,24 @@ canonical: https://moldroster.com/ny/firms/chards-division-it-llc-ny0287/
 Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17326899037203430793&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Source: https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy, retrieved 2026-10-12. Verify: https://dol.ny.gov/mold-program. Claim / correct: https://moldroster.com/claim-listing/?id=NY0287
+
+## How many licensed mold pros are in Kings County?
+
+In our 2026-10-12 copy of the NYS DOL licence list, 125 listings have an address of record in Kings County: 71 with a mold assessment licence and 97 with a mold remediation licence (43 hold both). 123 of them, including Chards Division IT LLC, are in Brooklyn.
+
+## Other licensed mold pros in Kings County
+
+* [Clean Air Consulting LLC](https://moldroster.com/ny/firms/clean-air-consulting-llc-ny0350/) · Brooklyn · Mold assessment & Mold remediation
+* [CleanNYC Lead and Mold Solutions LLC](https://moldroster.com/ny/firms/cleannyc-lead-and-mold-solutions-llc-ny0290/) · Brooklyn · Mold remediation
+* [Connecticut Environmental Services, Inc. (dba Envirocheck, Inc.)](https://moldroster.com/ny/firms/connecticut-environmental-services-inc-dba-envirocheck-inc-ny0421/) · Brooklyn · Mold assessment
+* [Cornerstone Builders NY LLC](https://moldroster.com/ny/firms/cornerstone-builders-ny-llc-ny0479/) · Brooklyn · Mold remediation
+* [Creative Touch Construction, Corp.](https://moldroster.com/ny/firms/creative-touch-construction-corp-ny0481/) · Brooklyn · Mold remediation
+* [Crown Field Services LLC](https://moldroster.com/ny/firms/crown-field-services-llc-ny0483/) · Brooklyn · Mold remediation
+* [Crown Mold Specialists LLC](https://moldroster.com/ny/firms/crown-mold-specialists-llc-ny0278/) · Brooklyn · Mold assessment & Mold remediation
+* [Degmor Enterprises Inc.](https://moldroster.com/ny/firms/degmor-enterprises-inc-ny0373/) · Brooklyn · Mold assessment & Mold remediation
+
+All 125 listings in Kings County: https://moldroster.com/ny/county/kings/
+
+## Licensed mold pros in counties near Kings County
+
+[New York County](https://moldroster.com/ny/county/new-york/) (65) · [Queens County](https://moldroster.com/ny/county/queens/) (154) · [Richmond County](https://moldroster.com/ny/county/richmond/) (53)

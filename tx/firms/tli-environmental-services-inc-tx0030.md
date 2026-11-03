@@ -22,3 +22,11 @@ Added by us, not on the state list: website and rating from the firm's [Google M
 Get a quote: https://moldroster.com/quotes/?firm=TX0030 (goes to Tli & Environmental Services Inc and up to 2 other nearby licensed pros)
 
 Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0030
+
+## How many licensed mold pros are in Lampasas County?
+
+In our 2026-10-12 copy of the TDLR licence list, 2 listings have an address of record in Lampasas County: 2 with a mold assessment licence and 2 with a mold remediation licence (2 hold both). 1 is a licensed firm and 1 is an individual licensee. Texas law requires separate, independent companies for the assessment and the remediation on the same job.
+
+## Licensed mold pros in counties near Lampasas County
+
+[Bell County](https://moldroster.com/tx/county/bell/) (14) · [Burnet County](https://moldroster.com/tx/county/burnet/) (3) · [Coryell County](https://moldroster.com/tx/county/coryell/) (1)

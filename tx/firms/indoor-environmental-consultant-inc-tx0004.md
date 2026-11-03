@@ -14,3 +14,24 @@ canonical: https://moldroster.com/tx/firms/indoor-environmental-consultant-inc-t
 * Mold Assessment Company #ACO0114 (exp. 2026-12-15)
 
 Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0004
+
+## How many licensed mold pros are in Williamson County?
+
+In our 2026-10-12 copy of the TDLR licence list, 83 listings have an address of record in Williamson County: 34 with a mold assessment licence and 52 with a mold remediation licence (3 hold both). 25 are licensed firms and 58 are individual licensees. 6 of them, including Indoor Environmental Consultant Inc, are in Cedar Park. Texas law requires separate, independent companies for the assessment and the remediation on the same job.
+
+## Other licensed mold pros in Williamson County
+
+* [Iserenity LLC](https://moldroster.com/tx/firms/iserenity-llc-tx0359/) · Cedar Park · Mold remediation
+* [Spot Be Gone Limited Liability Company](https://moldroster.com/tx/firms/spot-be-gone-limited-liability-company-tx0575/) · Cedar Park · Mold remediation
+* [Waterloo Restoration LLC](https://moldroster.com/tx/firms/waterloo-restoration-llc-tx0389/) · Cedar Park · Mold remediation
+* [Blackhill Enterprises Inc](https://moldroster.com/tx/firms/blackhill-enterprises-inc-tx0321/) · Georgetown · Mold remediation
+* [Champion Environmental Consulting, Inc.](https://moldroster.com/tx/firms/champion-environmental-consulting-inc-tx0059/) · Georgetown · Mold assessment
+* [Remont Russ LLC](https://moldroster.com/tx/firms/remont-russ-llc-tx0520/) · Georgetown · Mold remediation
+* [Restotek LLC](https://moldroster.com/tx/firms/restotek-llc-tx0490/) · Georgetown · Mold remediation
+* [Beaver Dam Water Restoration LLC](https://moldroster.com/tx/firms/beaver-dam-water-restoration-llc-tx0537/) · Hutto · Mold remediation
+
+All 83 listings in Williamson County: https://moldroster.com/tx/county/williamson/
+
+## Licensed mold pros in counties near Williamson County
+
+[Bastrop County](https://moldroster.com/tx/county/bastrop/) (6) · [Bell County](https://moldroster.com/tx/county/bell/) (14) · [Burnet County](https://moldroster.com/tx/county/burnet/) (3) · [Travis County](https://moldroster.com/tx/county/travis/) (124)

@@ -17,3 +17,24 @@ canonical: https://moldroster.com/ny/firms/a-i-general-contractors-llc-ny0206/
 Added by us, not on the state list: rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2042316792892186300&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
 
 Source: https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy, retrieved 2026-10-12. Verify: https://dol.ny.gov/mold-program. Claim / correct: https://moldroster.com/claim-listing/?id=NY0206
+
+## How many licensed mold pros are in Westchester County?
+
+In our 2026-10-12 copy of the NYS DOL licence list, 102 listings have an address of record in Westchester County: 51 with a mold assessment licence and 71 with a mold remediation licence (20 hold both). 23 of them, including A&I General Contractors, LLC, are in Yonkers.
+
+## Other licensed mold pros in Westchester County
+
+* [Ama Environmental LLC](https://moldroster.com/ny/firms/ama-environmental-llc-ny0111/) · Yonkers · Mold remediation
+* [Blue Skies Home Inspections LLC](https://moldroster.com/ny/firms/blue-skies-home-inspections-llc-ny0394/) · Yonkers · Mold assessment
+* [BNB Holdings, Inc. (dba Rainbow International of Allerton)](https://moldroster.com/ny/firms/bnb-holdings-inc-dba-rainbow-international-of-allerton-ny0252/) · Yonkers · Mold remediation
+* [Breathe Easy Solutions Remediation, Corp.](https://moldroster.com/ny/firms/breathe-easy-solutions-remediation-corp-ny0265/) · Yonkers · Mold remediation
+* [BreathePure LLC](https://moldroster.com/ny/firms/breathepure-llc-ny0398/) · Yonkers · Mold assessment & Mold remediation
+* [Bright Light Star Corp](https://moldroster.com/ny/firms/bright-light-star-corp-ny0455/) · Yonkers · Mold remediation
+* [C&C Flooring, LLC](https://moldroster.com/ny/firms/c-c-flooring-llc-ny0336/) · Yonkers · Mold remediation
+* [CJ&j Resolution LLC (dba CJ&J Resolution LLC)](https://moldroster.com/ny/firms/cj-j-resolution-llc-dba-cj-j-resolution-llc-ny0339/) · Yonkers · Mold remediation
+
+All 102 listings in Westchester County: https://moldroster.com/ny/county/westchester/
+
+## Licensed mold pros in counties near Westchester County
+
+[Bronx County](https://moldroster.com/ny/county/bronx/) (52) · [Nassau County](https://moldroster.com/ny/county/nassau/) (153) · [Putnam County](https://moldroster.com/ny/county/putnam/) (14) · [Rockland County](https://moldroster.com/ny/county/rockland/) (33)

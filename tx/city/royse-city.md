@@ -101,3 +101,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against TDLR licence records.
+
+## Which counties are near Royse City?
+
+Royse City is in [Rockwall County](https://moldroster.com/tx/county/rockwall/). Neighboring counties: [Collin County](https://moldroster.com/tx/county/collin/) (107) · [Dallas County](https://moldroster.com/tx/county/dallas/) (186) · [Hunt County](https://moldroster.com/tx/county/hunt/) (5) · [Kaufman County](https://moldroster.com/tx/county/kaufman/) (21).

@@ -497,3 +497,11 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against DBPR licence records.
+
+## More Palm Beach County cities with licensed mold pros
+
+[Wellington](https://moldroster.com/fl/city/wellington/) (20) · [Loxahatchee](https://moldroster.com/fl/city/loxahatchee/) (12) · [Royal Palm Beach](https://moldroster.com/fl/city/royal-palm-beach/) (10) · [North Palm Beach](https://moldroster.com/fl/city/north-palm-beach/) (7) · [Palm Springs](https://moldroster.com/fl/city/palm-springs/) (5) · [Riviera Beach](https://moldroster.com/fl/city/riviera-beach/) (5) · [Tequesta](https://moldroster.com/fl/city/tequesta/) (5)
+
+## Which counties are near Lake Worth?
+
+Lake Worth is in [Palm Beach County](https://moldroster.com/fl/county/palm-beach/). Neighboring counties: [Broward County](https://moldroster.com/fl/county/broward/) (589) · [Hendry County](https://moldroster.com/fl/county/hendry/) (5) · [Martin County](https://moldroster.com/fl/county/martin/) (38) · [Okeechobee County](https://moldroster.com/fl/county/okeechobee/) (7).

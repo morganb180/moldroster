@@ -1941,3 +1941,7 @@ Show all 54 listings
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against NYS DOL licence records.
+
+## Which counties are near Brooklyn?
+
+Brooklyn is in [Kings County](https://moldroster.com/ny/county/kings/). Neighboring counties: [New York County](https://moldroster.com/ny/county/new-york/) (65) · [Queens County](https://moldroster.com/ny/county/queens/) (154) · [Richmond County](https://moldroster.com/ny/county/richmond/) (53).

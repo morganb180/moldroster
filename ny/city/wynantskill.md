@@ -89,3 +89,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against NYS DOL licence records.
+
+## Which counties are near Wynantskill?
+
+Wynantskill is in [Rensselaer County](https://moldroster.com/ny/county/rensselaer/). Neighboring counties: [Albany County](https://moldroster.com/ny/county/albany/) (45) · [Columbia County](https://moldroster.com/ny/county/columbia/) (6) · [Greene County](https://moldroster.com/ny/county/greene/) (1) · [Saratoga County](https://moldroster.com/ny/county/saratoga/) (25) · [Washington County](https://moldroster.com/ny/county/washington/) (4).

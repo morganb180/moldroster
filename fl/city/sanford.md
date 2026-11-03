@@ -178,3 +178,7 @@ Source: [DBPR list](https://www2.myfloridalicense.com/sto/file_download/extracts
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against DBPR licence records.
+
+## Which counties are near Sanford?
+
+Sanford is in [Seminole County](https://moldroster.com/fl/county/seminole/). Neighboring counties: [Brevard County](https://moldroster.com/fl/county/brevard/) (93) · [Lake County](https://moldroster.com/fl/county/lake/) (61) · [Orange County](https://moldroster.com/fl/county/orange/) (194) · [Volusia County](https://moldroster.com/fl/county/volusia/) (66).

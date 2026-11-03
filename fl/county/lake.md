@@ -814,3 +814,7 @@ Look it up with the Florida Department of Business and Professional Regulation (
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against DBPR licence records.
+
+## Which Lake County cities have their own page?
+
+[Clermont](https://moldroster.com/fl/city/clermont/) (13) · [Groveland](https://moldroster.com/fl/city/groveland/) (8) · [Mount Dora](https://moldroster.com/fl/city/mount-dora/) (8) · [Sorrento](https://moldroster.com/fl/city/sorrento/) (7) · [Eustis](https://moldroster.com/fl/city/eustis/) (5) · [Fruitland Park](https://moldroster.com/fl/city/fruitland-park/) (5) · [Leesburg](https://moldroster.com/fl/city/leesburg/) (5) · [Tavares](https://moldroster.com/fl/city/tavares/) (5)

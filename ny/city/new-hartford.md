@@ -97,3 +97,7 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 [Mold assessment vs remediation](https://moldroster.com/mold-assessment-vs-remediation/) · [Mold inspection & remediation cost + estimate tool](https://moldroster.com/mold-remediation-cost/) · [Mold licensing rules by state](https://moldroster.com/mold-licensing-by-state/) · [How to hire a mold pro](https://moldroster.com/hiring-a-mold-pro/)
 
 Data last verified 2026-10-12 against NYS DOL licence records.
+
+## Which counties are near New Hartford?
+
+New Hartford is in [Oneida County](https://moldroster.com/ny/county/oneida/). Neighboring counties: [Herkimer County](https://moldroster.com/ny/county/herkimer/) (2) · [Madison County](https://moldroster.com/ny/county/madison/) (1) · [Oswego County](https://moldroster.com/ny/county/oswego/) (4) · [Otsego County](https://moldroster.com/ny/county/otsego/) (1).
