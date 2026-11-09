@@ -44,7 +44,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 Licensed firm
 
 11 Glenmore Ave, Brentwood, NY  
-☎ [(631) 715-9158](tel:6317159158)
 
 Mold Remediation Contractor License (SH126) #26-661PT-SHMO (exp. 2028-04-30)  
 Mold Assessment Contractor License (SH125) #26-661PX-SHMO (exp. 2028-04-30)  
@@ -58,7 +57,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 59 Gates Ave, Brentwood, NY  
-☎ [(631) 720-3351](tel:6317203351)
 
 Mold Remediation Contractor License (SH126) #26-6SBKG-SHMO (exp. 2028-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -83,7 +81,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 79 Emjay Blvd, Brentwood, NY  
-☎ [(631) 230-5415](tel:6312305415)
 
 Mold Remediation Contractor License (SH126) #25-6188T-SHMO (exp. 2027-09-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/myground-llc-dba-rdm-restoration-ny09
 * Google rating: 4.9 from 99 reviews (as of Oct 30, 2026)
 * Mold Remediation Contractor License (SH126) #26-6Z4ZO-SHMO (exp. 2028-03-31)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7722836692246467902&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [rdmmove.com](https://www.rdmmove.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0925 (goes to Myground, LLC (dba RDM RESTORATION) and up to 2 other nearby licensed pros)
 

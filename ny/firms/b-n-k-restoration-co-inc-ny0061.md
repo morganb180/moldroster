@@ -15,7 +15,7 @@ canonical: https://moldroster.com/ny/firms/b-n-k-restoration-co-inc-ny0061/
 * Website: https://www.njsda.gov/SDA_Business/vendor/info?vendorCode=22267420000
 * Mold Remediation Contractor License (SH126) #25-6UPW3-SHMO (exp. 2027-06-30)
 
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=10506739265936408532&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [njsda.gov](https://www.njsda.gov/SDA_Business/vendor/info?vendorCode=22267420000), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0061 (goes to B & N & K Restoration Co., Inc. and up to 2 other nearby licensed pros)
 

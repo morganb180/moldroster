@@ -27,11 +27,10 @@ Listed below: 1 licensed mold assessor (inspection and testing) and 5 licensed m
 Licensed firm
 
 2364 Hwy 287 N Suite 121, Mansfield, TX  
-☎ [(817) 717-4668](tel:8177174668)
 
 🌐 [waterfiremoldremediation.com](https://waterfiremoldremediation.com/)  
 Google rating 5.0 (14 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=12023271800349631520&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Company #ACO1326 (exp. 2028-09-07)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -46,7 +45,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 1836 Lone Star Rd Bldg 2, Mansfield, TX  
-☎ [(817) 269-8000](tel:8172698000)
 
 Mold Remediation Company #RCO1517 (exp. 2028-05-01)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -59,7 +57,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 7661 Rendon Bloodworth Rd Suite 704, Mansfield, TX  
-☎ [(817) 716-4146](tel:8177164146)
 
 Mold Remediation Company #RCO1689 (exp. 2027-04-27)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -72,7 +69,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 5300 Hidden Valley Ct, Mansfield, TX  
-☎ [(817) 319-2111](tel:8173192111)
 
 Mold Remediation Company #RCO1684 (exp. 2027-03-25)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -85,13 +81,10 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 801 S 4th Ave, Mansfield, TX  
-☎ [(817) 694-2805](tel:8176942805)
 
-☎ Google listing: [(682) 702-2181](tel:6827022181)  
 🌐 [rapidrestorationtx.net](https://www.rapidrestorationtx.net/)  
-✉ [info@rapidrestorationtx.net](mailto:info@rapidrestorationtx.net)  
 Google rating 5.0 (240 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=3017615490760588379&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [rapidrestorationtx.net](https://www.rapidrestorationtx.net/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Company #RCO1675 (exp. 2027-02-02)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -104,11 +97,9 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 1507 Mallard Cir, Mansfield, TX  
-☎ [(469) 754-9255](tel:4697549255)
 
-☎ Google listing: [(469) 765-3269](tel:4697653269)  
 🌐 [totaldisastersolutions.com](https://totaldisastersolutions.com/)  
-Added by us, not on the state list: phone and website from the firm's [Google Maps listing](https://maps.google.com/?cid=325917609594032053&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Company #RCO1735 (exp. 2027-10-27)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

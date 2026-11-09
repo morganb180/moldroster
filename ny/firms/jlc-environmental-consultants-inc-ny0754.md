@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/jlc-environmental-consultants-inc-ny0
 * Google rating: 4.8 from 6 reviews (as of Oct 30, 2026)
 * Mold Assessment Contractor License (SH125) #25-6IBJT-SHMO (exp. 2027-11-30)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=6292098525052264009&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [jlcenvironmental.com](https://www.jlcenvironmental.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0754 (goes to JLC Environmental Consultants, Inc. and up to 2 other nearby licensed pros)
 

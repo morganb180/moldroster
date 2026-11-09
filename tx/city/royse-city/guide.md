@@ -40,7 +40,6 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 Licensed firm
 
 7960 Irma Dr, Royse City, TX  
-☎ [(972) 814-1502](tel:9728141502)
 
 Mold Assessment Company #ACO1322 (exp. 2028-08-17)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -53,7 +52,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 7828 Irma Dr, Royse City, TX  
-☎ [(469) 602-5106](tel:4696025106)
 
 Mold Remediation Company #RCO1370 (exp. 2027-03-28)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -66,13 +64,10 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 3918 Marlin Dr Suite A, Royse City, TX  
-☎ [(972) 771-5771](tel:9727715771)
 
-☎ Google listing: [(972) 914-8389](tel:9729148389)  
 🌐 [doiggs.com](https://doiggs.com/)  
-✉ [doiggs@doiggs.com](mailto:doiggs@doiggs.com)  
 Google rating 5.0 (250 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17897455995639343011&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [doiggs.com](https://www.doiggs.com/), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Company #RCO1470 (exp. 2027-08-09)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -85,13 +80,10 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 6280 State Hwy 276 Suite F, Royse City, TX  
-☎ [(972) 587-6881](tel:9725876881)
 
-☎ Google listing: [(972) 587-6960](tel:9725876960)  
 🌐 [zeusrestoration.com](https://www.zeusrestoration.com/)  
-✉ [info@zeusrestoration.com](mailto:info@zeusrestoration.com)  
 Google rating 4.8 (411 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15452434779356154648&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [zeusrestoration.com](https://zeusrestoration.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Company #RCO1615 (exp. 2028-01-08)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

@@ -44,7 +44,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 Licensed firm
 
 5101 E 51st St, Austin, TX  
-☎ [(512) 414-2245](tel:5124142245)
 
 Mold Assessment Company #ACO0119 (exp. 2026-12-31)  
 Mold Remediation Company #RCO0110 (exp. 2026-12-31)  
@@ -58,12 +57,10 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 7756 Northcross Dr Suite 211, Austin, TX  
-☎ [(512) 453-3733](tel:5124533733)
 
 🌐 [baereng.com](https://baereng.com/)  
-✉ [info@baereng.com](mailto:info@baereng.com)  
 Google rating 5.0 (4 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=1336555372796930611&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [baereng.com](https://baereng.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Company #ACO1203 (exp. 2028-01-03)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -76,7 +73,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 3006 Bee Caves Rd Suite D201, Austin, TX  
-☎ [(512) 229-1199](tel:5122291199)
 
 Mold Assessment Company #ACO1215 (exp. 2028-08-16)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -89,13 +85,10 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 9601 Dessau Rd Suite 104, Austin, TX  
-☎ [(512) 420-6970](tel:5124206970)
 
-☎ Google listing: [(737) 358-6017](tel:7373586017)  
 🌐 [allnationrestoration.com](https://www.allnationrestoration.com/)  
-✉ [info@allnationrestoration.com](mailto:info@allnationrestoration.com)  
 Google rating 4.9 (325 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15195344373746837695&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [allnationrestoration.com](https://www.allnationrestoration.com/), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Company #RCO1501 (exp. 2028-02-15)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -108,7 +101,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 1700 S Lamar Blvd, Suite 338, Austin, TX  
-☎ [(512) 213-2988](tel:5122132988)
 
 Mold Remediation Company #RCO1640 (exp. 2028-06-12)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -121,7 +113,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 2900 W Anderson Ln C200-348, Austin, TX  
-☎ [(512) 912-6814](tel:5129126814)
 
 Mold Remediation Company #RCO1506 (exp. 2028-03-09)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

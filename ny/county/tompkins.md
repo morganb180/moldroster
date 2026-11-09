@@ -23,7 +23,6 @@ canonical: https://moldroster.com/ny/county/tompkins/
 Licensed firm
 
 370 Stone Quarry Rd, Ithaca, NY  
-☎ [(917) 941-9978](tel:9179419978)
 
 Mold Assessment Contractor License (SH125) #25-6U1HO-SHMO (exp. 2027-07-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -36,7 +35,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 213 Sydney Ter, Newfield, NY  
-☎ [(607) 351-0148](tel:6073510148)
 
 Mold Assessment Contractor License (SH125) #26-66986-SHMO (exp. 2028-05-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -49,7 +47,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 9586 State Route 96, Trumansburg, NY  
-☎ [(607) 262-9082](tel:6072629082)
 
 Mold Assessment Contractor License (SH125) #26-67HDY-SHMO (exp. 2028-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

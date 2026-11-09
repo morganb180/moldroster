@@ -40,11 +40,10 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 Licensed firm
 
 4402 Centergate St, San Antonio, TX  
-☎ [(210) 656-9300](tel:2106569300)
 
 🌐 [aehs-sa.com](http://www.aehs-sa.com/)  
 Google rating 4.6 (15 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10206103190069433573&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Company #ACO0121 (exp. 2026-12-31)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -57,7 +56,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 10004 Wurzbach Rd # 247, San Antonio, TX  
-☎ [(210) 493-2560](tel:2104932560)
 
 Mold Assessment Company #ACO0216 (exp. 2026-12-21)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -70,7 +68,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 2118 Oak Wild St, San Antonio, TX  
-☎ [(210) 289-9717](tel:2102899717)
 
 Mold Assessment Company #ACO1295 (exp. 2027-09-18)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -83,7 +80,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 9330 Woodheather St, San Antonio, TX  
-☎ [(210) 542-8383](tel:2105428383)
 
 Mold Remediation Company #RCO1371 (exp. 2027-12-08)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -96,12 +92,10 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 2900 Nacogdoches Rd, San Antonio, TX  
-☎ [(210) 404-1220](tel:2104041220)
 
 🌐 [alamo1.com](https://www.alamo1.com/contact.html)  
-✉ [info@alamo1.com](mailto:info@alamo1.com)  
 Google rating 3.6 (16 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14714953747603920742&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [alamo1.com](https://www.alamo1.com/contact/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Company #RCO0138 (exp. 2027-03-04)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -114,11 +108,10 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 4712 Broom St, San Antonio, TX  
-☎ [(210) 599-9726](tel:2105999726)
 
 🌐 [astrestoration.com](https://astrestoration.com/service-areas/san-antonio/)  
 Google rating 4.9 (920 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4637947322050723826&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Company #RCO1739 (exp. 2027-11-11)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

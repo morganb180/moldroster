@@ -14,7 +14,7 @@ canonical: https://moldroster.com/dc/firms/dmv-professional-services-dc0104/
 * Website: http://www.dmvhomeinspections.com/
 * Google rating: 4.3 from 24 reviews (as of Oct 30, 2026)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10780854257491166250&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=DC0104 (goes to DMV Professional Services and up to 2 other nearby licensed pros)
 

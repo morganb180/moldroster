@@ -27,7 +27,6 @@ Listed below: 2 licensed mold assessors (inspection and testing) and 2 licensed 
 Licensed firm
 
 345 Marlborough Rd, Cedarhurst, NY  
-☎ [(917) 232-2266](tel:9172322266)
 
 Mold Assessment Contractor License (SH125) #26-6A989-SHMO (exp. 2028-08-31)  
 Mold Remediation Contractor License (SH126) #26-6AZSU-SHMO (exp. 2028-08-31)  
@@ -56,7 +55,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 52 Carman Ave, Cedarhurst, NY  
-☎ [(516) 341-9863](tel:5163419863)
 
 Mold Remediation Contractor License (SH126) #24-63SAN-SHMO (exp. 2026-11-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -69,13 +67,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 540 Willow Ave Suite A, Cedarhurst, NY  
-☎ [(888) 705-6653](tel:8887056653)
 
-☎ Google listing: [(516) 200-0587](tel:5162000587)  
 🌐 [5trestoration.com](https://5trestoration.com/)  
-✉ [office@5trestoration.com](mailto:office@5trestoration.com)  
 Google rating 5.0 (24 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=12494581418087121767&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [5trestoration.com](https://5trestoration.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #26-6AXJZ-SHMO (exp. 2028-06-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/kalnik-corp-ny0894/
 * Mold Assessment Contractor License (SH125) #25-67QOD-SHMO (exp. 2027-12-31)
 * Mold Remediation Contractor License (SH126) #25-67V4U-SHMO (exp. 2027-11-30)
 
-Added by us, not on the state list: phone and website from the firm's [Google Maps listing](https://maps.google.com/?cid=10617524668205872088&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [kalnikgc.com](https://kalnikgc.com/contact-us), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0894 (goes to Kalnik Corp and up to 2 other nearby licensed pros)
 

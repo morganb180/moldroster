@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/andate-construction-corporation-ny017
 * Google rating: 4.8 from 112 reviews (as of Oct 30, 2026)
 * Mold Remediation Contractor License (SH126) #25-64IJH-SHMO (exp. 2027-02-28)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=13339259874847719164&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [andateconstruction.com](https://andateconstruction.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0177 (goes to Andate Construction Corporation and up to 2 other nearby licensed pros)
 

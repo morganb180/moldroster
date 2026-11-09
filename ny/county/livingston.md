@@ -23,7 +23,6 @@ canonical: https://moldroster.com/ny/county/livingston/
 Licensed firm
 
 10 Pine Cir, Mount Morris, NY  
-☎ [(585) 905-4826](tel:5859054826)
 
 Mold Assessment Contractor License (SH125) #26-6ZZFY-SHMO (exp. 2028-04-30)  
 Mold Remediation Contractor License (SH126) #26-6ZZFB-SHMO (exp. 2028-04-30)  

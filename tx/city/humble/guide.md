@@ -44,7 +44,6 @@ Summary of 16 Texas Administrative Code Chapter 78 (Texas Mold Assessment and Re
 Licensed firm
 
 525 N Houston Ave, Humble, TX  
-☎ [(346) 345-2015](tel:3463452015)
 
 Mold Assessment Company #ACO1081 (exp. 2028-06-11)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -57,7 +56,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 11315 Dogwood, Humble, TX  
-☎ [(281) 319-4789](tel:2813194789)
 
 Mold Remediation Company #RCO0235 (exp. 2027-01-12)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -70,7 +68,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 5990 N Sam Houston Pkwy E Suite A602, Humble, TX  
-☎ [(504) 400-6013](tel:5044006013)
 
 Mold Remediation Company #RCO1447 (exp. 2027-03-07)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -83,7 +80,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 801 Russell Palmer Rd, Humble, TX  
-☎ [(281) 358-0363](tel:2813580363)
 
 Mold Remediation Company #RCO1711 (exp. 2027-07-29)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

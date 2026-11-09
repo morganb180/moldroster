@@ -23,7 +23,6 @@ canonical: https://moldroster.com/ny/county/schoharie/
 Licensed firm
 
 357 Patrick Rd, Cobleskill, NY  
-☎ [(518) 528-5454](tel:5185285454)
 
 Mold Assessment Contractor License (SH125) #25-64SXX-SHMO (exp. 2027-02-28)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -36,7 +35,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 PO Box 106, Gilboa, NY  
-☎ [(607) 588-7394](tel:6075887394)
 
 Mold Assessment Contractor License (SH125) #25-6UMUA-SHMO (exp. 2027-08-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

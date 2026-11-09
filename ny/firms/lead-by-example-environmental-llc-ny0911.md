@@ -17,7 +17,7 @@ canonical: https://moldroster.com/ny/firms/lead-by-example-environmental-llc-ny0
 * Mold Assessment Contractor License (SH125) #24-63XGX-SHMO (exp. 2026-10-31)
 * Mold Remediation Contractor License (SH126) #24-63XFO-SHMO (exp. 2026-10-31)
 
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5717123279785435327&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [lbeenvironmental.com](https://www.lbeenvironmental.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0911 (goes to Lead By Example Environmental LLC and up to 2 other nearby licensed pros)
 

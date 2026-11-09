@@ -15,7 +15,7 @@ canonical: https://moldroster.com/tx/firms/fast-solutions-environmental-llc-tx03
 * Website: https://www.fastsolutionsenvironmentaltx.com/
 * Mold Remediation Company #RCO1328 (exp. 2028-02-23)
 
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=639674185657300162&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [fastsolutionsenvironmentaltx.com](https://fastsolutionsenvironmentaltx.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=TX0313 (goes to Fast Solutions Environmental LLC and up to 2 other nearby licensed pros)
 

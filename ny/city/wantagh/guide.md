@@ -40,10 +40,9 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 Licensed firm
 
 1400 Wantagh Ave Suite 209, Wantagh, NY  
-☎ [(516) 741-1777](tel:5167411777)
 
 Google rating 5.0 (25 reviews)  
-Added by us, not on the state list: rating from the firm's [Google Maps listing](https://maps.google.com/?cid=1115921776994838089&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #26-6SAV3-SHMO (exp. 2028-01-31)  
 Mold Assessment Contractor License (SH125) #26-6Z19F-SHMO (exp. 2028-04-30)  
@@ -57,7 +56,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 3280 Sunrise Hwy Suite 72, Wantagh, NY  
-☎ [(516) 394-2400](tel:5163942400)
 
 Mold Remediation Contractor License (SH126) #26-6zuvt-shmo (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -70,7 +68,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 3577 Northview Ave, Wantagh, NY  
-☎ [(516) 780-0074](tel:5167800074)
 
 Mold Remediation Contractor License (SH126) #25-65B7X-SHMO (exp. 2027-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -83,12 +80,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 3000 Burns Ave, Wantagh, NY  
-☎ [(516) 876-0020](tel:5168760020)
 
 🌐 [gramercyusa.com](https://gramercyusa.com/)  
-✉ [info@gramercyusa.com](mailto:info@gramercyusa.com)  
 Google rating 4.5 (11 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7413008097577905653&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [gramercyusa.com](https://www.gramercyusa.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #25-6LSAS-SHMO (exp. 2027-08-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

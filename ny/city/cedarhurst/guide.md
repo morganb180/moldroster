@@ -38,7 +38,6 @@ Look the name up in the NYS DOL records and check the licence is still current. 
 Licensed firm
 
 345 Marlborough Rd, Cedarhurst, NY  
-☎ [(917) 232-2266](tel:9172322266)
 
 Mold Assessment Contractor License (SH125) #26-6A989-SHMO (exp. 2028-08-31)  
 Mold Remediation Contractor License (SH126) #26-6AZSU-SHMO (exp. 2028-08-31)  
@@ -65,7 +64,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 52 Carman Ave, Cedarhurst, NY  
-☎ [(516) 341-9863](tel:5163419863)
 
 Mold Remediation Contractor License (SH126) #24-63SAN-SHMO (exp. 2026-11-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

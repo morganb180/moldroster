@@ -15,7 +15,7 @@ canonical: https://moldroster.com/tx/firms/alexander-cade-enterprises-inc-dba-un
 * Google rating: 5.0 from 49 reviews (as of Oct 30, 2026)
 * Mold Remediation Company #RCO1329 (exp. 2028-03-04)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14099579846736611136&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0314
 

@@ -15,7 +15,7 @@ canonical: https://moldroster.com/ny/firms/green-path-environmental-inc-dba-gpe-
 * Website: http://www.gpe.nyc/
 * Mold Assessment Contractor License (SH125) #26-6ST1P-SHMO (exp. 2028-03-31)
 
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=16913717984653535910&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [gpe.nyc](https://gpe.nyc/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0606 (goes to Green Path Environmental, Inc. (dba GPE) and up to 2 other nearby licensed pros)
 

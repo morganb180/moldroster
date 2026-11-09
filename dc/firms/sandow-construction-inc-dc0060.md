@@ -13,7 +13,7 @@ canonical: https://moldroster.com/dc/firms/sandow-construction-inc-dc0060/
 * Email: glenda@sandowconstruction.com
 * Website: https://sandowconstruction.com/contact-us/
 
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=10637130073830186173&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=DC0060 (goes to SanDow Construction, Inc. and up to 2 other nearby licensed pros)
 

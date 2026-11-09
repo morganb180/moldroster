@@ -15,7 +15,7 @@ canonical: https://moldroster.com/dc/firms/advantage-environmental-consultants-d
 * Website: http://www.aec-env.com/
 * Google rating: 3.7 from 3 reviews (as of Oct 30, 2026)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5511784562676679758&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=DC0102 (goes to Advantage Environmental Consultants and up to 2 other nearby licensed pros)
 

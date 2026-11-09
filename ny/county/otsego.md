@@ -23,12 +23,10 @@ canonical: https://moldroster.com/ny/county/otsego/
 Licensed firm
 
 13 Railroad St, Otego, NY  
-☎ [(607) 988-2516](tel:6079882516)
 
-☎ Google listing: [(607) 424-6940](tel:6074246940)  
 🌐 [servicemasterrestore.com](https://servicemasterrestore.com/servicemaster-by-burch)  
 Google rating 4.9 (27 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5577061968561174466&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #26-6SKER-SHMO (exp. 2028-05-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

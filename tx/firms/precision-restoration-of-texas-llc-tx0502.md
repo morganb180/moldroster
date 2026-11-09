@@ -16,7 +16,7 @@ canonical: https://moldroster.com/tx/firms/precision-restoration-of-texas-llc-tx
 * Google rating: 5.0 from 261 reviews (as of Oct 30, 2026)
 * Mold Remediation Company #RCO1674 (exp. 2027-01-21)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=9568397227937068361&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [pro-texas.com](https://www.pro-texas.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=TX0502 (goes to Precision Restoration of Texas LLC and up to 2 other nearby licensed pros)
 

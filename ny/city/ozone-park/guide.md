@@ -44,7 +44,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 Licensed firm
 
 86-44 103rd Ave, Ozone Park, NY  
-☎ [(718) 207-7624](tel:7182077624)
 
 Mold Remediation Contractor License (SH126) #26-69I3T-SHMO (exp. 2028-08-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -57,7 +56,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 95-27 86th St, Ozone Park, NY  
-☎ [(917) 287-9521](tel:9172879521)
 
 Mold Remediation Contractor License (SH126) #25-6UDE3-SHMO (exp. 2027-05-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -70,7 +68,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 9014 95th Ave First Floor, Ozone Park, NY  
-☎ [(631) 406-1297](tel:6314061297)
 
 Mold Remediation Contractor License (SH126) #25-65FIK-SHMO (exp. 2027-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

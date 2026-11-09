@@ -16,7 +16,7 @@ canonical: https://moldroster.com/tx/firms/paragon-structural-engineering-ltd-tx
 * Google rating: 4.6 from 48 reviews (as of Oct 30, 2026)
 * Mold Assessment Company #ACO1300 (exp. 2027-12-07)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=8530053653642233050&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [pseglobal.com](https://pseglobal.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=TX0178 (goes to Paragon Structural Engineering, Ltd. and up to 2 other nearby licensed pros)
 

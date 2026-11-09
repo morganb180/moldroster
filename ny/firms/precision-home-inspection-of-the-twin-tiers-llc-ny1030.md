@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/precision-home-inspection-of-the-twin
 * Google rating: 4.9 from 628 reviews (as of Oct 30, 2026)
 * Mold Assessment Contractor License (SH125) #25-6TQEJ-SHMO (exp. 2027-05-31)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=6196133182374940468&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [precisioninspect.com](https://www.precisioninspect.com/contact/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY1030 (goes to Precision Home Inspection of the Twin Tiers LLC and up to 2 other nearby licensed pros)
 

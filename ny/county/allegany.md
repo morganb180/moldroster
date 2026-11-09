@@ -23,7 +23,6 @@ canonical: https://moldroster.com/ny/county/allegany/
 Licensed firm
 
 33 Hughes St W, Belfast, NY  
-☎ [(585) 610-2367](tel:5856102367)
 
 Mold Assessment Contractor License (SH125) #25-6IF3P-SHMO (exp. 2027-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -38,11 +37,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 7727COUNTY Rd 40, Bolivar, NY  
-☎ [(585) 928-1709](tel:5859281709)
 
 🌐 [saveheat.org](http://saveheat.org/contact-us.html)  
 Google rating 2.7 (7 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15987187131047633097&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #25-65TEH-SHMO (exp. 2027-05-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

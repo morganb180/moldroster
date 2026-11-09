@@ -22,7 +22,7 @@ canonical: https://moldroster.com/tx/county/callahan/
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 

@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/firms/drc-fort-worth-llc-tx0387/
 * Website: https://www.servpronorthfortworth.com/
 * Mold Remediation Company #RCO1496 (exp. 2027-12-13)
 
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=3866742857108541681&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0387
 

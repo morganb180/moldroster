@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/firms/bangir-construction-supplies-llc-ny01
 * Google rating: 5.0 from 16 reviews (as of Oct 30, 2026)
 * Mold Remediation Contractor License (SH126) #25-65ADC-SHMO (exp. 2027-05-31)
 
-Added by us, not on the state list: phone and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2393729514845592660&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Source: https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy, retrieved 2026-10-12. Verify: https://dol.ny.gov/mold-program. Claim / correct: https://moldroster.com/claim-listing/?id=NY0132
 

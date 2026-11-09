@@ -27,7 +27,6 @@ Listed below: 3 licensed mold assessors (inspection and testing) and 12 licensed
 Licensed firm
 
 4401 Gorman Dr, Fort Worth, TX  
-☎ [(817) 939-1643](tel:8179391643)
 
 Mold Assessment Company #ACO1131 (exp. 2028-01-07)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -40,7 +39,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 1113 Ferncliff Dr, Fort Worth, TX  
-☎ [(682) 284-2380](tel:6822842380)
 
 Mold Assessment Company #ACO1312 (exp. 2028-04-13)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -53,12 +51,10 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 1801 Handley Ederville Rd, Fort Worth, TX  
-☎ [(817) 268-8600](tel:8172688600)
 
 🌐 [terracon.com](http://www.terracon.com/)  
-✉ [corporate@terracon.com](mailto:corporate@terracon.com)  
 Google rating 4.3 (15 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5269214921103296978&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [terracon.com](https://www.terracon.com/about/contact/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Company #ACO0117 (exp. 2028-03-14)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -73,7 +69,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 PO Box 151875, Fort Worth, TX  
-☎ [(817) 501-5002](tel:8175015002)
 
 Mold Remediation Company #RCO0224 (exp. 2026-11-16)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -86,7 +81,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 2401 E Loop 820 N, Fort Worth, TX  
-☎ [(817) 887-9801](tel:8178879801)
 
 Mold Remediation Company #RCO1188 (exp. 2028-02-07)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -99,7 +93,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 8901 Tehama Ridge Pkwy Suite 127, Fort Worth, TX  
-☎ [(682) 462-8088](tel:6824628088)
 
 Mold Remediation Company #RCO1823 (exp. 2028-09-02)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -112,7 +105,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 5325 Malibu St, Fort Worth, TX  
-☎ [(586) 770-4078](tel:5867704078)
 
 Mold Remediation Company #RCO1575 (exp. 2027-07-06)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -125,10 +117,9 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 10101 Hicks Field Rd Suite 111, Fort Worth, TX  
-☎ [(817) 232-3333](tel:8172323333)
 
 🌐 [servpronorthfortworth.com](https://www.servpronorthfortworth.com/)  
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=3866742857108541681&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Company #RCO1496 (exp. 2027-12-13)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -141,7 +132,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 5725 Wharton Dr, Fort Worth, TX  
-☎ [(480) 625-9713](tel:4806259713)
 
 Mold Remediation Company #RCO1643 (exp. 2028-06-30)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -154,7 +144,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 13019 Harmon Rd Suite 301, Fort Worth, TX  
-☎ [(817) 805-6085](tel:8178056085)
 
 Mold Remediation Company #RCO1300 (exp. 2028-05-08)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -167,7 +156,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 1500 Northpark Dr Suite 126, Fort Worth, TX  
-☎ [(713) 201-8511](tel:7132018511)
 
 Mold Remediation Company #RCO1529 (exp. 2028-06-27)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -180,7 +168,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 1809 Mony St, Fort Worth, TX  
-☎ [(817) 988-3996](tel:8179883996)
 
 Mold Remediation Company #RCO1631 (exp. 2028-05-14)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -193,11 +180,10 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 5304 Sun Valley Dr, Fort Worth, TX  
-☎ [(336) 449-1144](tel:3364491144)
 
 🌐 [sasser247.com](https://sasser247.com/)  
 Google rating 4.5 (54 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=9070217220312799155&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Company #RCO1443 (exp. 2026-12-14)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -210,7 +196,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 849 Sylvan Dr, Fort Worth, TX  
-☎ [(469) 300-1810](tel:4693001810)
 
 Mold Remediation Company #RCO1562 (exp. 2027-02-08)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -223,7 +208,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 15600 Trinity Blvd Suite 108, Fort Worth, TX  
-☎ [(972) 790-6300](tel:9727906300)
 
 Mold Remediation Company #RCO1775 (exp. 2028-03-15)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

@@ -27,7 +27,6 @@ Listed below: 2 licensed mold assessors (inspection and testing) and 3 licensed 
 Licensed firm
 
 709B W Rusk St Suite 580, Rockwall, TX  
-☎ [(972) 567-7298](tel:9725677298)
 
 Mold Assessment Company #ACO1083 (exp. 2028-04-02)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -40,7 +39,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 PO Box 333, Rockwall, TX  
-☎ [(469) 323-4377](tel:4693234377)
 
 Mold Assessment Company #ACO1196 (exp. 2027-12-02)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -55,7 +53,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 682 Chisholm Ranch Dr, Rockwall, TX  
-☎ [(469) 478-9787](tel:4694789787)
 
 Mold Remediation Company #RCO1361 (exp. 2027-11-19)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -68,7 +65,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 3021 Ridge Rd Suite 100, Rockwall, TX  
-☎ [(972) 839-6115](tel:9728396115)
 
 Mold Remediation Company #RCO1151 (exp. 2028-03-11)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -81,7 +77,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 PO Box 546, Rockwall, TX  
-☎ [(972) 213-2751](tel:9722132751)
 
 Mold Remediation Company #RCO1683 (exp. 2027-03-16)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

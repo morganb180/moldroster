@@ -16,7 +16,7 @@ canonical: https://moldroster.com/tx/firms/texinspec-inc-tx0124/
 * Google rating: 4.8 from 1210 reviews (as of Oct 30, 2026)
 * Mold Assessment Company #ACO1236 (exp. 2027-07-12)
 
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15227176637276108231&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [texinspec.com](https://texinspec.com/), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=TX0124 (goes to Texinspec Inc and up to 2 other nearby licensed pros)
 

@@ -15,7 +15,7 @@ canonical: https://moldroster.com/tx/firms/aspen-integrity-llc-tx0133/
 * Website: https://www.aspenintegrity.com/
 * Mold Assessment Company #ACO1248 (exp. 2028-02-29)
 
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=1032973615511548181&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [aspenintegrity.com](https://www.aspenintegrity.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=TX0133 (goes to Aspen Integrity, LLC and up to 2 other nearby licensed pros)
 

@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/victory-restoration-and-cleaning-inc-
 * Google rating: 3.9 from 15 reviews (as of Oct 30, 2026)
 * Mold Remediation Contractor License (SH126) #25-6IPFT-SHMO (exp. 2027-10-31)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=13878722480477064733&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [victoryrestorationandcleaning.com](https://www.victoryrestorationandcleaning.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY1498 (goes to Victory Restoration and Cleaning Inc. and up to 2 other nearby licensed pros)
 

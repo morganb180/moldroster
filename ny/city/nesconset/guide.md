@@ -43,7 +43,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 Licensed firm
 
 114 S Hillside Ave, Nesconset, NY  
-☎ [(631) 766-7259](tel:6317667259)
 
 Mold Assessment Contractor License (SH125) #26-63RRR-SHMO (exp. 2028-07-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -56,7 +55,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 6 Hill Ave, Nesconset, NY  
-☎ [(631) 819-4366](tel:6318194366)
 
 Mold Remediation Contractor License (SH126) #26-66HOX-SHMO (exp. 2028-05-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -69,11 +67,9 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 22 Southern Blvd Suite 104, Nesconset, NY  
-☎ [(631) 862-6288](tel:6318626288)
 
 🌐 [jsfirefloodmold.com](https://jsfirefloodmold.com/)  
-✉ [jared@jsfirefloodmold.com](mailto:jared@jsfirefloodmold.com)  
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=15381659581543454862&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [jsfirefloodmold.com](https://jsfirefloodmold.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #26-6SV3A-SHMO (exp. 2028-02-29)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -86,12 +82,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 106 Lake Ave S Unit 3, Nesconset, NY  
-☎ [(631) 265-9200](tel:6312659200)
 
-☎ Google listing: [(631) 609-6091](tel:6316096091)  
 🌐 [servpro.com](https://www.servpro.com/locations/ny/servpro-of-greater-smithtown)  
 Google rating 4.9 (114 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=13824614463980113560&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #25-64TZB-SHMO (exp. 2027-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

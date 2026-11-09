@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/smooth-plastering-llc-dba-smooth-cons
 * Google rating: 5.0 from 29 reviews (as of Oct 30, 2026)
 * Mold Remediation Contractor License (SH126) #26-696IU-SHMO (exp. 2028-09-30)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=8641209297425024627&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [smooth-plastering.com](https://www.smooth-plastering.com/), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY1446 (goes to Smooth Plastering LLC (dba Smooth Construction Services (SCS)) and up to 2 other nearby licensed pros)
 

@@ -16,7 +16,7 @@ canonical: https://moldroster.com/tx/firms/persistence-environmental-services-ll
 * Google rating: 5.0 from 1 reviews (as of Oct 30, 2026)
 * Mold Remediation Company #RCO1784 (exp. 2028-04-07)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=227526169255928764&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [persistencees.com](https://www.persistencees.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=TX0610 (goes to Persistence Environmental Services LLC and up to 2 other nearby licensed pros)
 

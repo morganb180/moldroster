@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/accurate-pest-control-llc-ny0095/
 * Google rating: 4.9 from 188 reviews (as of Oct 30, 2026)
 * Mold Remediation Contractor License (SH126) #26-6sxbd-shmo (exp. 2028-03-31)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=9421248518491918385&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [accuratepestcontrolny.com](https://www.accuratepestcontrolny.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0095 (goes to Accurate Pest Control, LLC and up to 2 other nearby licensed pros)
 

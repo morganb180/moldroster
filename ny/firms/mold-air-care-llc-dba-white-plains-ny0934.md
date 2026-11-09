@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/mold-air-care-llc-dba-white-plains-ny
 * Google rating: 5.0 from 12 reviews (as of Oct 30, 2026)
 * Mold Remediation Contractor License (SH126) #26-69QH4-SHMO (exp. 2028-07-31)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17099329172488314257&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [moldaircare.com](https://moldaircare.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0934 (goes to Mold Air Care llc (dba White Plains) and up to 2 other nearby licensed pros)
 

@@ -15,7 +15,7 @@ canonical: https://moldroster.com/ny/firms/salvus-group-llc-ny1314/
 * Website: http://www.salvusgroup.org/
 * Mold Assessment Contractor License (SH125) #25-61GAF-SHMO (exp. 2027-08-31)
 
-Added by us, not on the state list: phone and website from the firm's [Google Maps listing](https://maps.google.com/?cid=3190962922795205928&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [salvusgroup.org](https://www.salvusgroup.org/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY1314 (goes to Salvus Group, LLC and up to 2 other nearby licensed pros)
 

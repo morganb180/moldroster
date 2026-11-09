@@ -15,7 +15,7 @@ canonical: https://moldroster.com/ny/firms/a-b-inspection-services-corp-ny0204/
 * Website: https://aandbinspectionservices.com/
 * Mold Assessment Contractor License (SH125) #26-6ZG1B-SHMO (exp. 2028-03-31)
 
-Added by us, not on the state list: phone and website from the firm's [Google Maps listing](https://maps.google.com/?cid=8002621369688347813&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [aandbinspectionservices.com](https://aandbinspectionservices.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0204 (goes to A & B Inspection Services, Corp. and up to 2 other nearby licensed pros)
 

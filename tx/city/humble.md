@@ -27,7 +27,6 @@ Listed below: 1 licensed mold assessor (inspection and testing) and 4 licensed m
 Licensed firm
 
 525 N Houston Ave, Humble, TX  
-☎ [(346) 345-2015](tel:3463452015)
 
 Mold Assessment Company #ACO1081 (exp. 2028-06-11)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -42,7 +41,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 11315 Dogwood, Humble, TX  
-☎ [(281) 319-4789](tel:2813194789)
 
 Mold Remediation Company #RCO0235 (exp. 2027-01-12)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -55,7 +53,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 5990 N Sam Houston Pkwy E Suite A602, Humble, TX  
-☎ [(504) 400-6013](tel:5044006013)
 
 Mold Remediation Company #RCO1447 (exp. 2027-03-07)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -68,7 +65,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 801 Russell Palmer Rd, Humble, TX  
-☎ [(281) 358-0363](tel:2813580363)
 
 Mold Remediation Company #RCO1711 (exp. 2027-07-29)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -81,12 +77,10 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 1780 Roughneck Dr, Humble, TX  
-☎ [(281) 812-1461](tel:2818121461)
 
 🌐 [sitekomni.com](https://sitekomni.com/contact-us/)  
-✉ [jwoodard@sitekomni.com](mailto:jwoodard@sitekomni.com)  
 Google rating 4.8 (5 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=841890231835364968&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [sitekomni.com](https://sitekomni.com/contact-us/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Company #RCO1218 (exp. 2028-12-21)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

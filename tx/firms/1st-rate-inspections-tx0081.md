@@ -16,7 +16,7 @@ canonical: https://moldroster.com/tx/firms/1st-rate-inspections-tx0081/
 * Google rating: 4.9 from 2399 reviews (as of Oct 30, 2026)
 * Mold Assessment Company #ACO1144 (exp. 2028-03-07)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=6904854579935866999&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [1strateinspections.com](https://1strateinspections.com/), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=TX0081 (goes to 1ST Rate Inspections and up to 2 other nearby licensed pros)
 

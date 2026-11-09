@@ -15,7 +15,7 @@ canonical: https://moldroster.com/tx/firms/halliwell-engineering-associates-llc-
 * Website: http://www.heainc.com/
 * Mold Assessment Company #ACO1285 (exp. 2027-06-18)
 
-Added by us, not on the state list: phone and website from the firm's [Google Maps listing](https://maps.google.com/?cid=1981387308535647777&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [halliwellglobal.com](https://halliwellglobal.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=TX0163 (goes to Halliwell Engineering Associates, LLC and up to 2 other nearby licensed pros)
 

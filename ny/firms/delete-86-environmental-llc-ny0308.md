@@ -17,7 +17,7 @@ canonical: https://moldroster.com/ny/firms/delete-86-environmental-llc-ny0308/
 * Mold Remediation Contractor License (SH126) #26-69JYP-SHMO (exp. 2028-06-30)
 * Mold Assessment Contractor License (SH125) #26-6A1ZH-SHMO (exp. 2028-06-30)
 
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=18305334510012984453&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [delete86.com](https://delete86.com/contact/), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0308 (goes to Delete 86 Environmental, LLC and up to 2 other nearby licensed pros)
 

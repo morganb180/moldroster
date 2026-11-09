@@ -23,7 +23,6 @@ canonical: https://moldroster.com/ny/county/greene/
 Licensed firm
 
 709 County Route 403, Greenville, NY  
-☎ [(518) 495-9151](tel:5184959151)
 
 Mold Assessment Contractor License (SH125) #26-6ZCUT-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

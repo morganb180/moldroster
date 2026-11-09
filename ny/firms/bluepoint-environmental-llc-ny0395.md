@@ -15,7 +15,7 @@ canonical: https://moldroster.com/ny/firms/bluepoint-environmental-llc-ny0395/
 * Website: https://www.bluepointenvironmental.com/contact
 * Mold Assessment Contractor License (SH125) #26-6SYDZ-SHMO (exp. 2028-01-31)
 
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=15618521270886208653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [bluepointenvironmental.com](https://www.bluepointenvironmental.com/contact/), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0395 (goes to Bluepoint Environmental, LLC and up to 2 other nearby licensed pros)
 

@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/geo-environmental-co-inc-ny0725/
 * Google rating: 5.0 from 38 reviews (as of Oct 30, 2026)
 * Mold Assessment Contractor License (SH125) #25-6LCJ7-SHMO (exp. 2027-10-31)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2936411580536721745&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [geoenv.us](https://geoenv.us/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0725 (goes to Geo Environmental Co. Inc. and up to 2 other nearby licensed pros)
 

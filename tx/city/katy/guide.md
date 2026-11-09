@@ -38,12 +38,10 @@ Look the name up in the TDLR records and check the licence is still current. Ask
 Licensed firm
 
 28002 Willowgreen St, Katy, TX  
-☎ [(713) 775-8863](tel:7137758863)
 
-☎ Google listing: [(281) 462-5374](tel:2814625374)  
 🌐 [aqtesting.com](https://www.aqtesting.com/)  
 Google rating 4.6 (51 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=3635668340355690414&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Company #ACO1233 (exp. 2028-05-15)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -56,12 +54,10 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 2002 W Grand Pkwy N Suite 140, Katy, TX  
-☎ [(281) 501-6100](tel:2815016100)
 
 🌐 [esepartners.com](http://www.esepartners.com/)  
-✉ [houstonsupport@esepartners.com](mailto:houstonsupport@esepartners.com)  
 Google rating 4.0 (3 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=9442172143246627097&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [esepartners.com](https://esepartners.com/contact/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Company #ACO1089 (exp. 2027-03-18)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -74,7 +70,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 22720 Morton Ranch Rd Suite 160, Katy, TX  
-☎ [(281) 957-6653](tel:2819576653)
 
 Mold Assessment Company #ACO1185 (exp. 2027-06-22)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -87,7 +82,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 20423 Wild Berry Dr, Katy, TX  
-☎ [(281) 400-7171](tel:2814007171)
 
 Mold Remediation Company #RCO1786 (exp. 2028-04-14)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -100,7 +94,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 20770 Westheimer Pkwy Suite 506, Katy, TX  
-☎ [(832) 888-8577](tel:8328888577)
 
 Mold Remediation Company #RCO1330 (exp. 2028-03-07)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

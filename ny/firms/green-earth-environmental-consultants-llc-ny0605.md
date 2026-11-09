@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/green-earth-environmental-consultants
 * Google rating: 5.0 from 1 reviews (as of Oct 30, 2026)
 * Mold Assessment Contractor License (SH125) #26-6LJIQ-SHMO (exp. 2028-01-31)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=8505934388201490173&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [greenearthenvironmentalconsultantllc.com](https://www.greenearthenvironmentalconsultantllc.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0605 (goes to Green Earth Environmental Consultants LLC and up to 2 other nearby licensed pros)
 

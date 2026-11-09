@@ -44,7 +44,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 Licensed firm
 
 PO Box 22, Wynantskill, NY  
-☎ [(518) 573-1721](tel:5185731721)
 
 Mold Assessment Contractor License (SH125) #25-6UFBN-SHMO (exp. 2027-06-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -57,7 +56,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 35 Creek Rd, Wynantskill, NY  
-☎ [(518) 817-9501](tel:5188179501)
 
 Mold Assessment Contractor License (SH125) #25-6TJ9Y-SHMO (exp. 2027-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -70,7 +68,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 11 Hannah Ct, Wynantskill, NY  
-☎ [(518) 880-7308](tel:5188807308)
 
 Mold Remediation Contractor License (SH126) #26-666JZ-SHMO (exp. 2028-05-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -83,7 +80,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 Box 330, Wynantskill, NY  
-☎ [(518) 621-6512](tel:5186216512)
 
 Mold Remediation Contractor License (SH126) #26-6ZUZP-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

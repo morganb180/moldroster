@@ -17,7 +17,7 @@ canonical: https://moldroster.com/ny/firms/raza-environmental-inc-ny1053/
 * Mold Assessment Contractor License (SH125) #26-6SDRS-SHMO (exp. 2028-02-29)
 * Mold Remediation Contractor License (SH126) #25-6559A-SHMO (exp. 2027-06-30)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2787114858782466703&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [razaenvironmental.com](https://razaenvironmental.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY1053 (goes to Raza Environmental Inc. and up to 2 other nearby licensed pros)
 

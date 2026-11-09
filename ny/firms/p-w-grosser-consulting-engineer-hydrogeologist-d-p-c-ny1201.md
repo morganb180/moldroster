@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/p-w-grosser-consulting-engineer-hydro
 * Google rating: 5.0 from 4 reviews (as of Oct 30, 2026)
 * Mold Assessment Contractor License (SH125) #26-69V9C-SHMO (exp. 2028-07-31)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4306765423402126948&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [pwgrosser.com](https://pwgrosser.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY1201 (goes to P.W. Grosser Consulting Engineer & Hydrogeologist, D.P.C and up to 2 other nearby licensed pros)
 

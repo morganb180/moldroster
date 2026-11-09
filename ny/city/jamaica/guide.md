@@ -40,7 +40,6 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 Licensed firm
 
 11820 180th St, Jamaica, NY  
-☎ [(347) 351-4587](tel:3473514587)
 
 Mold Assessment Contractor License (SH125) #26-63383-SHMO (exp. 2028-08-31)  
 Mold Remediation Contractor License (SH126) #24-63PG5-SHMO (exp. 2026-11-30)  
@@ -54,7 +53,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 145-48A 105th Ave, Jamaica, NY  
-☎ [(516) 939-7681](tel:5169397681)
 
 Mold Assessment Contractor License (SH125) #24-64EF1-SHMO (exp. 2027-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -67,11 +65,9 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 89-31 161st St Suite 805, Jamaica, NY  
-☎ [(347) 495-0728](tel:3474950728)
 
-☎ Google listing: [(718) 313-1909](tel:7183131909)  
 🌐 [pyramidsoln.com](https://pyramidsoln.com/contact-us/)  
-Added by us, not on the state list: phone and website from the firm's [Google Maps listing](https://maps.google.com/?cid=6971397772501125818&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Contractor License (SH125) #24-63STG-SHMO (exp. 2026-11-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -84,7 +80,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 180-07 Jamaica Ave, St Bsmt, Jamaica, NY  
-☎ [(718) 312-2538](tel:7183122538)
 
 Mold Remediation Contractor License (SH126) #25-6ZGOL-SHMO (exp. 2027-10-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -97,7 +92,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 175-14 Hillside Ave, Jamaica, NY  
-☎ [(718) 658-0911](tel:7186580911)
 
 Mold Remediation Contractor License (SH126) #26-63NO5-SHMO (exp. 2028-09-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

@@ -23,7 +23,6 @@ canonical: https://moldroster.com/tx/county/wilson/
 Licensed firm
 
 120 Arched Oak Loop, Floresville, TX  
-☎ [(210) 834-8221](tel:2108348221)
 
 Mold Assessment Company #ACO1279 (exp. 2027-05-13)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -35,7 +34,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -54,7 +53,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 136 Chisum Trail Dr, LA Vernia, TX  
-☎ [(210) 693-2467](tel:2106932467)
 
 Mold Remediation Company #RCO1565 (exp. 2027-03-06)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

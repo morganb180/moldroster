@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/mkm-environmental-consulting-llc-ny07
 * Google rating: 5.0 from 157 reviews (as of Oct 30, 2026)
 * Mold Assessment Contractor License (SH125) #25-6I1V4-SHMO (exp. 2027-11-30)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=6296725946953478044&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [mkmenv.com](https://mkmenv.com/contact/), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0795 (goes to MKM Environmental Consulting LLC and up to 2 other nearby licensed pros)
 

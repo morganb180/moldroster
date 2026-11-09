@@ -44,7 +44,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 Licensed firm
 
 4400 Glenview Dr, Haltom City, TX  
-☎ [(817) 589-1421](tel:8175891421)
 
 Mold Remediation Company #RCO0131 (exp. 2028-06-03)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -57,7 +56,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 5718 Airport Fwy, Haltom City, TX  
-☎ [(877) 730-1948](tel:8777301948)
 
 Mold Remediation Company #RCO0149 (exp. 2028-03-14)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -70,7 +68,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 5718 Airport Fwy, Haltom City, TX  
-☎ [(817) 820-7229](tel:8178207229)
 
 Mold Remediation Company #RCO0119 (exp. 2028-01-12)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

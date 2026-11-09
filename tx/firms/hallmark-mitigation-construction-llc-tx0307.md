@@ -16,7 +16,7 @@ canonical: https://moldroster.com/tx/firms/hallmark-mitigation-construction-llc-
 * Google rating: 5.0 from 3 reviews (as of Oct 30, 2026)
 * Mold Remediation Company #RCO1311 (exp. 2027-11-02)
 
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=16702845868079646335&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [hallmark-mc.com](https://hallmark-mc.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=TX0307 (goes to Hallmark Mitigation & Construction LLC and up to 2 other nearby licensed pros)
 

@@ -27,12 +27,10 @@ Listed below: 3 licensed mold assessors (inspection and testing) and 5 licensed 
 Licensed firm
 
 538 Broad Hollow Rd 3rd Floor, Melville, NY  
-☎ [(631) 499-6660](tel:6314996660)
 
 🌐 [fairfieldproperties.com](https://fairfieldproperties.com/)  
-✉ [info@fairfieldproperties.com](mailto:info@fairfieldproperties.com)  
 Google rating 1.5 (82 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2615542989738616406&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [fairfieldproperties.com](https://fairfieldproperties.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Contractor License (SH125) #26-6Z3QC-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -46,10 +44,9 @@ Licensed firm
 
 538 Broadhollow Rd, 4th Floor East, Melville, NY
 
-☎ [(631) 756-8000](tel:6317568000)  
 🌐 [h2m.com](http://www.h2m.com/)  
 Google rating 4.8 (16 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=13655608831842692225&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Contractor License (SH125) #25-6IEQ6-SHMO (exp. 2027-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -62,12 +59,9 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 4 Sleepy Ln, Melville, NY  
-☎ [(917) 434-7707](tel:9174347707)
 
-☎ Google listing: [(844) 525-6454](tel:8445256454)  
 🌐 [kalnikgc.com](https://kalnikgc.com/)  
-✉ [kalnikgc@gmail.com](mailto:kalnikgc@gmail.com)  
-Added by us, not on the state list: phone and website from the firm's [Google Maps listing](https://maps.google.com/?cid=10617524668205872088&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [kalnikgc.com](https://kalnikgc.com/contact-us), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Contractor License (SH125) #25-67QOD-SHMO (exp. 2027-12-31)  
 Mold Remediation Contractor License (SH126) #25-67V4U-SHMO (exp. 2027-11-30)  
@@ -83,12 +77,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 105 Maxess Rd Suite N206, Melville, NY  
-☎ [(718) 606-1076](tel:7186061076)
 
 🌐 [atcocontracting.com](http://www.atcocontracting.com/)  
-✉ [info@atcocontracting.com](mailto:info@atcocontracting.com)  
 Google rating 4.4 (5 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11685557202059389349&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [atcocontracting.com](https://www.atcocontracting.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #24-63O5N-SHMO (exp. 2026-10-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -101,7 +93,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 555 Broadhollow Rd Suite 305, Melville, NY  
-☎ [(407) 214-7772](tel:4072147772)
 
 Mold Remediation Contractor License (SH126) #26-66C4Q-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -114,7 +105,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 201 Mattituck Ct, Melville, NY  
-☎ [(516) 522-4238](tel:5165224238)
 
 Mold Remediation Contractor License (SH126) #24-63LJQ-SHMO (exp. 2026-11-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -127,7 +117,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 49 Old E Neck Rd, Melville, NY  
-☎ [(631) 626-7872](tel:6316267872)
 
 Mold Remediation Contractor License (SH126) #26-69ASN-SHMO (exp. 2028-08-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -140,12 +129,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 25 Melville Park Rd, Suite 142, Melville, NY  
-☎ [(516) 544-9707](tel:5165449707)
 
 🌐 [wpscontractinggroup.com](https://www.wpscontractinggroup.com/)  
-✉ [info@wpscontractinggroup.com](mailto:info@wpscontractinggroup.com)  
 Google rating 4.8 (15 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2462866184097805462&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [wpscontractinggroup.com](https://www.wpscontractinggroup.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #25-6UCSH-SHMO (exp. 2027-07-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

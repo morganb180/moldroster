@@ -15,7 +15,7 @@ canonical: https://moldroster.com/ny/firms/dayton-environmental-testing-llc-ny03
 * Google rating: 4.7 from 20 reviews (as of Oct 30, 2026)
 * Mold Assessment Contractor License (SH125) #26-661VG-SHMO (exp. 2028-04-30)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=16767966856244852438&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Source: https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy, retrieved 2026-10-12. Verify: https://dol.ny.gov/mold-program. Claim / correct: https://moldroster.com/claim-listing/?id=NY0372
 

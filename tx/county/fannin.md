@@ -23,7 +23,6 @@ canonical: https://moldroster.com/tx/county/fannin/
 Licensed firm
 
 584 County Rd 4465, Trenton, TX  
-☎ [(903) 505-0743](tel:9035050743)
 
 Mold Remediation Company #RCO1723 (exp. 2027-09-07)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

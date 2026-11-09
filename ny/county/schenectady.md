@@ -25,7 +25,6 @@ City pages: [Schenectady](https://moldroster.com/ny/city/schenectady/)
 Licensed firm
 
 1282 N Mansion Rd, Duanesburg, NY  
-☎ [(518) 460-1221](tel:5184601221)
 
 Mold Assessment Contractor License (SH125) #26-6SSZ9-SHMO (exp. 2028-02-29)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -38,7 +37,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 258 Autumn Run, Schenectady, NY  
-☎ [(518) 275-8824](tel:5182758824)
 
 Mold Assessment Contractor License (SH125) #24-63AVK-SHMO (exp. 2026-11-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -51,7 +49,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 18 Hemold Dr, Schenectady, NY  
-☎ [(518) 369-0609](tel:5183690609)
 
 Mold Assessment Contractor License (SH125) #24-63E97-SHMO (exp. 2026-10-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -64,12 +61,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 1A Concord Dr, Schenectady, NY  
-☎ [(518) 365-7211](tel:5183657211)
 
 🌐 [enoshomeinspections.com](https://enoshomeinspections.com/)  
-✉ [info@enoshomeinspections.com](mailto:info@enoshomeinspections.com)  
 Google rating 4.9 (64 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15737819039211108755&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [enoshomeinspections.com](https://enoshomeinspections.com/contact/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Contractor License (SH125) #25-6I863-SHMO (exp. 2027-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -82,11 +77,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 18 Cherry Ln, Schenectady, NY  
-☎ [(518) 577-2318](tel:5185772318)
 
 🌐 [gumshoe-home-inspections.com](https://gumshoe-home-inspections.com/)  
 Google rating 5.0 (1 review)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7232922065202746985&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Contractor License (SH125) #24-63N43-SHMO (exp. 2026-10-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -99,7 +93,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 3 Cuthbert St, Schenectady, NY  
-☎ [(518) 917-2245](tel:5189172245)
 
 Mold Remediation Contractor License (SH126) #25-64JTJ-SHMO (exp. 2027-01-31)  
 Mold Assessment Contractor License (SH125) #25-64JTE-SHMO (exp. 2027-01-31)  
@@ -113,7 +106,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 43 Willow Ave, Schenectady, NY  
-☎ [(518) 941-6366](tel:5189416366)
 
 Mold Assessment Contractor License (SH125) #24-637I9-SHMO (exp. 2026-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -126,12 +118,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 2539 Albany St, Schenectady, NY  
-☎ [(518) 346-6374](tel:5183466374)
 
 🌐 [4spectrum.com](http://www.4spectrum.com/)  
-✉ [staff@4spectrum.com](mailto:staff@4spectrum.com)  
 Google rating 5.0 (9 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10223055927778566674&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [4spectrum.com](https://www.4spectrum.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Contractor License (SH125) #26-6I1OU-SHMO (exp. 2028-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -144,7 +134,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 47 Crestwood Dr, Schenectady, NY  
-☎ [(518) 956-0532](tel:5189560532)
 
 Mold Assessment Contractor License (SH125) #26-6Z6NZ-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -161,7 +150,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 4961 Scotch Ridge Rd, Duanesburg, NY  
-☎ [(518) 487-0553](tel:5184870553)
 
 Mold Remediation Contractor License (SH126) #26-66OND-SHMO (exp. 2028-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -174,12 +162,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 1161 Curry Rd, Schenectady, NY  
-☎ [(518) 374-0357](tel:5183740357)
 
 🌐 [accuratepestcontrolny.com](http://accuratepestcontrolny.com/)  
-✉ [services@accuratepestcontrolny.com](mailto:services@accuratepestcontrolny.com)  
 Google rating 4.9 (188 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=9421248518491918385&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [accuratepestcontrolny.com](https://www.accuratepestcontrolny.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #26-6sxbd-shmo (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -192,12 +178,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 1161 Curry Rd, Schenectady, NY  
-☎ [(518) 387-9900](tel:5183879900)
 
 🌐 [accuratewaterandfire.com](https://accuratewaterandfire.com/)  
-✉ [services@accuratewaterandfire.com](mailto:services@accuratewaterandfire.com)  
 Google rating 5.0 (30 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=3485720865612600859&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [accuratewaterandfire.com](https://accuratewaterandfire.com/), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #26-6Z6HD-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -210,12 +194,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 1710 Erie Blvd, Schenectady, NY  
-☎ [(518) 345-5800](tel:5183455800)
 
-☎ Google listing: [(518) 768-9393](tel:5187689393)  
 🌐 [martin-env.com](https://www.martin-env.com/)  
 Google rating 5.0 (1 review)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14905256566628502281&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #25-6475P-SHMO (exp. 2027-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

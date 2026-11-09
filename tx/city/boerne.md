@@ -27,12 +27,10 @@ Listed below: 1 licensed mold assessor (inspection and testing) and 3 licensed m
 Licensed firm
 
 113 Falls Ct Suite 700, Boerne, TX  
-☎ [(702) 712-0985](tel:7027120985)
 
-☎ Google listing: [(830) 816-5434](tel:8308165434)  
 🌐 [broadbentinc.com](http://www.broadbentinc.com/)  
 Google rating 5.0 (1 review)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=1796856495300997041&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Company #ACO1135 (exp. 2028-01-28)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -47,7 +45,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 1415 E Blanco Rd Suite 8, Boerne, TX  
-☎ [(830) 375-1501](tel:8303751501)
 
 Mold Remediation Company #RCO1707 (exp. 2027-07-01)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -60,12 +57,10 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 215 W Bandera Rd Pmb 114-218, Boerne, TX  
-☎ [(844) 333-3200](tel:8443333200)
 
-☎ Google listing: [(844) 569-7004](tel:8445697004)  
 🌐 [restorationsolutionsbyelite.com](https://www.restorationsolutionsbyelite.com/)  
 Google rating 4.9 (134 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4956981732064077450&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Company #RCO1809 (exp. 2028-07-01)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -78,7 +73,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 26254 I-10west, Suite 135, Boerne, TX  
-☎ [(979) 240-6664](tel:9792406664)
 
 Mold Remediation Company #RCO1625 (exp. 2028-04-08)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

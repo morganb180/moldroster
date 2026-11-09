@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/true-restorations-inc-ny1291/
 * Google rating: 4.9 from 158 reviews (as of Oct 30, 2026)
 * Mold Remediation Contractor License (SH126) #26-6A6CT-SHMO (exp. 2028-08-31)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7482189355652344722&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [truerestorations.com](https://truerestorations.com/contact/), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY1291 (goes to True Restorations Inc and up to 2 other nearby licensed pros)
 

@@ -40,13 +40,10 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 Licensed firm
 
 280 W Renner Rd 3513, Richardson, TX  
-☎ [(817) 966-6440](tel:8179666440)
 
-☎ Google listing: [(972) 244-3061](tel:9722443061)  
 🌐 [iesafespace.com](https://www.iesafespace.com/)  
-✉ [info@iesafespace.com](mailto:info@iesafespace.com)  
 Google rating 5.0 (11 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=722196953512108732&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [iesafespace.com](https://www.iesafespace.com/contact/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Company #ACO1197 (exp. 2027-10-06)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -59,7 +56,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 101 S Coit Rd Suite 13638, Richardson, TX  
-☎ [(254) 644-5462](tel:2546445462)
 
 Mold Assessment Company #ACO1283 (exp. 2027-06-16)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -72,7 +68,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 25 Creek Wood Cir, Richardson, TX  
-☎ [(469) 233-0144](tel:4692330144)
 
 Mold Remediation Company #RCO1761 (exp. 2028-02-09)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -85,11 +80,10 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 709 N Glenville Dr Suite 200, Richardson, TX  
-☎ [(214) 774-9599](tel:2147749599)
 
 🌐 [dwwabatement.com](http://www.dwwabatement.com/)  
 Google rating 4.3 (3 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4767733116739576616&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Company #RCO0233 (exp. 2028-03-19)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -102,11 +96,10 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 403 International Pkwy Suite 503, Richardson, TX  
-☎ [(972) 803-5708](tel:9728035708)
 
 🌐 [ratcliffcompanies.com](https://ratcliffcompanies.com/ratcliff-recovery-services/)  
 Google rating 5.0 (17 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4606507138959819347&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Company #RCO1595 (exp. 2027-10-18)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/zavza-seal-llc-ny1494/
 * Google rating: 4.9 from 121 reviews (as of Oct 30, 2026)
 * Mold Remediation Contractor License (SH126) #26-6APQG-SHMO (exp. 2028-05-31)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=8319801928076488822&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [zavzaseal.com](https://zavzaseal.com/), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY1494 (goes to Zavza Seal LLC and up to 2 other nearby licensed pros)
 

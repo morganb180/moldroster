@@ -44,7 +44,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 Licensed firm
 
 95 Jerusalem Ave, Hicksville, NY  
-☎ [(516) 433-8008](tel:5164338008)
 
 Mold Remediation Contractor License (SH126) #24-63TG4-SHMO (exp. 2026-10-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -57,7 +56,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 160 6th St, Hicksville, NY  
-☎ [(917) 594-2637](tel:9175942637)
 
 Mold Remediation Contractor License (SH126) #25-6UJFH-SHMO (exp. 2027-05-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -70,12 +68,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 160 Engineers Dr, Hicksville, NY  
-☎ [(516) 412-6000](tel:5164126000)
 
 🌐 [1800waterdamage.com](https://www.1800waterdamage.com/nassau-county/)  
-✉ [brian.facchin@1800waterdamage.com](mailto:brian.facchin@1800waterdamage.com)  
 Google rating 5.0 (106 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14751410278799239930&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [1800waterdamage.com](https://www.1800waterdamage.com/nassau-county/), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #25-65P96-SHMO (exp. 2027-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

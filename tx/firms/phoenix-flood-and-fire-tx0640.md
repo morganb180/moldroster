@@ -16,7 +16,7 @@ canonical: https://moldroster.com/tx/firms/phoenix-flood-and-fire-tx0640/
 * Google rating: 5.0 from 87 reviews (as of Oct 30, 2026)
 * Mold Remediation Company #RCO1814 (exp. 2028-07-15)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=16234057456396378114&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [phoenixfloodandfires.com](https://phoenixfloodandfires.com/about-us/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=TX0640 (goes to Phoenix Flood and Fire and up to 2 other nearby licensed pros)
 

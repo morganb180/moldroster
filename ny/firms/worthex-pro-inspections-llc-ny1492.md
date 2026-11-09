@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/worthex-pro-inspections-llc-ny1492/
 * Google rating: 5.0 from 201 reviews (as of Oct 30, 2026)
 * Mold Assessment Contractor License (SH125) #26-6AF8B-SHMO (exp. 2028-04-30)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=18358663707098805040&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [worthexpro.com](https://worthexpro.com/), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY1492 (goes to Worthex Pro Inspections LLC and up to 2 other nearby licensed pros)
 

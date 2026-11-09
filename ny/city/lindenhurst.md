@@ -27,12 +27,10 @@ Listed below: 2 licensed mold assessors (inspection and testing) and 3 licensed 
 Licensed firm
 
 215 W Hoffman Ave, Lindenhurst, NY  
-☎ [(631) 557-7700](tel:6315577700)
 
 🌐 [frontlinerestore.com](https://frontlinerestore.com/)  
-✉ [mcompitello@frontlinerestore.com](mailto:mcompitello@frontlinerestore.com)  
 Google rating 5.0 (39 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2573378914399293300&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [frontlinerestore.com](https://frontlinerestore.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Contractor License (SH125) #25-65IOG-SHMO (exp. 2027-05-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -45,7 +43,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 305 W Gates Ave, Lindenhurst, NY  
-☎ [(631) 275-5084](tel:6312755084)
 
 Mold Assessment Contractor License (SH125) #25-67EH8-SHMO (exp. 2027-11-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -60,7 +57,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 235 Farmers Ave, Lindenhurst, NY  
-☎ [(631) 492-6368](tel:6314926368)
 
 Mold Remediation Contractor License (SH126) #26-6I9E7-SHMO (exp. 2028-05-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -73,11 +69,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 840 Wellwood Ave, Lindenhurst, NY  
-☎ [(631) 226-9800](tel:6312269800)
 
 🌐 [flagenterprises.net](http://flagenterprises.net/)  
 Google rating 5.0 (5 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7912456431243273636&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #26-6iO4H-SHMO (exp. 2028-02-29)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -90,12 +85,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 929 Wellwood Ave, Lindenhurst, NY  
-☎ [(631) 757-0212](tel:6317570212)
 
 🌐 [truerestorations.com](http://www.truerestorations.com/)  
-✉ [service@truerestorations.com](mailto:service@truerestorations.com)  
 Google rating 4.9 (158 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7482189355652344722&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [truerestorations.com](https://truerestorations.com/contact/), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #26-6A6CT-SHMO (exp. 2028-08-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

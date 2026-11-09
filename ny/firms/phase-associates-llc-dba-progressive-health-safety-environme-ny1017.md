@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/phase-associates-llc-dba-progressive-
 * Google rating: 4.0 from 4 reviews (as of Oct 30, 2026)
 * Mold Assessment Contractor License (SH125) #25-6LKHU-SHMO (exp. 2027-11-30)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=310515927025958225&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [phaseassociate.com](https://phaseassociate.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY1017 (goes to PHASE Associates, LLC (dba Progressive Health & Safety Environmental) and up to 2 other nearby licensed pros)
 

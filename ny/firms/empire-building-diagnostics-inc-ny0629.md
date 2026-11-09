@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/empire-building-diagnostics-inc-ny062
 * Google rating: 3.8 from 20 reviews (as of Oct 30, 2026)
 * Mold Remediation Contractor License (SH126) #25-6tops-shmo (exp. 2027-05-31)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14786442357484405521&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [ebdinc.com](https://www.ebdinc.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0629 (goes to Empire Building Diagnostics Inc and up to 2 other nearby licensed pros)
 

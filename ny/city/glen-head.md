@@ -27,7 +27,6 @@ Listed below: 2 licensed mold assessors (inspection and testing) and 2 licensed 
 Licensed firm
 
 36 Railroad Ave, Glen Head, NY  
-☎ [(631) 682-7834](tel:6316827834)
 
 Mold Assessment Contractor License (SH125) #26-664GP-SHMO (exp. 2028-05-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -40,7 +39,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 2 Quail Path, Glen Head, NY  
-☎ [(516) 707-5469](tel:5167075469)
 
 Mold Remediation Contractor License (SH126) #25-64XAO-SHMO (exp. 2027-03-31)  
 Mold Assessment Contractor License (SH125) #25-65BSU-SHMO (exp. 2027-03-31)  
@@ -56,7 +54,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 29 Saddle Ln, Glen Head, NY  
-☎ [(917) 817-8221](tel:9178178221)
 
 Mold Remediation Contractor License (SH126) #25-64A8Y-SHMO (exp. 2027-02-28)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -69,12 +66,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 61 Glen Head Rd, Glen Head, NY  
-☎ [(516) 723-9463](tel:5167239463)
 
 🌐 [victoryrestorationandcleaning.com](http://www.victoryrestorationandcleaning.com/)  
-✉ [victoryrestorationinc@gmail.com](mailto:victoryrestorationinc@gmail.com)  
 Google rating 3.9 (15 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=13878722480477064733&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [victoryrestorationandcleaning.com](https://www.victoryrestorationandcleaning.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #25-6IPFT-SHMO (exp. 2027-10-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

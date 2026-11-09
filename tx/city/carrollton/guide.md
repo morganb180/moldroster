@@ -44,12 +44,10 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 Licensed firm
 
 2121 Midway Rd Suite 100, Carrollton, TX  
-☎ [(469) 365-1100](tel:4693651100)
 
 🌐 [apexcos.com](https://apexcos.com/)  
-✉ [info@apexcos.com](mailto:info@apexcos.com)  
 Google rating 4.5 (2 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10460585632605063792&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [apexcos.com](https://apexcos.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Company #ACO1061 (exp. 2028-04-16)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -62,7 +60,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 PO Box 110849, Carrollton, TX  
-☎ [(972) 416-0520](tel:9724160520)
 
 Mold Assessment Company #ACO0112 (exp. 2028-03-13)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -75,12 +72,10 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 2235 Keller Way, Carrollton, TX  
-☎ [(972) 478-7415](tel:9724787415)
 
 🌐 [ihst.com](https://www.ihst.com/)  
-✉ [info@ihst.com](mailto:info@ihst.com)  
 Google rating 5.0 (1 review)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=3356516184703561714&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [ihst.com](https://www.ihst.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Company #ACO0161 (exp. 2028-03-10)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -93,7 +88,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 1625 Crescent Cir Suite 314, Carrollton, TX  
-☎ [(480) 388-7897](tel:4803887897)
 
 Mold Remediation Company #RCO1665 (exp. 2026-11-24)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -106,7 +100,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 1461 Lemay Dr, Carrollton, TX  
-☎ [(972) 670-3520](tel:9726703520)
 
 Mold Remediation Company #RCO1773 (exp. 2028-03-11)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -119,11 +112,10 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 3323 Sam Rayburn Run, Carrollton, TX  
-☎ [(469) 892-6008](tel:4698926008)
 
 🌐 [alphaabatementsolutions.net](http://alphaabatementsolutions.net/)  
 Google rating 5.0 (19 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15547526872151797206&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Company #RCO1543 (exp. 2028-08-28)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

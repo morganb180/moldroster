@@ -15,7 +15,7 @@ canonical: https://moldroster.com/ny/firms/smart-construction-technologies-corp-
 * Website: https://sctech.uno/
 * Mold Remediation Contractor License (SH126) #25-67GZS-SHMO (exp. 2027-11-30)
 
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=16829493545269067943&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [sctech.uno](https://www.sctech.uno/contact), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY1381 (goes to Smart Construction Technologies Corp. and up to 2 other nearby licensed pros)
 

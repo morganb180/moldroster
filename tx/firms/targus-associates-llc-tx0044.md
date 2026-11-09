@@ -16,7 +16,7 @@ canonical: https://moldroster.com/tx/firms/targus-associates-llc-tx0044/
 * Google rating: 5.0 from 1 reviews (as of Oct 30, 2026)
 * Mold Assessment Company #ACO1041 (exp. 2028-03-16)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11932005347487014744&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [targusassociates.com](https://www.targusassociates.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=TX0044 (goes to Targus Associates LLC and up to 2 other nearby licensed pros)
 

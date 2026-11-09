@@ -27,7 +27,6 @@ Listed below: 3 licensed mold assessors (inspection and testing) and 1 licensed 
 Licensed firm
 
 66 Mineola Ave 337, Roslyn Heights, NY  
-☎ [(718) 877-0891](tel:7188770891)
 
 Mold Assessment Contractor License (SH125) #25-64SBR-SHMO (exp. 2027-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -40,7 +39,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 66 Mineola Ave #458, Roslyn Heights, NY  
-☎ [(917) 686-2250](tel:9176862250)
 
 Mold Remediation Contractor License (SH126) #26-67H4S-SHMO (exp. 2028-01-31)  
 Mold Assessment Contractor License (SH125) #26-6SGHF-SHMO (exp. 2028-01-31)  
@@ -54,7 +52,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 56 Sherrard St, Roslyn Heights, NY  
-☎ [(833) 615-1515](tel:8336151515)
 
 Mold Remediation Contractor License (SH126) #26-6Z1FL-SHMO (exp. 2028-03-31)  
 Mold Assessment Contractor License (SH125) #26-6Z1F1-SHMO (exp. 2028-03-31)  
@@ -70,7 +67,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 19 Marwill Pl, Roslyn Heights, NY  
-☎ [(516) 491-1601](tel:5164911601)
 
 Mold Remediation Contractor License (SH126) #24-631QU-SHMO (exp. 2026-10-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

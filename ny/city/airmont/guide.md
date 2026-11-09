@@ -42,7 +42,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 Licensed firm
 
 365 NY-59 # 150, Airmont, NY  
-☎ [(845) 282-1214](tel:8452821214)
 
 Mold Assessment Contractor License (SH125) #26-69J9D-SHMO (exp. 2028-06-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -55,7 +54,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 35 Regina Rd, Airmont, NY  
-☎ [(845) 244-1545](tel:8452441545)
 
 Mold Remediation Contractor License (SH126) #25-65TYY-SHMO (exp. 2027-04-30)  
 Mold Assessment Contractor License (SH125) #25-65O99-SHMO (exp. 2027-04-30)  
@@ -69,7 +67,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 15 Stillo Dr, Airmont, NY  
-☎ [(718) 749-8464](tel:7187498464)
 
 Mold Remediation Contractor License (SH126) #25-6597A-SHMO (exp. 2027-06-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -82,7 +79,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 15 Stillo Dr, Airmont, NY  
-☎ [(718) 749-8464](tel:7187498464)
 
 Mold Remediation Contractor License (SH126) #26-69TB1-SHMO (exp. 2028-07-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -95,12 +91,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 29 Smith Hill Rd, Airmont, NY  
-☎ [(845) 931-4444](tel:8459314444)
 
 🌐 [fastactrestoration.com](https://fastactrestoration.com/)  
-✉ [info@fastactrestoration.com](mailto:info@fastactrestoration.com)  
 Google rating 5.0 (15 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=16408374153629041305&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [fastactrestoration.com](https://fastactrestoration.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #25-6IKIV-SHMO (exp. 2027-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

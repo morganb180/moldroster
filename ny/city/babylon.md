@@ -27,10 +27,9 @@ Listed below: 4 licensed mold assessors (inspection and testing) and 1 licensed 
 Licensed firm
 
 34 Smith St, Babylon, NY  
-☎ [(844) 332-6832](tel:8443326832)
 
 🌐 [etenvironmental.com](https://etenvironmental.com/)  
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=14084615045759228661&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Contractor License (SH125) #26-66QQN-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -43,12 +42,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 114 Whalers Cv, Babylon, NY  
-☎ [(631) 882-4356](tel:6318824356)
 
 🌐 [longislandmoldsolutions.com](https://longislandmoldsolutions.com/)  
-✉ [info@longislandmoldsolutions.com](mailto:info@longislandmoldsolutions.com)  
 Google rating 5.0 (119 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14389699891670469568&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [longislandmoldsolutions.com](https://longislandmoldsolutions.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Contractor License (SH125) #26-63BPF-SHMO (exp. 2028-09-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -61,7 +58,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 67 John St, Babylon, NY  
-☎ [(631) 842-0452](tel:6318420452)
 
 Mold Assessment Contractor License (SH125) #25-6H17O-SHMO (exp. 2027-09-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -74,7 +70,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 28 Lucinda Dr, Babylon, NY  
-☎ [(631) 241-9430](tel:6312419430)
 
 Mold Remediation Contractor License (SH126) #25-64KP9-SHMO (exp. 2027-01-31)  
 Mold Assessment Contractor License (SH125) #25-64QSB-SHMO (exp. 2027-01-31)  
@@ -90,11 +85,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 119 Cooper St, Babylon, NY  
-☎ [(718) 335-0304](tel:7183350304)
 
 🌐 [iaronline.com](https://www.iaronline.com/)  
 Google rating 4.0 (4 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5605146426921837430&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #26-63BDT-SHMO (exp. 2028-08-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

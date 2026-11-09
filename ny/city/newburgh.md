@@ -27,7 +27,6 @@ Listed below: 5 licensed mold assessors (inspection and testing) and 1 licensed 
 Licensed firm
 
 2003 Baldwin Ln, Newburgh, NY  
-☎ [(845) 541-7374](tel:8455417374)
 
 Mold Assessment Contractor License (SH125) #26-6SDEG-SHMO (exp. 2028-01-31)  
 Mold Remediation Contractor License (SH126) #26-6a17a-shmo (exp. 2028-06-30)  
@@ -41,7 +40,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 1781 Route 300, Newburgh, NY  
-☎ [(973) 592-5706](tel:9735925706)
 
 Mold Assessment Contractor License (SH125) #26-6A7QK-SHMO (exp. 2028-04-30)  
 Mold Remediation Contractor License (SH126) #26-6A9VV-SHMO (exp. 2028-04-30)  
@@ -55,7 +53,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 28 Lakeview Dr, Newburgh, NY  
-☎ [(845) 863-3326](tel:8458633326)
 
 Mold Assessment Contractor License (SH125) #25-644B7-SHMO (exp. 2027-02-28)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -68,7 +65,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 16 Harcourt Cosman Dr, Newburgh, NY  
-☎ [(845) 762-2351](tel:8457622351)
 
 Mold Assessment Contractor License (SH125) #26-6ADBD-SHMO (exp. 2028-06-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -81,12 +77,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 4 Gunsch Estate Dr, Newburgh, NY  
-☎ [(845) 564-2349](tel:8455642349)
 
 🌐 [utopiarestoration.com](https://www.utopiarestoration.com/)  
-✉ [info@utopiarestoration.com](mailto:info@utopiarestoration.com)  
 Google rating 5.0 (66 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10122765746792238259&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [utopiarestoration.com](https://utopiarestoration.com/contact-us), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #26-6L5BG-SHMO (exp. 2028-04-30)  
 Mold Assessment Contractor License (SH125) #26-69434-SHMO (exp. 2028-08-31)  
@@ -102,7 +96,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 259 Fostertown Rd Newburgh, NY 12550, Newburgh, NY  
-☎ [(845) 784-6717](tel:8457846717)
 
 Mold Remediation Contractor License (SH126) #25-6t8ij-shmo (exp. 2027-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/athenica-environmental-services-inc-n
 * Google rating: 4.1 from 7 reviews (as of Oct 30, 2026)
 * Mold Assessment Contractor License (SH125) #25-644P4-SHMO (exp. 2027-02-28)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4014588657871122277&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [athenica.com](https://athenica.com/), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0155 (goes to Athenica Environmental Services Inc. and up to 2 other nearby licensed pros)
 

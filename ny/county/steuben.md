@@ -23,12 +23,10 @@ canonical: https://moldroster.com/ny/county/steuben/
 Licensed firm
 
 6810 Industrial Park Rd, Bath, NY  
-☎ [(607) 383-5500](tel:6073835500)
 
 🌐 [momentumenvironmental.com](https://momentumenvironmental.com/environmental-services-bath-ny/)  
-✉ [info@momentumenvironmental.com](mailto:info@momentumenvironmental.com)  
 Google rating 3.9 (7 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=9487953261287698686&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [momentumenvironmental.com](https://momentumenvironmental.com/environmental-services-bath-ny/), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Contractor License (SH125) #25-67OJ8-SHMO (exp. 2027-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -41,7 +39,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 182 Florentia East, Corning, NY  
-☎ [(607) 368-3903](tel:6073683903)
 
 Mold Assessment Contractor License (SH125) #26-66RIR-SHMO (exp. 2028-02-29)  
 Mold Remediation Contractor License (SH126) #26-66RIF-SHMO (exp. 2028-02-29)  

@@ -44,12 +44,10 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 Licensed firm
 
 32302 Tamina Rd A-1, Magnolia, TX  
-☎ [(713) 408-1129](tel:7134081129)
 
 🌐 [houstoninspect.com](http://www.houstoninspect.com/)  
-✉ [office@houstoninspect.com](mailto:office@houstoninspect.com)  
 Google rating 5.0 (474 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2878488337420297662&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [houstoninspect.com](https://www.houstoninspect.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Company #ACO1201 (exp. 2027-12-26)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -62,12 +60,10 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 25906 Nichols Sawmill Rd, Magnolia, TX  
-☎ [(281) 252-0005](tel:2812520005)
 
 🌐 [jespear.com](http://www.jespear.com/)  
-✉ [jerome.spear@jespear.com](mailto:jerome.spear@jespear.com)  
 Google rating 5.0 (5 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=13161809869447853972&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [jespear.com](https://jespear.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Company #ACO1320 (exp. 2028-07-28)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -80,7 +76,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 32607 Fm 2978 Rd Suite C102, Magnolia, TX  
-☎ [(936) 548-0715](tel:9365480715)
 
 Mold Remediation Company #RCO1765 (exp. 2028-02-26)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -93,12 +88,10 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 615 Superior Rd, Magnolia, TX  
-☎ [(936) 321-7205](tel:9363217205)
 
 🌐 [totalrestoration.com](http://www.totalrestoration.com/)  
-✉ [info@totalrestoration.com](mailto:info@totalrestoration.com)  
 Google rating 4.7 (63 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10635455259876316066&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [totalrestoration.com](https://totalrestoration.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Company #RCO1206 (exp. 2028-08-04)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -111,7 +104,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 32014 Tamina Rd, Magnolia, TX  
-☎ [(832) 460-5535](tel:8324605535)
 
 Mold Remediation Company #RCO1266 (exp. 2028-10-31)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

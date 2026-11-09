@@ -27,7 +27,6 @@ Listed below: 2 licensed mold assessors (inspection and testing) and 2 licensed 
 Licensed firm
 
 421 Ben Boyd Rd, Argyle, TX  
-☎ [(817) 673-8499](tel:8176738499)
 
 Mold Assessment Company #ACO1270 (exp. 2027-01-30)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -40,11 +39,10 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 516 Forest Trl, Argyle, TX  
-☎ [(940) 597-2673](tel:9405972673)
 
 🌐 [precisionenviro.net](https://precisionenviro.net/locations/precision-environmental-service-flower-mound-tx/)  
 Google rating 3.9 (14 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7127076264936816522&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Company #ACO1271 (exp. 2027-03-04)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -59,7 +57,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 200 Mosswood Dr, Argyle, TX  
-☎ [(972) 259-0222](tel:9722590222)
 
 Mold Remediation Company #RCO1801 (exp. 2028-06-08)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -72,7 +69,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 421 Ben Boyd Rd, Argyle, TX  
-☎ [(817) 673-8499](tel:8176738499)
 
 Mold Remediation Company #RCO1667 (exp. 2026-12-05)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

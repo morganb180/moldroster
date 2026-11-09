@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/certaclean-restoration-llc-ny0285/
 * Google rating: 5.0 from 25 reviews (as of Oct 30, 2026)
 * Mold Remediation Contractor License (SH126) #25-646XL-SHMO (exp. 2027-03-31)
 
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10089527908647233355&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [certacleanrestoration.com](https://certacleanrestoration.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0285 (goes to CertaClean Restoration LLC and up to 2 other nearby licensed pros)
 

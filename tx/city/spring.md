@@ -27,10 +27,9 @@ Listed below: 2 licensed mold assessors (inspection and testing) and 5 licensed 
 Licensed firm
 
 22720 Lain Rd, Spring, TX  
-☎ [(832) 953-2899](tel:8329532899)
 
 🌐 [pointalliancesolutions.com](http://www.pointalliancesolutions.com/contactus.html)  
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=17237983593192779428&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Company #ACO1146 (exp. 2027-05-07)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -43,11 +42,10 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 26406 Pine Canyon Dr, Spring, TX  
-☎ [(713) 249-8581](tel:7132498581)
 
 🌐 [preferredhomeservices.expert](http://www.preferredhomeservices.expert/)  
 Google rating 4.6 (9 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14068759642559388194&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Company #ACO1094 (exp. 2027-03-20)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -62,13 +60,10 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 26310 Oak Ridge Dr Suite 36, Spring, TX  
-☎ [(832) 347-3551](tel:8323473551)
 
-☎ Google listing: [(281) 821-9111](tel:2818219111)  
 🌐 [aaci.us](https://www.aaci.us/)  
-✉ [bill@aaci.us](mailto:bill@aaci.us)  
 Google rating 5.0 (2 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7769159601344891324&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [aaci.us](https://www.aaci.us/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Company #RCO1403 (exp. 2027-11-13)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -81,7 +76,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 2303 Sprink Lake Park Ln, Spring, TX  
-☎ [(713) 560-0153](tel:7135600153)
 
 Mold Remediation Company #RCO1824 (exp. 2028-09-14)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -94,7 +88,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 25702 Aldine Westfield Rd Suite 1102, Spring, TX  
-☎ [(833) 463-7989](tel:8334637989)
 
 Mold Remediation Company #RCO1256 (exp. 2028-07-22)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -107,7 +100,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 7200 Spring Cypress Rd, Spring, TX  
-☎ [(832) 249-4533](tel:8322494533)
 
 Mold Remediation Company #RCO0132 (exp. 2028-02-03)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -120,7 +112,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 1411 Wunsche Loop Unit 2435, Spring, TX  
-☎ [(832) 928-9332](tel:8329289332)
 
 Mold Remediation Company #RCO1273 (exp. 2028-11-01)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

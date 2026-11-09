@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/kpm-restoration-inc-ny0767/
 * Google rating: 4.9 from 244 reviews (as of Oct 30, 2026)
 * Mold Remediation Contractor License (SH126) #25-64ZI3-SHMO (exp. 2027-02-28)
 
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11592474334623368700&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [kpmrestoration.com](https://kpmrestoration.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0767 (goes to KPM Restoration, Inc. and up to 2 other nearby licensed pros)
 

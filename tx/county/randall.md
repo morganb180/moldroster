@@ -23,7 +23,6 @@ canonical: https://moldroster.com/tx/county/randall/
 Licensed firm
 
 PO Box 7738, Amarillo, TX  
-☎ [(806) 570-9501](tel:8065709501)
 
 Mold Remediation Company #RCO1776 (exp. 2028-03-15)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -36,7 +35,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 16701 Sping Lake Dr, Canyon, TX  
-☎ [(806) 994-8694](tel:8069948694)
 
 Mold Remediation Company #RCO1787 (exp. 2028-04-14)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -48,7 +46,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -62,7 +60,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 

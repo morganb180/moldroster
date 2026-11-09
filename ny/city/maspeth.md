@@ -27,7 +27,6 @@ Listed below: 2 licensed mold assessors (inspection and testing) and 5 licensed 
 Licensed firm
 
 55-10 68th St 2nd Floor, Maspeth, NY  
-☎ [(718) 608-7073](tel:7186087073)
 
 Mold Assessment Contractor License (SH125) #25-6HU41-SHMO (exp. 2027-09-30)  
 Mold Remediation Contractor License (SH126) #25-6HU4U-SHMO (exp. 2027-09-30)  
@@ -41,11 +40,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 66-47 Grand Ave 2nd Floor, Maspeth, NY  
-☎ [(929) 418-5281](tel:9294185281)
 
 🌐 [aesnys.com](https://aesnys.com/)  
 Google rating 5.0 (20 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5290694316113497173&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #26-63BB8-SHMO (exp. 2028-07-31)  
 Mold Assessment Contractor License (SH125) #26-63BY7-SHMO (exp. 2028-07-31)  
@@ -61,10 +59,9 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 59-11 56th St, Maspeth, NY  
-☎ [(718) 366-2090](tel:7183662090)
 
 Google rating 4.3 (3 reviews)  
-Added by us, not on the state list: rating from the firm's [Google Maps listing](https://maps.google.com/?cid=336841843444123121&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #25-6LUQP-SHMO (exp. 2027-10-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -77,7 +74,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 6973 Grand Ave, Maspeth, NY  
-☎ [(929) 417-6776](tel:9294176776)
 
 Mold Remediation Contractor License (SH126) #26-66476-SHMO (exp. 2028-05-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -90,11 +86,9 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 5430 44th St, Maspeth, NY  
-☎ [(888) 723-2325](tel:8887232325)
 
 🌐 [maspethenvironmental.com](https://www.maspethenvironmental.com/)  
-✉ [info@maspethenvironmental.com](mailto:info@maspethenvironmental.com)  
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=13557979197365989491&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [maspethenvironmental.com](https://maspethenvironmental.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #24-63L75-SHMO (exp. 2026-11-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -107,7 +101,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 68-10 52nd Dr, Maspeth, NY  
-☎ [(917) 828-4025](tel:9178284025)
 
 Mold Remediation Contractor License (SH126) #25-6TKWC-SHMO (exp. 2027-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -120,12 +113,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 51-05 Flushing Ave Suite 405, Maspeth, NY  
-☎ [(718) 326-0125](tel:7183260125)
 
 🌐 [nyinsulates.com](http://www.nyinsulates.com/)  
-✉ [reception@nyinsulates.com](mailto:reception@nyinsulates.com)  
 Google rating 4.2 (24 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=16672294721814738144&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [nyinsulates.com](https://www.nyinsulates.com/contact-us), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #26-6ZE64-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

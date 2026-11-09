@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/rensselaer-polytechnic-institute-ny11
 * Google rating: 4.5 from 381 reviews (as of Oct 30, 2026)
 * Mold Assessment Contractor License (SH125) #24-633ZS-SHMO (exp. 2026-11-30)
 
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11914601653465993986&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [rpi.edu](https://www.rpi.edu/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Source: https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy, retrieved 2026-10-12. Verify: https://dol.ny.gov/mold-program. Claim / correct: https://moldroster.com/claim-listing/?id=NY1180
 

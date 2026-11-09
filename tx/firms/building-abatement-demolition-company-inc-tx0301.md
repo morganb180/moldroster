@@ -15,7 +15,7 @@ canonical: https://moldroster.com/tx/firms/building-abatement-demolition-company
 * Website: https://badcompany-inc.com/contact-us/
 * Mold Remediation Company #RCO1302 (exp. 2027-08-21)
 
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=14340904061196656075&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [badcompany-inc.com](https://badcompany-inc.com/contact-us/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=TX0301 (goes to Building Abatement Demolition Company Inc and up to 2 other nearby licensed pros)
 

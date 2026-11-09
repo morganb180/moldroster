@@ -16,7 +16,7 @@ canonical: https://moldroster.com/tx/firms/indoor-environmental-safe-space-netwo
 * Google rating: 5.0 from 11 reviews (as of Oct 30, 2026)
 * Mold Assessment Company #ACO1197 (exp. 2027-10-06)
 
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=722196953512108732&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [iesafespace.com](https://www.iesafespace.com/contact/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=TX0107 (goes to Indoor Environmental Safe Space Network, Corp and up to 2 other nearby licensed pros)
 

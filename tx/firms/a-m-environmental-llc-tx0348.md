@@ -16,7 +16,7 @@ canonical: https://moldroster.com/tx/firms/a-m-environmental-llc-tx0348/
 * Google rating: 5.0 from 2 reviews (as of Oct 30, 2026)
 * Mold Remediation Company #RCO1418 (exp. 2028-04-15)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=12285664316389800490&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [aandmenvironmental.com](https://aandmenvironmental.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=TX0348 (goes to A&m Environmental, LLC and up to 2 other nearby licensed pros)
 

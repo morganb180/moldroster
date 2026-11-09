@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/prime-environmental-nj-llc-ny1095/
 * Google rating: 5.0 from 24 reviews (as of Oct 30, 2026)
 * Mold Assessment Contractor License (SH125) #26-693HR-SHMO (exp. 2028-08-31)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15788480201052634445&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [primeenvironmental.co](https://primeenvironmental.co/), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY1095 (goes to Prime Environmental NJ LLC and up to 2 other nearby licensed pros)
 

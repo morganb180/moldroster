@@ -27,7 +27,6 @@ Listed below: 4 licensed mold assessors (inspection and testing) and 1 licensed 
 Licensed firm
 
 35 E Grove St, Massapequa, NY  
-☎ [(631) 704-2774](tel:6317042774)
 
 Mold Assessment Contractor License (SH125) #26-69OQR-SHMO (exp. 2028-07-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -40,7 +39,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 2 Trebor Rd, Massapequa, NY  
-☎ [(347) 671-2654](tel:3476712654)
 
 Mold Assessment Contractor License (SH125) #26-6scb7-shmo (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -53,7 +51,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 8 E Willow St, Massapequa, NY  
-☎ [(516) 303-5425](tel:5163035425)
 
 Mold Assessment Contractor License (SH125) #26-6LOFS-SHMO (exp. 2028-02-29)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -66,12 +63,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 5680 Merrick Rd, Massapequa, NY  
-☎ [(631) 290-8025](tel:6312908025)
 
-☎ Google listing: [(631) 455-9455](tel:6314559455)  
 🌐 [northeastrestorationny.com](http://www.northeastrestorationny.com/)  
 Google rating 5.0 (34 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11712630798325443714&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #24-63ON9-SHMO (exp. 2026-10-31)  
 Mold Assessment Contractor License (SH125) #24-63ODB-SHMO (exp. 2026-10-31)  
@@ -87,7 +82,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 137 Greenwood Dr, Massapequa, NY  
-☎ [(516) 509-6623](tel:5165096623)
 
 Mold Remediation Contractor License (SH126) #25-64PHJ-SHMO (exp. 2027-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

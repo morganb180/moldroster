@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/homexpert-property-services-llc-ny068
 * Google rating: 5.0 from 1 reviews (as of Oct 30, 2026)
 * Mold Assessment Contractor License (SH125) #25-6tp94-shmo (exp. 2027-05-31)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10849897072706960509&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [homexpertinc.com](https://www.homexpertinc.com/contact), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0682 (goes to Homexpert Property Services LLC and up to 2 other nearby licensed pros)
 

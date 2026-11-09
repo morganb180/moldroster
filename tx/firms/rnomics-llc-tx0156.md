@@ -16,7 +16,7 @@ canonical: https://moldroster.com/tx/firms/rnomics-llc-tx0156/
 * Google rating: 5.0 from 1 reviews (as of Oct 30, 2026)
 * Mold Assessment Company #ACO1278 (exp. 2027-05-07)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7064840356968379462&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [risknomicsllc.com](https://www.risknomicsllc.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=TX0156 (goes to Rnomics, LLC and up to 2 other nearby licensed pros)
 

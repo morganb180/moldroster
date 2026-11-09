@@ -27,7 +27,6 @@ Listed below: 3 licensed mold assessors (inspection and testing) and 3 licensed 
 Licensed firm
 
 194 E Chester St, Kingston, NY  
-☎ [(845) 216-7833](tel:8452167833)
 
 Mold Assessment Contractor License (SH125) #24-63SO6-SHMO (exp. 2026-11-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -40,7 +39,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 3130 State Route 209, Kingston, NY  
-☎ [(845) 303-0400](tel:8453030400)
 
 Mold Assessment Contractor License (SH125) #24-63Q31-SHMO (exp. 2026-10-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -53,7 +51,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 985 Morton Blvd, Kingston, NY  
-☎ [(845) 668-4081](tel:8456684081)
 
 Mold Assessment Contractor License (SH125) #25-6HCIC-SHMO (exp. 2027-08-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -68,11 +65,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 844 Nicholas Ave, Kingston, NY  
-☎ [(845) 481-5200](tel:8454815200)
 
 🌐 [armormoldremediation.com](https://armormoldremediation.com/)  
 Google rating 4.9 (30 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=12332768625203739543&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #25-65VOD-SHMO (exp. 2027-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -85,7 +81,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 61 Wilson Ave, Kingston, NY  
-☎ [(845) 750-3836](tel:8457503836)
 
 Mold Remediation Contractor License (SH126) #25-6TKKS-SHMO (exp. 2027-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -98,12 +93,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 625 NY 28, Kingston, NY  
-☎ [(845) 481-9060](tel:8454819060)
 
 🌐 [puroclean.com](https://www.puroclean.com/kingston-ny-puroclean-professional-restoration)  
-✉ [prny@puroclean.com](mailto:prny@puroclean.com)  
 Google rating 4.7 (81 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10838681290869790582&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [puroclean.com](https://www.puroclean.com/kingston-ny-puroclean-professional-restoration/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #26-6SSTY-SHMO (exp. 2028-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

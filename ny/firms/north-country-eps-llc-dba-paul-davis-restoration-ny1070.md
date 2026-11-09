@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/north-country-eps-llc-dba-paul-davis-
 * Google rating: 4.9 from 141 reviews (as of Oct 30, 2026)
 * Mold Remediation Contractor License (SH126) #26-6ZUVE-SHMO (exp. 2028-03-31)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=1678696633069812247&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [north-country.pauldavis.com](https://north-country.pauldavis.com/contact-us/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY1070 (goes to North Country EPS LLC (dba Paul Davis Restoration) and up to 2 other nearby licensed pros)
 

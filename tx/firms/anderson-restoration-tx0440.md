@@ -16,7 +16,7 @@ canonical: https://moldroster.com/tx/firms/anderson-restoration-tx0440/
 * Google rating: 4.8 from 176 reviews (as of Oct 30, 2026)
 * Mold Remediation Company #RCO1584 (exp. 2027-08-23)
 
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=1979684924217142903&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [andersonrestore.com](https://andersonrestore.com/contact-us/), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=TX0440 (goes to Anderson Restoration and up to 2 other nearby licensed pros)
 

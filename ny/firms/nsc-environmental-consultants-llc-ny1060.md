@@ -15,7 +15,7 @@ canonical: https://moldroster.com/ny/firms/nsc-environmental-consultants-llc-ny1
 * Website: http://nscenviro.com/
 * Mold Assessment Contractor License (SH125) #25-6ICUX-SHMO (exp. 2027-12-31)
 
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=9948453641729610764&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [nscenviro.com](https://nscenviro.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY1060 (goes to NSC Environmental Consultants LLC and up to 2 other nearby licensed pros)
 

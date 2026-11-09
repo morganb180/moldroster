@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/maxwell-home-inspection-services-llc-
 * Google rating: 4.3 from 3 reviews (as of Oct 30, 2026)
 * Mold Assessment Contractor License (SH125) #25-6UWFS-SHMO (exp. 2027-09-30)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4056121710208219172&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [maxwellhomeinspections.com](https://www.maxwellhomeinspections.com/contact-home-inspector), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0978 (goes to Maxwell Home Inspection Services LLC and up to 2 other nearby licensed pros)
 

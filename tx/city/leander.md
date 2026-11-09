@@ -27,11 +27,9 @@ Listed below: 4 licensed mold remediators with an address in Leander. Listings h
 Licensed firm
 
 1621 County Rd 269, Leander, TX  
-☎ [(512) 778-6069](tel:5127786069)
 
 🌐 [badcompany-inc.com](https://badcompany-inc.com/contact-us/)  
-✉ [info@badcompany-inc.com](mailto:info@badcompany-inc.com)  
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=14340904061196656075&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [badcompany-inc.com](https://badcompany-inc.com/contact-us/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Company #RCO1302 (exp. 2027-08-21)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -44,7 +42,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 10824 E Crystall Falls Pkwy Unit 301, Leander, TX  
-☎ [(512) 456-7173](tel:5124567173)
 
 Mold Remediation Company #RCO1820 (exp. 2028-08-20)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -57,7 +54,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 777 County Rd 270 Unit 102, Leander, TX  
-☎ [(737) 222-7337](tel:7372227337)
 
 Mold Remediation Company #RCO1760 (exp. 2028-02-03)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -70,10 +66,9 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 PO Box 1581, Leander, TX  
-☎ [(512) 260-7171](tel:5122607171)
 
 Google rating 2.8 (12 reviews)  
-Added by us, not on the state list: rating from the firm's [Google Maps listing](https://maps.google.com/?cid=824157535225556370&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Company #RCO0104 (exp. 2028-02-15)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

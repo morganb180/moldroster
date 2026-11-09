@@ -16,7 +16,7 @@ canonical: https://moldroster.com/tx/firms/sems-inc-tx0119/
 * Google rating: 4.6 from 20 reviews (as of Oct 30, 2026)
 * Mold Assessment Company #ACO1229 (exp. 2027-09-05)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2037736660283574274&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [semsinc.net](https://www.semsinc.net/about/locations/baton-rouge/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=TX0119 (goes to Sems, Inc. and up to 2 other nearby licensed pros)
 

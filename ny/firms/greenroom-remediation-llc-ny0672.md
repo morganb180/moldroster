@@ -17,7 +17,7 @@ canonical: https://moldroster.com/ny/firms/greenroom-remediation-llc-ny0672/
 * Mold Assessment Contractor License (SH125) #25-65XPN-SHMO (exp. 2027-04-30)
 * Mold Remediation Contractor License (SH126) #25-6S44B-SHMO (exp. 2027-12-31)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2730158660661025582&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [agreenroom.com](https://www.agreenroom.com/contact-us/), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0672 (goes to GreenRoom Remediation LLC and up to 2 other nearby licensed pros)
 

@@ -17,7 +17,7 @@ canonical: https://moldroster.com/ny/firms/indoor-air-professionals-inc-ny0689/
 * Mold Remediation Contractor License (SH126) #26-6ZEDJ-SHMO (exp. 2028-02-29)
 * Mold Assessment Contractor License (SH125) #26-6ZENJ-SHMO (exp. 2028-02-29)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=8357765357032264309&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [indoorairpro.com](https://indoorairpro.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0689 (goes to Indoor Air Professionals Inc and up to 2 other nearby licensed pros)
 

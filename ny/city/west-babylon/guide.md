@@ -44,7 +44,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 Licensed firm
 
 1219 7th St, West Babylon, NY  
-☎ [(631) 587-5300](tel:6315875300)
 
 Mold Remediation Contractor License (SH126) #26-69F5N-SHMO (exp. 2028-06-30)  
 Mold Assessment Contractor License (SH125) #26-69F5B-SHMO (exp. 2028-06-30)  
@@ -58,7 +57,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 543 15th St, West Babylon, NY  
-☎ [(855) 372-5234](tel:8553725234)
 
 Mold Assessment Contractor License (SH125) #26-69XIG-SHMO (exp. 2028-07-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -71,13 +69,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 151 Lafayette Rd, West Babylon, NY  
-☎ [(631) 422-2100](tel:6314222100)
 
-☎ Google listing: [(631) 920-3995](tel:6319203995)  
 🌐 [advancedrestoration.com](http://www.advancedrestoration.com/)  
-✉ [info@advancedrestoration.com](mailto:info@advancedrestoration.com)  
 Google rating 4.8 (50 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=1107382139933360570&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [advancedrestoration.com](https://www.advancedrestoration.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #26-6SQKR-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -90,7 +85,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 504 14th St, West Babylon, NY  
-☎ [(646) 210-7938](tel:6462107938)
 
 Mold Remediation Contractor License (SH126) #26-66C6Y-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -103,7 +97,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 411 Broadway, West Babylon, NY  
-☎ [(631) 661-3802](tel:6316613802)
 
 Mold Remediation Contractor License (SH126) #26-6ZXGO-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

@@ -15,7 +15,7 @@ canonical: https://moldroster.com/ny/firms/aim-environmental-llc-ny0016/
 * Website: http://aimenvironment.com/contact-us/
 * Mold Assessment Contractor License (SH125) #26-6SSLN-SHMO (exp. 2028-02-29)
 
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=16816495953442336619&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [aimenvironment.com](https://aimenvironment.com/contact-us/), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0016 (goes to AIM Environmental LLC and up to 2 other nearby licensed pros)
 

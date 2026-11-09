@@ -27,7 +27,6 @@ Listed below: 1 licensed mold assessor (inspection and testing) and 5 licensed m
 Licensed firm
 
 94 Prairie Ln, Levittown, NY  
-☎ [(516) 282-6869](tel:5162826869)
 
 Mold Assessment Contractor License (SH125) #24-63UKB-SHMO (exp. 2026-10-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -42,7 +41,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 68 Blacksmith Rd, Levittown, NY  
-☎ [(516) 507-9214](tel:5165079214)
 
 Mold Remediation Contractor License (SH126) #24-637S6-SHMO (exp. 2026-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -55,7 +53,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 3947 Miller Pl, Levittown, NY  
-☎ [(646) 578-2473](tel:6465782473)
 
 Mold Remediation Contractor License (SH126) #25-6TPQC-SHMO (exp. 2027-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -68,7 +65,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 152 Milton Ave, Levittown, NY  
-☎ [(917) 200-8383](tel:9172008383)
 
 Mold Remediation Contractor License (SH126) #25-6TQGA-SHMO (exp. 2027-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -81,7 +77,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 37 Coachman Ln, Levittown, NY  
-☎ [(347) 735-7861](tel:3477357861)
 
 Mold Remediation Contractor License (SH126) #25-6LKKE-SHMO (exp. 2027-10-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -94,7 +89,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 264 Center Ln, Levittown, NY  
-☎ [(516) 749-2792](tel:5167492792)
 
 Mold Remediation Contractor License (SH126) #25-659P7-SHMO (exp. 2027-06-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
