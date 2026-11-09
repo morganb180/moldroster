@@ -15,7 +15,7 @@ canonical: https://moldroster.com/ny/firms/enviro-cleaning-inc-ny0512/
 * Website: http://envirocleaninginc.com/
 * Mold Remediation Contractor License (SH126) #26-6AS1G-SHMO (exp. 2028-08-31)
 
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=4029148520731966443&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [envirocleaninginc.com](https://www.envirocleaninginc.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0512 (goes to Enviro Cleaning Inc. and up to 2 other nearby licensed pros)
 

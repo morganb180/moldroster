@@ -27,11 +27,10 @@ Listed below: 1 licensed mold assessor (inspection and testing) and 5 licensed m
 Licensed firm
 
 85-55 115th St, Apt Super, Richmond Hill, NY  
-☎ [(646) 773-4707](tel:6467734707)
 
 🌐 [usmapir.org](https://usmapir.org/details/painting-guys-inc--ChIJAa3)  
 Google rating 5.0 (2 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=9752171340469383345&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Contractor License (SH125) #25-6HXKT-SHMO (exp. 2027-08-31)  
 Mold Remediation Contractor License (SH126) #25-618GD-SHMO (exp. 2027-08-31)  
@@ -47,7 +46,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 89-35 120th St, Richmond Hill, NY  
-☎ [(646) 932-5961](tel:6469325961)
 
 Mold Remediation Contractor License (SH126) #26-6Z198-SHMO (exp. 2028-02-29)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -60,7 +58,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 9442 121st St #2 Floor, Richmond Hill, NY  
-☎ [(929) 434-2140](tel:9294342140)
 
 Mold Remediation Contractor License (SH126) #25-61VCZ-SHMO (exp. 2027-10-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -73,7 +70,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 8722 124th St Floor 1, Richmond Hill, NY  
-☎ [(929) 600-1428](tel:9296001428)
 
 Mold Remediation Contractor License (SH126) #26-61VC4-SHMO (exp. 2028-08-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -86,7 +82,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 123-19 Hillside Ave, Richmond Hill, NY  
-☎ [(718) 772-4644](tel:7187724644)
 
 Mold Remediation Contractor License (SH126) #26-66IG6-SHMO (exp. 2028-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -99,7 +94,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 8934 118th St, Richmond Hill, NY  
-☎ [(929) 386-6688](tel:9293866688)
 
 Mold Remediation Contractor License (SH126) #25-6TPZY-SHMO (exp. 2027-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

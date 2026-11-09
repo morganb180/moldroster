@@ -15,7 +15,7 @@ canonical: https://moldroster.com/tx/firms/langan-engineering-and-environmental-
 * Google rating: 4.7 from 14 reviews (as of Oct 30, 2026)
 * Mold Assessment Company #ACO1262 (exp. 2028-10-06)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=1581020075690002774&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0140
 

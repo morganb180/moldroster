@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/firms/qc-laboratories-inc-tx0045/
 * Google rating: 3.7 from 6 reviews (as of Oct 30, 2026)
 * Mold Assessment Company #ACO1047 (exp. 2027-05-21)
 
-Added by us, not on the state list: rating from the firm's [Google Maps listing](https://maps.google.com/?cid=16892038344756219041&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0045
 

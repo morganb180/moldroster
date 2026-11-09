@@ -23,7 +23,6 @@ canonical: https://moldroster.com/ny/county/chemung/
 Licensed firm
 
 1164 W Water St, Elmira, NY, NY  
-☎ [(607) 333-5042](tel:6073335042)
 
 Mold Assessment Contractor License (SH125) #26-6I63G-SHMO (exp. 2028-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -36,12 +35,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 Grand Central Ave, Horseheads, NY  
-☎ [(607) 426-6242](tel:6074266242)
 
 🌐 [precisioninspect.com](http://www.precisioninspect.com/)  
-✉ [info@precisioninspect.com](mailto:info@precisioninspect.com)  
 Google rating 4.9 (628 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=6196133182374940468&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [precisioninspect.com](https://www.precisioninspect.com/contact/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Contractor License (SH125) #25-6TQEJ-SHMO (exp. 2027-05-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -56,7 +53,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 1619 Grand Central Ave, Elmira, NY  
-☎ [(607) 331-1198](tel:6073311198)
 
 Mold Remediation Contractor License (SH126) #26-6LJJ1-SHMO (exp. 2028-05-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -69,13 +65,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 2300 Grand Central Ave, Horseheads, NY  
-☎ [(607) 442-6653](tel:6074426653)
 
-☎ Google listing: [(607) 357-6311](tel:6073576311)  
 🌐 [nynextgen.com](http://www.nynextgen.com/)  
-✉ [info@nynextgen.com](mailto:info@nynextgen.com)  
 Google rating 5.0 (73 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=9648995383521551493&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [nynextgen.com](https://nynextgen.com/about-us/careers/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #24-64FFK-SHMO (exp. 2026-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

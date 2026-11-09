@@ -44,10 +44,9 @@ Summary of 16 Texas Administrative Code Chapter 78 (Texas Mold Assessment and Re
 Licensed firm
 
 6595 Strahan, El Paso, TX  
-☎ [(915) 243-7088](tel:9152437088)
 
 Google rating 5.0 (2 reviews)  
-Added by us, not on the state list: rating from the firm's [Google Maps listing](https://maps.google.com/?cid=13597574724345057568&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Company #ACO1091 (exp. 2027-08-27)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -60,12 +59,10 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 13291 Montana Ave, El Paso, TX  
-☎ [(915) 838-1188](tel:9158381188)
 
 🌐 [lpscientific.com](https://www.lpscientific.com/)  
-✉ [rparra@lpscientific.com](mailto:rparra@lpscientific.com)  
 Google rating 4.8 (4 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=3564010470563817425&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [lpscientific.com](https://www.lpscientific.com/contact.html), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Company #ACO1031 (exp. 2027-06-25)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -78,12 +75,10 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 1409 Montana 1409 Montana Ave, El Paso, TX  
-☎ [(915) 533-8840](tel:9155338840)
 
 🌐 [suncityanalyticalinc.com](http://www.suncityanalyticalinc.com/)  
-✉ [monicoacuna@gmail.com](mailto:monicoacuna@gmail.com)  
 Google rating 4.1 (10 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11431925985660412938&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [suncityanalyticalinc.com](https://suncityanalyticalinc.com/about-us/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Company #ACO0127 (exp. 2028-01-23)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -96,7 +91,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 4584 Ripley Dr Suite 9, El Paso, TX  
-☎ [(915) 234-2614](tel:9152342614)
 
 Mold Remediation Company #RCO1412 (exp. 2028-04-13)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -109,12 +103,10 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 1004 Diesel Dr, El Paso, TX  
-☎ [(915) 860-8855](tel:9158608855)
 
 🌐 [borderdemo-enviro.com](http://www.borderdemo-enviro.com/)  
-✉ [raul@borderdemo-enviro.com](mailto:raul@borderdemo-enviro.com)  
 Google rating 4.2 (5 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=18343639193547771913&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [borderdemo-enviro.com](https://www.borderdemo-enviro.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Company #RCO1026 (exp. 2028-06-24)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -127,11 +119,9 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 5701 N Stanton, El Paso, TX  
-☎ [(833) 601-4010](tel:8336014010)
 
 🌐 [cleanpathrestoration.com](https://www.cleanpathrestoration.com/)  
-✉ [workorders@cleanpathrestoration.com](mailto:workorders@cleanpathrestoration.com)  
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=14173530629854726260&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [cleanpathrestoration.com](https://www.cleanpathrestoration.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Company #RCO1778 (exp. 2028-03-16)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

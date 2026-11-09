@@ -25,7 +25,6 @@ City pages: [Niagara Falls](https://moldroster.com/ny/city/niagara-falls/)
 Licensed firm
 
 2414 Niagara Rd, Niagara Falls, NY  
-☎ [(716) 731-9621](tel:7167319621)
 
 Mold Assessment Contractor License (SH125) #26-6ZQ97-SHMO (exp. 2028-02-29)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -42,10 +41,9 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 763 Cayuga St Suite 2, Lewiston, NY  
-☎ [(716) 754-2610](tel:7167542610)
 
 🌐 [americanenvcorp.com](http://www.americanenvcorp.com/)  
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=12137759990543636633&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #26-6ANSJ-SHMO (exp. 2028-05-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -58,11 +56,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 2368 Maryland Ave, Niagara Falls, NY  
-☎ [(716) 282-5244](tel:7162825244)
 
 🌐 [markcerrone.com](http://www.markcerrone.com/)  
 Google rating 3.6 (13 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7788917868271251556&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #26-6AR34-SHMO (exp. 2028-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -75,11 +72,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 2939 Lockport Rd, Niagara Falls, NY  
-☎ [(716) 285-9280](tel:7162859280)
 
 🌐 [metroenvironmental.com](http://www.metroenvironmental.com/)  
 Google rating 5.0 (5 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14566791236487478584&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #26-6IPGH-SHMO (exp. 2028-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -92,12 +88,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 6281 Wendt Dr, Niagara Falls, NY  
-☎ [(716) 284-3366](tel:7162843366)
 
 🌐 [redwny.com](https://redwny.com/)  
-✉ [rico@redwny.com](mailto:rico@redwny.com)  
 Google rating 4.1 (9 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14470473703076980843&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [redwny.com](https://redwny.com/contact-us/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #25-6LOS6-SHMO (exp. 2027-11-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -110,10 +104,9 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 909 Oliver St, North Tonawanda, NY  
-☎ [(716) 699-3336](tel:7166993336)
 
 Google rating 5.0 (10 reviews)  
-Added by us, not on the state list: rating from the firm's [Google Maps listing](https://maps.google.com/?cid=3523030443036521760&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #26-6Z589-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -126,12 +119,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 3445 Niagara Falls Blvd, North Tonawanda, NY  
-☎ [(716) 694-2424](tel:7166942424)
 
 🌐 [watercleanupexperts.com](https://watercleanupexperts.com/)  
-✉ [service@watercleanupexperts.com](mailto:service@watercleanupexperts.com)  
 Google rating 5.0 (153 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=9628747798118099450&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [watercleanupexperts.com](https://watercleanupexperts.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #26-67HX4-SHMO (exp. 2028-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

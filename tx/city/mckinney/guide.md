@@ -43,7 +43,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 Licensed firm
 
 3405 Wycliff Ave, McKinney, TX  
-☎ [(925) 746-6017](tel:9257466017)
 
 Mold Assessment Company #ACO1150 (exp. 2027-02-21)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -56,7 +55,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 2209 Saint Andrews, McKinney, TX  
-☎ [(806) 570-0943](tel:8065700943)
 
 Mold Assessment Company #ACO1273 (exp. 2027-04-14)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -69,7 +67,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 3100 Alma Rd Suite 150, McKinney, TX  
-☎ [(479) 200-0829](tel:4792000829)
 
 Mold Assessment Company #ACO1259 (exp. 2028-08-15)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -82,7 +79,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 2241 Redbud Blvd, McKinney, TX  
-☎ [(972) 569-7013](tel:9725697013)
 
 Mold Remediation Company #RCO1355 (exp. 2028-09-30)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -95,7 +91,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 6608 Fortuna Ln, McKinney, TX  
-☎ [(469) 525-5485](tel:4695255485)
 
 Mold Remediation Company #RCO1822 (exp. 2028-09-01)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

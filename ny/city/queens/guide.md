@@ -38,7 +38,6 @@ Look the name up in the NYS DOL records and check the licence is still current. 
 Licensed firm
 
 2-35 Beach 139th St, Queens, NY  
-☎ [(347) 886-2995](tel:3478862995)
 
 Mold Assessment Contractor License (SH125) #26-6Z8C3-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -51,7 +50,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 231-15 Merrick Blvd, Queens, NY  
-☎ [(646) 456-4526](tel:6464564526)
 
 Mold Assessment Contractor License (SH125) #25-6LQIY-SHMO (exp. 2027-10-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -64,7 +62,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 30-51 Steinway St, Queens, NY  
-☎ [(516) 637-7543](tel:5166377543)
 
 Mold Assessment Contractor License (SH125) #26-6ZZI5-SHMO (exp. 2028-05-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -77,7 +74,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 6712 75th St, Queens, NY  
-☎ [(718) 476-9158](tel:7184769158)
 
 Mold Remediation Contractor License (SH126) #26-6S7UG-SHMO (exp. 2028-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/consolidated-environmental-inc-ny0477
 * Google rating: 5.0 from 13 reviews (as of Oct 30, 2026)
 * Mold Remediation Contractor License (SH126) #26-6ZLQD-SHMO (exp. 2028-04-30)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2182509823222337083&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [conenv.com](https://www.conenv.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0477 (goes to Consolidated Environmental Inc. and up to 2 other nearby licensed pros)
 

@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/ny-mold-and-clean-air-solutions-inc-d
 * Google rating: 5.0 from 50 reviews (as of Oct 30, 2026)
 * Mold Remediation Contractor License (SH126) #25-6HXSN-SHMO (exp. 2027-08-31)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=6634562999582020792&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [nymoldsolution.com](https://nymoldsolution.com/), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY1187 (goes to NY Mold and Clean Air Solutions Inc. (dba NY Mold & Clean Air Solutions) and up to 2 other nearby licensed pros)
 

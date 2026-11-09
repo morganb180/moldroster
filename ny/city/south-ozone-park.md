@@ -27,7 +27,6 @@ Listed below: 1 licensed mold assessor (inspection and testing) and 6 licensed m
 Licensed firm
 
 130-18 133rd Ave, South Ozone Park, NY  
-☎ [(646) 469-6923](tel:6464696923)
 
 Mold Assessment Contractor License (SH125) #25-658N5-SHMO (exp. 2027-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -42,7 +41,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 129-25 134th St, South Ozone Park, NY  
-☎ [(718) 845-1387](tel:7188451387)
 
 Mold Remediation Contractor License (SH126) #24-63CCK-SHMO (exp. 2026-11-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -55,7 +53,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 14930 Lefferts Blvd, South Ozone Park, NY  
-☎ [(347) 825-4132](tel:3478254132)
 
 Mold Remediation Contractor License (SH126) #25-6TX13-SHMO (exp. 2027-05-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -68,7 +65,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 135-16 124th St, South Ozone Park, NY  
-☎ [(347) 981-3005](tel:3479813005)
 
 Mold Remediation Contractor License (SH126) #24-63EVV-SHMO (exp. 2026-11-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -81,7 +77,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 11711 132nd St, South Ozone Park, NY  
-☎ [(347) 477-6400](tel:3474776400)
 
 Mold Remediation Contractor License (SH126) #26-667U4-SHMO (exp. 2028-05-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -94,7 +89,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 135-39 124th St, South Ozone Park, NY  
-☎ [(917) 667-0137](tel:9176670137)
 
 Mold Remediation Contractor License (SH126) #25-6IOZQ-SHMO (exp. 2027-02-28)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -107,7 +101,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 114-19 115th St, South ozone park, NY  
-☎ [(585) 200-0263](tel:5852000263)
 
 Mold Remediation Contractor License (SH126) #25-67EGV-SHMO (exp. 2027-11-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

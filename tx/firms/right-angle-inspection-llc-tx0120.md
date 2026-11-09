@@ -15,7 +15,7 @@ canonical: https://moldroster.com/tx/firms/right-angle-inspection-llc-tx0120/
 * Website: https://rightangleinspectionllc.com/contact-us/
 * Mold Assessment Company #ACO1231 (exp. 2027-05-31)
 
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=13233526062283679660&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [rightangleinspectionllc.com](https://rightangleinspectionllc.com/contact-us/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=TX0120 (goes to Right Angle Inspection, LLC and up to 2 other nearby licensed pros)
 

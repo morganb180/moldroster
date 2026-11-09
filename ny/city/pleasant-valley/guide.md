@@ -44,7 +44,6 @@ Summary of New York Labor Law Article 32 and 12 NYCRR Part 60. See the agency: [
 Licensed firm
 
 475 Rossway Rd, Pleasant Valley, NY  
-☎ [(914) 456-7718](tel:9144567718)
 
 Mold Assessment Contractor License (SH125) #25-6HL39-SHMO (exp. 2027-09-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -57,7 +56,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 2822 NY 82, Pleasant Valley, NY  
-☎ [(845) 275-9931](tel:8452759931)
 
 Mold Assessment Contractor License (SH125) #26-69NYX-SHMO (exp. 2028-06-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -70,7 +68,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 136 Oswego Rd, Pleasant Valley, NY  
-☎ [(845) 897-8249](tel:8458978249)
 
 Mold Assessment Contractor License (SH125) #25-6T8Z7-SHMO (exp. 2027-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -83,12 +80,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 65 S Ave, Pleasant Valley, NY  
-☎ [(845) 453-7099](tel:8454537099)
 
 🌐 [chefalocontracting.com](http://chefalocontracting.com/)  
-✉ [evan@chefalocontracting.com](mailto:evan@chefalocontracting.com)  
 Google rating 4.6 (30 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15682713809556616134&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [chefalocontracting.com](https://chefalocontracting.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #26-6614G-SHMO (exp. 2028-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -101,7 +96,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 3 Charles St Suite 1, Pleasant Valley, NY  
-☎ [(845) 723-5188](tel:8457235188)
 
 Mold Remediation Contractor License (SH126) #26-6ZAVQ-SHMO (exp. 2028-02-29)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

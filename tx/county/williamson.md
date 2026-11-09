@@ -25,13 +25,10 @@ City pages: [Cedar Park](https://moldroster.com/tx/city/cedar-park/) · [Georget
 Licensed firm
 
 2510 Lou Hollow Pl, Cedar Park, TX  
-☎ [(737) 262-2046](tel:7372622046)
 
-☎ Google listing: [(512) 710-6841](tel:5127106841)  
 🌐 [bnfconsultingtx.com](https://bnfconsultingtx.com/)  
-✉ [lucas@bnfconsultingtx.com](mailto:lucas@bnfconsultingtx.com)  
 Google rating 5.0 (4 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=18222401949018086592&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [bnfconsultingtx.com](https://www.bnfconsultingtx.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Company #ACO1263 (exp. 2028-10-21)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -44,7 +41,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 PO Box 262, Cedar Park, TX  
-☎ [(512) 637-1831](tel:5126371831)
 
 Mold Assessment Company #ACO0114 (exp. 2026-12-15)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -57,12 +53,9 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 109 W 7th St Suite 210, Georgetown, TX  
-☎ [(512) 992-5383](tel:5129925383)
 
-☎ Google listing: [(512) 503-5035](tel:5125035035)  
 🌐 [c-eci.com](http://c-eci.com/)  
-✉ [info@c-eci.com](mailto:info@c-eci.com)  
-Added by us, not on the state list: phone and website from the firm's [Google Maps listing](https://maps.google.com/?cid=9461696956005243036&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [c-eci.com](https://www.c-eci.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Company #ACO1088 (exp. 2027-02-18)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -75,11 +68,9 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 209 Double Mountain Rd, Liberty Hill, TX  
-☎ [(832) 992-6653](tel:8329926653)
 
 🌐 [texasmoldinspectors.com](https://www.texasmoldinspectors.com/)  
-✉ [info@texasmoldinspectors.com](mailto:info@texasmoldinspectors.com)  
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=10820511752514317068&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [texasmoldinspectors.com](https://texasmoldinspectors.com/contact-us/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Company #ACO1280 (exp. 2027-05-18)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -91,7 +82,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -106,7 +97,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -120,7 +111,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -134,7 +125,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -148,7 +139,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -162,7 +153,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -176,7 +167,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -190,7 +181,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -204,7 +195,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -218,7 +209,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -233,7 +224,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -247,7 +238,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -261,7 +252,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -275,7 +266,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -289,7 +280,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -304,7 +295,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -318,7 +309,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -332,7 +323,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -346,7 +337,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -360,7 +351,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -374,7 +365,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -388,7 +379,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -402,7 +393,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -416,7 +407,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -430,7 +421,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -444,7 +435,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -458,7 +449,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -472,7 +463,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -486,7 +477,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -500,7 +491,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -521,7 +512,6 @@ Show all 34 listings
 Licensed firm
 
 13290 Pond Springs Rd, Austin, TX  
-☎ [(512) 215-8001](tel:5122158001)
 
 Mold Remediation Company #RCO1532 (exp. 2028-08-13)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -534,7 +524,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 PO Box 26, Cedar Park, TX  
-☎ [(512) 563-8221](tel:5125638221)
 
 Mold Remediation Company #RCO1024 (exp. 2028-04-07)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -547,7 +536,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 2000 Windy Ter Bldg 6-A, Cedar Park, TX  
-☎ [(512) 924-0411](tel:5129240411)
 
 Mold Remediation Company #RCO1442 (exp. 2026-12-07)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -560,7 +548,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 1281 PO Box, Cedar Park, TX  
-☎ [(512) 913-4990](tel:5129134990)
 
 Mold Remediation Company #RCO1749 (exp. 2028-01-05)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -573,7 +560,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 1801 Castleguard Way, Cedar Park, TX  
-☎ [(704) 493-8591](tel:7044938591)
 
 Mold Remediation Company #RCO1499 (exp. 2028-03-27)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -586,11 +572,10 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 701 County Rd 144, Georgetown, TX  
-☎ [(800) 931-1962](tel:8009311962)
 
 🌐 [blackhillrestoration.com](http://blackhillrestoration.com/)  
 Google rating 4.8 (105 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11017089478888731475&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Company #RCO1348 (exp. 2028-06-24)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -603,7 +588,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 274 Courtnees Way, Georgetown, TX  
-☎ [(512) 269-9763](tel:5122699763)
 
 Mold Remediation Company #RCO1692 (exp. 2027-05-11)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -616,12 +600,10 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 2300 Scenic Dr Suite 2542, Georgetown, TX  
-☎ [(512) 818-4728](tel:5128184728)
 
 🌐 [restotektx.com](https://restotektx.com/)  
-✉ [joangarza@restotektx.com](mailto:joangarza@restotektx.com)  
 Google rating 5.0 (62 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2049517912694489155&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [restotektx.com](https://restotektx.com/contact-us/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Company #RCO1662 (exp. 2026-10-31)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -634,7 +616,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 1604 Uvalde Dr, Hutto, TX  
-☎ [(512) 662-5752](tel:5126625752)
 
 Mold Remediation Company #RCO1816 (exp. 2028-07-21)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -648,13 +629,10 @@ Business name from TDLR's Mold Training Provider licence MTP1002 (same address a
 Licensed firm
 
 3333 County Rd 119 Suite 96, Hutto, TX  
-☎ [(512) 743-4922](tel:5127434922)
 
-☎ Google listing: [(512) 713-5532](tel:5127135532)  
 🌐 [beaverdamwr.com](https://www.beaverdamwr.com/)  
-✉ [office@beaverdamwr.com](mailto:office@beaverdamwr.com)  
 Google rating 4.8 (33 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17238617148059194672&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [beaverdamwr.com](https://www.beaverdamwr.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Company #RCO1709 (exp. 2027-07-22)  
 Mold Remediation Company #RCO1710 (exp. 2027-07-29)  
@@ -668,11 +646,10 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 101 Tradesmen Dr, Hutto, TX  
-☎ [(512) 733-0600](tel:5127330600)
 
 🌐 [contractorsinc.com](https://contractorsinc.com/)  
 Google rating 4.0 (1 review)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=3070354303682458125&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Company #RCO1158 (exp. 2026-11-14)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -685,12 +662,10 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 118 Campos Dr, Hutto, TX  
-☎ [(512) 661-4754](tel:5126614754)
 
 🌐 [jsgbiocleanse.com](https://jsgbiocleanse.com/)  
-✉ [jsgbiocleanse@gmail.com](mailto:jsgbiocleanse@gmail.com)  
 Google rating 5.0 (14 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11292626545282232965&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [jsgbiocleanse.com](https://jsgbiocleanse.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Company #RCO1676 (exp. 2027-02-04)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -703,11 +678,9 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 1621 County Rd 269, Leander, TX  
-☎ [(512) 778-6069](tel:5127786069)
 
 🌐 [badcompany-inc.com](https://badcompany-inc.com/contact-us/)  
-✉ [info@badcompany-inc.com](mailto:info@badcompany-inc.com)  
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=14340904061196656075&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [badcompany-inc.com](https://badcompany-inc.com/contact-us/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Company #RCO1302 (exp. 2027-08-21)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -720,7 +693,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 10824 E Crystall Falls Pkwy Unit 301, Leander, TX  
-☎ [(512) 456-7173](tel:5124567173)
 
 Mold Remediation Company #RCO1820 (exp. 2028-08-20)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -733,7 +705,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 777 County Rd 270 Unit 102, Leander, TX  
-☎ [(737) 222-7337](tel:7372227337)
 
 Mold Remediation Company #RCO1760 (exp. 2028-02-03)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -746,10 +717,9 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 PO Box 1581, Leander, TX  
-☎ [(512) 260-7171](tel:5122607171)
 
 Google rating 2.8 (12 reviews)  
-Added by us, not on the state list: rating from the firm's [Google Maps listing](https://maps.google.com/?cid=824157535225556370&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Company #RCO0104 (exp. 2028-02-15)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -762,7 +732,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 PO Box 1131, Liberty Hill, TX  
-☎ [(512) 718-3553](tel:5127183553)
 
 Mold Remediation Company #RCO1583 (exp. 2027-08-16)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -775,7 +744,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 974 County Rd 204, Liberty Hill, TX  
-☎ [(512) 423-3258](tel:5124233258)
 
 Mold Remediation Company #RCO1815 (exp. 2028-07-19)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -788,7 +756,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 4287 Ridgebend Dr, Round Rock, TX  
-☎ [(949) 202-7520](tel:9492027520)
 
 Mold Remediation Company #RCO1588 (exp. 2027-09-14)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -801,7 +768,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 402 W Palm Valley Blvd #165, Round Rock, TX  
-☎ [(512) 515-0705](tel:5125150705)
 
 Mold Remediation Company #RCO1469 (exp. 2027-08-09)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -814,7 +780,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 2700 Louis Henna Blvd Suite 100A Unit E4, Round Rock, TX  
-☎ [(512) 500-0688](tel:5125000688)
 
 Mold Remediation Company #RCO1758 (exp. 2028-01-27)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -826,7 +791,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -840,7 +805,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -854,7 +819,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -868,7 +833,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -882,7 +847,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -896,7 +861,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -910,7 +875,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -924,7 +889,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -938,7 +903,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -952,7 +917,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -966,7 +931,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -980,7 +945,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -994,7 +959,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -1008,7 +973,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -1022,7 +987,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -1036,7 +1001,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -1050,7 +1015,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -1064,7 +1029,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -1078,7 +1043,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -1092,7 +1057,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -1106,7 +1071,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -1120,7 +1085,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -1134,7 +1099,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -1148,7 +1113,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -1162,7 +1127,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -1176,7 +1141,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -1190,7 +1155,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -1204,7 +1169,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 

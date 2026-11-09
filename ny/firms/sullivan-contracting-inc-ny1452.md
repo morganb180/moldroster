@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/firms/sullivan-contracting-inc-ny1452/
 * Google rating: 3.9 from 8 reviews (as of Oct 30, 2026)
 * Mold Remediation Contractor License (SH126) #26-6I7EJ-SHMO (exp. 2028-04-30)
 
-Added by us, not on the state list: rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7732561726949480737&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Source: https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy, retrieved 2026-10-12. Verify: https://dol.ny.gov/mold-program. Claim / correct: https://moldroster.com/claim-listing/?id=NY1452
 

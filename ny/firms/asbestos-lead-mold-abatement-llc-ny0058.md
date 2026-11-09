@@ -15,7 +15,7 @@ canonical: https://moldroster.com/ny/firms/asbestos-lead-mold-abatement-llc-ny00
 * Website: https://almaenv.com/
 * Mold Remediation Contractor License (SH126) #26-9YNU7-SHMO (exp. 2028-09-30)
 
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=7480346299651707878&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [almaenv.com](https://www.almaenv.com/), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0058 (goes to Asbestos Lead Mold Abatement LLC and up to 2 other nearby licensed pros)
 

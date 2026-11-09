@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/newhouse-restoration-inc-ny1068/
 * Google rating: 5.0 from 113 reviews (as of Oct 30, 2026)
 * Mold Remediation Contractor License (SH126) #25-6HNF7-SHMO (exp. 2027-07-31)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=3539611410352793668&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [newhouserestoration.com](https://newhouserestoration.com/contact-us/), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY1068 (goes to Newhouse Restoration inc and up to 2 other nearby licensed pros)
 

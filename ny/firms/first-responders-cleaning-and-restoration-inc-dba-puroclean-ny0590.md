@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/first-responders-cleaning-and-restora
 * Google rating: 5.0 from 84 reviews (as of Oct 30, 2026)
 * Mold Remediation Contractor License (SH126) #26-6AA3Z-SHMO (exp. 2028-07-31)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7434454939294486242&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [puroclean.com](https://www.puroclean.com/bohemia-ny/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0590 (goes to First Responders Cleaning and Restoration Inc (dba PuroClean of Bohemia) and up to 2 other nearby licensed pros)
 

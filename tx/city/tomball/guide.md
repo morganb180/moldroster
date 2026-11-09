@@ -38,7 +38,6 @@ Look the name up in the TDLR records and check the licence is still current. Ask
 Licensed firm
 
 22003 Kobs Rd, Tomball, TX  
-☎ [(281) 620-6519](tel:2816206519)
 
 Mold Remediation Company #RCO1253 (exp. 2028-04-08)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -51,7 +50,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 23422 Lutheran Cemetery Rd, Tomball, TX  
-☎ [(281) 587-5400](tel:2815875400)
 
 Mold Remediation Company #RCO1664 (exp. 2028-11-21)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -64,7 +62,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 17448 N Eldridge Pkwy Unit 3107, Tomball, TX  
-☎ [(281) 994-9510](tel:2819949510)
 
 Mold Remediation Company #RCO1818 (exp. 2028-08-02)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

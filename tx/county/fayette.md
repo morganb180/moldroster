@@ -22,7 +22,7 @@ canonical: https://moldroster.com/tx/county/fayette/
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -41,7 +41,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 1020 E State Hwy 71, West Point, TX  
-☎ [(737) 302-1373](tel:7373021373)
 
 Mold Remediation Company #RCO1647 (exp. 2028-07-29)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -53,7 +52,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 

@@ -27,12 +27,10 @@ Listed below: 1 licensed mold assessor (inspection and testing) and 3 licensed m
 Licensed firm
 
 800 Commerce Pkwy, Lancaster, NY  
-☎ [(716) 683-3000](tel:7166833000)
 
 🌐 [indoorairpro.com](https://indoorairpro.com/)  
-✉ [sales@indoorairpro.com](mailto:sales@indoorairpro.com)  
 Google rating 4.9 (473 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=8357765357032264309&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [indoorairpro.com](https://indoorairpro.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #26-6ZEDJ-SHMO (exp. 2028-02-29)  
 Mold Assessment Contractor License (SH125) #26-6ZENJ-SHMO (exp. 2028-02-29)  
@@ -48,7 +46,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 188 Erie St, Lancaster, NY  
-☎ [(716) 686-3860](tel:7166863860)
 
 Mold Remediation Contractor License (SH126) #26-6ZUVN-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -61,11 +58,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 149 Gunnville Rd, Lancaster, NY  
-☎ [(716) 876-4080](tel:7168764080)
 
 🌐 [fibertechenv.com](http://www.fibertechenv.com/)  
 Google rating 2.6 (5 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=617841379671487259&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #25-65JO7-SHMO (exp. 2027-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -78,13 +74,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 188 Erie St, Lancaster, NY  
-☎ [(716) 583-2677](tel:7165832677)
 
-☎ Google listing: [(716) 686-0950](tel:7166860950)  
 🌐 [windowspecialistinc.com](https://www.windowspecialistinc.com/)  
-✉ [info@windowspecialistinc.com](mailto:info@windowspecialistinc.com)  
 Google rating 5.0 (3 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2813795003732016408&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [windowspecialistinc.com](https://www.windowspecialistinc.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #25-6HZI6-SHMO (exp. 2027-09-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

@@ -16,7 +16,7 @@ canonical: https://moldroster.com/tx/firms/zeus-restoration-llc-tx0459/
 * Google rating: 4.8 from 411 reviews (as of Oct 30, 2026)
 * Mold Remediation Company #RCO1615 (exp. 2028-01-08)
 
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15452434779356154648&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [zeusrestoration.com](https://zeusrestoration.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=TX0459 (goes to Zeus Restoration, LLC and up to 2 other nearby licensed pros)
 

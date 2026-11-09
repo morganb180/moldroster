@@ -14,7 +14,7 @@ canonical: https://moldroster.com/tx/firms/farmer-environmental-group-llc-tx0028
 * Website: http://www.farmereg.com/
 * Mold Assessment Company #ACO0190 (exp. 2027-04-01)
 
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=6371095889006914290&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0028
 

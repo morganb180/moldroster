@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/barton-loguidice-d-p-c-ny0255/
 * Google rating: 5.0 from 4 reviews (as of Oct 30, 2026)
 * Mold Assessment Contractor License (SH125) #26-6SNNY-SHMO (exp. 2028-02-29)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=13161204384095170133&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [bartonandloguidice.com](https://www.bartonandloguidice.com/contact/offices/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0255 (goes to Barton & Loguidice, D.P.C. and up to 2 other nearby licensed pros)
 

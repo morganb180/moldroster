@@ -40,7 +40,6 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 Licensed firm
 
 470 Route 211 E, Suite 24, Middletown, NY  
-☎ [(877) 496-7530](tel:8774967530)
 
 Mold Assessment Contractor License (SH125) #24-63P98-SHMO (exp. 2026-10-31)  
 Mold Remediation Contractor License (SH126) #24-63P9E-SHMO (exp. 2026-10-31)  
@@ -54,7 +53,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 280 Dolson Ave, Middletown, NY  
-☎ [(845) 343-6443](tel:8453436443)
 
 Mold Remediation Contractor License (SH126) #26-6Z19J-SHMO (exp. 2028-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -67,13 +65,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 449 E Main St, Middletown, NY  
-☎ [(845) 674-0078](tel:8456740078)
 
-☎ Google listing: [(845) 682-3828](tel:8456823828)  
 🌐 [lightspeedrestoration.com](https://lightspeedrestoration.com/orange-county-ny/)  
-✉ [lr.orange-county@lightspeedrestoration.com](mailto:lr.orange-county@lightspeedrestoration.com)  
 Google rating 5.0 (24 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=8222178591221464087&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [lightspeedrestoration.com](https://www.lightspeedrestoration.com/orange-county-ny/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #24-634Y3-SHMO (exp. 2026-11-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -86,7 +81,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 1259 Dolsontown Rd, Middletown, NY  
-☎ [(845) 342-3333](tel:8453423333)
 
 Mold Remediation Contractor License (SH126) #26-6ZF6G-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

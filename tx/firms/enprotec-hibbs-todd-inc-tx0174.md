@@ -16,7 +16,7 @@ canonical: https://moldroster.com/tx/firms/enprotec-hibbs-todd-inc-tx0174/
 * Google rating: 3.4 from 5 reviews (as of Oct 30, 2026)
 * Mold Assessment Company #ACO1296 (exp. 2027-09-23)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11422752243792653166&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [e-ht.com](https://e-ht.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=TX0174 (goes to Enprotec / Hibbs & Todd, Inc. and up to 2 other nearby licensed pros)
 

@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/nyc-lead-inspections-ny1063/
 * Google rating: 5.0 from 332 reviews (as of Oct 30, 2026)
 * Mold Assessment Contractor License (SH125) #24-63UXB-SHMO (exp. 2026-11-30)
 
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=9770705205937359994&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [nycleadinspections.com](https://nycleadinspections.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY1063 (goes to NYC Lead Inspections and up to 2 other nearby licensed pros)
 

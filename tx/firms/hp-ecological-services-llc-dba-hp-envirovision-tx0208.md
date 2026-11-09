@@ -16,7 +16,7 @@ canonical: https://moldroster.com/tx/firms/hp-ecological-services-llc-dba-hp-env
 * Google rating: 4.5 from 12 reviews (as of Oct 30, 2026)
 * Mold Remediation Company #RCO0106 (exp. 2026-12-15)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=405173765082494214&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [hpenvirovision.com](https://www.hpenvirovision.com/contact-us-1), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=TX0208 (goes to Hp Ecological Services LLC DBA Hp Envirovision and up to 2 other nearby licensed pros)
 

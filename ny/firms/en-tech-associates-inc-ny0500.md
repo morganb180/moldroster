@@ -15,7 +15,7 @@ canonical: https://moldroster.com/ny/firms/en-tech-associates-inc-ny0500/
 * Website: https://www.entechassociates.com/contact.html
 * Mold Assessment Contractor License (SH125) #26-69J86-SHMO (exp. 2028-06-30)
 
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=6429073297403870900&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [entechassociates.com](https://www.entechassociates.com/contact.html), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0500 (goes to En-Tech Associates, Inc. and up to 2 other nearby licensed pros)
 

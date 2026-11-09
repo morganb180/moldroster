@@ -17,7 +17,7 @@ canonical: https://moldroster.com/ny/firms/biotek-environmental-nyc-llc-ny0198/
 * Mold Remediation Contractor License (SH126) #26-6AOD3-SHMO (exp. 2028-06-30)
 * Mold Assessment Contractor License (SH125) #25-65GV5-SHMO (exp. 2027-03-31)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7007556997053589356&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [bioteknyc.com](https://bioteknyc.com/), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0198 (goes to BioTek Environmental NYC LLC and up to 2 other nearby licensed pros)
 

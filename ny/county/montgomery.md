@@ -23,7 +23,6 @@ canonical: https://moldroster.com/ny/county/montgomery/
 Licensed firm
 
 3269 State Hwy 67, Fort Johnson, NY  
-☎ [(518) 390-3087](tel:5183903087)
 
 Mold Assessment Contractor License (SH125) #25-6ly1c-shmo (exp. 2027-11-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -40,7 +39,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 PO Box 551, Amsterdam, NY  
-☎ [(518) 843-1365](tel:5188431365)
 
 Mold Remediation Contractor License (SH126) #25-6IUCP-SHMO (exp. 2027-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -53,7 +51,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 290 W Fiery Hill Rd, Fort Plain, NY  
-☎ [(518) 414-4582](tel:5184144582)
 
 Mold Remediation Contractor License (SH126) #26-66JAX-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

@@ -13,7 +13,7 @@ canonical: https://moldroster.com/ny/firms/shining-sky-inc-ny1307/
 * Phone: (929) 257-5818
 * Mold Remediation Contractor License (SH126) #26-64TB9-SHMO (exp. 2028-07-31)
 
-Added by us, not on the state list: phone from the firm's [Google Maps listing](https://maps.google.com/?cid=3804688624739756360&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Source: https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy, retrieved 2026-10-12. Verify: https://dol.ny.gov/mold-program. Claim / correct: https://moldroster.com/claim-listing/?id=NY1307
 

@@ -27,12 +27,10 @@ Listed below: 4 licensed mold assessors (inspection and testing) and 1 licensed 
 Licensed firm
 
 156 Shore Rd, Port Washington, NY  
-☎ [(516) 944-5323](tel:5169445323)
 
 🌐 [epafirm.com](https://epafirm.com/)  
-✉ [info@epafirm.com](mailto:info@epafirm.com)  
 Google rating 5.0 (4 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15160063923121040426&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [epafirm.com](https://epafirm.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Contractor License (SH125) #26-6SBCJ-SHMO (exp. 2028-01-31)  
 Mold Remediation Contractor License (SH126) #26-6SBCY-SHMO (exp. 2028-01-31)  
@@ -46,7 +44,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 85 Morewood Oaks, Port Washington, NY  
-☎ [(877) 356-6313](tel:8773566313)
 
 Mold Assessment Contractor License (SH125) #26-6I9CR-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -59,7 +56,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 31 Birch St, Port Washington, NY  
-☎ [(516) 523-0634](tel:5165230634)
 
 Mold Assessment Contractor License (SH125) #25-6I9UG-SHMO (exp. 2028-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -72,7 +68,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 88 Harbor Rd, Port Washington, NY  
-☎ [(516) 944-9500](tel:5169449500)
 
 Mold Assessment Contractor License (SH125) #25-6IDNS-SHMO (exp. 2027-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -87,11 +82,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 1 Crooker Pl, Port Washington, NY  
-☎ [(347) 538-4591](tel:3475384591)
 
 🌐 [taraenterprises.com](https://www.taraenterprises.com/)  
 Google rating 4.0 (5 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5106611694418225797&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #25-64QVU-SHMO (exp. 2027-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

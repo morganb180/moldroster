@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/inspextro-inc-ny0564/
 * Google rating: 4.9 from 312 reviews (as of Oct 30, 2026)
 * Mold Assessment Contractor License (SH125) #26-63YEN-SHMO (exp. 2028-08-31)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10956230675226221557&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [inspextro.com](https://www.inspextro.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0564 (goes to Inspextro Inc and up to 2 other nearby licensed pros)
 

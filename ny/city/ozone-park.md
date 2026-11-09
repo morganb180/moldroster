@@ -27,7 +27,6 @@ Listed below: 4 licensed mold remediators with an address in Ozone Park. Listing
 Licensed firm
 
 86-44 103rd Ave, Ozone Park, NY  
-☎ [(718) 207-7624](tel:7182077624)
 
 Mold Remediation Contractor License (SH126) #26-69I3T-SHMO (exp. 2028-08-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -40,7 +39,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 95-27 86th St, Ozone Park, NY  
-☎ [(917) 287-9521](tel:9172879521)
 
 Mold Remediation Contractor License (SH126) #25-6UDE3-SHMO (exp. 2027-05-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -53,7 +51,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 9014 95th Ave First Floor, Ozone Park, NY  
-☎ [(631) 406-1297](tel:6314061297)
 
 Mold Remediation Contractor License (SH126) #25-65FIK-SHMO (exp. 2027-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -66,11 +63,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 106-08 101st Ave, Ozone Park, NY  
-☎ [(929) 335-5300](tel:9293355300)
 
 🌐 [rainbowrestores.com](https://rainbowrestores.com/ozone-park?cid=LSTL_RBW000202)  
 Google rating 5.0 (3 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=1058322344186811348&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #25-6LDX3-SHMO (exp. 2027-11-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

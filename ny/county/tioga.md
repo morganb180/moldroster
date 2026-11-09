@@ -23,11 +23,10 @@ canonical: https://moldroster.com/ny/county/tioga/
 Licensed firm
 
 193 Sulphur Springs Rd, Owego, NY  
-☎ [(607) 687-7434](tel:6076877434)
 
 🌐 [orourkeinc.com](http://www.orourkeinc.com/contact.htm)  
 Google rating 5.0 (1 review)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2922731956555120228&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Contractor License (SH125) #26-6AC1Q-SHMO (exp. 2028-02-29)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

@@ -27,7 +27,6 @@ Listed below: 3 licensed mold assessors (inspection and testing) and 7 licensed 
 Licensed firm
 
 23 Woodland Rd, Valley Stream, NY  
-☎ [(929) 393-0027](tel:9293930027)
 
 Mold Remediation Contractor License (SH126) #25-6H8XI-SHMO (exp. 2027-07-31)  
 Mold Assessment Contractor License (SH125) #25-6H8XL-SHMO (exp. 2027-07-31)  
@@ -41,7 +40,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 847 Oliver Ave, Valley Stream, NY  
-☎ [(516) 888-5512](tel:5168885512)
 
 Mold Remediation Contractor License (SH126) #25-6ueb7-shmo (exp. 2027-07-31)  
 Mold Assessment Contractor License (SH125) #26-6AL45-SHMO (exp. 2028-05-31)  
@@ -55,7 +53,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 141 Elmwood St, Valley Stream, NY  
-☎ [(516) 881-9884](tel:5168819884)
 
 Mold Assessment Contractor License (SH125) #25-6HNZX-SHMO (exp. 2027-07-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -70,11 +67,9 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 333 W Merrick Rd, Unit B, Valley Stream, NY  
-☎ [(718) 553-7768](tel:7185537768)
 
-☎ Google listing: [(718) 285-7365](tel:7182857365)  
 🌐 [servicemasterbygbs.com](http://www.servicemasterbygbs.com/)  
-Added by us, not on the state list: phone and website from the firm's [Google Maps listing](https://maps.google.com/?cid=17862641926371165754&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #24-64YLV-SHMO (exp. 2026-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -87,7 +82,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 1304 G St, Valley Stream, NY  
-☎ [(347) 415-9998](tel:3474159998)
 
 Mold Remediation Contractor License (SH126) #26-66P5V-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -100,7 +94,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 1304 G St, Valley Stream, NY  
-☎ [(347) 998-0316](tel:3479980316)
 
 Mold Remediation Contractor License (SH126) #24-63HUG-SHMO (exp. 2026-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -113,12 +106,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 202 Gibson Blvd, Valley Stream, NY  
-☎ [(646) 392-5450](tel:6463925450)
 
 🌐 [mercyconstructioninc.com](https://mercyconstructioninc.com/)  
-✉ [partners@mercyconstructioninc.com](mailto:partners@mercyconstructioninc.com)  
 Google rating 4.2 (10 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=18059130559210252442&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [mercyconstructioninc.com](https://mercyconstructioninc.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #26-661OD-SHMO (exp. 2028-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -131,7 +122,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 459 Morris Dr, Valley Stream, NY  
-☎ [(516) 504-8976](tel:5165048976)
 
 Mold Remediation Contractor License (SH126) #25-6HHKZ-SHMO (exp. 2027-10-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -144,7 +134,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 811 Caldwell Ave, Valley Stream, NY  
-☎ [(917) 709-1564](tel:9177091564)
 
 Mold Remediation Contractor License (SH126) #25-67UV9-SHMO (exp. 2027-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -157,7 +146,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 33 Lee Ave, Valley Stream, NY  
-☎ [(908) 858-5610](tel:9088585610)
 
 Mold Remediation Contractor License (SH126) #26-63Y53-SHMO (exp. 2028-07-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

@@ -22,7 +22,7 @@ canonical: https://moldroster.com/tx/county/gregg/
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -36,7 +36,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -50,7 +50,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -64,7 +64,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -83,13 +83,10 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 104 Steven St, Kilgore, TX  
-☎ [(903) 557-9032](tel:9035579032)
 
-☎ Google listing: [(903) 290-1308](tel:9032901308)  
 🌐 [puremaintofeasttexasllc.com](https://www.puremaintofeasttexasllc.com/)  
-✉ [info@puremaintofeasttexasllc.com](mailto:info@puremaintofeasttexasllc.com)  
 Google rating 4.9 (8 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=8508668411439204148&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [puremaintofeasttexasllc.com](https://www.puremaintofeasttexasllc.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Company #RCO1744 (exp. 2027-12-07)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -101,7 +98,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -115,7 +112,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 

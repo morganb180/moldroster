@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/firms/american-environmental-remediation-co
 * Website: http://www.americanenvcorp.com/
 * Mold Remediation Contractor License (SH126) #26-6ANSJ-SHMO (exp. 2028-05-31)
 
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=12137759990543636633&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Source: https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy, retrieved 2026-10-12. Verify: https://dol.ny.gov/mold-program. Claim / correct: https://moldroster.com/claim-listing/?id=NY0237
 

@@ -45,7 +45,6 @@ Summary of New York Labor Law Article 32 and 12 NYCRR Part 60. See the agency: [
 Licensed firm
 
 2003 Baldwin Ln, Newburgh, NY  
-☎ [(845) 541-7374](tel:8455417374)
 
 Mold Assessment Contractor License (SH125) #26-6SDEG-SHMO (exp. 2028-01-31)  
 Mold Remediation Contractor License (SH126) #26-6a17a-shmo (exp. 2028-06-30)  
@@ -59,7 +58,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 1781 Route 300, Newburgh, NY  
-☎ [(973) 592-5706](tel:9735925706)
 
 Mold Assessment Contractor License (SH125) #26-6A7QK-SHMO (exp. 2028-04-30)  
 Mold Remediation Contractor License (SH126) #26-6A9VV-SHMO (exp. 2028-04-30)  
@@ -73,7 +71,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 28 Lakeview Dr, Newburgh, NY  
-☎ [(845) 863-3326](tel:8458633326)
 
 Mold Assessment Contractor License (SH125) #25-644B7-SHMO (exp. 2027-02-28)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -86,7 +83,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 259 Fostertown Rd Newburgh, NY 12550, Newburgh, NY  
-☎ [(845) 784-6717](tel:8457846717)
 
 Mold Remediation Contractor License (SH126) #25-6t8ij-shmo (exp. 2027-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

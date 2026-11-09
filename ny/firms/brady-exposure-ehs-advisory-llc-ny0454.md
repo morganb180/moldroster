@@ -15,7 +15,7 @@ canonical: https://moldroster.com/ny/firms/brady-exposure-ehs-advisory-llc-ny045
 * Website: https://www.bradyexposure.com/
 * Mold Assessment Contractor License (SH125) #26-9YR54-SHMO (exp. 2028-09-30)
 
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=5326715998099244788&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [bradyexposure.com](https://www.bradyexposure.com/contact), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0454 (goes to Brady Exposure & EHS Advisory LLC and up to 2 other nearby licensed pros)
 

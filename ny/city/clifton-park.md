@@ -27,12 +27,10 @@ Listed below: 1 licensed mold assessor (inspection and testing) and 3 licensed m
 Licensed firm
 
 9 Belvedere Pl, Clifton Park, NY  
-☎ [(518) 588-0784](tel:5185880784)
 
 🌐 [snyderhomebuyers.com](https://www.snyderhomebuyers.com/)  
-✉ [bill@snyderhomebuyers.com](mailto:bill@snyderhomebuyers.com)  
 Google rating 4.8 (136 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=6786644339917548567&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [snyderhomebuyers.com](https://snyderhomebuyers.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Contractor License (SH125) #26-6LQBN-SHMO (exp. 2028-02-29)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -47,12 +45,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 17 Oakwood Blvd, Clifton Park, NY  
-☎ [(518) 265-0536](tel:5182650536)
 
 🌐 [graysenvironmental.com](http://graysenvironmental.com/)  
-✉ [graysestates2013@gmail.com](mailto:graysestates2013@gmail.com)  
 Google rating 5.0 (6 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15860553791018775631&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [graysenvironmental.com](https://www.graysenvironmental.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #26-6I38I-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -65,11 +61,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 5 Fairchild Square Suite 1, Clifton Park, NY  
-☎ [(518) 490-2279](tel:5184902279)
 
 🌐 [rainbowrestores.com](https://rainbowrestores.com/capital-region/?cid=LSTL_RBW000202)  
 Google rating 4.4 (21 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4033755928767844852&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #26-6A1CG-SHMO (exp. 2028-07-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -82,13 +77,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 636 Plank Rd Suite 200, Clifton Park, NY  
-☎ [(518) 527-2410](tel:5185272410)
 
-☎ Google listing: [(518) 859-1804](tel:5188591804)  
 🌐 [skinklegrp.com](http://www.skinklegrp.com/)  
-✉ [info@skinklegrp.com](mailto:info@skinklegrp.com)  
 Google rating 5.0 (30 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=18094125111481082529&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [skinklegrp.com](https://www.skinklegrp.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #26-66G3H-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

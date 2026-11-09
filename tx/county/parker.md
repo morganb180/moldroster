@@ -22,7 +22,7 @@ canonical: https://moldroster.com/tx/county/parker/
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -36,7 +36,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -50,7 +50,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -69,7 +69,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 113 Highland Dr, Aledo, TX  
-☎ [(817) 221-8623](tel:8172218623)
 
 Mold Remediation Company #RCO1681 (exp. 2027-03-06)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -82,7 +81,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 6650 Dobbs Valley Rd, Millsap, TX  
-☎ [(409) 893-0176](tel:4098930176)
 
 Mold Remediation Company #RCO1515 (exp. 2028-04-12)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -94,7 +92,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -108,7 +106,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -122,7 +120,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -136,7 +134,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -150,7 +148,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 

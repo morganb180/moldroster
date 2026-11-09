@@ -16,7 +16,7 @@ canonical: https://moldroster.com/tx/firms/restore-and-renew-mold-remediation-tx
 * Google rating: 5.0 from 5 reviews (as of Oct 30, 2026)
 * Mold Remediation Company #RCO1652 (exp. 2028-09-09)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11150099301001535733&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [restorerenew.co](https://www.restorerenew.co/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=TX0484 (goes to Restore and Renew Mold Remediation and up to 2 other nearby licensed pros)
 

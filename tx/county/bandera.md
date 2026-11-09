@@ -23,7 +23,6 @@ canonical: https://moldroster.com/tx/county/bandera/
 Licensed firm
 
 4033 Fm 2828, Bandera, TX  
-☎ [(210) 202-1974](tel:2102021974)
 
 Mold Assessment Company #ACO1134 (exp. 2027-11-30)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -35,7 +34,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -49,7 +48,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 

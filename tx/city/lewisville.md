@@ -27,7 +27,6 @@ Listed below: 3 licensed mold assessors (inspection and testing) and 2 licensed 
 Licensed firm
 
 845 Pinnacle Cir, Lewisville, TX  
-☎ [(972) 505-0200](tel:9725050200)
 
 Mold Assessment Company #ACO1275 (exp. 2027-04-16)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -40,12 +39,10 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 4400 State Hwy 121 Suite 300-1228, Lewisville, TX  
-☎ [(469) 224-7774](tel:4692247774)
 
 🌐 [iaqrx.com](https://iaqrx.com/)  
-✉ [sales@iaqrx.com](mailto:sales@iaqrx.com)  
 Google rating 5.0 (221 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=944990971020455111&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [fixairx.com](https://fixairx.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Company #ACO1171 (exp. 2027-01-30)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -58,11 +55,10 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 1625 Clarendon Dr, Lewisville, TX  
-☎ [(469) 400-5838](tel:4694005838)
 
 🌐 [gifservices.net](http://www.gifservices.net/)  
 Google rating 4.7 (13 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5752156754904664600&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Company #ACO1165 (exp. 2028-01-06)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -77,7 +73,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 107 Sunnydale, Lewisville, TX  
-☎ [(512) 450-3011](tel:5124503011)
 
 Mold Remediation Company #RCO1641 (exp. 2028-06-19)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -90,7 +85,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 824 Office Park Cir Suite 100, Lewisville, TX  
-☎ [(214) 429-3694](tel:2144293694)
 
 Mold Remediation Company #RCO1440 (exp. 2026-11-22)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

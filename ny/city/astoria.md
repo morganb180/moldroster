@@ -27,10 +27,9 @@ Listed below: 9 licensed mold assessors (inspection and testing) and 7 licensed 
 Licensed firm
 
 14-26 28th Ave, Astoria, NY  
-☎ [(718) 482-7525](tel:7184827525)
 
 Google rating 5.0 (8 reviews)  
-Added by us, not on the state list: rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15083138979397517048&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Contractor License (SH125) #26-6IPD3-SHMO (exp. 2028-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -43,12 +42,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 1235 30th Dr, Astoria, NY  
-☎ [(718) 545-0870](tel:7185450870)
 
 🌐 [amiantosenvironmental.com](http://www.amiantosenvironmental.com/)  
-✉ [info@amiantosenvironmental.com](mailto:info@amiantosenvironmental.com)  
 Google rating 5.0 (5 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5866228406952100660&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [amiantosenvironmental.com](https://www.amiantosenvironmental.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Contractor License (SH125) #26-6ZUU9-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -61,7 +58,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 2033 26th St, Astoria, NY  
-☎ [(718) 578-6050](tel:7185786050)
 
 Mold Assessment Contractor License (SH125) #25-6ICUA-SHMO (exp. 2027-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -74,7 +70,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 18-29 42nd St, Astoria, NY  
-☎ [(718) 777-0101](tel:7187770101)
 
 Mold Assessment Contractor License (SH125) #26-6Z55F-SHMO (exp. 2028-02-29)  
 Mold Remediation Contractor License (SH126) #26-6ZOQA-SHMO (exp. 2028-01-31)  
@@ -88,12 +83,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 31-33 31 St 2FL, Astoria, NY  
-☎ [(718) 784-7490](tel:7187847490)
 
 🌐 [athenica.com](http://athenica.com/)  
-✉ [info@athenica.com](mailto:info@athenica.com)  
 Google rating 4.1 (7 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4014588657871122277&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [athenica.com](https://athenica.com/), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Contractor License (SH125) #25-644P4-SHMO (exp. 2027-02-28)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -106,7 +99,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 2520 42nd St Apt 1C, Astoria, NY  
-☎ [(516) 708-5343](tel:5167085343)
 
 Mold Assessment Contractor License (SH125) #24-63UJ9-SHMO (exp. 2026-11-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -119,11 +111,9 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 18-65B Steinway St, Astoria, NY  
-☎ [(347) 396-5556](tel:3473965556)
 
 🌐 [environmentalservicesnyc.com](http://www.environmentalservicesnyc.com/about-us)  
-✉ [kkamberis@environmentalservicesnyc.com](mailto:kkamberis@environmentalservicesnyc.com)  
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=17167326955502229862&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [environmentalservicesnyc.com](https://www.environmentalservicesnyc.com/about-us), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Contractor License (SH125) #25-6U649-SHMO (exp. 2027-10-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -136,11 +126,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 3353 Vernon Blvd 1st Fl, Astoria, NY  
-☎ [(718) 932-8505](tel:7189328505)
 
 🌐 [genesiseci.com](http://genesiseci.com/)  
 Google rating 4.8 (6 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=13993631422124276196&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Contractor License (SH125) #26-6ACF1-SHMO (exp. 2028-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -153,10 +142,9 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 3702 Astoria Blvd S, Ste#202, Astoria, NY  
-☎ [(718) 204-0100](tel:7182040100)
 
 Google rating 5.0 (4 reviews)  
-Added by us, not on the state list: rating from the firm's [Google Maps listing](https://maps.google.com/?cid=1198034799432400944&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Contractor License (SH125) #26-6ZHYP-SHMO (exp. 2028-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -171,12 +159,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 36-16 19th Ave, Astoria, NY  
-☎ [(718) 729-2501](tel:7187292501)
 
 🌐 [abccci.com](http://www.abccci.com/)  
-✉ [info@abccci.com](mailto:info@abccci.com)  
 Google rating 5.0 (16 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7143313341832306832&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [abccci.com](https://www.abccci.com/contact), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #26-6SKCE-SHMO (exp. 2028-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -189,7 +175,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 43-07 28th Ave, Astoria, NY  
-☎ [(646) 256-2538](tel:6462562538)
 
 Mold Remediation Contractor License (SH126) #25-659LZ-SHMO (exp. 2027-06-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -202,12 +187,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 19-38 38th St, Astoria, NY  
-☎ [(718) 905-0757](tel:7189050757)
 
 🌐 [gothamcitygeneralcontracting.com](http://gothamcitygeneralcontracting.com/)  
-✉ [gothamcitycontracting@gmail.com](mailto:gothamcitycontracting@gmail.com)  
 Google rating 5.0 (15 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4117503886112583742&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [gothamcitygeneralcontracting.com](https://gothamcitygeneralcontracting.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #25-651B1-SHMO (exp. 2027-05-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -220,7 +203,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 20-56 Steinway St, Astoria, NY  
-☎ [(347) 500-3825](tel:3475003825)
 
 Mold Remediation Contractor License (SH126) #25-6TPQU-SHMO (exp. 2027-05-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -233,7 +215,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 23-70 29th St Apt# 8, Astoria, NY  
-☎ [(347) 870-8569](tel:3478708569)
 
 Mold Remediation Contractor License (SH126) #26-63KYH-SHMO (exp. 2028-09-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -246,7 +227,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 25-40 27th St, Astoria, NY  
-☎ [(718) 721-4254](tel:7187214254)
 
 Mold Remediation Contractor License (SH126) #26-6S7TL-SHMO (exp. 2028-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -259,7 +239,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 18-40 26th Rd, Astoria, NY  
-☎ [(718) 606-9128](tel:7186069128)
 
 Mold Remediation Contractor License (SH126) #26-6AGYR-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

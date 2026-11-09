@@ -27,7 +27,6 @@ Listed below: 2 licensed mold assessors (inspection and testing) and 2 licensed 
 Licensed firm
 
 18 Adrian St, East Northport, NY  
-☎ [(516) 965-3731](tel:5169653731)
 
 Mold Remediation Contractor License (SH126) #25-6HSSU-SHMO (exp. 2027-09-30)  
 Mold Assessment Contractor License (SH125) #25-6HSSS-SHMO (exp. 2027-09-30)  
@@ -41,7 +40,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 175 Bellerose Ave, East Northport, NY  
-☎ [(631) 626-6097](tel:6316266097)
 
 Mold Assessment Contractor License (SH125) #25-6HPOC-SHMO (exp. 2027-08-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -56,7 +54,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 196 Laurel Rd, East Northport, NY  
-☎ [(631) 392-0626](tel:6313920626)
 
 Mold Remediation Contractor License (SH126) #25-6L8QO-SHMO (exp. 2027-09-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -69,7 +66,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 2006 Jericho Turnpike, East Northport, NY  
-☎ [(631) 543-7100](tel:6315437100)
 
 Mold Remediation Contractor License (SH126) #26-6SBCQ-SHMO (exp. 2028-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

@@ -44,12 +44,9 @@ Ask what clearance test will show the job is done, for the licence number and ty
 Licensed firm
 
 214 Grasmere Dr, Staten Island, NY  
-☎ [(718) 880-5545](tel:7188805545)
 
-☎ Google listing: [(917) 623-9274](tel:9176239274)  
 🌐 [alamonys.com](https://alamonys.com/contact.html)  
-✉ [info@alamonys.com](mailto:info@alamonys.com)  
-Added by us, not on the state list: phone and website from the firm's [Google Maps listing](https://maps.google.com/?cid=6195926776979936858&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [alamonys.com](https://alamonys.com/contact.html), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Contractor License (SH125) #24-6TJMU-SHMO (exp. 2027-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -62,7 +59,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 466 Wild Ave, Staten Island, NY  
-☎ [(646) 235-1731](tel:6462351731)
 
 Mold Assessment Contractor License (SH125) #25-647KH-SHMO (exp. 2027-02-28)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -75,12 +71,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 81 Roosevelt Ave, Staten Island, NY  
-☎ [(212) 203-7523](tel:2122037523)
 
 🌐 [allyenv.com](http://www.allyenv.com/)  
-✉ [questions@allyenv.com](mailto:questions@allyenv.com)  
 Google rating 5.0 (12 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=8147357000702031340&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [allyenv.com](https://allyenv.com/), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Contractor License (SH125) #25-6IDN9-SHMO (exp. 2027-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -93,11 +87,9 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 491 Wild Ave, Staten Island, NY  
-☎ [(917) 807-6745](tel:9178076745)
 
-☎ Google listing: [(718) 761-7420](tel:7187617420)  
 Google rating 5.0 (1 review)  
-Added by us, not on the state list: phone and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14171888612481305600&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #26-693H9-SHMO (exp. 2028-08-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -110,7 +102,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 140 Gibson Ave, Staten Island, NY  
-☎ [(718) 499-2300](tel:7184992300)
 
 Mold Remediation Contractor License (SH126) #25-643I9-SHMO (exp. 2027-02-28)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -123,7 +114,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 20 Brick Ct Suite D, Staten Island, NY  
-☎ [(718) 608-2290](tel:7186082290)
 
 Mold Remediation Contractor License (SH126) #25-6HRIC-SHMO (exp. 2027-07-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

@@ -15,7 +15,7 @@ canonical: https://moldroster.com/tx/firms/envirogator-environmental-services-tx
 * Website: https://envirogator.com/
 * Mold Assessment Company #ACO1309 (exp. 2028-03-23)
 
-Added by us, not on the state list: phone and website from the firm's [Google Maps listing](https://maps.google.com/?cid=3614771327669497324&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [envirogator.com](https://envirogator.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=TX0187 (goes to Envirogator Environmental Services and up to 2 other nearby licensed pros)
 

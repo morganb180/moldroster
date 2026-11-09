@@ -38,7 +38,6 @@ Look the name up in the TDLR records and check the licence is still current. Ask
 Licensed firm
 
 15740 Park Row Suite 200, Houston, TX  
-☎ [(346) 227-7971](tel:3462277971)
 
 Mold Assessment Company #ACO0134 (exp. 2028-01-13)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -51,7 +50,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 13511 S Tracewood Bend, Houston, TX  
-☎ [(832) 512-3132](tel:8325123132)
 
 Mold Assessment Company #ACO1130 (exp. 2028-06-17)  
 Mold Remediation Company #RCO1252 (exp. 2028-03-06)  
@@ -65,7 +63,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 1940 Fountain View Dr # 161, Houston, TX  
-☎ [(346) 558-6796](tel:3465586796)
 
 Mold Assessment Company #ACO1234 (exp. 2027-07-30)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -78,7 +75,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 12934 Westleigh Dr, Houston, TX  
-☎ [(281) 781-5821](tel:2817815821)
 
 Mold Remediation Company #RCO1716 (exp. 2027-08-20)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -91,11 +87,10 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 1626 Oak Tree Dr Suite A, Houston, TX  
-☎ [(281) 262-9500](tel:2812629500)
 
 🌐 [247restorationspecialists.com](https://247restorationspecialists.com/)  
 Google rating 4.9 (44 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=1962432139071013962&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Company #RCO1693 (exp. 2027-05-12)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -108,7 +103,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 904 Gemini St, Houston, TX  
-☎ [(281) 672-6200](tel:2816726200)
 
 Mold Remediation Company #RCO1732 (exp. 2027-09-28)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

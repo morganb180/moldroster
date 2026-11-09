@@ -17,7 +17,7 @@ canonical: https://moldroster.com/ny/firms/assured-property-solutions-llc-ny0183
 * Mold Remediation Contractor License (SH126) #25-6H8RF-SHMO (exp. 2027-07-31)
 * Mold Assessment Contractor License (SH125) #26-6ANFB-SHMO (exp. 2028-05-31)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=9376717036002450757&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [assuredpropertysolutions.org](https://assuredpropertysolutions.org/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0183 (goes to Assured Property Solutions LLC and up to 2 other nearby licensed pros)
 

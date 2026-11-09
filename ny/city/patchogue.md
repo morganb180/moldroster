@@ -27,7 +27,6 @@ Listed below: 3 licensed mold assessors (inspection and testing) and 2 licensed 
 Licensed firm
 
 42 W Ave, Patchogue, NY  
-☎ [(631) 475-0020](tel:6314750020)
 
 Mold Assessment Contractor License (SH125) #24-63AYP-SHMO (exp. 2026-11-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -40,12 +39,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 47 Brightwood St, Patchogue, NY  
-☎ [(631) 774-6502](tel:6317746502)
 
 🌐 [healthybuildingsandhomes.com](http://healthybuildingsandhomes.com/)  
-✉ [healthybuildingsandhomes@gmail.com](mailto:healthybuildingsandhomes@gmail.com)  
 Google rating 5.0 (114 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10228513144184579722&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [longislandmoldinspections.com](https://longislandmoldinspections.com), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Contractor License (SH125) #25-65H15-SHMO (exp. 2027-06-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -59,10 +56,9 @@ Licensed firm
 
 74 E Main St, Suite #1, Patchogue, NY
 
-☎ [(631) 654-2780](tel:6316542780)  
 🌐 [insightenvironmental.com](http://www.insightenvironmental.com/)  
 Google rating 5.0 (3 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17173351276136307269&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Contractor License (SH125) #25-6LL13-SHMO (exp. 2027-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -77,7 +73,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 115 Mount Vernon Ave, Patchogue, NY  
-☎ [(631) 687-0970](tel:6316870970)
 
 Mold Remediation Contractor License (SH126) #25-6U8DB-SHMO (exp. 2027-07-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -90,7 +85,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 42 S Prospect Ave, Patchogue, NY  
-☎ [(631) 626-6626](tel:6316266626)
 
 Mold Remediation Contractor License (SH126) #26-6ALEI-SHMO (exp. 2028-07-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

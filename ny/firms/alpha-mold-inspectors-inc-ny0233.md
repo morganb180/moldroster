@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/alpha-mold-inspectors-inc-ny0233/
 * Google rating: 5.0 from 184 reviews (as of Oct 30, 2026)
 * Mold Assessment Contractor License (SH125) #24-64BV9-SHMO (exp. 2026-12-31)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=12011480317298272274&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [alphamoldinspectors.com](https://www.alphamoldinspectors.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0233 (goes to Alpha Mold Inspectors Inc. and up to 2 other nearby licensed pros)
 

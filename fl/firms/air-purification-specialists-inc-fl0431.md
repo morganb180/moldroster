@@ -13,7 +13,7 @@ canonical: https://moldroster.com/fl/firms/air-purification-specialists-inc-fl04
 * Phone: (800) 672-3386
 * Website: https://www.apsihc.com/
 
-Added by us, not on the state list: phone and website from the firm's [Google Maps listing](https://maps.google.com/?cid=5770727737287959501&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Source: https://www2.myfloridalicense.com/sto/file_download/extracts/lic07mold.csv, retrieved 2026-10-12. Verify: https://www2.myfloridalicense.com/mold-related-services/. Claim / correct: https://moldroster.com/claim-listing/?id=FL0431
 

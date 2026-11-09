@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/914-services-llc-dba-qcc-water-damage
 * Google rating: 5.0 from 78 reviews (as of Oct 30, 2026)
 * Mold Remediation Contractor License (SH126) #26-6ATDN-SHMO (exp. 2028-09-30)
 
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5176294080443296621&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [qccwaterdamage.com](https://qccwaterdamage.com/), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0141 (goes to 914 Services LLC (dba QCC Water Damage) and up to 2 other nearby licensed pros)
 

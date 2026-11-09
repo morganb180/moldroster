@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/matrix-new-world-engineering-p-c-ny09
 * Google rating: 4.9 from 12 reviews (as of Oct 30, 2026)
 * Mold Assessment Contractor License (SH125) #25-6LU7Q-SHMO (exp. 2027-11-30)
 
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17792678262771505972&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [mnwe.com](https://mnwe.com/get-in-touch/), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0927 (goes to Matrix New World Engineering, P.C. and up to 2 other nearby licensed pros)
 

@@ -15,7 +15,7 @@ canonical: https://moldroster.com/ny/firms/connecticut-environmental-services-in
 * Website: http://www.envirocheck.com/
 * Mold Assessment Contractor License (SH125) #26-6ZNQU-SHMO (exp. 2028-02-29)
 
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=10116926466630435262&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [envirocheck.com](https://www.envirocheck.com/contact-us/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0421 (goes to Connecticut Environmental Services, Inc. (dba Envirocheck, Inc.) and up to 2 other nearby licensed pros)
 

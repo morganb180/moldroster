@@ -43,7 +43,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 Licensed firm
 
 126 E Service Rd, Binghamton, NY  
-☎ [(607) 251-3000](tel:6072513000)
 
 Mold Remediation Contractor License (SH126) #25-6IDNC-SHMO (exp. 2027-12-31)  
 Mold Assessment Contractor License (SH125) #25-6LPOL-SHMO (exp. 2027-12-31)  
@@ -57,12 +56,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 143 Ct St 143 Ct St, Binghamton, NY  
-☎ [(607) 798-8081](tel:6077988081)
 
 🌐 [hunt-eas.com](https://www.hunt-eas.com/post/shumaker-hunt-eas-acquisition)  
-✉ [info@hunt-eas.com](mailto:info@hunt-eas.com)  
 Google rating 4.7 (3 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=9664325317305457518&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [hunt-eas.com](https://www.hunt-eas.com/contact), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Contractor License (SH125) #26-66ACR-SHMO (exp. 2028-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -75,10 +72,9 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 58 Exchange St, Binghamton, NY  
-☎ [(607) 723-5117](tel:6077235117)
 
 🌐 [kecompanies.com](https://www.kecompanies.com/)  
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=7134123039378909095&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Contractor License (SH125) #26-6LI8I-SHMO (exp. 2028-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -91,11 +87,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 49 1/2 Lincoln Ave, Binghamton, NY  
-☎ [(607) 349-5155](tel:6073495155)
 
 🌐 [360propertyrestoration.com](http://www.360propertyrestoration.com/)  
 Google rating 4.8 (24 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15292956572847829442&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #25-65UJ9-SHMO (exp. 2027-05-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -108,11 +103,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 1 Telegraph St, Binghamton, NY  
-☎ [(607) 232-0317](tel:6072320317)
 
 🌐 [firewaterpros.com](http://firewaterpros.com/)  
 Google rating 5.0 (109 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2790616704508412934&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #24-63UJY-SHMO (exp. 2026-11-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

@@ -16,7 +16,7 @@ canonical: https://moldroster.com/tx/firms/dallas-fort-worth-international-airpo
 * Google rating: 4.1 from 63920 reviews (as of Oct 30, 2026)
 * Mold Assessment Company #ACO1127 (exp. 2027-10-02)
 
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=8300766736265584668&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [dfwairport.com](https://www.dfwairport.com/business/about/board/), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=TX0073 (goes to Dallas / Fort Worth International Airport Board and up to 2 other nearby licensed pros)
 

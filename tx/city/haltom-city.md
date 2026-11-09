@@ -27,7 +27,6 @@ Listed below: 9 licensed mold remediators with an address in Haltom City. Listin
 Licensed firm
 
 4400 Glenview Dr, Haltom City, TX  
-☎ [(817) 589-1421](tel:8175891421)
 
 Mold Remediation Company #RCO0131 (exp. 2028-06-03)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -40,7 +39,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 5718 Airport Fwy, Haltom City, TX  
-☎ [(877) 730-1948](tel:8777301948)
 
 Mold Remediation Company #RCO0149 (exp. 2028-03-14)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -53,7 +51,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 5718 Airport Fwy, Haltom City, TX  
-☎ [(817) 820-7229](tel:8178207229)
 
 Mold Remediation Company #RCO0119 (exp. 2028-01-12)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -66,7 +63,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 5718 Airport Freeway, Haltom City, TX  
-☎ [(210) 748-7795](tel:2107487795)
 
 Mold Remediation Company #RCO0144 (exp. 2028-03-21)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -79,7 +75,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 5718 Airport Airport Freeway, Haltom City, TX  
-☎ [(817) 820-7228](tel:8178207228)
 
 Mold Remediation Company #RCO0195 (exp. 2028-05-12)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -92,7 +87,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 5718 Airport Fwy Attn: Licensing, Haltom City, TX  
-☎ [(817) 730-4267](tel:8177304267)
 
 Mold Remediation Company #RCO0159 (exp. 2027-05-06)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -105,12 +99,10 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 6413 Midway Rd Suite B, Haltom City, TX  
-☎ [(817) 632-1555](tel:8176321555)
 
 🌐 [3wrestoration.com](http://www.3wrestoration.com/)  
-✉ [info@3wrestoration.com](mailto:info@3wrestoration.com)  
 Google rating 4.5 (14 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11507140991963369388&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [3wrestoration.com](https://www.3wrestoration.com/contact-us), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Company #RCO1259 (exp. 2028-05-19)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -123,13 +115,10 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 5960 Lower Birdville Rd C3, Haltom City, TX  
-☎ [(972) 584-7961](tel:9725847961)
 
-☎ Google listing: [(972) 441-2956](tel:9724412956)  
 🌐 [jdrrestoration.com](https://jdrrestoration.com/)  
-✉ [info@jdrrestoration.com](mailto:info@jdrrestoration.com)  
 Google rating 4.9 (292 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17195958126107495431&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [jdrrestoration.com](https://jdrrestoration.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Company #RCO1770 (exp. 2028-03-05)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -142,7 +131,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 2408 Minnis Dr, Haltom City, TX  
-☎ [(817) 937-9008](tel:8179379008)
 
 Mold Remediation Company #RCO0231 (exp. 2027-07-30)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

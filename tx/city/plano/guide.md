@@ -44,7 +44,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 Licensed firm
 
 3948 Legacy Dr Suite 106-392, Plano, TX  
-☎ [(972) 768-1235](tel:9727681235)
 
 Mold Assessment Company #ACO0110 (exp. 2028-03-13)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -57,10 +56,9 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 3701 W Plano Pkwy Suite 150, Plano, TX  
-☎ [(972) 390-8014](tel:9723908014)
 
 🌐 [farmereg.com](http://www.farmereg.com/)  
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=6371095889006914290&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Company #ACO0190 (exp. 2027-04-01)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -73,11 +71,9 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 2740 Dallas Pkwy Suite 220, Plano, TX  
-☎ [(469) 429-9000](tel:4694299000)
 
 🌐 [nelsonforensics.com](https://www.nelsonforensics.com/)  
-✉ [expert@nelsonforensics.com](mailto:expert@nelsonforensics.com)  
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=14751581542014722024&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [nelsonforensics.com](https://www.nelsonforensics.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Company #ACO1173 (exp. 2028-07-21)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -90,12 +86,10 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 800 Fulgham Rd Suite 27, Plano, TX  
-☎ [(469) 588-8889](tel:4695888889)
 
-☎ Google listing: [(469) 384-2457](tel:4693842457)  
 🌐 [myalldry.com](https://www.myalldry.com/north-dallas-texas/)  
 Google rating 5.0 (40 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=12662925510188348817&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Company #RCO1474 (exp. 2027-08-25)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -108,7 +102,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 6905 K Ave Suite 211, Plano, TX  
-☎ [(469) 964-1554](tel:4699641554)
 
 Mold Remediation Company #RCO1700 (exp. 2027-06-08)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -121,7 +114,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 4440 Tradition Trl Unit 111, Plano, TX  
-☎ [(972) 399-3236](tel:9723993236)
 
 Mold Remediation Company #RCO1690 (exp. 2027-04-29)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

@@ -40,7 +40,6 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 Licensed firm
 
 4906 Crestpoint Ln, Garland, TX  
-☎ [(945) 385-8757](tel:9453858757)
 
 Mold Assessment Company #ACO1267 (exp. 2027-01-21)  
 Mold Remediation Company #RCO1413 (exp. 2028-08-15)  
@@ -54,11 +53,10 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 3821 Dividend Dr, Garland, TX  
-☎ [(469) 338-7229](tel:4693387229)
 
 🌐 [aescompanies.com](http://www.aescompanies.com/)  
 Google rating 4.9 (32 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=188887871916323201&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Company #RCO1245 (exp. 2028-01-14)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -71,7 +69,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 333 S Kirby St Suite 105, Garland, TX  
-☎ [(469) 797-5565](tel:4697975565)
 
 Mold Remediation Company #RCO1462 (exp. 2027-06-22)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -84,7 +81,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 6321 Green Valley Dr, Garland, TX  
-☎ [(214) 325-6700](tel:2143256700)
 
 Mold Remediation Company #RCO1587 (exp. 2027-09-12)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/tti-environmental-inc-ny1273/
 * Mold Assessment Contractor License (SH125) #25-6LJC8-SHMO (exp. 2027-08-31)
 * Mold Remediation Contractor License (SH126) #25-6HN41-SHMO (exp. 2027-07-31)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15799193764880961217&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Source: https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy, retrieved 2026-10-12. Verify: https://dol.ny.gov/mold-program. Claim / correct: https://moldroster.com/claim-listing/?id=NY1273
 

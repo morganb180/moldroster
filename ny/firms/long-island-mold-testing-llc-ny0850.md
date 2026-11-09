@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/long-island-mold-testing-llc-ny0850/
 * Google rating: 5.0 from 119 reviews (as of Oct 30, 2026)
 * Mold Assessment Contractor License (SH125) #26-63BPF-SHMO (exp. 2028-09-30)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14389699891670469568&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [longislandmoldsolutions.com](https://longislandmoldsolutions.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0850 (goes to Long Island Mold Testing LLC and up to 2 other nearby licensed pros)
 

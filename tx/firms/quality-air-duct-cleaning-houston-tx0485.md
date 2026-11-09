@@ -15,7 +15,7 @@ canonical: https://moldroster.com/tx/firms/quality-air-duct-cleaning-houston-tx0
 * Google rating: 5.0 from 255 reviews (as of Oct 30, 2026)
 * Mold Remediation Company #RCO1653 (exp. 2028-09-09)
 
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=1745106116839188937&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=TX0485 (goes to Quality Air Duct Cleaning Houston and up to 2 other nearby licensed pros)
 

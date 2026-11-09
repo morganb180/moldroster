@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/ez-brown-llc-ny0443/
 * Google rating: 5.0 from 3 reviews (as of Oct 30, 2026)
 * Mold Remediation Contractor License (SH126) #24-63UJ4-SHMO (exp. 2026-11-30)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=16987958773849432950&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [ezbrownllc.com](https://www.ezbrownllc.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0443 (goes to EZ Brown LLC and up to 2 other nearby licensed pros)
 

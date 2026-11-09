@@ -43,7 +43,6 @@ Summary of New York Labor Law Article 32 and 12 NYCRR Part 60. See the agency: [
 Licensed firm
 
 40 Red Rock Rd, New City, NY  
-☎ [(646) 784-6013](tel:6467846013)
 
 Mold Assessment Contractor License (SH125) #25-643SX-SHMO (exp. 2027-02-28)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -56,7 +55,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 10 Filmont Dr, New City, NY  
-☎ [(914) 523-1523](tel:9145231523)
 
 Mold Assessment Contractor License (SH125) #26-631PG-SHMO (exp. 2028-10-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -69,11 +67,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 32 Long Meadow Dr, New City, NY  
-☎ [(845) 821-4063](tel:8458214063)
 
 🌐 [abetheinspector.com](https://abetheinspector.com/)  
 Google rating 5.0 (840 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=13728885920153923241&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Contractor License (SH125) #26-6SU8C-SHMO (exp. 2028-02-29)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -86,13 +83,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 216 Congers Rd #205, New City, NY  
-☎ [(305) 785-8065](tel:3057858065)
 
-☎ Google listing: [(718) 316-6866](tel:7183166866)  
 🌐 [envirotechmold.com](https://www.envirotechmold.com/)  
-✉ [service@envirotechmold.com](mailto:service@envirotechmold.com)  
 Google rating 5.0 (1 review)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15717711868910773364&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [envirotechmold.com](https://www.envirotechmold.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #26-67SU7-SHMO (exp. 2028-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -105,7 +99,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 368 New Hempstead Rd Unit 6 # 71, New City, NY  
-☎ [(845) 596-0836](tel:8455960836)
 
 Mold Remediation Contractor License (SH126) #25-65SRE-SHMO (exp. 2027-05-31)  
 Mold Assessment Contractor License (SH125) #25-65SRF-SHMO (exp. 2027-05-31)  

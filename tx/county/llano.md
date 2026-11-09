@@ -23,7 +23,6 @@ canonical: https://moldroster.com/tx/county/llano/
 Licensed firm
 
 450 S Dr, Kingsland, TX  
-☎ [(325) 248-7003](tel:3252487003)
 
 Mold Remediation Company #RCO1802 (exp. 2028-06-08)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

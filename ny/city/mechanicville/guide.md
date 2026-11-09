@@ -44,7 +44,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 Licensed firm
 
 8 Michael Dr, Mechanicville, NY  
-☎ [(518) 250-9834](tel:5182509834)
 
 Mold Assessment Contractor License (SH125) #26-667BQ-SHMO (exp. 2028-05-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -57,7 +56,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 47 Ridgewood Dr, Mechanicville, NY  
-☎ [(518) 926-8067](tel:5189268067)
 
 Mold Assessment Contractor License (SH125) #26-6ZFBJ-SHMO (exp. 2028-02-29)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -70,11 +68,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 216 Saratoga Ave, Mechanicville, NY  
-☎ [(518) 915-3291](tel:5189153291)
 
 🌐 [broadwaydesignbuild.com](http://www.broadwaydesignbuild.com/)  
 Google rating 4.9 (12 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=1031980975444183614&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #25-67PQY-SHMO (exp. 2027-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -87,13 +84,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 5 Knabner Rd, Mechanicville, NY  
-☎ [(518) 859-9769](tel:5188599769)
 
-☎ Google listing: [(518) 430-5168](tel:5184305168)  
 🌐 [kpmrestoration.com](https://kpmrestoration.com/)  
-✉ [info@kpmrestoration.com](mailto:info@kpmrestoration.com)  
 Google rating 4.9 (244 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11592474334623368700&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [kpmrestoration.com](https://kpmrestoration.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #25-64ZI3-SHMO (exp. 2027-02-28)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

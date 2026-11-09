@@ -38,11 +38,10 @@ Look the name up in the NYS DOL records and check the licence is still current. 
 Licensed firm
 
 39-27 29th St Suite 1, Long Island City, NY  
-☎ [(212) 219-8261](tel:2122198261)
 
 🌐 [greenorchardgroup.com](https://greenorchardgroup.com/)  
 Google rating 5.0 (339 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=16170653384738240515&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Contractor License (SH125) #26-6Z373-SHMO (exp. 2028-03-31)  
 Mold Remediation Contractor License (SH126) #26-6ZE6H-SHMO (exp. 2028-03-31)  
@@ -56,7 +55,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 3418 Northern Blvd Suite 4-36, Long Island City, NY  
-☎ [(929) 933-8019](tel:9299338019)
 
 Mold Assessment Contractor License (SH125) #25-6H68A-SHMO (exp. 2027-10-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -69,7 +67,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 9-15 38th Ave, Long Island City, NY  
-☎ [(303) 242-6361](tel:3032426361)
 
 Mold Assessment Contractor License (SH125) #25-67INI-SHMO (exp. 2027-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -82,7 +79,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 10-59 Jackson Ave Ground Floor, Long Island City, NY  
-☎ [(929) 450-8870](tel:9294508870)
 
 Mold Remediation Contractor License (SH126) #26-6ZUZO-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -95,12 +91,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 33-01 Vernon Blvd, Long Island City, NY  
-☎ [(718) 274-5000](tel:7182745000)
 
 🌐 [krausinc.com](http://www.krausinc.com/)  
-✉ [info@krausinc.com](mailto:info@krausinc.com)  
 Google rating 3.3 (57 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=3532696551021774177&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [krausinc.com](https://www.krausinc.com/contact.html), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #26-6LLAZ-SHMO (exp. 2027-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

@@ -27,7 +27,6 @@ Listed below: 4 licensed mold assessors (inspection and testing) and 2 licensed 
 Licensed firm
 
 28 Eastwood Blvd, Centereach, NY  
-☎ [(631) 902-1636](tel:6319021636)
 
 Mold Assessment Contractor License (SH125) #25-6UTP6-SHMO (exp. 2027-08-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -40,11 +39,9 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 154 Horseblock Rd, Centereach, NY  
-☎ [(631) 487-9729](tel:6314879729)
 
 🌐 [bradyexposure.com](https://www.bradyexposure.com/)  
-✉ [info@bradyexposure.com](mailto:info@bradyexposure.com)  
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=5326715998099244788&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [bradyexposure.com](https://www.bradyexposure.com/contact), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Contractor License (SH125) #26-9YR54-SHMO (exp. 2028-09-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -57,7 +54,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 51 Joan Ave, Centereach, NY  
-☎ [(631) 512-5238](tel:6315125238)
 
 Mold Remediation Contractor License (SH126) #26-69JRP-SHMO (exp. 2028-06-30)  
 Mold Assessment Contractor License (SH125) #26-69JRO-SHMO (exp. 2028-06-30)  
@@ -71,7 +67,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 81 Wood Rd, Centereach, NY  
-☎ [(917) 440-9419](tel:9174409419)
 
 Mold Assessment Contractor License (SH125) #26-6ZUS1-SHMO (exp. 2028-02-29)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -86,7 +81,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 107-1 Rustic Rd, Centereach, NY  
-☎ [(631) 433-8209](tel:6314338209)
 
 Mold Remediation Contractor License (SH126) #24-63SG3-SHMO (exp. 2026-10-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -99,7 +93,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 39 Somerset St, Centereach, NY  
-☎ [(631) 774-5013](tel:6317745013)
 
 Mold Remediation Contractor License (SH126) #26-6Z18L-SHMO (exp. 2028-09-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

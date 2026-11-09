@@ -38,10 +38,9 @@ Look the name up in the NYS DOL records and check the licence is still current. 
 Licensed firm
 
 14-26 28th Ave, Astoria, NY  
-☎ [(718) 482-7525](tel:7184827525)
 
 Google rating 5.0 (8 reviews)  
-Added by us, not on the state list: rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15083138979397517048&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Contractor License (SH125) #26-6IPD3-SHMO (exp. 2028-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -54,12 +53,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 1235 30th Dr, Astoria, NY  
-☎ [(718) 545-0870](tel:7185450870)
 
 🌐 [amiantosenvironmental.com](http://www.amiantosenvironmental.com/)  
-✉ [info@amiantosenvironmental.com](mailto:info@amiantosenvironmental.com)  
 Google rating 5.0 (5 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5866228406952100660&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [amiantosenvironmental.com](https://www.amiantosenvironmental.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Contractor License (SH125) #26-6ZUU9-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -72,7 +69,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 2033 26th St, Astoria, NY  
-☎ [(718) 578-6050](tel:7185786050)
 
 Mold Assessment Contractor License (SH125) #25-6ICUA-SHMO (exp. 2027-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -85,12 +81,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 36-16 19th Ave, Astoria, NY  
-☎ [(718) 729-2501](tel:7187292501)
 
 🌐 [abccci.com](http://www.abccci.com/)  
-✉ [info@abccci.com](mailto:info@abccci.com)  
 Google rating 5.0 (16 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7143313341832306832&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [abccci.com](https://www.abccci.com/contact), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #26-6SKCE-SHMO (exp. 2028-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -103,7 +97,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 18-29 42nd St, Astoria, NY  
-☎ [(718) 777-0101](tel:7187770101)
 
 Mold Assessment Contractor License (SH125) #26-6Z55F-SHMO (exp. 2028-02-29)  
 Mold Remediation Contractor License (SH126) #26-6ZOQA-SHMO (exp. 2028-01-31)  
@@ -117,7 +110,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 43-07 28th Ave, Astoria, NY  
-☎ [(646) 256-2538](tel:6462562538)
 
 Mold Remediation Contractor License (SH126) #25-659LZ-SHMO (exp. 2027-06-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

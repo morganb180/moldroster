@@ -23,11 +23,10 @@ canonical: https://moldroster.com/ny/county/genesee/
 Licensed firm
 
 2364 Walker Rd, Alexander, NY  
-☎ [(716) 359-0325](tel:7163590325)
 
 🌐 [rpiwny.com](http://www.rpiwny.com/)  
 Google rating 5.0 (58 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11936564809233499261&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Contractor License (SH125) #26-6SSAQ-SHMO (exp. 2028-02-29)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -40,7 +39,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 80 Munson St, Leroy, NY  
-☎ [(585) 346-4105](tel:5853464105)
 
 Mold Assessment Contractor License (SH125) #25-6TJAH-SHMO (exp. 2027-02-28)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

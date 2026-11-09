@@ -17,7 +17,7 @@ canonical: https://moldroster.com/ny/firms/tna-field-services-inc-ny1394/
 * Mold Remediation Contractor License (SH126) #24-63E8T-SHMO (exp. 2026-10-31)
 * Mold Assessment Contractor License (SH125) #24-63EG4-SHMO (exp. 2026-10-31)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=6317395958593926877&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [tnafsi.com](https://www.tnafsi.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY1394 (goes to TNA Field Services Inc. and up to 2 other nearby licensed pros)
 

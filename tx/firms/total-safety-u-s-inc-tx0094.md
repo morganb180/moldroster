@@ -16,7 +16,7 @@ canonical: https://moldroster.com/tx/firms/total-safety-u-s-inc-tx0094/
 * Google rating: 3.8 from 25 reviews (as of Oct 30, 2026)
 * Mold Assessment Company #ACO1175 (exp. 2028-08-12)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=3628167526296006833&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [totalsafety.com](https://www.totalsafety.com/contact/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=TX0094 (goes to Total Safety, U.S., Inc. and up to 2 other nearby licensed pros)
 

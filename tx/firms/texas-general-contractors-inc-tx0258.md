@@ -16,7 +16,7 @@ canonical: https://moldroster.com/tx/firms/texas-general-contractors-inc-tx0258/
 * Google rating: 4.9 from 50 reviews (as of Oct 30, 2026)
 * Mold Remediation Company #RCO1115 (exp. 2027-06-03)
 
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=13502261628443613665&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [texasgeneral.com](https://www.texasgeneral.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=TX0258 (goes to Texas General Contractors Inc and up to 2 other nearby licensed pros)
 

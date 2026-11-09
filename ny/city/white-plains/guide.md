@@ -38,7 +38,6 @@ Look the name up in the NYS DOL records and check the licence is still current. 
 Licensed firm
 
 1133 Westchester Ave, White Plains, NY  
-☎ [(917) 807-3935](tel:9178073935)
 
 Mold Remediation Contractor License (SH126) #26-63GZZ-SHMO (exp. 2028-09-30)  
 Mold Assessment Contractor License (SH125) #26-63GZI-SHMO (exp. 2028-09-30)  
@@ -52,7 +51,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 35 Barker Ave, Apt 4E, White Plains, NY  
-☎ [(914) 623-3400](tel:9146233400)
 
 Mold Assessment Contractor License (SH125) #24-64EFP-SHMO (exp. 2026-11-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -65,7 +63,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 903 Pondside Dr, White Plains, NY  
-☎ [(914) 439-7493](tel:9144397493)
 
 Mold Assessment Contractor License (SH125) #25-6tcu1-shmo (exp. 2027-05-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -78,11 +75,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 7 Intervale St, White Plains, NY  
-☎ [(844) 269-3762](tel:8442693762)
 
 🌐 [bowermanrestoration.com](https://bowermanrestoration.com/)  
 Google rating 4.9 (271 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5383363855467142788&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #24-63XR3-SHMO (exp. 2026-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -95,7 +91,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 3 Westchester View Ln, White Plains, NY  
-☎ [(646) 404-2303](tel:6464042303)
 
 Mold Remediation Contractor License (SH126) #26-6Z57I-SHMO (exp. 2028-05-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

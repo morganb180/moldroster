@@ -15,7 +15,7 @@ canonical: https://moldroster.com/ny/firms/environmental-building-solutions-llc-
 * Website: http://www.ebsllcnyc.com/
 * Mold Assessment Contractor License (SH125) #25-6IOS3-SHMO (exp. 2027-10-31)
 
-Added by us, not on the state list: phone and website from the firm's [Google Maps listing](https://maps.google.com/?cid=8718292608038763305&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [codegreen.com](https://www.codegreen.com/together), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0701 (goes to Environmental Building Solutions, LLC and up to 2 other nearby licensed pros)
 

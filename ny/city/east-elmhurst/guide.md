@@ -44,7 +44,6 @@ National figures, not local quotes. Try the [estimate tool](https://moldroster.c
 Licensed firm
 
 2116 80th St, East Elmhurst, NY  
-☎ [(212) 540-5323](tel:2125405323)
 
 Mold Remediation Contractor License (SH126) #26-6ACOE-SHMO (exp. 2028-05-31)  
 Mold Assessment Contractor License (SH125) #26-6ACOR-SHMO (exp. 2028-05-31)  
@@ -58,7 +57,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 32-66 80th St Apt E2, East Elmhurst, NY  
-☎ [(347) 281-1707](tel:3472811707)
 
 Mold Assessment Contractor License (SH125) #26-66ZZ3-SHMO (exp. 2028-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -71,7 +69,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 32-27 105th St, East Elmhurst, NY  
-☎ [(646) 407-6014](tel:6464076014)
 
 Mold Remediation Contractor License (SH126) #25-6TJZ1-SHMO (exp. 2027-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -84,7 +81,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 8807 30th Ave, East Elmhurst, NY  
-☎ [(917) 440-2285](tel:9174402285)
 
 Mold Remediation Contractor License (SH126) #26-9YNUU-SHMO (exp. 2028-09-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

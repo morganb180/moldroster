@@ -38,7 +38,6 @@ Look the name up in the NYS DOL records and check the licence is still current. 
 Licensed firm
 
 655 Route6N, Mahopac, NY  
-☎ [(914) 260-0482](tel:9142600482)
 
 Mold Assessment Contractor License (SH125) #25-6U8J6-SHMO (exp. 2027-07-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -51,7 +50,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 48 Lakeview Terr, Mahopac, NY  
-☎ [(914) 420-5167](tel:9144205167)
 
 Mold Assessment Contractor License (SH125) #25-65QKT-SHMO (exp. 2027-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -64,7 +62,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 266 Shear Hill Rd, Mahopac, NY  
-☎ [(914) 557-1879](tel:9145571879)
 
 Mold Assessment Contractor License (SH125) #26-6SS1I-SHMO (exp. 2028-02-29)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

@@ -14,7 +14,7 @@ canonical: https://moldroster.com/ny/firms/air-guard-llc-ny0101/
 * Website: http://www.aglenvironmatal.com/
 * Mold Assessment Contractor License (SH125) #25-6LZN5-SHMO (exp. 2027-09-30)
 
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=14718071124276836025&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Source: https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy, retrieved 2026-10-12. Verify: https://dol.ny.gov/mold-program. Claim / correct: https://moldroster.com/claim-listing/?id=NY0101
 

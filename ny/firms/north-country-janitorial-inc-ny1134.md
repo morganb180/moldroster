@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/north-country-janitorial-inc-ny1134/
 * Google rating: 3.4 from 40 reviews (as of Oct 30, 2026)
 * Mold Remediation Contractor License (SH126) #25-6UXQU-SHMO (exp. 2027-07-31)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10351007309808317030&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [northcountryjanitorial.com](https://www.northcountryjanitorial.com/contact-us/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY1134 (goes to North Country Janitorial, Inc. and up to 2 other nearby licensed pros)
 

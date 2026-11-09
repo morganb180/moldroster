@@ -17,7 +17,7 @@ canonical: https://moldroster.com/ny/firms/top-home-inspection-services-llc-ny12
 * Mold Assessment Contractor License (SH125) #25-65BE1-SHMO (exp. 2027-03-31)
 * Mold Remediation Contractor License (SH126) #25-65Z61-SHMO (exp. 2027-05-31)
 
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11674883856188148314&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [tophomeinspectionservices.com](https://www.tophomeinspectionservices.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY1286 (goes to Top Home Inspection Services LLC and up to 2 other nearby licensed pros)
 

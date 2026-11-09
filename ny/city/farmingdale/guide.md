@@ -43,7 +43,6 @@ Summary of New York Labor Law Article 32 and 12 NYCRR Part 60. See the agency: [
 Licensed firm
 
 934 Main St, Farmingdale, NY  
-☎ [(718) 753-3222](tel:7187533222)
 
 Mold Assessment Contractor License (SH125) #26-668G1-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -56,12 +55,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 136 Allen Blvd, Farmingdale, NY  
-☎ [(631) 600-2000](tel:6316002000)
 
 🌐 [ecerestoration.com](http://ecerestoration.com/)  
-✉ [vendorrelations@ecerestoration.com](mailto:vendorrelations@ecerestoration.com)  
 Google rating 4.7 (26 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11914518965069585189&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [ecerestoration.com](https://www.ecerestoration.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #26-6ZUVX-SHMO (exp. 2028-02-29)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -74,7 +71,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 128 Duane St, Farmingdale, NY  
-☎ [(631) 681-4261](tel:6316814261)
 
 Mold Remediation Contractor License (SH126) #26-6AGHL-SHMO (exp. 2028-05-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -87,10 +83,8 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 1 Rome St, Farmingdale, NY  
-☎ [(516) 524-3782](tel:5165243782)
 
-☎ Google listing: [(631) 577-4181](tel:6315774181)  
-Added by us, not on the state list: phone from the firm's [Google Maps listing](https://maps.google.com/?cid=748048685816785235&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #25-6SIKK-SHMO (exp. 2027-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

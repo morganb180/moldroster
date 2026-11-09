@@ -23,12 +23,9 @@ canonical: https://moldroster.com/tx/county/bowie/
 Licensed firm
 
 521 Redwater Rd, Texarkana, TX  
-☎ [(903) 701-1964](tel:9037011964)
 
-☎ Google listing: [(903) 710-1964](tel:9037101964)  
 🌐 [envirogator.com](https://envirogator.com/)  
-✉ [info@envirogator.com](mailto:info@envirogator.com)  
-Added by us, not on the state list: phone and website from the firm's [Google Maps listing](https://maps.google.com/?cid=3614771327669497324&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [envirogator.com](https://envirogator.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Company #ACO1309 (exp. 2028-03-23)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -40,7 +37,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -58,7 +55,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 

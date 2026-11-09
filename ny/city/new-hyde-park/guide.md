@@ -43,12 +43,10 @@ Ask what clearance test will show the job is done, for the licence number and ty
 Licensed firm
 
 2003 Jericho Turnpike, New Hyde Park, NY  
-☎ [(516) 821-7309](tel:5168217309)
 
-☎ Google listing: [(516) 821-7300](tel:5168217300)  
 🌐 [mjengineers.com](https://mjengineers.com/)  
 Google rating 4.6 (16 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=9991910967536045679&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Contractor License (SH125) #25-6HEQ7-SHMO (exp. 2027-07-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -61,7 +59,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 650 Hillside Ave, New Hyde Park, NY  
-☎ [(516) 328-6600](tel:5163286600)
 
 Mold Assessment Contractor License (SH125) #25-647VK-SHMO (exp. 2027-02-28)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -74,7 +71,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 125 Denton Ave, New Hyde Park, NY  
-☎ [(516) 616-4300](tel:5166164300)
 
 Mold Remediation Contractor License (SH126) #26-6LO1J-SHMO (exp. 2028-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -87,11 +83,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 900 3rd Ave, New Hyde park, NY  
-☎ [(718) 361-0044](tel:7183610044)
 
 🌐 [nesco.cc](http://www.nesco.cc/)  
 Google rating 5.0 (1 review)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15717994946732031193&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #25-65QUR-SHMO (exp. 2027-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -104,13 +99,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 1208 Jericho Turnpike, New Hyde Park, NY  
-☎ [(347) 265-1191](tel:3472651191)
 
-☎ Google listing: [(888) 737-8601](tel:8887378601)  
 🌐 [restorationmastersny.com](https://restorationmastersny.com/)  
-✉ [info@restorationmastersny.com](mailto:info@restorationmastersny.com)  
 Google rating 5.0 (13 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17331904232893985036&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [restorationmastersny.com](https://www.restorationmastersny.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #24-63X19-SHMO (exp. 2026-10-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

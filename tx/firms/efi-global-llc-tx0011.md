@@ -16,7 +16,7 @@ canonical: https://moldroster.com/tx/firms/efi-global-llc-tx0011/
 * Google rating: 2.8 from 4 reviews (as of Oct 30, 2026)
 * Mold Assessment Company #ACO0126 (exp. 2028-01-05)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=8703395173360871451&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [efiglobal.com](https://www.efiglobal.com/emerging-pfas-risks-what-you-need-to-know-about-airborne-exposure/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=TX0011 (goes to Efi Global LLC and up to 2 other nearby licensed pros)
 

@@ -38,12 +38,10 @@ Look the name up in the NYS DOL records and check the licence is still current. 
 Licensed firm
 
 829-2 Lincoln Ave, Bohemia, NY  
-☎ [(631) 922-5044](tel:6319225044)
 
-☎ Google listing: [(631) 766-4636](tel:6317664636)  
 🌐 [targetrestorationny.com](https://targetrestorationny.com/)  
 Google rating 5.0 (7 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7014797452923555520&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #26-69NVD-SHMO (exp. 2028-06-30)  
 Mold Assessment Contractor License (SH125) #26-69BDQ-SHMO (exp. 2028-05-31)  
@@ -57,7 +55,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 1618 Julia Goldbach Ave, Bohemia, NY  
-☎ [(239) 201-7222](tel:2392017222)
 
 Mold Assessment Contractor License (SH125) #26-69VH7-SHMO (exp. 2028-07-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -82,12 +79,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 217 Knickerbocker Ave, Bohemia, NY  
-☎ [(631) 654-1225](tel:6316541225)
 
 🌐 [customcareny.com](http://customcareny.com/)  
-✉ [customcare10@yahoo.com](mailto:customcare10@yahoo.com)  
 Google rating 4.8 (21 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=16364089430197677248&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [customcareny.com](https://www.customcareny.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #26-6S6RZ-SHMO (exp. 2028-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -100,12 +95,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 1556 Ocean Ave, Bohemia, NY  
-☎ [(631) 901-8856](tel:6319018856)
 
-☎ Google listing: [(631) 573-6300](tel:6315736300)  
 🌐 [4disasters.com](http://4disasters.com/)  
 Google rating 5.0 (30 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=3302763205747899301&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #26-6Z16G-SHMO (exp. 2028-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -118,7 +111,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 1507-13 Smithtown Ave, Bohemia, NY  
-☎ [(631) 553-4224](tel:6315534224)
 
 Mold Remediation Contractor License (SH126) #25-6IJdc-shmo (exp. 2027-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

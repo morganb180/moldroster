@@ -42,7 +42,6 @@ Ask what clearance test will show the job is done, for the licence number and ty
 Licensed firm
 
 51-19RD St, Woodside, NY  
-☎ [(718) 880-3679](tel:7188803679)
 
 Mold Assessment Contractor License (SH125) #25-6UOIY-SHMO (exp. 2027-09-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -55,11 +54,9 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 2612 Borough Pl, Woodside, NY  
-☎ [(347) 448-6253](tel:3474486253)
 
 🌐 [judypaintingcorp.com](https://www.judypaintingcorp.com/contact)  
-✉ [office@judypaintingcorp.com](mailto:office@judypaintingcorp.com)  
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=9392334882003973603&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [judypaintingcorp.com](https://www.judypaintingcorp.com/contact), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #24-635KF-SHMO (exp. 2027-02-28)  
 Mold Assessment Contractor License (SH125) #25-67B4X-SHMO (exp. 2027-10-31)  
@@ -73,7 +70,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 4706 46th St F1, Woodside, NY  
-☎ [(929) 712-0216](tel:9297120216)
 
 Mold Remediation Contractor License (SH126) #25-64V9T-SHMO (exp. 2027-01-31)  
 Mold Assessment Contractor License (SH125) #25-64V9X-SHMO (exp. 2027-01-31)  
@@ -87,10 +83,9 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 64-11 Broadway, Woodside, NY  
-☎ [(718) 458-5545](tel:7184585545)
 
 Google rating 5.0 (7 reviews)  
-Added by us, not on the state list: rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15012425317563947729&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #26-61CGV-SHMO (exp. 2028-11-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

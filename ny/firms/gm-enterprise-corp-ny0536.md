@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/gm-enterprise-corp-ny0536/
 * Google rating: 5.0 from 4 reviews (as of Oct 30, 2026)
 * Mold Remediation Contractor License (SH126) #26-6AZDZ-SHMO (exp. 2028-07-31)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=3384755093548220144&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [gmenterprisecorp.com](https://gmenterprisecorp.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0536 (goes to GM Enterprise Corp and up to 2 other nearby licensed pros)
 

@@ -23,11 +23,10 @@ canonical: https://moldroster.com/ny/county/herkimer/
 Licensed firm
 
 6968 State Hwy 29, Dolgeville, NY  
-☎ [(518) 533-4888](tel:5185334888)
 
 🌐 [buildingenvironmentservice.com](http://www.buildingenvironmentservice.com/)  
 Google rating 5.0 (10 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=6290868365721174176&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #26-6ZUVR-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -40,7 +39,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 8674 S Main St, Poland, NY  
-☎ [(617) 285-7042](tel:6172857042)
 
 Mold Remediation Contractor License (SH126) #25-67J93-SHMO (exp. 2027-11-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

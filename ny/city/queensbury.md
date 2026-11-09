@@ -27,7 +27,6 @@ Listed below: 5 licensed mold assessors (inspection and testing) with an address
 Licensed firm
 
 1049 W Mountain Rd, Queensbury, NY  
-☎ [(518) 858-4317](tel:5188584317)
 
 Mold Assessment Contractor License (SH125) #26-6ZIO3-SHMO (exp. 2028-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -40,7 +39,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 752 Upper Glen St #1021, Queensbury, NY  
-☎ [(518) 321-9549](tel:5183219549)
 
 Mold Assessment Contractor License (SH125) #24-63P71-SHMO (exp. 2026-10-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -53,13 +51,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 18 Blackberry Ln, Queensbury, NY  
-☎ [(518) 307-0130](tel:5183070130)
 
-☎ Google listing: [(518) 832-9213](tel:5188329213)  
 🌐 [cvenv.com](https://cvenv.com/)  
-✉ [support@cvenv.com](mailto:support@cvenv.com)  
 Google rating 4.8 (26 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7524363551134582234&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [cvenv.com](https://cvenv.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Contractor License (SH125) #25-6LGBU-SHMO (exp. 2027-10-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -72,7 +67,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 2109 Ridge Rd, Queensbury, NY  
-☎ [(518) 586-2997](tel:5185862997)
 
 Mold Assessment Contractor License (SH125) #26-665GD-SHMO (exp. 2028-05-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -85,7 +79,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 1 Knolls Dr, Queensbury, NY  
-☎ [(518) 832-9750](tel:5188329750)
 
 Mold Assessment Contractor License (SH125) #25-6LVDS-SHMO (exp. 2027-10-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

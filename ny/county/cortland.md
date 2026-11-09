@@ -23,7 +23,6 @@ canonical: https://moldroster.com/ny/county/cortland/
 Licensed firm
 
 32 N Main St, Cortland, NY  
-☎ [(607) 753-6781](tel:6077536781)
 
 Mold Assessment Contractor License (SH125) #26-69OQN-SHMO (exp. 2028-07-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -36,7 +35,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 397 State Route 38, Harford, NY  
-☎ [(607) 857-3913](tel:6078573913)
 
 Mold Assessment Contractor License (SH125) #26-66HEE-SHMO (exp. 2028-05-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

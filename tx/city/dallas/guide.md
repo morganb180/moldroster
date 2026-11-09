@@ -40,11 +40,10 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 Licensed firm
 
 5445 LA Sierra Dr Suite 450, Dallas, TX  
-☎ [(214) 363-0099](tel:2143630099)
 
 🌐 [abacusenvironment.com](https://www.abacusenvironment.com/)  
 Google rating 5.0 (1 review)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4799530740971701889&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Company #ACO1221 (exp. 2027-02-10)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -57,11 +56,9 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 3626 N Hall St Suite 610, Dallas, TX  
-☎ [(214) 377-6093](tel:2143776093)
 
 🌐 [airmd.com](https://airmd.com/areas-served/texas/dallas/)  
-✉ [info@airmd.com](mailto:info@airmd.com)  
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=3640255470889563984&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [airmd.com](https://airmd.com/areas-served/texas/dallas/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Company #ACO1294 (exp. 2027-09-08)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -74,13 +71,10 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 PO Box 619428 Annex A Environmental, Dallas, TX  
-☎ [(972) 973-5682](tel:9729735682)
 
-☎ Google listing: [(972) 973-3112](tel:9729733112)  
 🌐 [dfwairport.com](https://www.dfwairport.com/)  
-✉ [boardsecretary@dfwairport.com](mailto:boardsecretary@dfwairport.com)  
 Google rating 4.1 (63,920 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=8300766736265584668&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [dfwairport.com](https://www.dfwairport.com/business/about/board/), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Company #ACO1127 (exp. 2027-10-02)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -93,7 +87,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 2303 Shorecrest Dr, Dallas, TX  
-☎ [(214) 501-2091](tel:2145012091)
 
 Mold Remediation Company #RCO1494 (exp. 2027-11-22)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -106,7 +99,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 2351 W Northwest Hwy Suite 2118, Dallas, TX  
-☎ [(214) 353-8087](tel:2143538087)
 
 Mold Remediation Company #RCO0111 (exp. 2028-01-11)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -119,7 +111,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 3701 S Botham Jean, Dallas, TX  
-☎ [(972) 925-4500](tel:9729254500)
 
 Mold Remediation Company #RCO1795 (exp. 2028-05-05)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

@@ -15,7 +15,7 @@ canonical: https://moldroster.com/ny/firms/est-trish-llc-dba-stanley-steemer-of-
 * Google rating: 4.9 from 2130 reviews (as of Oct 30, 2026)
 * Mold Remediation Contractor License (SH126) #26-6I5BT-SHMO (exp. 2028-03-31)
 
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=539905052550377789&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Source: https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy, retrieved 2026-10-12. Verify: https://dol.ny.gov/mold-program. Claim / correct: https://moldroster.com/claim-listing/?id=NY0503
 

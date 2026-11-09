@@ -13,7 +13,7 @@ canonical: https://moldroster.com/dc/firms/bluepoint-environmental-dc0049/
 * Email: matthew@bluepointenvironmental.com
 * Website: https://www.bluepointenvironmental.com/contact
 
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=15618521270886208653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=DC0049 (goes to Bluepoint Environmental and up to 2 other nearby licensed pros)
 

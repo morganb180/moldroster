@@ -27,7 +27,6 @@ Listed below: 3 licensed mold assessors (inspection and testing) and 5 licensed 
 Licensed firm
 
 13915 14th Ave, Whitestone, NY  
-☎ [(917) 939-0019](tel:9179390019)
 
 Mold Assessment Contractor License (SH125) #25-6TOBS-SHMO (exp. 2027-04-30)  
 Mold Remediation Contractor License (SH126) #24-63SJF-SHMO (exp. 2026-11-30)  
@@ -41,7 +40,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 18-09 Murray St, Whitestone, NY  
-☎ [(646) 872-6198](tel:6468726198)
 
 Mold Assessment Contractor License (SH125) #25-678ZU-SHMO (exp. 2027-11-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -54,12 +52,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 150-48 14th Ave, Whitestone, NY  
-☎ [(718) 767-0484](tel:7187670484)
 
-☎ Google listing: [(929) 224-6628](tel:9292246628)  
 🌐 [lozierinc.com](https://www.lozierinc.com/)  
 Google rating 3.3 (3 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=6739064971993160475&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Contractor License (SH125) #25-6ugjn-shmo (exp. 2027-02-28)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -74,10 +70,9 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 151-17 6th Rd, Whitestone, NY  
-☎ [(718) 237-2849](tel:7182372849)
 
 Google rating 5.0 (1 review)  
-Added by us, not on the state list: rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5142496928691427272&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #26-6AZKH-SHMO (exp. 2028-07-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -90,10 +85,9 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 11-01 154th St, Whitestone, NY  
-☎ [(718) 728-0369](tel:7187280369)
 
 Google rating 4.5 (2 reviews)  
-Added by us, not on the state list: rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17901015539623229060&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #26-6LSAU-SHMO (exp. 2027-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -106,7 +100,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 2038 169th St, Whitestone, NY  
-☎ [(347) 200-7478](tel:3472007478)
 
 Mold Remediation Contractor License (SH126) #26-6ZGI4-SHMO (exp. 2028-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -119,7 +112,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 12-54 152nd St, Whitestone, NY  
-☎ [(646) 235-3620](tel:6462353620)
 
 Mold Remediation Contractor License (SH126) #24-64JKX-SHMO (exp. 2026-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -132,7 +124,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 154-04 11th Ave, Whitestone, NY  
-☎ [(917) 579-9464](tel:9175799464)
 
 Mold Remediation Contractor License (SH126) #26-63R9E-SHMO (exp. 2028-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

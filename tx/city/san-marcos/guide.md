@@ -43,12 +43,10 @@ Ask what clearance test will show the job is done, for the licence number and ty
 Licensed firm
 
 125 Archers Way, San Marcos, TX  
-☎ [(512) 952-2757](tel:5129522757)
 
 🌐 [txstec.com](http://www.txstec.com/)  
-✉ [consulting@txstec.com](mailto:consulting@txstec.com)  
 Google rating 5.0 (4 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=3026212007073067512&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [txstec.com](https://www.txstec.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Company #ACO1193 (exp. 2027-09-20)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -61,7 +59,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 1222 Old Martindale Rd, San Marcos, TX  
-☎ [(512) 396-8225](tel:5123968225)
 
 Mold Remediation Company #RCO1550 (exp. 2028-10-20)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -74,7 +71,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 2626 Hunter Rd Suite 104, San Marcos, TX  
-☎ [(512) 845-1661](tel:5128451661)
 
 Mold Remediation Company #RCO0265 (exp. 2028-09-26)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -87,7 +83,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 1290 Wonder World Dr Suite 1220, San Marcos, TX  
-☎ [(915) 422-0631](tel:9154220631)
 
 Mold Remediation Company #RCO1322 (exp. 2027-11-30)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

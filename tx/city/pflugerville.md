@@ -27,7 +27,6 @@ Listed below: 2 licensed mold assessors (inspection and testing) and 2 licensed 
 Licensed firm
 
 19405 Sangremon Way, Pflugerville, TX  
-☎ [(512) 934-7438](tel:5129347438)
 
 Mold Assessment Company #ACO0125 (exp. 2028-02-06)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -40,7 +39,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 19708 Copper Point Cv, Pflugerville, TX  
-☎ [(512) 673-3113](tel:5126733113)
 
 Mold Assessment Company #ACO1190 (exp. 2027-09-06)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -55,7 +53,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 900 E Pecan St Suite 300-293, Pflugerville, TX  
-☎ [(512) 990-4776](tel:5129904776)
 
 Mold Remediation Company #RCO1433 (exp. 2026-10-13)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -68,7 +65,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 1019 S Heatherwilde Blvd Suite 120, Pflugerville, TX  
-☎ [(512) 540-4747](tel:5125404747)
 
 Mold Remediation Company #RCO1589 (exp. 2027-09-24)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

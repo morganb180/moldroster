@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/mold-men-environmental-pro-llc-ny0936
 * Google rating: 5.0 from 145 reviews (as of Oct 30, 2026)
 * Mold Remediation Contractor License (SH126) #25-64K59-SHMO (exp. 2027-01-31)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=3552399263414803120&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [moldmenenv.com](https://www.moldmenenv.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0936 (goes to Mold Men Environmental Pro LLC and up to 2 other nearby licensed pros)
 

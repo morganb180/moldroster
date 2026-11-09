@@ -27,7 +27,6 @@ Listed below: 5 licensed mold assessors (inspection and testing) and 3 licensed 
 Licensed firm
 
 162-27 Depot Rd #2R, Flushing, NY  
-☎ [(718) 463-1234](tel:7184631234)
 
 Mold Assessment Contractor License (SH125) #25-6U1RR-SHMO (exp. 2027-08-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -40,7 +39,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 77-02 66th Dr, Flushing, NY  
-☎ [(347) 232-5691](tel:3472325691)
 
 Mold Assessment Contractor License (SH125) #26-661AS-SHMO (exp. 2028-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -53,11 +51,9 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 4820 206th St 4820 206th St, Flushing, NY  
-☎ [(347) 267-4755](tel:3472674755)
 
 🌐 [nycleadtestnyc.com](https://nycleadtestnyc.com/)  
-✉ [precisioncompliancetesting@gmail.com](mailto:precisioncompliancetesting@gmail.com)  
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=5801024393053600889&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [nycleadtestnyc.com](https://nycleadtestnyc.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Contractor License (SH125) #26-693PX-SHMO (exp. 2028-08-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -70,7 +66,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 43-44 Kissena Blvd, Flushing, NY  
-☎ [(212) 961-7405](tel:2129617405)
 
 Mold Assessment Contractor License (SH125) #25-67E91-SHMO (exp. 2027-11-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -83,7 +78,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 7048 153rd St, Flushing, NY  
-☎ [(347) 670-9311](tel:3476709311)
 
 Mold Assessment Contractor License (SH125) #25-67OEL-SHMO (exp. 2027-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -98,7 +92,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 13504 Jewel Ave, Apt 1A, Flushing, NY  
-☎ [(917) 650-2096](tel:9176502096)
 
 Mold Remediation Contractor License (SH126) #25-6UOM6-SHMO (exp. 2027-07-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -111,7 +104,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 162-27 Depot Rd Apt #2R, Flushing, NY  
-☎ [(646) 771-6944](tel:6467716944)
 
 Mold Remediation Contractor License (SH126) #25-6UU6G-SHMO (exp. 2027-08-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -124,7 +116,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 4266 Kissena Blvd Suite 3, Flushing, NY  
-☎ [(212) 858-9684](tel:2128589684)
 
 Mold Remediation Contractor License (SH126) #24-63C4B-SHMO (exp. 2026-10-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

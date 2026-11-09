@@ -16,7 +16,7 @@ canonical: https://moldroster.com/ny/firms/superstar-industries-llc-dba-restored
 * Google rating: 5.0 from 11 reviews (as of Oct 30, 2026)
 * Mold Remediation Contractor License (SH126) #25-65BHF-SHMO (exp. 2027-03-31)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5694916838561706986&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [restorednow.com](https://restorednow.com/), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY1392 (goes to Superstar Industries LLC (dba Restored) and up to 2 other nearby licensed pros)
 

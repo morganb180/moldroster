@@ -16,7 +16,7 @@ canonical: https://moldroster.com/tx/firms/ss-water-restoraion-tx0488/
 * Google rating: 5.0 from 110 reviews (as of Oct 30, 2026)
 * Mold Remediation Company #RCO1659 (exp. 2028-09-26)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5530263564430756090&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [sswaterrestoration.com](https://sswaterrestoration.com/services/water-damage-restoration/krugerville-tx/), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=TX0488 (goes to Ss Water Restoraion and up to 2 other nearby licensed pros)
 

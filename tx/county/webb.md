@@ -22,7 +22,7 @@ canonical: https://moldroster.com/tx/county/webb/
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -40,7 +40,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 PO Box 450950, Laredo, TX  
-☎ [(956) 568-0266](tel:9565680266)
 
 Mold Remediation Company #RCO1306 (exp. 2027-10-10)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

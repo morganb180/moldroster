@@ -16,7 +16,7 @@ canonical: https://moldroster.com/tx/firms/mundae-cleaning-restoration-tx0069/
 * Mold Assessment Company #ACO1120 (exp. 2027-08-16)
 * Mold Remediation Company #RCO1265 (exp. 2028-10-05)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=1239713752636212324&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=TX0069 (goes to Mundae Cleaning & Restoration and up to 2 other nearby licensed pros)
 

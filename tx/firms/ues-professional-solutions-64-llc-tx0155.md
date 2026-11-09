@@ -16,7 +16,7 @@ canonical: https://moldroster.com/tx/firms/ues-professional-solutions-64-llc-tx0
 * Google rating: 4.4 from 7 reviews (as of Oct 30, 2026)
 * Mold Assessment Company #ACO1277 (exp. 2027-05-04)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2258165432975341595&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [teamues.com](https://www.teamues.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=TX0155 (goes to Ues Professional Solutions 64, LLC and up to 2 other nearby licensed pros)
 

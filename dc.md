@@ -1,6 +1,6 @@
 ---
 title: "Licensed Mold Assessors & Remediators in Washington, DC"
-description: "145 DOEE-licensed mold assessors and remediators serving Washington, DC, with phone, email and licence type."
+description: "145 DOEE-licensed mold assessors and remediators serving Washington, DC, with licence type and source links."
 canonical: https://moldroster.com/dc/
 ---
 
@@ -35,9 +35,6 @@ Listings holding more than one licence type are shown once, in the first matchin
 Licensed firm
 
 DC  
-☎ [(202) 359-4540](tel:2023594540)  
-✉ [JPowell@avetsinc.com](mailto:JPowell@avetsinc.com)  
-✉ [ckimball@avetsinc.com](mailto:ckimball@avetsinc.com)
 
 4 licensed individuals
 
@@ -56,9 +53,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 DC  
-☎ [(571) 455-2043](tel:5714552043)  
-✉ [jlynch@bostonenvinc.com](mailto:jlynch@bostonenvinc.com)  
-✉ [contacts@bostonenvinc.com](mailto:contacts@bostonenvinc.com)
 
 4 licensed individuals
 
@@ -77,17 +71,14 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 DC  
-☎ [(202) 359-4477](tel:2023594477)  
-✉ [duane@dmvprofessional.com](mailto:duane@dmvprofessional.com)
 
 1 licensed individual
 
 * D. Sewell (Mold Assessor)
 
-☎ [(202) 359-4477](tel:2023594477)  
 🌐 [dmvhomeinspections.com](http://www.dmvhomeinspections.com/)  
 Google rating 4.3 (24 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10780854257491166250&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=DC0104)
@@ -99,8 +90,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 DC  
-☎ [(202) 322-2127](tel:2023222127)  
-✉ [pidoway@yahoo.com](mailto:pidoway@yahoo.com)
 
 1 licensed individual
 
@@ -116,8 +105,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 DC  
-☎ [(410) 302-1329](tel:4103021329)  
-✉ [ajohnson@AJLJLLC.com](mailto:ajohnson@AJLJLLC.com)
 
 1 licensed individual
 
@@ -133,8 +120,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 DC  
-☎ [(220) 299-7178](tel:2202997178)  
-✉ [ch4lon@verizon.net](mailto:ch4lon@verizon.net)
 
 2 licensed individuals
 
@@ -151,8 +136,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 DC  
-☎ [(301) 802-5071](tel:3018025071)  
-✉ [gerrypeet8@yahoo.com](mailto:gerrypeet8@yahoo.com)
 
 1 licensed individual
 
@@ -168,8 +151,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 DC  
-☎ [(202) 422-3821](tel:2024223821)  
-✉ [pti@ptienviro.com](mailto:pti@ptienviro.com)
 
 1 licensed individual
 
@@ -187,8 +168,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 DC  
-☎ [(202) 359-4540](tel:2023594540)  
-✉ [j.powell@veteransets.com](mailto:j.powell@veteransets.com)
 
 1 licensed individual
 
@@ -204,8 +183,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 DC  
-☎ [(202) 636-7529](tel:2026367529)  
-✉ [mabrown@rathinc.com](mailto:mabrown@rathinc.com)
 
 1 licensed individual
 
@@ -224,8 +201,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(240) 571-7032](tel:2405717032)  
-✉ [pablo.gallegos@apexcos.com](mailto:pablo.gallegos@apexcos.com)
 
 1 licensed individual
 
@@ -240,8 +215,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(443) 605-5815](tel:4436055815)  
-✉ [blaineownes1@comcast.net](mailto:blaineownes1@comcast.net)
 
 1 licensed individual
 
@@ -256,8 +229,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(301) 543-0644](tel:3015430644)  
-✉ [nbustillo@atmossolutionsinc.com](mailto:nbustillo@atmossolutionsinc.com)
 
 1 licensed individual
 
@@ -272,8 +243,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(443) 825-8147](tel:4438258147)  
-✉ [aobello00@gmail.com](mailto:aobello00@gmail.com)
 
 1 licensed individual
 
@@ -288,16 +257,13 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(315) 299-2467](tel:3152992467)  
-✉ [matthew@bluepointenvironmental.com](mailto:matthew@bluepointenvironmental.com)
 
 1 licensed individual
 
 * M. DaRin (Mold Assessor)
 
-☎ [(315) 299-2467](tel:3152992467)  
 🌐 [bluepointenvironmental.com](https://www.bluepointenvironmental.com/contact)  
-Added by us, not on the state list: phone and website from the firm's [Google Maps listing](https://maps.google.com/?cid=15618521270886208653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=DC0049)
@@ -308,8 +274,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(571) 271-9342](tel:5712719342)  
-✉ [rpack@boggsenvironmental.com](mailto:rpack@boggsenvironmental.com)
 
 1 licensed individual
 
@@ -324,8 +288,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(301) 395-2405](tel:3013952405)  
-✉ [anderson@cleanhealthenv.com](mailto:anderson@cleanhealthenv.com)
 
 1 licensed individual
 
@@ -340,8 +302,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(202) 322-4172](tel:2023224172)  
-✉ [anthonyfoster@cleanmyplace.net](mailto:anthonyfoster@cleanmyplace.net)
 
 1 licensed individual
 
@@ -356,8 +316,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(301) 806-8221](tel:3018068221)  
-✉ [tschwartz@clearityenv.com](mailto:tschwartz@clearityenv.com)
 
 1 licensed individual
 
@@ -372,8 +330,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(301) 503-2485](tel:3015032485)  
-✉ [delmartenv@gmail.com](mailto:delmartenv@gmail.com)
 
 1 licensed individual
 
@@ -388,8 +344,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(443) 528-2318](tel:4435282318)  
-✉ [dkennedy@ebiconsulting.com](mailto:dkennedy@ebiconsulting.com)
 
 1 licensed individual
 
@@ -404,8 +358,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(202) 817-6137](tel:2028176137)  
-✉ [taigasarg@gmail.com](mailto:taigasarg@gmail.com)
 
 1 licensed individual
 
@@ -420,8 +372,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(703) 215-6677](tel:7032156677)  
-✉ [Brooke.Francis@efiglobal.com](mailto:Brooke.Francis@efiglobal.com)
 
 1 licensed individual
 
@@ -436,8 +386,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(410) 493-8104](tel:4104938104)  
-✉ [kamau@ehcimpact.com](mailto:kamau@ehcimpact.com)
 
 1 licensed individual
 
@@ -452,8 +400,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(240) 750-9082](tel:2407509082)  
-✉ [eric\_hruska@hotmail.com](mailto:eric_hruska@hotmail.com)
 
 1 licensed individual
 
@@ -468,9 +414,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(301) 641-5627](tel:3016415627)  
-✉ [jeff@esi4u.com](mailto:jeff@esi4u.com)  
-✉ [ryanfitz@esi4u.com](mailto:ryanfitz@esi4u.com)
 
 5 licensed individuals
 
@@ -489,8 +432,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(703) 319-1302](tel:7033191302)  
-✉ [mike.s@facs.com](mailto:mike.s@facs.com)
 
 1 licensed individual
 
@@ -505,8 +446,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(301) 693-8392](tel:3016938392)  
-✉ [udithaf@gciusa.biz](mailto:udithaf@gciusa.biz)
 
 1 licensed individual
 
@@ -521,8 +460,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(571) 306-8665](tel:5713068665)  
-✉ [jbostic@hpenviron.com](mailto:jbostic@hpenviron.com)
 
 1 licensed individual
 
@@ -537,9 +474,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(908) 347-3076](tel:9083473076)  
-✉ [rpaterno@hillmannconsulting.com](mailto:rpaterno@hillmannconsulting.com)  
-✉ [SNorton@hillmannconsulting.com](mailto:SNorton@hillmannconsulting.com)
 
 2 licensed individuals
 
@@ -555,8 +489,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(202) 460-2551](tel:2024602551)  
-✉ [jsacontractinginc@gmail.com](mailto:jsacontractinginc@gmail.com)
 
 1 licensed individual
 
@@ -571,8 +503,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(240) 476-9740](tel:2404769740)  
-✉ [elibraun93@gmail.com](mailto:elibraun93@gmail.com)
 
 1 licensed individual
 
@@ -587,9 +517,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(301) 690-9606](tel:3016909606)  
-✉ [jdepaoli@kynoch.com](mailto:jdepaoli@kynoch.com)  
-✉ [nhunter@kynoch.com](mailto:nhunter@kynoch.com)
 
 3 licensed individuals
 
@@ -606,8 +533,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(202) 309-4084](tel:2023094084)  
-✉ [chris@thelifesourcesolution.com](mailto:chris@thelifesourcesolution.com)
 
 1 licensed individual
 
@@ -622,17 +547,14 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(703) 450-6398](tel:7034506398)  
-✉ [info@nextdayinspect.com](mailto:info@nextdayinspect.com)
 
 1 licensed individual
 
 * J. Hawkins (Mold Assessor)
 
-☎ [(703) 450-6398](tel:7034506398)  
 🌐 [nextdayinspect.com](https://nextdayinspect.com/)  
 Google rating 4.9 (3,154 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=6494295388858694915&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=DC0103)
@@ -643,8 +565,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(202) 664-0725](tel:2026640725)  
-✉ [robmeade812@gmail.com](mailto:robmeade812@gmail.com)
 
 1 licensed individual
 
@@ -659,8 +579,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(202) 538-0625](tel:2025380625)  
-✉ [jthomas@nexxtier-solutions.com](mailto:jthomas@nexxtier-solutions.com)
 
 1 licensed individual
 
@@ -675,8 +593,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(678) 559-4123](tel:6785594123)  
-✉ [amyllast@hotmail.com](mailto:amyllast@hotmail.com)
 
 1 licensed individual
 
@@ -691,8 +607,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(445) 787-2126](tel:4457872126)  
-✉ [karen@ose-llc.com](mailto:karen@ose-llc.com)
 
 1 licensed individual
 
@@ -707,8 +621,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(240) 917-9228](tel:2409179228)  
-✉ [support@indoorgreensolutions.com](mailto:support@indoorgreensolutions.com)
 
 1 licensed individual
 
@@ -723,8 +635,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(703) 723-3445](tel:7037233445)  
-✉ [fwmiv@oxpond.com](mailto:fwmiv@oxpond.com)
 
 1 licensed individual
 
@@ -739,8 +649,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(301) 613-8434](tel:3016138434)  
-✉ [michelleg@professionalmoldinspections.org](mailto:michelleg@professionalmoldinspections.org)
 
 1 licensed individual
 
@@ -755,8 +663,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(301) 523-9942](tel:3015239942)  
-✉ [Kaismith4000@gmail.com](mailto:Kaismith4000@gmail.com)
 
 1 licensed individual
 
@@ -771,9 +677,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(808) 639-9238](tel:8086399238)  
-✉ [abandaranayake@salutinc.com](mailto:abandaranayake@salutinc.com)  
-✉ [cfernando@salutinc.com](mailto:cfernando@salutinc.com)
 
 7 licensed individuals
 
@@ -794,17 +697,14 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(301) 542-7922](tel:3015427922)  
-✉ [derrickdarnelljohnson@gmail.com](mailto:derrickdarnelljohnson@gmail.com)
 
 1 licensed individual
 
 * D. Johnson (Mold Assessor)
 
-☎ [(301) 542-7922](tel:3015427922)  
 🌐 [tdmmoldinspection.com](http://tdmmoldinspection.com/)  
 Google rating 5.0 (90 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=6339570265547680591&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=DC0030)
@@ -815,9 +715,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(301) 210-9500](tel:3012109500)  
-✉ [mherold@tegservices.com](mailto:mherold@tegservices.com)  
-✉ [morgan@tegservices.com](mailto:morgan@tegservices.com)
 
 3 licensed individuals
 
@@ -834,8 +731,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(443) 377-8057](tel:4433778057)  
-✉ [arendelman@vertexeng.com](mailto:arendelman@vertexeng.com)
 
 1 licensed individual
 
@@ -850,8 +745,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(443) 686-9222](tel:4436869222)  
-✉ [yourairspecialist@gmail.com](mailto:yourairspecialist@gmail.com)
 
 1 licensed individual
 
@@ -866,17 +759,14 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(410) 360-1075](tel:4103601075)  
-✉ [cjackson@tvr247.com](mailto:cjackson@tvr247.com)
 
 1 licensed individual
 
 * C. Moxey (Mold Assessor)
 
-☎ [(410) 360-1075](tel:4103601075)  
 🌐 [thomasvillerestoration.com](http://thomasvillerestoration.com/)  
 Google rating 4.9 (1,513 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=6995614608747115800&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=DC0093)
@@ -887,8 +777,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(301) 325-0114](tel:3013250114)  
-✉ [don@gwu.edu](mailto:don@gwu.edu)
 
 1 licensed individual
 
@@ -903,8 +791,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(774) 454-0131](tel:7744540131)  
-✉ [ethanstaubin@yahoo.com](mailto:ethanstaubin@yahoo.com)
 
 1 licensed individual
 
@@ -921,8 +807,6 @@ Licensed individual
 
 ⚠ DOEE list has no licence numbers, expiry dates or addresses
 
-☎ [(571) 373-2219](tel:5713732219)  
-✉ [atruax@ecslimited.com](mailto:atruax@ecslimited.com)
 
 Mold Assessor  
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
@@ -936,8 +820,6 @@ Licensed individual
 
 ⚠ DOEE list has no licence numbers, expiry dates or addresses
 
-☎ [(706) 380-5446](tel:7063805446)  
-✉ [jdbancroft@gmail.com](mailto:jdbancroft@gmail.com)
 
 Mold Assessor  
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
@@ -951,8 +833,6 @@ Licensed individual
 
 ⚠ DOEE list has no licence numbers, expiry dates or addresses
 
-☎ [(570) 472-2814](tel:5704722814)  
-✉ [rmcgrady@labellapc.com](mailto:rmcgrady@labellapc.com)
 
 Mold Assessor  
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
@@ -968,8 +848,6 @@ Show all 44 listings
 
 Licensed firm
 
-☎ [(301) 215-0500](tel:3012150500)  
-✉ [laire.bourne@1800waterdamage.com](mailto:laire.bourne@1800waterdamage.com)
 
 1 licensed individual
 
@@ -984,17 +862,14 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(202) 246-1159](tel:2022461159)  
-✉ [Acemulticlean@Gmail.com](mailto:Acemulticlean@Gmail.com)
 
 1 licensed individual
 
 * D. Diblasi (Mold Remediator)
 
-☎ [(202) 246-1159](tel:2022461159)  
 🌐 [acemulti6.com](http://acemulti6.com/)  
 Google rating 5.0 (16 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=8330286685043473994&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=DC0087)
@@ -1005,8 +880,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(301) 412-2578](tel:3014122578)  
-✉ [wilson.germain@americarestorations.com](mailto:wilson.germain@americarestorations.com)
 
 1 licensed individual
 
@@ -1021,8 +894,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(410) 770-2900](tel:4107702900)  
-✉ [eredmond@bylt.com](mailto:eredmond@bylt.com)
 
 1 licensed individual
 
@@ -1037,8 +908,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(240) 682-6322](tel:2406826322)  
-✉ [jalvarenga@cnccompleteservices.com](mailto:jalvarenga@cnccompleteservices.com)
 
 1 licensed individual
 
@@ -1053,8 +922,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(301) 672-2402](tel:3016722402)  
-✉ [MARLONBUST@GMAIL.COM](mailto:MARLONBUST@GMAIL.COM)
 
 1 licensed individual
 
@@ -1069,8 +936,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(301) 500-6275](tel:3015006275)  
-✉ [carolina@ccrserviceinc.com](mailto:carolina@ccrserviceinc.com)
 
 1 licensed individual
 
@@ -1085,8 +950,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(202) 367-7644](tel:2023677644)  
-✉ [CHCremediation@gmail.com](mailto:CHCremediation@gmail.com)
 
 1 licensed individual
 
@@ -1101,8 +964,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(785) 248-5001](tel:7852485001)  
-✉ [cidol@cromwellenv.com](mailto:cidol@cromwellenv.com)
 
 1 licensed individual
 
@@ -1117,17 +978,14 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(703) 257-1112](tel:7032571112)  
-✉ [compliance@dmvrestr.com](mailto:compliance@dmvrestr.com)
 
 1 licensed individual
 
 * H. Amani (Mold Remediator)
 
-☎ [(703) 257-1112](tel:7032571112)  
 🌐 [dmvrestorationsinc.com](https://www.dmvrestorationsinc.com/)  
 Google rating 4.6 (81 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15948231843387654836&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=DC0034)
@@ -1138,8 +996,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(301) 661-6765](tel:3016616765)  
-✉ [asafj@365svc.com](mailto:asafj@365svc.com)
 
 1 licensed individual
 
@@ -1154,17 +1010,14 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(703) 769-7990](tel:7037697990)  
-✉ [getintouch@greenspringconst.com](mailto:getintouch@greenspringconst.com)
 
 1 licensed individual
 
 * J. Nyanin (Mold Remediator)
 
-☎ [(703) 769-7990](tel:7037697990)  
 🌐 [greenspringconst.com](http://greenspringconst.com/)  
 Google rating 4.4 (27 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=13177483837278110745&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=DC0120)
@@ -1175,8 +1028,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(240) 268-9394](tel:2402689394)  
-✉ [stacie@islasgcs.com](mailto:stacie@islasgcs.com)
 
 1 licensed individual
 
@@ -1191,8 +1042,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(240) 869-2013](tel:2408692013)  
-✉ [nathalia@igservices.co](mailto:nathalia@igservices.co)
 
 1 licensed individual
 
@@ -1207,8 +1056,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(703) 399-5776](tel:7033995776)  
-✉ [awhite@jenkinsenvironmentalservices.com](mailto:awhite@jenkinsenvironmentalservices.com)
 
 1 licensed individual
 
@@ -1223,8 +1070,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(240) 595-7477](tel:2405957477)  
-✉ [andrew@max-restore.com](mailto:andrew@max-restore.com)
 
 1 licensed individual
 
@@ -1239,8 +1084,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(202) 359-2236](tel:2023592236)  
-✉ [curthazmat1@gmail.com](mailto:curthazmat1@gmail.com)
 
 1 licensed individual
 
@@ -1255,17 +1098,14 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(240) 418-5978](tel:2404185978)  
-✉ [info@moldandwaterdamageservices.com](mailto:info@moldandwaterdamageservices.com)
 
 1 licensed individual
 
 * O. Tapiro (Mold Remediator)
 
-☎ [(240) 418-5978](tel:2404185978)  
 🌐 [midatlantichandymanservices.com](https://midatlantichandymanservices.com/remodeling-home-improvement-services-in-silver-spring-md/)  
 Google rating 5.0 (7 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10391055724887313684&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=DC0020)
@@ -1276,9 +1116,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(301) 347-1128](tel:3013471128)  
-✉ [hmonge@minkoff.com](mailto:hmonge@minkoff.com)  
-✉ [carias@minkoff.com](mailto:carias@minkoff.com)
 
 2 licensed individuals
 
@@ -1294,8 +1131,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(571) 402-9895](tel:5714029895)  
-✉ [nomisllc22@gmail.com](mailto:nomisllc22@gmail.com)
 
 1 licensed individual
 
@@ -1310,8 +1145,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(240) 855-4225](tel:2408554225)  
-✉ [newamericarestoration@gmail.com](mailto:newamericarestoration@gmail.com)
 
 1 licensed individual
 
@@ -1326,8 +1159,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(540) 316-6100](tel:5403166100)  
-✉ [dobrien@puroclean.com](mailto:dobrien@puroclean.com)
 
 1 licensed individual
 
@@ -1342,8 +1173,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(410) 790-7818](tel:4107907818)  
-✉ [aniaigor@verizon.net](mailto:aniaigor@verizon.net)
 
 1 licensed individual
 
@@ -1358,8 +1187,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(410) 599-8786](tel:4105998786)  
-✉ [steve@pbi1988.com](mailto:steve@pbi1988.com)
 
 1 licensed individual
 
@@ -1374,8 +1201,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(703) 335-2424](tel:7033352424)  
-✉ [chad.leahy@pauldavis.com](mailto:chad.leahy@pauldavis.com)
 
 1 licensed individual
 
@@ -1390,8 +1215,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(301) 526-0773](tel:3015260773)  
-✉ [shehanpem@gmail.com](mailto:shehanpem@gmail.com)
 
 1 licensed individual
 
@@ -1406,8 +1229,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(202) 819-3050](tel:2028193050)  
-✉ [ptienviro@gmail.com](mailto:ptienviro@gmail.com)
 
 1 licensed individual
 
@@ -1422,8 +1243,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(202) 335-4820](tel:2023354820)  
-✉ [mike.coates@restoration1.com](mailto:mike.coates@restoration1.com)
 
 1 licensed individual
 
@@ -1438,8 +1257,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(410) 220-0560](tel:4102200560)  
-✉ [alan.rosenberg@restorecore.com](mailto:alan.rosenberg@restorecore.com)
 
 1 licensed individual
 
@@ -1454,8 +1271,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(443) 800-7992](tel:4438007992)  
-✉ [tkoshi@royalplus.com](mailto:tkoshi@royalplus.com)
 
 1 licensed individual
 
@@ -1470,8 +1285,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(202) 394-8969](tel:2023948969)  
-✉ [info@royalrestorationdmv.com](mailto:info@royalrestorationdmv.com)
 
 1 licensed individual
 
@@ -1486,8 +1299,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(667) 352-4272](tel:6673524272)  
-✉ [ruachhomeservices@gmail.com](mailto:ruachhomeservices@gmail.com)
 
 1 licensed individual
 
@@ -1502,9 +1313,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(301) 322-1446](tel:3013221446)  
-✉ [glenda@sandowconstruction.com](mailto:glenda@sandowconstruction.com)  
-✉ [courtney@sandowconstruction.com](mailto:courtney@sandowconstruction.com)
 
 8 licensed individuals
 
@@ -1517,9 +1325,8 @@ Licensed firm
 * L. Flores (Mold Remediator)
 * S. Argueta (Mold Remediator)
 
-☎ [(301) 322-1446](tel:3013221446)  
 🌐 [sandowconstruction.com](https://sandowconstruction.com/contact-us/)  
-Added by us, not on the state list: phone and website from the firm's [Google Maps listing](https://maps.google.com/?cid=10637130073830186173&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=DC0060)
@@ -1530,8 +1337,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(336) 447-9646](tel:3364479646)  
-✉ [sbrown@sasser247.com](mailto:sbrown@sasser247.com)
 
 1 licensed individual
 
@@ -1546,8 +1351,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(240) 581-0865](tel:2405810865)  
-✉ [ddesilva@selterline.com](mailto:ddesilva@selterline.com)
 
 1 licensed individual
 
@@ -1562,8 +1365,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(571) 243-8040](tel:5712438040)  
-✉ [servpro10083@gmail.com](mailto:servpro10083@gmail.com)
 
 1 licensed individual
 
@@ -1578,8 +1379,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(443) 763-1883](tel:4437631883)  
-✉ [valliidd@gmail.com](mailto:valliidd@gmail.com)
 
 1 licensed individual
 
@@ -1594,8 +1393,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(703) 795-0027](tel:7037950027)  
-✉ [info@tactpwc.com](mailto:info@tactpwc.com)
 
 1 licensed individual
 
@@ -1610,7 +1407,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(443) 978-1800](tel:4439781800)
 
 1 licensed individual
 
@@ -1625,8 +1421,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(301) 523-9419](tel:3015239419)  
-✉ [trianglelegacy@gmail.com](mailto:trianglelegacy@gmail.com)
 
 1 licensed individual
 
@@ -1641,8 +1435,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(703) 629-0790](tel:7036290790)  
-✉ [Shyon@restorationdoctors.com](mailto:Shyon@restorationdoctors.com)
 
 1 licensed individual
 
@@ -1657,8 +1449,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(757) 502-9147](tel:7575029147)  
-✉ [service@myvoda.com](mailto:service@myvoda.com)
 
 1 licensed individual
 
@@ -1673,8 +1463,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 
 Licensed firm
 
-☎ [(571) 501-0431](tel:5715010431)  
-✉ [zelari.services@zelariservices.com](mailto:zelari.services@zelariservices.com)
 
 1 licensed individual
 
@@ -1691,8 +1479,6 @@ Licensed individual
 
 ⚠ DOEE list has no licence numbers, expiry dates or addresses
 
-☎ [(571) 437-3191](tel:5714373191)  
-✉ [alex.duff@us.belfor.com](mailto:alex.duff@us.belfor.com)
 
 Mold Remediator  
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
@@ -1706,8 +1492,6 @@ Licensed individual
 
 ⚠ DOEE list has no licence numbers, expiry dates or addresses
 
-☎ [(813) 506-9657](tel:8135069657)  
-✉ [cameron@themoldsolution.com](mailto:cameron@themoldsolution.com)
 
 Mold Remediator  
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
@@ -1721,8 +1505,6 @@ Licensed individual
 
 ⚠ DOEE list has no licence numbers, expiry dates or addresses
 
-☎ [(301) 326-3271](tel:3013263271)  
-✉ [krupasingheiei@gmail.com](mailto:krupasingheiei@gmail.com)
 
 Mold Remediator  
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
@@ -1736,8 +1518,6 @@ Licensed individual
 
 ⚠ DOEE list has no licence numbers, expiry dates or addresses
 
-☎ [(202) 207-8687](tel:2022078687)  
-✉ [saltheawilo@gmail.com](mailto:saltheawilo@gmail.com)
 
 Mold Remediator  
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
@@ -1751,7 +1531,6 @@ Licensed individual
 
 ⚠ DOEE list has no licence numbers, expiry dates or addresses
 
-☎ [(336) 254-2653](tel:3362542653)
 
 Mold Remediator  
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
@@ -1765,8 +1544,6 @@ Licensed individual
 
 ⚠ DOEE list has no licence numbers, expiry dates or addresses
 
-☎ [(240) 478-5396](tel:2404785396)  
-✉ [sghafoor94@outlook.com](mailto:sghafoor94@outlook.com)
 
 Mold Remediator  
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
@@ -1780,8 +1557,6 @@ Licensed individual
 
 ⚠ DOEE list has no licence numbers, expiry dates or addresses
 
-☎ [(301) 256-1584](tel:3012561584)  
-✉ [trajapakshaiei@gmail.com](mailto:trajapakshaiei@gmail.com)
 
 Mold Remediator  
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
@@ -1800,8 +1575,6 @@ Show all 50 listings
 Licensed firm
 
 DE  
-☎ [(302) 228-1708](tel:3022281708)  
-✉ [susan.white@mchsi.com](mailto:susan.white@mchsi.com)
 
 1 licensed individual
 
@@ -1821,8 +1594,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 MD  
-☎ [(202) 427-3419](tel:2024273419)  
-✉ [jmunson@aframebc.com](mailto:jmunson@aframebc.com)
 
 2 licensed individuals
 
@@ -1839,8 +1610,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 MD  
-☎ [(443) 865-0618](tel:4438650618)  
-✉ [leonf@aaanalysis.com](mailto:leonf@aaanalysis.com)
 
 1 licensed individual
 
@@ -1856,17 +1625,14 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 MD  
-☎ [(301) 776-0500](tel:3017760500)  
-✉ [aclark@aec-env.com](mailto:aclark@aec-env.com)
 
 1 licensed individual
 
 * A. Clark (Mold Assessor)
 
-☎ [(301) 776-0500](tel:3017760500)  
 🌐 [aec-env.com](http://www.aec-env.com/)  
 Google rating 3.7 (3 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5511784562676679758&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=DC0102)
@@ -1878,17 +1644,14 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 MD  
-☎ [(410) 684-3327](tel:4106843327)  
-✉ [awashington@amaconsulting.com](mailto:awashington@amaconsulting.com)
 
 1 licensed individual
 
 * A. Washington (Mold Assessor)
 
-☎ [(410) 684-3327](tel:4106843327)  
 🌐 [amatraining.com](https://amatraining.com/)  
 Google rating 4.9 (7 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=9952382114924849430&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=DC0143)
@@ -1900,8 +1663,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 MD  
-☎ [(410) 335-0660](tel:4103350660)  
-✉ [sromoser@hmsia.com](mailto:sromoser@hmsia.com)
 
 2 licensed individuals
 
@@ -1918,8 +1679,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 MD  
-☎ [(301) 502-4824](tel:3015024824)  
-✉ [greg@cespros.com](mailto:greg@cespros.com)
 
 2 licensed individuals
 
@@ -1936,8 +1695,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 MD  
-☎ [(703) 698-8344](tel:7036988344)  
-✉ [kemal@ceainc.com](mailto:kemal@ceainc.com)
 
 1 licensed individual
 
@@ -1953,8 +1710,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 MD  
-☎ [(301) 379-1715](tel:3013791715)  
-✉ [dmvmold@gmail.com](mailto:dmvmold@gmail.com)
 
 1 licensed individual
 
@@ -1970,8 +1725,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 MD  
-☎ [(240) 554-7431](tel:2405547431)  
-✉ [MSOGONOV@GMAIL.COM](mailto:MSOGONOV@GMAIL.COM)
 
 1 licensed individual
 
@@ -1987,8 +1740,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 MD  
-☎ [(240) 731-8149](tel:2407318149)  
-✉ [derek.dauberman@KCI.com](mailto:derek.dauberman@KCI.com)
 
 1 licensed individual
 
@@ -2004,8 +1755,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 MD  
-☎ [(202) 550-7505](tel:2025507505)  
-✉ [admin@buglogicpc.com](mailto:admin@buglogicpc.com)
 
 1 licensed individual
 
@@ -2021,8 +1770,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 MD  
-☎ [(301) 717-1454](tel:3017171454)  
-✉ [asktheinspector@verizon.net](mailto:asktheinspector@verizon.net)
 
 2 licensed individuals
 
@@ -2039,8 +1786,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 MD  
-☎ [(202) 413-7488](tel:2024137488)  
-✉ [mcdelejams@gmail.com](mailto:mcdelejams@gmail.com)
 
 1 licensed individual
 
@@ -2056,18 +1801,15 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 MD  
-☎ [(301) 261-4935](tel:3012614935)  
-✉ [ahawkins@millmansystems.com](mailto:ahawkins@millmansystems.com)
 
 2 licensed individuals
 
 * A. Hawkins (Mold Remediator)
 * A. Hawkins (Mold Assessor)
 
-☎ [(301) 261-4935](tel:3012614935)  
 🌐 [millmansystems.com](https://www.millmansystems.com/)  
 Google rating 4.0 (4 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=9523011972102155025&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=DC0039)
@@ -2079,8 +1821,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 MD  
-☎ [(240) 305-8933](tel:2403058933)  
-✉ [dari@onesourceenvironmental.com](mailto:dari@onesourceenvironmental.com)
 
 1 licensed individual
 
@@ -2096,18 +1836,15 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 MD  
-☎ [(301) 725-6459](tel:3017256459)  
-✉ [curtis@ptccmold.com](mailto:curtis@ptccmold.com)
 
 2 licensed individuals
 
 * C. Benko (Mold Remediator)
 * C. Benko (Mold Assessor)
 
-☎ [(301) 725-6459](tel:3017256459)  
 🌐 [ptccmold.com](http://ptccmold.com/)  
 Google rating 4.9 (41 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=18186583137609735982&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=DC0042)
@@ -2119,8 +1856,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 MD  
-☎ [(410) 925-4478](tel:4109254478)  
-✉ [Chrisj@REMCON3.com](mailto:Chrisj@REMCON3.com)
 
 1 licensed individual
 
@@ -2136,9 +1871,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 MD  
-☎ [(301) 969-9338](tel:3019699338)  
-✉ [greg@we-restoration.com](mailto:greg@we-restoration.com)  
-✉ [info@we-restoration.com](mailto:info@we-restoration.com)
 
 3 licensed individuals
 
@@ -2158,9 +1890,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 MD  
-☎ [(301) 230-2822](tel:3012302822)  
-✉ [david.acmservices@gmail.com](mailto:david.acmservices@gmail.com)  
-✉ [roxana.acmservices@gmail.com](mailto:roxana.acmservices@gmail.com)
 
 9 licensed individuals
 
@@ -2174,10 +1903,9 @@ MD
 * R. Duran (Mold Remediator)
 * J. Palacios (Mold Remediator)
 
-☎ [(301) 230-2822](tel:3012302822)  
 🌐 [acmservices.com](http://www.acmservices.com/)  
 Google rating 4.8 (77 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=12703401687346916994&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://moldroster.com/claim-listing/?id=DC0052)
@@ -2189,9 +1917,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 MD  
-☎ [(410) 335-0660](tel:4103350660)  
-✉ [OSMAR@BARCOENT.COM](mailto:OSMAR@BARCOENT.COM)  
-✉ [WENDY@BARCOENT.COM](mailto:WENDY@BARCOENT.COM)
 
 2 licensed individuals
 
@@ -2208,8 +1933,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 MD  
-☎ [(301) 832-6203](tel:3018326203)  
-✉ [Bioaftermath@gmail.com](mailto:Bioaftermath@gmail.com)
 
 1 licensed individual
 
@@ -2225,8 +1948,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 MD  
-☎ [(202) 277-2964](tel:2022772964)  
-✉ [canalyses@aol.com](mailto:canalyses@aol.com)
 
 1 licensed individual
 
@@ -2242,8 +1963,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 MD  
-☎ [(410) 596-6925](tel:4105966925)  
-✉ [ugotmold@yahoo.com](mailto:ugotmold@yahoo.com)
 
 1 licensed individual
 
@@ -2259,8 +1978,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 MD  
-☎ [(240) 551-6802](tel:2405516802)  
-✉ [freshstepinfo@gmail.com](mailto:freshstepinfo@gmail.com)
 
 1 licensed individual
 
@@ -2276,9 +1993,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 MD  
-☎ [(240) 620-1988](tel:2406201988)  
-✉ [jcastro@progress401.com](mailto:jcastro@progress401.com)  
-✉ [cmitchell@progress401.com](mailto:cmitchell@progress401.com)
 
 2 licensed individuals
 
@@ -2295,8 +2009,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 MD  
-☎ [(301) 512-7298](tel:3015127298)  
-✉ [eauza@purofirst.net](mailto:eauza@purofirst.net)
 
 3 licensed individuals
 
@@ -2314,8 +2026,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 MD  
-☎ [(301) 538-6259](tel:3015386259)  
-✉ [reddsmold@comcast.net](mailto:reddsmold@comcast.net)
 
 1 licensed individual
 
@@ -2331,9 +2041,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 MD  
-☎ [(301) 767-7570](tel:3017677570)  
-✉ [obadarani@rolyncompanies.com](mailto:obadarani@rolyncompanies.com)  
-✉ [mmcffadden@rolyncompanies.com](mailto:mmcffadden@rolyncompanies.com)
 
 2 licensed individuals
 
@@ -2350,8 +2057,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 MD  
-☎ [(301) 530-7400](tel:3015307400)  
-✉ [alex@servpro5186.com](mailto:alex@servpro5186.com)
 
 1 licensed individual
 
@@ -2369,8 +2074,6 @@ Licensed individual
 ⚠ DOEE list has no licence numbers, expiry dates or addresses
 
 MD  
-☎ [(240) 508-2580](tel:2405082580)  
-✉ [Mmiller@nzmolddc.com](mailto:Mmiller@nzmolddc.com)
 
 Mold Remediator  
 Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), retrieved 2026-10-12  
@@ -2387,8 +2090,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 VA  
-☎ [(240) 832-5900](tel:2408325900)  
-✉ [rustyahc@aol.com](mailto:rustyahc@aol.com)
 
 1 licensed individual
 
@@ -2404,8 +2105,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 VA  
-☎ [(540) 446-6441](tel:5404466441)  
-✉ [dustyn.reeser@eccfirst.com](mailto:dustyn.reeser@eccfirst.com)
 
 1 licensed individual
 
@@ -2421,9 +2120,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 VA  
-☎ [(703) 932-6134](tel:7039326134)  
-✉ [john@madisontaylorservices.com](mailto:john@madisontaylorservices.com)  
-✉ [met@madisontaylorservices.com](mailto:met@madisontaylorservices.com)
 
 3 licensed individuals
 
@@ -2441,8 +2137,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 VA  
-☎ [(757) 971-0441](tel:7579710441)  
-✉ [eric@mckee-env.com](mailto:eric@mckee-env.com)
 
 1 licensed individual
 
@@ -2458,8 +2152,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 VA  
-☎ [(703) 627-6976](tel:7036276976)  
-✉ [anishr@riscohs.com](mailto:anishr@riscohs.com)
 
 1 licensed individual
 
@@ -2475,8 +2167,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 VA  
-☎ [(410) 567-6948](tel:4105676948)  
-✉ [jason.gauthier@tideh2o.net](mailto:jason.gauthier@tideh2o.net)
 
 1 licensed individual
 
@@ -2492,8 +2182,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 VA  
-☎ [(443) 621-1149](tel:4436211149)  
-✉ [jdean@teci.pro](mailto:jdean@teci.pro)
 
 1 licensed individual
 
@@ -2509,9 +2197,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 VA  
-☎ [(571) 217-3172](tel:5712173172)  
-✉ [craig@veroconsult.us](mailto:craig@veroconsult.us)  
-✉ [Caleb@veroconsult.us](mailto:Caleb@veroconsult.us)
 
 2 licensed individuals
 
@@ -2530,8 +2215,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 VA  
-☎ [(571) 513-9291](tel:5715139291)  
-✉ [management@newabr.com](mailto:management@newabr.com)
 
 1 licensed individual
 
@@ -2547,8 +2230,6 @@ Source: [DOEE list](https://doee.dc.gov/page/list-licensed-mold-professionals), 
 Licensed firm
 
 VA  
-☎ [(703) 832-6765](tel:7038326765)  
-✉ [moldguyllc@gmail.com](mailto:moldguyllc@gmail.com)
 
 1 licensed individual
 

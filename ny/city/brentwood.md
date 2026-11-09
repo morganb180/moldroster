@@ -27,7 +27,6 @@ Listed below: 1 licensed mold assessor (inspection and testing) and 4 licensed m
 Licensed firm
 
 11 Glenmore Ave, Brentwood, NY  
-☎ [(631) 715-9158](tel:6317159158)
 
 Mold Remediation Contractor License (SH126) #26-661PT-SHMO (exp. 2028-04-30)  
 Mold Assessment Contractor License (SH125) #26-661PX-SHMO (exp. 2028-04-30)  
@@ -43,7 +42,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 59 Gates Ave, Brentwood, NY  
-☎ [(631) 720-3351](tel:6317203351)
 
 Mold Remediation Contractor License (SH126) #26-6SBKG-SHMO (exp. 2028-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -68,7 +66,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 79 Emjay Blvd, Brentwood, NY  
-☎ [(631) 230-5415](tel:6312305415)
 
 Mold Remediation Contractor License (SH126) #25-6188T-SHMO (exp. 2027-09-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -81,12 +78,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 26 Cain Dr, Brentwood, NY  
-☎ [(631) 670-6445](tel:6316706445)
 
-☎ Google listing: [(631) 759-8080](tel:6317598080)  
 🌐 [smfireandwatercleanup.com](http://www.smfireandwatercleanup.com/)  
 Google rating 5.0 (49 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17135766617153379656&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #26-6I3LG-SHMO (exp. 2028-01-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

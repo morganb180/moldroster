@@ -27,12 +27,10 @@ Listed below: 1 licensed mold assessor (inspection and testing) and 3 licensed m
 Licensed firm
 
 77 Broadway Suite A, Amityville, NY  
-☎ [(631) 774-5296](tel:6317745296)
 
-☎ Google listing: [(631) 521-7743](tel:6315217743)  
 🌐 [envirotestinc.com](https://www.envirotestinc.com/)  
 Google rating 4.6 (37 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5333637364864027082&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Contractor License (SH125) #26-6ZGCA-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -47,12 +45,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 42 Maple Pl, Amityville, NY  
-☎ [(516) 942-3016](tel:5169423016)
 
 🌐 [allboroinc.com](http://www.allboroinc.com/)  
-✉ [info@allboroinc.com](mailto:info@allboroinc.com)  
 Google rating 4.5 (49 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11908078410182601594&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [allboroinc.com](https://allboroinc.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #25-6LZSE-SHMO (exp. 2027-11-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -65,11 +61,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 599 Albany Ave Unit E, Amityville, NY  
-☎ [(888) 716-0066](tel:8887160066)
 
 🌐 [homeprorest.com](http://homeprorest.com/)  
 Google rating 5.0 (103 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=8853347893593698700&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #26-9YJGG-SHMO (exp. 2028-10-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -82,7 +77,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 56 Benjoe Dr, Amityville, NY  
-☎ [(631) 833-2311](tel:6318332311)
 
 Mold Remediation Contractor License (SH126) #24-63SBF-SHMO (exp. 2026-11-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

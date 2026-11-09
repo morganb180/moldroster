@@ -17,7 +17,7 @@ canonical: https://moldroster.com/ny/firms/mccabe-environmental-services-l-l-c-n
 * Mold Remediation Contractor License (SH126) #25-6IF5N-SHMO (exp. 2028-01-31)
 * Mold Assessment Contractor License (SH125) #25-6IF4H-SHMO (exp. 2028-01-31)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=9802119026341638335&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [mccabeenv.com](https://www.mccabeenv.com/), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0805 (goes to McCabe Environmental Services, L.L.C. and up to 2 other nearby licensed pros)
 

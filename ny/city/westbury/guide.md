@@ -38,7 +38,6 @@ Look the name up in the NYS DOL records and check the licence is still current. 
 Licensed firm
 
 15 Hillcrest Dr, Westbury, NY  
-☎ [(718) 938-0356](tel:7189380356)
 
 Mold Assessment Contractor License (SH125) #25-65O39-SHMO (exp. 2027-04-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -51,12 +50,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 160 Hicks St, Westbury, NY  
-☎ [(516) 338-9800](tel:5163389800)
 
 🌐 [allcityrestoration.com](http://allcityrestoration.com/)  
-✉ [info@allcityrestoration.com](mailto:info@allcityrestoration.com)  
 Google rating 4.7 (9 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=1545311879564624986&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [allcityrestoration.com](https://allcityrestoration.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Contractor License (SH125) #26-6LFZL-SHMO (exp. 2027-12-31)  
 Mold Remediation Contractor License (SH126) #26-66VSI-SHMO (exp. 2028-03-31)  
@@ -70,7 +67,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 168 Cypress Ln W, Westbury, NY  
-☎ [(518) 772-7655](tel:5187727655)
 
 Mold Assessment Contractor License (SH125) #26-63C5Z-SHMO (exp. 2028-11-30)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -83,7 +79,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 1080 Old Country Rd, Westbury, NY  
-☎ [(718) 650-9352](tel:7186509352)
 
 Mold Remediation Contractor License (SH126) #26-6ZPES-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -96,7 +91,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 39 Lafayette Ave Unit A, Westbury, NY  
-☎ [(516) 602-5362](tel:5166025362)
 
 Mold Remediation Contractor License (SH126) #25-6IFXC-SHMO (exp. 2027-12-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

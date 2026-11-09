@@ -23,7 +23,6 @@ canonical: https://moldroster.com/ny/county/sullivan/
 Licensed firm
 
 67 S Hill Rd, Grahamsville, NY  
-☎ [(845) 798-2100](tel:8457982100)
 
 Mold Assessment Contractor License (SH125) #25-6HXTO-SHMO (exp. 2027-08-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -36,7 +35,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 3 Sycamore Ln, Monticello, NY  
-☎ [(516) 780-5062](tel:5167805062)
 
 Mold Assessment Contractor License (SH125) #26-66JT3-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

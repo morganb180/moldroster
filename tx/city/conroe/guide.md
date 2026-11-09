@@ -45,7 +45,6 @@ Summary of 16 Texas Administrative Code Chapter 78 (Texas Mold Assessment and Re
 Licensed firm
 
 10678 Ehlers Rd, Conroe, TX  
-☎ [(281) 355-9944](tel:2813559944)
 
 Mold Assessment Company #ACO1223 (exp. 2027-01-25)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -58,7 +57,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 2257 N Loop 336 W Apt 140 Pmb1073, Conroe, TX  
-☎ [(804) 420-7504](tel:8044207504)
 
 Mold Assessment Company #ACO1310 (exp. 2028-03-26)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -71,7 +69,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 2601 Silverstone Way, Conroe, TX  
-☎ [(936) 718-3465](tel:9367183465)
 
 Mold Remediation Company #RCO1753 (exp. 2028-01-14)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -84,12 +81,10 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 3915 W Davis St Suite 130, Conroe, TX  
-☎ [(833) 225-5379](tel:8332255379)
 
 🌐 [disastermasterssw.com](https://disastermasterssw.com/)  
-✉ [info@disastermasterssw.com](mailto:info@disastermasterssw.com)  
 Google rating 4.9 (66 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11580054170810460017&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [disastermasterssw.com](https://disastermasterssw.com/), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Company #RCO1805 (exp. 2028-06-24)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -102,7 +97,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 13843 Hwy 105 W Suite 213, Conroe, TX  
-☎ [(936) 324-0006](tel:9363240006)
 
 Mold Remediation Company #RCO1533 (exp. 2028-07-25)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

@@ -40,7 +40,6 @@ For larger jobs, a licensed assessor inspects, samples if needed, and writes a p
 Licensed firm
 
 110 Colin Dr, Holbrook, NY  
-☎ [(631) 868-3100](tel:6318683100)
 
 Mold Assessment Contractor License (SH125) #26-638A7-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -53,10 +52,9 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 142 Ave B, Holbrook, NY  
-☎ [(631) 375-2919](tel:6313752919)
 
 🌐 [truequalityhomeinspections.com](http://www.truequalityhomeinspections.com/)  
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=8973160154254314880&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Assessment Contractor License (SH125) #26-6ASUE-SHMO (exp. 2028-03-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -69,11 +67,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 4835 Vets Memorial Hwy, Unit B, Holbrook, NY  
-☎ [(631) 563-7860](tel:6315637860)
 
 🌐 [rainbowrestores.com](https://rainbowrestores.com/long-island?cid=LSTL_RBW000202)  
 Google rating 4.9 (67 reviews)  
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14437956703887456204&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #26-6AZZY-SHMO (exp. 2028-07-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -86,7 +83,6 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 387 Saint James St, Holbrook, NY  
-☎ [(516) 424-6186](tel:5164246186)
 
 Mold Remediation Contractor License (SH126) #25-6UXPF-SHMO (exp. 2027-05-31)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  
@@ -99,12 +95,10 @@ Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Li
 Licensed firm
 
 5008 Veterans Memorial Hwy, Holbrook, NY  
-☎ [(631) 310-3561](tel:6313103561)
 
-☎ Google listing: [(631) 567-0070](tel:6315670070)  
 🌐 [elite2therescue.com](http://www.elite2therescue.com/)  
 Google rating 4.9 (243 reviews)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=8686430915970205912&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Mold Remediation Contractor License (SH126) #25-6TKGU-SHMO (exp. 2027-02-28)  
 Source: [NYS DOL list](https://data.ny.gov/Government-Finance/Mold-Contractor-Licenses-Four-Year-Window/ikqx-ispy), retrieved 2026-10-12  

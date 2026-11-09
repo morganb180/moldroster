@@ -16,7 +16,7 @@ canonical: https://moldroster.com/tx/firms/coyote-restoration-llc-tx0534/
 * Google rating: 4.7 from 62 reviews (as of Oct 30, 2026)
 * Mold Remediation Company #RCO1706 (exp. 2027-06-29)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=15201795328449573344&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30; email as published at [coyoterestoration.com](https://coyoterestoration.com/), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=TX0534 (goes to Coyote Restoration LLC and up to 2 other nearby licensed pros)
 

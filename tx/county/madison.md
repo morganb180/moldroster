@@ -22,7 +22,7 @@ canonical: https://moldroster.com/tx/county/madison/
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
@@ -40,7 +40,6 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 Licensed firm
 
 1110 Fm 2289, Madisonville, TX  
-☎ [(936) 306-3767](tel:9363063767)
 
 Mold Remediation Company #RCO1767 (exp. 2028-02-26)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  

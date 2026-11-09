@@ -15,7 +15,7 @@ canonical: https://moldroster.com/tx/firms/united-water-restoration-group-of-the
 * Google rating: 5.0 from 106 reviews (as of Oct 30, 2026)
 * Mold Remediation Company #RCO1740 (exp. 2027-11-18)
 
-Added by us, not on the state list: website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=13275760772969664405&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA), retrieved 2026-10-30.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Source: https://www.tdlr.texas.gov/LicenseSearch/licfile.asp, retrieved 2026-10-12. Verify: https://www.tdlr.texas.gov/mld/. Claim / correct: https://moldroster.com/claim-listing/?id=TX0567
 

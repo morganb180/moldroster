@@ -22,7 +22,7 @@ canonical: https://moldroster.com/tx/county/red-river/
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 

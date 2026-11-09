@@ -15,7 +15,7 @@ canonical: https://moldroster.com/ny/firms/efex-environmental-inc-ny0391/
 * Website: https://www.efexenviro.com/index.php?route=list&menu_type_name=contact&menu_id=197
 * Mold Assessment Contractor License (SH125) #26-6SIC9-SHMO (exp. 2028-01-31)
 
-Added by us, not on the state list: website from the firm's [Google Maps listing](https://maps.google.com/?cid=2696887361949555898&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [efexenviro.com](https://www.efexenviro.com/?route=list&menu_type_name=contact&menu_id=197), retrieved 2026-10-18.
+Added by us, not on the state list: Google rating, when shown, is from the firm's Google Maps listing as of Oct 30, 2026. Phone, email and website are not published.
 
 Get a quote: https://moldroster.com/quotes/?firm=NY0391 (goes to Efex Environmental Inc and up to 2 other nearby licensed pros)
 

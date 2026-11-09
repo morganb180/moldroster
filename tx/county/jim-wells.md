@@ -23,7 +23,6 @@ canonical: https://moldroster.com/tx/county/jim-wells/
 Licensed firm
 
 407 S Cameron St, Alice, TX  
-☎ [(361) 668-1940](tel:3616681940)
 
 Mold Remediation Company #RCO1420 (exp. 2028-05-14)  
 Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retrieved 2026-10-12  
@@ -35,7 +34,7 @@ Source: [TDLR list](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp), retri
 
 Licensed individual
 
-⚠ no address or phone in TDLR file
+⚠ No street address in the TDLR file
 
 TX
 
